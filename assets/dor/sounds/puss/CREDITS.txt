@@ -1,0 +1,29 @@
+Hwalcass / Puss skill audio credits
+
+fente.ogg
+190155_FencingFoilBladesClashing.wav by GaelanW
+https://freesound.org/people/GaelanW/sounds/490074/
+Licensed under Creative Commons Attribution 3.0 Unported:
+https://creativecommons.org/licenses/by/3.0/
+Adapted from 2.345-2.805 seconds: one blade clash extracted, converted to
+mono, filtered, faded, compressed, normalized, and encoded as Vorbis.
+
+pentakill.ogg
+Fearless Hero (Hero Version) - Antonio Banderas / Heitor Pereira
+User-selected soundtrack video: https://www.youtube.com/watch?v=s8EAdlxwsq8
+Back Lot Music; (P) 2022 Universal Studios Music.
+Short 159.300-169.300-second excerpt, not the full track.
+
+round_win.ogg
+Puss in Boots: The Last Wish (2022) - Puss Meets Death
+User-selected clip: https://www.youtube.com/watch?v=Bm7zI0ksExY
+Dialogue excerpt 81.300-84.850 seconds, including the complete final word.
+
+ultimate.ogg
+Universal Pictures official Puss in Boots: The Last Wish trailer
+https://www.youtube.com/watch?v=xgZLXyqbYOc
+Dialogue excerpt 110.140-112.120 seconds.
+
+The movie and soundtrack excerpts are not CC-licensed. The CC BY license
+above applies only to GaelanW's fencing recording. Other Puss effects use
+local MOSS-generated source recordings or original procedural synthesis.

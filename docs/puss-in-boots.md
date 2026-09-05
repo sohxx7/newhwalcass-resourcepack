@@ -35,6 +35,12 @@ DreamWorks 장화신은 고양이의 장비를 참고해 직접 제작한 팬 �
 
 ## 묘객 스킬 사운드
 
-`dor:puss.ultimate`에는 [Universal 공식 예고편](https://www.youtube.com/watch?v=xgZLXyqbYOc)의 110.140–112.120초 대사 “Fear me, if you dare.”를 사용합니다. 나머지 8개 스킬 효과음은 제작 음원이며 작은 음량에서도 잘 들리도록 압축·정규화했습니다. 9개 파일은 48 kHz 모노 Vorbis입니다.
+`dor:puss.ultimate`에는 [Universal 공식 예고편](https://www.youtube.com/watch?v=xgZLXyqbYOc)의 110.140–112.120초 대사 “Fear me, if you dare.”를 사용합니다.
+
+- 팡트 `dor:puss.fente`: [GaelanW의 실제 플뢰레 충돌 녹음](https://freesound.org/people/GaelanW/sounds/490074/), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). 2.345–2.805초 단발을 추출하고 필터·페이드·압축·정규화·모노 변환을 적용했습니다.
+- 펜타킬 `dor:puss.pentakill`: [지정 OST 영상](https://www.youtube.com/watch?v=s8EAdlxwsq8)의 159.30–169.30초, 10초 음악 구간입니다.
+- 마무리 대사 `dor:puss.round_win`: [지정 영상](https://www.youtube.com/watch?v=Bm7zI0ksExY)의 81.30–84.85초, 마지막 “death”를 포함한 3.55초입니다.
+
+전체 출처는 ZIP 내부 `assets/dor/sounds/puss/CREDITS.txt`에 있습니다. 음악은 48 kHz 스테레오 Vorbis, 효과음·대사는 48 kHz 모노 Vorbis입니다. 다른 스킬 효과음은 기존 제작 음원을 유지합니다.
 
 공중 옆돌기는 서버의 `148_movement.sk`와 6본 키프레임이 필요합니다. 모션에는 플레이어 스킨만 표시하고 착용 장비는 잠시 숨깁니다. 회전 중 카메라 방향은 유지합니다.

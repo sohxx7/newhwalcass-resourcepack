@@ -79,5 +79,23 @@
         "attenuation_distance": 16
       }
     ]
+  },
+  "puss.pentakill": {
+    "sounds": [
+      {
+        "name": "dor:puss/pentakill",
+        "stream": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "puss.round_win": {
+    "sounds": [
+      {
+        "name": "dor:puss/round_win",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
   }
 }
