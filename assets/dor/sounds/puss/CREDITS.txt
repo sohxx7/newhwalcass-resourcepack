@@ -5,8 +5,17 @@ fente.ogg
 https://freesound.org/people/GaelanW/sounds/490074/
 Licensed under Creative Commons Attribution 3.0 Unported:
 https://creativecommons.org/licenses/by/3.0/
-Adapted from 2.345-2.805 seconds: one blade clash extracted, converted to
-mono, filtered, faded, compressed, normalized, and encoded as Vorbis.
+Adapted from 5.869-6.160 seconds: one lighter blade clash extracted,
+played at 1.20x speed, raised in pitch, equalized, faded, compressed,
+normalized, converted to mono, and encoded as Vorbis (about 0.24 seconds).
+
+roll.ogg
+Whoosh by qubodup
+https://freesound.org/people/qubodup/sounds/60013/
+CC0 1.0 Universal / public domain:
+https://creativecommons.org/publicdomain/zero/1.0/
+Recorded bamboo-stick air swish. Adapted: mono 48 kHz, light filtering,
+30 ms motion alignment, fades, level adjustment and Vorbis conversion.
 
 pentakill.ogg
 Fearless Hero (Hero Version) - Antonio Banderas / Heitor Pereira
@@ -25,5 +34,6 @@ https://www.youtube.com/watch?v=xgZLXyqbYOc
 Dialogue excerpt 110.140-112.120 seconds.
 
 The movie and soundtrack excerpts are not CC-licensed. The CC BY license
-above applies only to GaelanW's fencing recording. Other Puss effects use
+above applies only to GaelanW's fencing recording; the air swish is CC0.
+Other Puss effects use
 local MOSS-generated source recordings or original procedural synthesis.

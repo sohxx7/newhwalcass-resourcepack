@@ -37,7 +37,8 @@ DreamWorks 장화신은 고양이의 장비를 참고해 직접 제작한 팬 �
 
 `dor:puss.ultimate`에는 [Universal 공식 예고편](https://www.youtube.com/watch?v=xgZLXyqbYOc)의 110.140–112.120초 대사 “Fear me, if you dare.”를 사용합니다.
 
-- 팡트 `dor:puss.fente`: [GaelanW의 실제 플뢰레 충돌 녹음](https://freesound.org/people/GaelanW/sounds/490074/), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). 2.345–2.805초 단발을 추출하고 필터·페이드·압축·정규화·모노 변환을 적용했습니다.
+- 팡트 `dor:puss.fente`: [GaelanW의 실제 플뢰레 충돌 녹음](https://freesound.org/people/GaelanW/sounds/490074/), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). 더 맑은 5.869–6.160초 단발을 골라 1.2배속과 중저음 정리로 약 0.24초의 경쾌한 충돌음으로 다듬었습니다.
+- 공중 옆돌기 `dor:puss.roll`: [qubodup의 Whoosh](https://freesound.org/people/qubodup/sounds/60013/), [CC0](https://creativecommons.org/publicdomain/zero/1.0/). 실제 대나무를 휘둘러 낸 한 번의 바람 소리를 약 0.457초로 맞췄습니다.
 - 펜타킬 `dor:puss.pentakill`: [지정 OST 영상](https://www.youtube.com/watch?v=s8EAdlxwsq8)의 159.30–169.30초, 10초 음악 구간입니다.
 - 마무리 대사 `dor:puss.round_win`: [지정 영상](https://www.youtube.com/watch?v=Bm7zI0ksExY)의 81.30–84.85초, 마지막 “death”를 포함한 3.55초입니다.
 
