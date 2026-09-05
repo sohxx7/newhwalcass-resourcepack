@@ -32,3 +32,9 @@ equippable.asset_id = dor:char/puss/boots
 DreamWorks 장화신은 고양이의 장비를 참고해 직접 제작한 팬 모델입니다. 공식 이미지나 타인의 모델을 팩에 포함하지 않았습니다.
 
 배포 전 모델 좌표·허용 회전·텍스처 연결·ZIP 무결성을 검사했습니다. 실제 클라이언트의 장착 화면·1인칭 위치는 별도 확인이 필요합니다.
+
+## 묘객 스킬 사운드
+
+`dor:puss.ultimate`에는 [Universal 공식 예고편](https://www.youtube.com/watch?v=xgZLXyqbYOc)의 110.140–112.120초 대사 “Fear me, if you dare.”를 사용합니다. 나머지 8개 스킬 효과음은 제작 음원이며 작은 음량에서도 잘 들리도록 압축·정규화했습니다. 9개 파일은 48 kHz 모노 Vorbis입니다.
+
+공중 옆돌기는 서버의 `148_movement.sk`와 6본 키프레임이 필요합니다. 모션에는 플레이어 스킨만 표시하고 착용 장비는 잠시 숨깁니다. 회전 중 카메라 방향은 유지합니다.
