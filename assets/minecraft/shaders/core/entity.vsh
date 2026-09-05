@@ -28,6 +28,7 @@ out float sphericalVertexDistance;
 out float cylindricalVertexDistance;
 out vec4 vertexColor;
 out vec4 floweryTint;
+out float pussBody;
 out vec4 lightMapColor;
 out vec4 overlayColor;
 out vec2 texCoord0;
@@ -87,6 +88,7 @@ vec3 floweryPalette(float h) {
 
 void main() {
     floweryTint = vec4(1.0, 1.0, 1.0, -1.0);
+    pussBody = 0.0;
 #ifdef NO_CARDINAL_LIGHTING
     vertexColor = Color;
 #else
@@ -104,6 +106,20 @@ void main() {
     if (abs(ProjMat[2][3]) > 10e-6 && dim.x == SKINRES && dim.y == SKINRES && FogRenderDistanceEnd > FogRenderDistanceStart) {
         int partId = -int((Position.y - MAXRANGE) / SPACING);
         int positionPart = partId;
+        // Puss cartwheel: same profile UVs, original skin colours, independent of Flowery tint.
+        if (partId >= 48 && partId <= 53) {
+            partId -= 48;
+            pussBody = 1.0;
+            if (partId == 0) {
+                vec3 wpos = Position + vec3(0.0, SPACING * float(positionPart), 0.0);
+                gl_Position = ProjMat * ModelViewMat * vec4(wpos, 1.0);
+                sphericalVertexDistance = fog_spherical_distance(wpos);
+                cylindricalVertexDistance = fog_cylindrical_distance(wpos);
+                texCoord0 = UV0;
+                return;
+            }
+        }
+
         if (partId >= 32 && partId <= 37) {
             partId -= 32;
             float hue = float(clamp(UV2.x / 16, 0, 15)) / 16.0;

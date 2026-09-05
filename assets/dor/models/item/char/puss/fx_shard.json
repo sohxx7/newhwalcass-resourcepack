@@ -1,0 +1,77 @@
+{
+  "credit": "Hwalcass original Puss skill effect",
+  "ambientocclusion": false,
+  "textures": {
+    "effect": "dor:item/char/puss/fx_shard"
+  },
+  "elements": [
+    {
+      "from": [
+        6.5,
+        8,
+        8
+      ],
+      "to": [
+        9.5,
+        8,
+        32
+      ],
+      "shade": false,
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            16,
+            16,
+            0
+          ],
+          "texture": "#effect"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#effect"
+        }
+      }
+    },
+    {
+      "from": [
+        8,
+        6.5,
+        8
+      ],
+      "to": [
+        8,
+        9.5,
+        32
+      ],
+      "shade": false,
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#effect",
+          "rotation": 270
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#effect",
+          "rotation": 90
+        }
+      }
+    }
+  ]
+}

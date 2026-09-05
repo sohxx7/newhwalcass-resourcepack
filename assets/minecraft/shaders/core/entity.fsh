@@ -13,6 +13,7 @@ in float sphericalVertexDistance;
 in float cylindricalVertexDistance;
 in vec4 vertexColor;
 in vec4 floweryTint;
+in float pussBody;
 in vec4 lightMapColor;
 in vec4 overlayColor;
 in vec2 texCoord0;
@@ -34,6 +35,8 @@ const mat4 bayer4 = mat4( 0.0 / 16.0,  8.0 / 16.0,  2.0 / 16.0, 10.0 / 16.0,
 out vec4 fragColor;
 
 void main() {
+    // Keep the caster's first-person view clear without changing their camera.
+    if (pussBody > 0.5 && sphericalVertexDistance < 0.7) discard;
     vec4 color = texture(Sampler0, texCoord0);
 #ifdef ALPHA_CUTOUT
     if (color.a < ALPHA_CUTOUT) {

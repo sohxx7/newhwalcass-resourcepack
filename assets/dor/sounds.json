@@ -1,0 +1,83 @@
+{
+  "puss.fente": {
+    "sounds": [
+      {
+        "name": "dor:puss/fente",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "puss.hit": {
+    "sounds": [
+      {
+        "name": "dor:puss/hit",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "puss.roll": {
+    "sounds": [
+      {
+        "name": "dor:puss/roll",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "puss.dodge": {
+    "sounds": [
+      {
+        "name": "dor:puss/dodge",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "puss.bounty": {
+    "sounds": [
+      {
+        "name": "dor:puss/bounty",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "puss.touche": {
+    "sounds": [
+      {
+        "name": "dor:puss/touche",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "puss.ultimate": {
+    "sounds": [
+      {
+        "name": "dor:puss/ultimate",
+        "stream": false,
+        "attenuation_distance": 20
+      }
+    ]
+  },
+  "puss.hat_throw": {
+    "sounds": [
+      {
+        "name": "dor:puss/hat_throw",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "puss.hat_return": {
+    "sounds": [
+      {
+        "name": "dor:puss/hat_return",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  }
+}
