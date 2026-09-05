@@ -1,6 +1,6 @@
 # Newhwalcass Resource Pack
 
-활카스 Minecraft 1.21.8용 신규·업데이트 리소스팩. 플라워 스페셜의 현재 플레이어 스킨 분신과 무지개 tint 셰이더가 포함되어 있습니다.
+활카스 Minecraft 1.21.8용 신규·업데이트 리소스팩. 플라워 스페셜의 현재 플레이어 스킨 분신·무지개 tint와 장화신은 고양이의 레이피어·모자·착용 장화가 포함되어 있습니다.
 
 ## 설치
 
@@ -17,6 +17,12 @@ python tools/build.py
 ```
 
 결과는 `dist/Newhwalcass.zip`입니다. GitHub의 자동 생성 Source code ZIP 대신 이 빌드 파일을 게임에 넣습니다.
+
+## 장화신은 고양이 장비
+
+검은 모자와 버건디 테두리·굽은 금색 깃털, 은색 컵 가드 레이피어, 붉은 커프 테두리가 있는 검은 장화입니다. 기존 캐릭터와 같은 `dor` 네임스페이스의 `char/puss` 양식으로 등록했습니다. 아이템 ID는 `dor:char/puss/rapier`, `dor:char/puss/hat`, `dor:char/puss/boots`입니다.
+
+지급 명령과 착용 방식은 [장비 사용 안내](docs/puss-in-boots.md)를 참고하세요. 장화는 발 슬롯에 장착하면 전용 텍스처가 보이고, 착용 중 입체 모양은 바닐라 방어구 형태를 사용합니다.
 
 ## 플라워 스페셜
 
