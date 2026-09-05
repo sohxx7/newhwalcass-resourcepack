@@ -1,0 +1,10 @@
+{
+  "oversized_in_gui": true,
+  "model": {
+    "type": "composite",
+    "models": [
+      {"type": "model", "model": "dor:item/char/ryoshu/parts/weapon_invisible_x"},
+      {"type": "model", "model": "dor:item/char/ryoshu/parts/weapon_invisible_y"}
+    ]
+  }
+}

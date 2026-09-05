@@ -1,0 +1,16 @@
+{
+  "oversized_in_gui": true,
+	"model": {
+		"type": "composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "dor:item/char/lucid/wp"
+			},
+			{
+				"type": "model",
+				"model": "dor:item/char/lucid/gun"
+			}
+		]
+	}
+}

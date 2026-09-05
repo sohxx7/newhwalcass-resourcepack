@@ -1,0 +1,7 @@
+{
+	"parent": "dor:item/char/craver/icon1",
+	"textures": {
+		"0": "dor:item/char/craver/icon2",
+		"particle": "dor:item/char/craver/icon2"
+	}
+}

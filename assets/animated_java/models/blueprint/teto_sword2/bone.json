@@ -1,0 +1,136 @@
+{
+	"textures": {
+		"0": "dor:item/char/teto/sword2",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.25, 4.25, 7.25],
+			"to": [8.75, 18.125, 8.75],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8.09375, 4.4375, 8.46875]
+			},
+			"faces": {
+				"north": {
+					"uv": [16, 16, 0, 4],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [16, 16, 0, 4],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [16, 16, 0, 4],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [16, 16, 0, 4],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [16, 0.32, 0, 0.03],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [16, 16, 0, 16],
+					"rotation": 180,
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [7.27574, 17.02511, 7.2],
+			"to": [8.77574, 23.77511, 8.8],
+			"rotation": {
+				"angle": -25,
+				"axis": "z",
+				"origin": [8.11949, 17.21261, 8.46875]
+			},
+			"faces": {
+				"north": {
+					"uv": [16, 4.13, 0, 0],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [16, 4.13, 0, 0],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [16, 4.13, 0, 0],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [16, 4.13, 0, 0],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [16, 0.32, 0, 0.03],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [16, 16, 0, 16],
+					"rotation": 180,
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [7.07574, 17.82511, 7.3],
+			"to": [8.57574, 24.57511, 8.7],
+			"rotation": {
+				"angle": 25,
+				"axis": "z",
+				"origin": [7.91949, 18.01261, 8.46875]
+			},
+			"faces": {
+				"north": {
+					"uv": [16, 4.13, 0, 0],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [16, 4.13, 0, 0],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [16, 4.13, 0, 0],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [16, 4.13, 0, 0],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [16, 0.32, 0, 0.03],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [16, 16, 0, 16],
+					"rotation": 180,
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

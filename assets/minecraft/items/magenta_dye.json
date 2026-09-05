@@ -1,0 +1,984 @@
+{
+ "model": {
+  "type": "select",
+  "property": "custom_model_data",
+  "fallback": {
+   "type": "model",
+   "model": "item/magenta_dye"
+  },
+  "cases": [
+   {
+    "when": "100",
+    "model": {
+     "type": "model",
+     "model": "item/astral"
+    }
+   },
+   {
+    "when": "200",
+    "model": {
+     "type": "model",
+     "model": "item/sungjunwp"
+    }
+   },
+   {
+    "when": "300",
+    "model": {
+     "type": "model",
+     "model": "item/ade"
+    }
+   },
+   {
+    "when": "400",
+    "model": {
+     "type": "model",
+     "model": "item/jettwp"
+    }
+   },
+   {
+    "when": "500",
+    "model": {
+     "type": "model",
+     "model": "item/gun"
+    }
+   },
+   {
+    "when": "600",
+    "model": {
+     "type": "model",
+     "model": "item/tracer"
+    }
+   },
+   {
+    "when": "700",
+    "model": {
+     "type": "model",
+     "model": "item/teslacannon"
+    }
+   },
+   {
+    "when": "800",
+    "model": {
+     "type": "model",
+     "model": "item/yisword"
+    }
+   },
+   {
+    "when": "900",
+    "model": {
+     "type": "model",
+     "model": "item/kaminari2"
+    }
+   },
+   {
+    "when": "1000",
+    "model": {
+     "type": "model",
+     "model": "item/chainsword"
+    }
+   },
+   {
+    "when": "1100",
+    "model": {
+     "type": "model",
+     "model": "item/astrawp"
+    }
+   },
+   {
+    "when": "1200",
+    "model": {
+     "type": "model",
+     "model": "item/jokerdagger"
+    }
+   },
+   {
+    "when": "1300",
+    "model": {
+     "type": "model",
+     "model": "item/yasuo"
+    }
+   },
+   {
+    "when": "1400",
+    "model": {
+     "type": "model",
+     "model": "item/shuriken"
+    }
+   },
+   {
+    "when": "1500",
+    "model": {
+     "type": "model",
+     "model": "item/azure_greatsword"
+    }
+   },
+   {
+    "when": "1600",
+    "model": {
+     "type": "model",
+     "model": "item/hwadongwp"
+    }
+   },
+   {
+    "when": "1700",
+    "model": {
+     "type": "model",
+     "model": "item/ezreal"
+    }
+   },
+   {
+    "when": "1800",
+    "model": {
+     "type": "model",
+     "model": "item/shotgun"
+    }
+   },
+   {
+    "when": "1900",
+    "model": {
+     "type": "model",
+     "model": "item/kunai"
+    }
+   },
+   {
+    "when": "2000",
+    "model": {
+     "type": "model",
+     "model": "item/mike"
+    }
+   },
+   {
+    "when": "2100",
+    "model": {
+     "type": "model",
+     "model": "item/kaisawp"
+    }
+   },
+   {
+    "when": "2200",
+    "model": {
+     "type": "model",
+     "model": "item/energy_sword"
+    }
+   },
+   {
+    "when": "2300",
+    "model": {
+     "type": "model",
+     "model": "item/aotsword"
+    }
+   },
+   {
+    "when": "2400",
+    "model": {
+     "type": "model",
+     "model": "item/gravity"
+    }
+   },
+   {
+    "when": "2500",
+    "model": {
+     "type": "model",
+     "model": "item/staff"
+    }
+   },
+   {
+    "when": "2600",
+    "model": {
+     "type": "model",
+     "model": "item/slayer"
+    }
+   },
+   {
+    "when": "2700",
+    "model": {
+     "type": "model",
+     "model": "item/aki"
+    }
+   },
+   {
+    "when": "2800",
+    "model": {
+     "type": "model",
+     "model": "item/bloody_knife"
+    }
+   },
+   {
+    "when": "2900",
+    "model": {
+     "type": "model",
+     "model": "item/ekko"
+    }
+   },
+   {
+    "when": "3000",
+    "model": {
+     "type": "model",
+     "model": "item/zerrywp"
+    }
+   },
+   {
+    "when": "3100",
+    "model": {
+     "type": "model",
+     "model": "item/cane"
+    }
+   },
+   {
+    "when": "3200",
+    "model": {
+     "type": "model",
+     "model": "item/pathfinder"
+    }
+   },
+   {
+    "when": "3300",
+    "model": {
+     "type": "model",
+     "model": "item/lucidwp"
+    }
+   },
+   {
+    "when": "3400",
+    "model": {
+     "type": "model",
+     "model": "item/tour"
+    }
+   },
+   {
+    "when": "3500",
+    "model": {
+     "type": "model",
+     "model": "item/row"
+    }
+   },
+   {
+    "when": "3600",
+    "model": {
+     "type": "model",
+     "model": "item/rayawp"
+    }
+   },
+   {
+    "when": "3700",
+    "model": {
+     "type": "model",
+     "model": "item/mugino"
+    }
+   },
+   {
+    "when": "3800",
+    "model": {
+     "type": "model",
+     "model": "item/frenda"
+    }
+   },
+   {
+    "when": "3900",
+    "model": {
+     "type": "model",
+     "model": "item/accel"
+    }
+   },
+   {
+    "when": "4000",
+    "model": {
+     "type": "model",
+     "model": "item/kakine"
+    }
+   },
+   {
+    "when": "4100",
+    "model": {
+     "type": "model",
+     "model": "item/nail"
+    }
+   },
+   {
+    "when": "4200",
+    "model": {
+     "type": "model",
+     "model": "item/coin"
+    }
+   },
+   {
+    "when": "4300",
+    "model": {
+     "type": "model",
+     "model": "item/dragonstrike"
+    }
+   },
+   {
+    "when": "4400",
+    "model": {
+     "type": "model",
+     "model": "item/index"
+    }
+   },
+   {
+    "when": "4500",
+    "model": {
+     "type": "model",
+     "model": "item/hairspray"
+    }
+   },
+   {
+    "when": "4600",
+    "model": {
+     "type": "model",
+     "model": "item/starlord"
+    }
+   },
+   {
+    "when": "4700",
+    "model": {
+     "type": "model",
+     "model": "item/yakka"
+    }
+   },
+   {
+    "when": "4800",
+    "model": {
+     "type": "model",
+     "model": "item/amp"
+    }
+   },
+   {
+    "when": "4900",
+    "model": {
+     "type": "model",
+     "model": "item/murasaki"
+    }
+   },
+   {
+    "when": "5000",
+    "model": {
+     "type": "model",
+     "model": "item/chainwhip"
+    }
+   },
+   {
+    "when": "5100",
+    "model": {
+     "type": "model",
+     "model": "item/finger"
+    }
+   },
+   {
+    "when": "5200",
+    "model": {
+     "type": "model",
+     "model": "item/bong"
+    }
+   },
+   {
+    "when": "5300",
+    "model": {
+     "type": "model",
+     "model": "item/yuumiw"
+    }
+   },
+   {
+    "when": "5400",
+    "model": {
+     "type": "model",
+     "model": "item/rmcard_3"
+    }
+   },
+   {
+    "when": "5500",
+    "model": {
+     "type": "model",
+     "model": "item/samirasword"
+    }
+   },
+   {
+    "when": "5600",
+    "model": {
+     "type": "model",
+     "model": "item/dgun"
+    }
+   },
+   {
+    "when": "5700",
+    "model": {
+     "type": "model",
+     "model": "item/dart"
+    }
+   },
+   {
+    "when": "5800",
+    "model": {
+     "type": "model",
+     "model": "item/yone_sword2"
+    }
+   },
+   {
+    "when": "5900",
+    "model": {
+     "type": "model",
+     "model": "item/holysword"
+    }
+   },
+   {
+    "when": "6000",
+    "model": {
+     "type": "model",
+     "model": "item/bork"
+    }
+   },
+   {
+    "when": "6100",
+    "model": {
+     "type": "model",
+     "model": "item/blaster2"
+    }
+   },
+   {
+    "when": "6200",
+    "model": {
+     "type": "model",
+     "model": "item/shovel"
+    }
+   },
+   {
+    "when": "6300",
+    "model": {
+     "type": "model",
+     "model": "item/devils_bow"
+    }
+   },
+   {
+    "when": "6400",
+    "model": {
+     "type": "model",
+     "model": "item/fingertip"
+    }
+   },
+   {
+    "when": "6500",
+    "model": {
+     "type": "model",
+     "model": "item/betty_sythe"
+    }
+   },
+   {
+    "when": "6600",
+    "model": {
+     "type": "model",
+     "model": "item/jinx"
+    }
+   },
+   {
+    "when": "6700",
+    "model": {
+     "type": "model",
+     "model": "item/vir"
+    }
+   },
+   {
+    "when": "6800",
+    "model": {
+     "type": "model",
+     "model": "item/roland/durandal"
+    }
+   },
+   {
+    "when": "6900",
+    "model": {
+     "type": "model",
+     "model": "item/fogsword"
+    }
+   },
+   {
+    "when": "7000",
+    "model": {
+     "type": "model",
+     "model": "item/jewel_gun"
+    }
+   },
+   {
+    "when": "7100",
+    "model": {
+     "type": "model",
+     "model": "item/trident1"
+    }
+   },
+   {
+    "when": "7200",
+    "model": {
+     "type": "model",
+     "model": "item/satgat_sword"
+    }
+   },
+   {
+    "when": "7300",
+    "model": {
+     "type": "model",
+     "model": "item/aphelios/aphelios_calibrum"
+    }
+   },
+   {
+    "when": "7400",
+    "model": {
+     "type": "model",
+     "model": "item/sleep"
+    }
+   },
+   {
+    "when": "7500",
+    "model": {
+     "type": "model",
+     "model": "item/gwen"
+    }
+   },
+   {
+    "when": "7600",
+    "model": {
+     "type": "model",
+     "model": "item/queen/glass"
+    }
+   },
+   {
+    "when": "7700",
+    "model": {
+     "type": "model",
+     "model": "item/holy_staff"
+    }
+   },
+   {
+    "when": "7800",
+    "model": {
+     "type": "model",
+     "model": "item/darkhold"
+    }
+   },
+   {
+    "when": "7900",
+    "model": {
+     "type": "model",
+     "model": "item/exor_hammer"
+    }
+   },
+   {
+    "when": "8000",
+    "model": {
+     "type": "model",
+     "model": "item/jhin/jhinpistol"
+    }
+   },
+   {
+    "when": "8100",
+    "model": {
+     "type": "model",
+     "model": "item/hwei/brush"
+    }
+   },
+   {
+    "when": "8200",
+    "model": {
+     "type": "model",
+     "model": "item/argalia/nat"
+    }
+   },
+   {
+    "when": "8300",
+    "model": {
+     "type": "model",
+     "model": "item/hisui/mono2"
+    }
+   },
+   {
+    "when": "8400",
+    "model": {
+     "type": "model",
+     "model": "item/yumin/fan"
+    }
+   },
+   {
+    "when": "8500",
+    "model": {
+     "type": "model",
+     "model": "item/camilo/sword"
+    }
+   },
+   {
+    "when": "8600",
+    "model": {
+     "type": "model",
+     "model": "item/agent/rifle"
+    }
+   },
+   {
+    "when": "8700",
+    "model": {
+     "type": "model",
+     "model": "item/eiden"
+    }
+   },
+   {
+    "when": "8800",
+    "model": {
+     "type": "model",
+     "model": "item/kaneki/handcuff_r"
+    }
+   },
+   {
+    "when": "8900",
+    "model": {
+     "type": "model",
+     "model": "item/clove/gun"
+    }
+   },
+   {
+    "when": "9000",
+    "model": {
+     "type": "model",
+     "model": "item/time/pistol"
+    }
+   },
+   {
+    "when": "9100",
+    "model": {
+     "type": "model",
+     "model": "item/akshan"
+    }
+   },
+   {
+    "when": "9200",
+    "model": {
+     "type": "model",
+     "model": "item/bomber/reze"
+    }
+   },
+   {
+    "when": "9300",
+    "model": {
+     "type": "model",
+     "model": "item/assasin/shuriken"
+    }
+   },
+   {
+    "when": "9400",
+    "model": {
+     "type": "model",
+     "model": "item/chara/stone"
+    }
+   },
+   {
+    "when": "9500",
+    "model": {
+     "type": "model",
+     "model": "item/gaster/righthand"
+    }
+   },
+   {
+    "when": "9600",
+    "model": {
+     "type": "model",
+     "model": "item/blackhole/face"
+    }
+   },
+   {
+    "when": "9700",
+    "model": {
+     "type": "model",
+     "model": "item/lancer/spade"
+    }
+   },
+   {
+    "when": "9800",
+    "model": {
+     "type": "model",
+     "model": "item/noelle/icering"
+    }
+   },
+   {
+    "when": "9900",
+    "model": {
+     "type": "model",
+     "model": "item/knight/knight"
+    }
+   },
+   {
+    "when": "10000",
+    "model": {
+     "type": "model",
+     "model": "item/casette/head"
+    }
+   },
+   {
+    "when": "10100",
+    "model": {
+     "type": "model",
+     "model": "item/leonardo/odachi"
+    }
+   },
+   {
+    "when": "10200",
+    "model": {
+     "type": "model",
+     "model": "item/donatello/bo"
+    }
+   },
+   {
+    "when": "10300",
+    "model": {
+     "type": "model",
+     "model": "item/raph/tonfa"
+    }
+   },
+   {
+    "when": "10400",
+    "model": {
+     "type": "model",
+     "model": "item/mikey/fundo"
+    }
+   },
+   {
+    "when": "10500",
+    "model": {
+     "type": "model",
+     "model": "item/actor/gold"
+    }
+   },
+   {
+    "when": "10600",
+    "model": {
+     "type": "model",
+     "model": "item/deadlock/overkill"
+    }
+   },
+   {
+    "when": "10700",
+    "model": {
+     "type": "model",
+     "model": "item/dimension/scfisword"
+    }
+   },
+   {
+    "when": "10800",
+    "model": {
+     "type": "model",
+     "model": "item/giyuu/sword"
+    }
+   },
+   {
+    "when": "10900",
+    "model": {
+     "type": "model",
+     "model": "item/shinobu/poisonsword"
+    }
+   },
+   {
+    "when": "11000",
+    "model": {
+     "type": "model",
+     "model": "item/khun/lighthouse"
+    }
+   },
+   {
+    "when": "11100",
+    "model": {
+     "type": "model",
+     "model": "item/kinesis/chess/prismarine_shard"
+    }
+   },
+   {
+    "when": "11200",
+    "model": {
+     "type": "model",
+     "model": "item/nanoka/gun"
+    }
+   },
+   {
+    "when": "11300",
+    "model": {
+     "type": "model",
+     "model": "item/gansu/nat"
+    }
+   },
+   {
+    "when": "11400",
+    "model": {
+     "type": "model",
+     "model": "item/lucian/lucian1"
+    }
+   },
+   {
+    "when": "11500",
+    "model": {
+     "type": "model",
+     "model": "item/akali/kama"
+    }
+   },
+   {
+    "when": "11600",
+    "model": {
+     "type": "model",
+     "model": "item/prism/shard1"
+    }
+   },
+   {
+    "when": "11700",
+    "model": {
+     "type": "model",
+     "model": "item/chef/knife"
+    }
+   },
+   {
+    "when": "11800",
+    "model": {
+     "type": "model",
+     "model": "item/hornet/needle"
+    }
+   },
+   {
+    "when": "11900",
+    "model": {
+     "type": "model",
+     "model": "item/vecna/hand"
+    }
+   },
+   {
+    "when": "12000",
+    "model": {
+     "type": "model",
+     "model": "item/angelic/soulshooter"
+    }
+   },
+   {
+    "when": "12100",
+    "model": {
+     "type": "model",
+     "model": "item/limbo/wp"
+    }
+   },
+   {
+    "when": "12200",
+    "model": {
+     "type": "model",
+     "model": "item/iroha/keyboard"
+    }
+   },
+   {
+    "when": "12300",
+    "model": {
+     "type": "model",
+     "model": "item/kaguya/hammer"
+    }
+   },
+   {
+    "when": "12400",
+    "model": {
+     "type": "model",
+     "model": "item/gag/smile"
+    }
+   },
+   {
+    "when": "12500",
+    "model": {
+     "type": "model",
+     "model": "item/higuruma/bong"
+    }
+   },
+   {
+    "when": "12600",
+    "model": {
+     "type": "model",
+     "model": "item/stellar/crystal"
+    }
+   },
+   {
+    "when": "12700",
+    "model": {
+     "type": "model",
+     "model": "item/alien/blaster"
+    }
+   },
+   {
+    "when": "12800",
+    "model": {
+     "type": "model",
+     "model": "item/domina/blaster"
+    }
+   },
+   {
+    "when": "12900",
+    "model": {
+     "type": "model",
+     "model": "item/chess/staff"
+    }
+   },
+   {
+    "when": "13000",
+    "model": {
+     "type": "model",
+     "model": "item/lapis/mirror"
+    }
+   },
+   {
+    "when": "13100",
+    "model": {
+     "type": "model",
+     "model": "item/peridot/glasses"
+    }
+   },
+   {
+    "when": "13300",
+    "model": {
+     "type": "model",
+     "model": "item/tamer/spear"
+    }
+   },
+   {
+    "when": "13600",
+    "model": {
+     "type": "model",
+     "model": "dor:item/char/caine/cane"
+    }
+   },
+   {
+    "when": "13700",
+    "model": {
+     "type": "model",
+     "model": "dor:item/char/jevil/devilsknife"
+    }
+   },
+   {
+    "when": "13800",
+    "model": {
+     "type": "model",
+     "model": "item/flowery/flowermantle"
+    }
+   },
+   {
+    "when": "13900",
+    "model": {
+     "type": "model",
+     "model": "item/arche/gun_close"
+    }
+   },
+   {
+    "when": "14000",
+    "model": {
+     "type": "composite",
+     "models": [
+      {
+       "type": "model",
+       "model": "dor:item/char/soldier/parts/k2_x"
+      },
+      {
+       "type": "model",
+       "model": "dor:item/char/soldier/parts/k2_y"
+      },
+      {
+       "type": "model",
+       "model": "dor:item/char/soldier/parts/k2_z"
+      }
+     ]
+    }
+   }
+  ]
+ }
+}

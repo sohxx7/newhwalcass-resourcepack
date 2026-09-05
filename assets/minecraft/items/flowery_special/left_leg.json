@@ -1,0 +1,25 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "slim",
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:item/flowery_special/slim/left_leg",
+          "model": {
+            "type": "minecraft:player_head"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:special",
+      "base": "minecraft:item/flowery_special/left_leg",
+      "model": {
+        "type": "minecraft:player_head"
+      }
+    }
+  }
+}

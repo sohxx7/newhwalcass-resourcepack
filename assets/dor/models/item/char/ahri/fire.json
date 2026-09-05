@@ -1,0 +1,35 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "dor:item/char/ahri/fire",
+		"particle": "dor:item/char/ahri/ball"
+	},
+	"elements": [
+		{
+			"from": [0, 8, 8],
+			"to": [16, 24, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 8]},
+			"faces": {
+				"north": {"uv": [2.21875, 1.4375, 14.21875, 13.4375], "texture": "#1"},
+				"east": {"uv": [2.21875, 1.4375, 14.21875, 13.4375], "texture": "#1"},
+				"south": {"uv": [2.21875, 1.4375, 14.21875, 13.4375], "texture": "#1"},
+				"west": {"uv": [2.21875, 1.4375, 14.21875, 13.4375], "texture": "#1"},
+				"up": {"uv": [2.21875, 1.4375, 14.21875, 13.4375], "texture": "#1"},
+				"down": {"uv": [2.21875, 1.4375, 14.21875, 13.4375], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"firstperson_righthand": {
+			"translation": [5, 0.75, -3.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [2, 0.75, 0]
+		},
+		"gui": {
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

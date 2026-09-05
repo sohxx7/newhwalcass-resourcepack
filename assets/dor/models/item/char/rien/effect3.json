@@ -1,0 +1,19 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "dor:item/char/rien/effect4_2",
+		"particle": "minecraft:item/effect/roland/4/0"
+	},
+	"elements": [
+		{
+			"from": [-10.4, 3.4, -16],
+			"to": [21.6, 3.4, 16],
+			"rotation": {"angle": 17.5, "axis": "z", "origin": [8, 5.7, 0]},
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "rotation": 270, "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#2"}
+			}
+		}
+	]
+}

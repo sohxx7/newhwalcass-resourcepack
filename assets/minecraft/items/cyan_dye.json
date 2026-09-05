@@ -1,0 +1,6792 @@
+{
+    "oversized_in_gui" : true,
+    "hand_animation_on_swap" : false,
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type":"model",
+            "model": "item/cyan_dye"
+        
+    },
+    "cases": [
+        {
+            "when": "101",
+            "model": {
+                "type": "model",
+                "model": "item/nebula"
+            }
+        },
+        {
+            "when": "102",
+            "model": {
+                "type": "model",
+                "model": "item/star"
+            }
+        },
+        {
+            "when": "103",
+            "model": {
+                "type": "model",
+                "model": "item/nebula2"
+            }
+        },
+        {
+            "when": "110",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/momiji/shield"
+            }
+        },
+        {
+            "when": "111",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/momiji/nebula"
+            }
+        },
+        {
+            "when": "112",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/momiji/star"
+            }
+        },
+        {
+            "when": "113",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/momiji/ult"
+            }
+        },
+        {
+            "when": "114",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/momiji/maple"
+            }
+        },
+                {
+            "when": "120",
+            "model": {
+                "type": "model",
+                "model": "item/pearl/pearl"
+            }
+        },
+        {
+            "when": "121",
+            "model": {
+                "type": "model",
+                "model": "item/pearl/cloud"
+            }
+        },
+        {
+            "when": "122",
+            "model": {
+                "type": "model",
+                "model": "item/pearl/rose"
+            }
+        },
+        {
+            "when": "200",
+            "model": {
+                "type": "model",
+                "model": "item/hiro/headflower"
+            }
+        },
+        {
+            "when": "201",
+            "model": {
+                "type": "model",
+                "model": "item/polearm"
+            }
+        },
+                {
+            "when": "211",
+            "model": {
+                "type": "model",
+                "model": "item/hiro/mnnpl"
+            }
+        },
+        {
+            "when": "202",
+            "model": {
+                "type": "model",
+                "model": "item/c2_target"
+            }
+        },
+        {
+            "when": "203",
+            "model": {
+                "type": "model",
+                "model": "item/c2_target2"
+            }
+        },
+                {
+            "when": "204",
+            "model": {
+                "type": "model",
+                "model": "item/hiro/flower"
+            }
+        },
+        {
+            "when": "300",
+            "model": {
+                "type": "model",
+                "model": "item/ade/pink"
+            }
+        },
+        {
+            "when": "301",
+            "model": {
+                "type": "model",
+                "model": "item/ade/yellow"
+            }
+        },
+        {
+            "when": "302",
+            "model": {
+                "type": "model",
+                "model": "item/ade/green"
+            }
+        },
+        {
+            "when": "303",
+            "model": {
+                "type": "model",
+                "model": "item/ade/blue"
+            }
+        },
+        {
+            "when": "400",
+            "model": {
+                "type": "model",
+                "model": "item/jetq"
+            }
+        },
+        {
+            "when": "401",
+            "model": {
+                "type": "model",
+                "model": "item/jetq2"
+            }
+        },
+        {
+            "when": "402",
+            "model": {
+                "type": "model",
+                "model": "item/jetq3"
+            }
+        },
+        {
+            "when": "500",
+            "model": {
+                "type": "model",
+                "model": "item/body"
+            }
+        },
+        {
+            "when": "501",
+            "model": {
+                "type": "model",
+                "model": "item/alarm"
+            }
+        },
+        {
+            "when": "502",
+            "model": {
+                "type": "model",
+                "model": "item/alarm_golden"
+            }
+        },
+        {
+            "when": "503",
+            "model": {
+                "type": "model",
+                "model": "item/alarm_ps"
+            }
+        },
+               {
+            "when": "600",
+            "model": {
+                "type": "model",
+                "model": "item/racinghelmet"
+            }
+        },
+        {
+            "when": "601",
+            "model": {
+                "type": "model",
+                "model": "item/racinghelmet_golden"
+            }
+        },
+               {
+            "when": "602",
+            "model": {
+                "type": "model",
+                "model": "item/racinghelmet_graffiti"
+            }
+        },
+                {
+            "when": "700",
+            "model": {
+                "type": "model",
+                "model": "item/railgun_laser"
+            }
+        },
+                {
+            "when": "900",
+            "model": {
+                "type": "model",
+                "model": "item/kaminari"
+            }
+        },
+        {
+            "when": "901",
+            "model": {
+                "type": "model",
+                "model": "item/kaminari2"
+            }
+        },
+        {
+            "when": "902",
+            "model": {
+                "type": "model",
+                "model": "item/kaminari3"
+            }
+        },
+                {
+            "when": "910",
+            "model": {
+                "type": "model",
+                "model": "item/kaminari_gold"
+            }
+        },
+        {
+            "when": "911",
+            "model": {
+                "type": "model",
+                "model": "item/kaminari2_gold"
+            }
+        },
+        {
+            "when": "912",
+            "model": {
+                "type": "model",
+                "model": "item/kaminari3_gold"
+            }
+        },
+                {
+            "when": "920",
+            "model": {
+                "type": "model",
+                "model": "item/kaminari_blue"
+            }
+        },
+        {
+            "when": "921",
+            "model": {
+                "type": "model",
+                "model": "item/kaminari2_blue"
+            }
+        },
+        {
+            "when": "922",
+            "model": {
+                "type": "model",
+                "model": "item/kaminari3_blue"
+            }
+        },
+                {
+            "when": "903",
+            "model": {
+                "type": "model",
+                "model": "item/lightning"
+            }
+        },
+        {
+            "when": "923",
+            "model": {
+                "type": "model",
+                "model": "item/lightning_blue"
+            }
+        },
+                {
+            "when": "1000",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/chain"
+            }
+        },
+                        {
+            "when": "1010",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/chain_red"
+            }
+        },
+                        {
+            "when": "1001",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/warning"
+            }
+        },
+                        {
+            "when": "1002",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/chain2"
+            }
+        },
+                                {
+            "when": "1003",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/chain2_red"
+            }
+        },
+                                {
+            "when": "1004",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/warning2"
+            }
+        },
+                                {
+            "when": "1005",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/triangle"
+            }
+        },
+                                        {
+            "when": "1015",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/triangle_red"
+            }
+        },
+                                        {
+            "when": "1006",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/warning3"
+            }
+        },
+                                                {
+            "when": "1007",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/shine"
+            }
+        },
+        {
+            "when": "1030",
+            "model": {
+                "type": "model",
+                "model": "item/slash3"
+            }
+        },
+        {
+            "when": "1100",
+            "model": {
+                "type": "model",
+                "model": "item/sol/sol_star"
+            }
+        },
+        {
+            "when": "1101",
+            "model": {
+                "type": "model",
+                "model": "item/comet"
+            }
+        },
+        {
+            "when": "1102",
+            "model": {
+                "type": "model",
+                "model": "item/comet_ps"
+            }
+        },
+        {
+            "when": "1103",
+            "model": {
+                "type": "model",
+                "model": "item/sol/sol"
+            }
+        },
+        {
+            "when": "1104",
+            "model": {
+                "type": "model",
+                "model": "item/sol/sol2"
+            }
+        },
+        {
+            "when": "1105",
+            "model": {
+                "type": "model",
+                "model": "item/sol/sol_comet"
+            }
+        },
+        {
+            "when": "1106",
+            "model": {
+                "type": "model",
+                "model": "item/sol/sol_comet2"
+            }
+        },
+        {
+            "when": "1107",
+            "model": {
+                "type": "model",
+                "model": "item/sol/cloud"
+            }
+        },
+        {
+            "when": "1201",
+            "model": {
+                "type": "model",
+                "model": "item/shadow"
+            }
+        },
+        {
+            "when": "1202",
+            "model": {
+                "type": "model",
+                "model": "item/shadow_space"
+            }
+        },
+        {
+            "when": "1300",
+            "model": {
+                "type": "model",
+                "model": "item/yasuoq"
+            }
+        },
+        {
+            "when": "1301",
+            "model": {
+                "type": "model",
+                "model": "item/yasuoq2"
+            }
+        },
+        {
+            "when": "1302",
+            "model": {
+                "type": "model",
+                "model": "item/yasuoq3"
+            }
+        },
+        {
+            "when": "1303",
+            "model": {
+                "type": "model",
+                "model": "item/jangmak"
+            }
+        },
+        {
+            "when": "1304",
+            "model": {
+                "type": "model",
+                "model": "item/jangmak2"
+            }
+        },
+        {
+            "when": "1305",
+            "model": {
+                "type": "model",
+                "model": "item/jangmak3"
+            }
+        },
+                {
+            "when": "1310",
+            "model": {
+                "type": "model",
+                "model": "item/nyansuo/yasuoq"
+            }
+        },
+        {
+            "when": "1313",
+            "model": {
+                "type": "model",
+                "model": "item/nyansuo/jangmak"
+            }
+        },
+        {
+            "when": "1311",
+            "model": {
+                "type": "model",
+                "model": "item/nyansuo/catears"
+            }
+        },
+                {
+            "when": "1312",
+            "model": {
+                "type": "model",
+                "model": "item/nyansuo/footprint"
+            }
+        },
+                        {
+            "when": "1316",
+            "model": {
+                "type": "model",
+                "model": "item/nyansuo/paw"
+            }
+        },
+        {
+            "when": "1500",
+            "model": {
+                "type": "model",
+                "model": "item/yoru_teleport"
+            }
+        },
+        {
+            "when": "1501",
+            "model": {
+                "type": "model",
+                "model": "item/yoru_teleport2"
+            }
+        },
+        {
+            "when": "1502",
+            "model": {
+                "type": "model",
+                "model": "item/yorueffect"
+            }
+        },
+        {
+            "when": "1503",
+            "model": {
+                "type": "model",
+                "model": "item/yorueffect2"
+            }
+        },
+        {
+            "when": "1504",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/yukari/rip"
+            }
+        },
+        {
+            "when": "1505",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/yukari/teleport"
+            }
+        },
+        {
+            "when": "1506",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/yukari/gap"
+            }
+        },
+        {
+            "when": "1507",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/yukari/hat"
+            }
+        },
+        {
+            "when": "1508",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/yukari/hat2"
+            }
+        },
+        {
+            "when": "1510",
+            "model": {
+                "type": "model",
+                "model": "item/yoruskin"
+            }
+        },
+        {
+            "when": "1701",
+            "model": {
+                "type": "model",
+                "model": "item/ezq"
+            }
+        },
+        {
+            "when": "1702",
+            "model": {
+                "type": "model",
+                "model": "item/ezq_battle"
+            }
+        },
+        {
+            "when": "1703",
+            "model": {
+                "type": "model",
+                "model": "item/ezq_psy"
+            }
+        },
+        {
+            "when": "1704",
+            "model": {
+                "type": "model",
+                "model": "item/ezr"
+            }
+        },
+        {
+            "when": "1705",
+            "model": {
+                "type": "model",
+                "model": "item/ezr_battle"
+            }
+        },
+        {
+            "when": "1706",
+            "model": {
+                "type": "model",
+                "model": "item/ezr_psy"
+            }
+        },
+        {
+            "when": "1800",
+            "model": {
+                "type": "model",
+                "model": "item/knife"
+            }
+        },
+        {
+            "when": "1801",
+            "model": {
+                "type": "model",
+                "model": "item/knife_golden"
+            }
+        },
+        {
+            "when": "1802",
+            "model": {
+                "type": "model",
+                "model": "item/knife_water"
+            }
+        },
+        {
+            "when": "2000",
+            "model": {
+                "type": "model",
+                "model": "item/seraphinep"
+            }
+        },
+        {
+            "when": "2001",
+            "model": {
+                "type": "model",
+                "model": "item/seraphinep2"
+            }
+        },
+        {
+            "when": "2002",
+            "model": {
+                "type": "model",
+                "model": "item/seraphineq"
+            }
+        },
+        {
+            "when": "2003",
+            "model": {
+                "type": "model",
+                "model": "item/seraphineq2"
+            }
+        },
+        {
+            "when": "2004",
+            "model": {
+                "type": "model",
+                "model": "item/seraphinee"
+            }
+        },
+        {
+            "when": "2005",
+            "model": {
+                "type": "model",
+                "model": "item/seraphinee2"
+            }
+        },
+        {
+            "when": "2006",
+            "model": {
+                "type": "model",
+                "model": "item/seraphinew"
+            }
+        },
+        {
+            "when": "2007",
+            "model": {
+                "type": "model",
+                "model": "item/seraphinew2"
+            }
+        },
+        {
+            "when": "2008",
+            "model": {
+                "type": "model",
+                "model": "item/seraphineult"
+            }
+        },
+        {
+            "when": "2009",
+            "model": {
+                "type": "model",
+                "model": "item/seraphineult2"
+            }
+        },
+        {
+            "when": "2010",
+            "model": {
+                "type": "model",
+                "model": "item/seraphineult_trail"
+            }
+        },
+        {
+            "when": "2200",
+            "model": {
+                "type": "model",
+                "model": "item/energyball"
+            }
+        },
+        {
+            "when": "2201",
+            "model": {
+                "type": "model",
+                "model": "item/energyball2"
+            }
+        },
+        {
+            "when": "2202",
+            "model": {
+                "type": "model",
+                "model": "item/ironman/ironman_wings"
+            }
+        },
+        {
+            "when": "2203",
+            "model": {
+                "type": "model",
+                "model": "item/ironman/energyball"
+            }
+        },
+        {
+            "when": "2301",
+            "model": {
+                "type": "model",
+                "model": "item/spear"
+            }
+        },
+        {
+            "when": "2302",
+            "model": {
+                "type": "model",
+                "model": "item/spear_diamond"
+            }
+        },
+        {
+            "when": "2400",
+            "model": {
+                "type": "model",
+                "model": "item/sigma"
+            }
+        },
+        {
+            "when": "2401",
+            "model": {
+                "type": "model",
+                "model": "item/sigma2"
+            }
+        },
+            {
+            "when": "2402",
+            "model": {
+                "type": "model",
+                "model": "item/sigma3"
+            }
+        },
+        {
+            "when": "2500",
+            "model": {
+                "type": "model",
+                "model": "item/mage/magic1"
+            }
+        },
+        {
+            "when": "2501",
+            "model": {
+                "type": "model",
+                "model": "item/mage/magic2"
+            }
+        },
+        {
+            "when": "2502",
+            "model": {
+                "type": "model",
+                "model": "item/mage/magic3"
+            }
+        },
+        {
+            "when": "2503",
+            "model": {
+                "type": "model",
+                "model": "item/mage/magic4"
+            }
+        },
+        {
+            "when": "2504",
+            "model": {
+                "type": "model",
+                "model": "item/mage/magic5"
+            }
+        },
+        {
+            "when": "2505",
+            "model": {
+                "type": "model",
+                "model": "item/mage/magic6"
+            }
+        },
+        {
+            "when": "2506",
+            "model": {
+                "type": "model",
+                "model": "item/mage/magic7"
+            }
+        },
+        {
+            "when": "2507",
+            "model": {
+                "type": "model",
+                "model": "item/mage/fireball"
+            }
+        },
+        {
+            "when": "2508",
+            "model": {
+                "type": "model",
+                "model": "item/mage/icespear"
+            }
+        },
+        {
+            "when": "2509",
+            "model": {
+                "type": "model",
+                "model": "item/mage/geyser"
+            }
+        },
+        {
+            "when": "2510",
+            "model": {
+                "type": "model",
+                "model": "item/mage/rock"
+            }
+        },
+        {
+            "when": "2511",
+            "model": {
+                "type": "model",
+                "model": "item/mage/glasses"
+            }
+        },
+        {
+            "when": "2512",
+            "model": {
+                "type": "model",
+                "model": "item/mage/book1"
+            }
+        },
+        {
+            "when": "2513",
+            "model": {
+                "type": "model",
+                "model": "item/mage/book2"
+            }
+        },
+        {
+            "when": "2514",
+            "model": {
+                "type": "model",
+                "model": "item/mage/book3"
+            }
+        },
+        {
+            "when": "2515",
+            "model": {
+                "type": "model",
+                "model": "item/mage/book4"
+            }
+        },
+        {
+            "when": "2516",
+            "model": {
+                "type": "model",
+                "model": "item/mage/sp"
+            }
+        },
+        {
+            "when": "2517",
+            "model": {
+                "type": "model",
+                "model": "item/mage/pheonix1"
+            }
+        },
+        {
+            "when": "2518",
+            "model": {
+                "type": "model",
+                "model": "item/mage/pheonix2"
+            }
+        },
+        {
+            "when": "2519",
+            "model": {
+                "type": "model",
+                "model": "item/mage/pheonix3"
+            }
+        },
+        {
+            "when": "2520",
+            "model": {
+                "type": "model",
+                "model": "item/mage/pheonix4"
+            }
+        },
+        {
+            "when": "2521",
+            "model": {
+                "type": "model",
+                "model": "item/mage/pillar1"
+            }
+        },
+        {
+            "when": "2522",
+            "model": {
+                "type": "model",
+                "model": "item/mage/pillar2"
+            }
+        },
+        {
+            "when": "2523",
+            "model": {
+                "type": "model",
+                "model": "item/mage/flame"
+            }
+        },
+                {
+            "when": "25hat",
+            "model": {
+                "type": "model",
+                "model": "item/mage/hat"
+            }
+        },
+        {
+            "when": "2601",
+            "model": {
+                "type": "model",
+                "model": "item/katap"
+            }
+        },
+        {
+            "when": "2602",
+            "model": {
+                "type": "model",
+                "model": "item/katap_battle"
+            }
+        },
+        {
+            "when": "2603",
+            "model": {
+                "type": "model",
+                "model": "item/katault"
+            }
+        },
+        {
+            "when": "2604",
+            "model": {
+                "type": "model",
+                "model": "item/katault2"
+            }
+        },
+        {
+            "when": "2605",
+            "model": {
+                "type": "model",
+                "model": "item/kata/circle"
+            }
+        },
+        {
+            "when": "2606",
+            "model": {
+                "type": "model",
+                "model": "item/kata/katap"
+            }
+        },
+        {
+            "when": "2607",
+            "model": {
+                "type": "model",
+                "model": "item/katault3"
+            }
+        },
+                {
+            "when": "2710",
+            "model": {
+                "type": "model",
+                "model": "item/csm/pochitahat"
+            }
+        },
+                {
+            "when": "2711",
+            "model": {
+                "type": "model",
+                "model": "item/csm/pochitahat2"
+            }
+        },
+        {
+            "when": "2701",
+            "model": {
+                "type": "model",
+                "model": "item/kon"
+            }
+        },
+        {
+            "when": "2702",
+            "model": {
+                "type": "model",
+                "model": "item/kon_ghost"
+            }
+        },
+                {
+            "when": "2703",
+            "model": {
+                "type": "model",
+                "model": "item/hre"
+            }
+        },
+        {
+            "when": "2800",
+            "model": {
+                "type": "model",
+                "model": "item/puddle"
+            }
+        },
+        {
+            "when": "2801",
+            "model": {
+                "type": "model",
+                "model": "item/puddle2"
+            }
+        },
+        {
+            "when": "2802",
+            "model": {
+                "type": "model",
+                "model": "item/blood"
+            }
+        },
+        {
+            "when": "2803",
+            "model": {
+                "type": "model",
+                "model": "item/bloodwings"
+            }
+        },
+        {
+            "when": "2900",
+            "model": {
+                "type": "model",
+                "model": "item/ekkoq_td"
+            }
+        },
+                {
+            "when": "2910",
+            "model": {
+                "type": "model",
+                "model": "item/ekko/q"
+            }
+        },
+                {
+            "when": "2920",
+            "model": {
+                "type": "model",
+                "model": "item/ekko/q2"
+            }
+        },
+                        {
+            "when": "2921",
+            "model": {
+                "type": "model",
+                "model": "item/ekko/hoverboard"
+            }
+        },
+        {
+            "when": "2901",
+            "model": {
+                "type": "model",
+                "model": "item/ekkor_td"
+            }
+        },
+        {
+            "when": "3100",
+            "model": {
+                "type": "model",
+                "model": "item/phantom"
+            }
+        },
+        {
+            "when": "3101",
+            "model": {
+                "type": "model",
+                "model": "item/jm1"
+            }
+        },
+        {
+            "when": "3102",
+            "model": {
+                "type": "model",
+                "model": "item/jm2"
+            }
+        },
+        {
+            "when": "3103",
+            "model": {
+                "type": "model",
+                "model": "item/jm3"
+            }
+        },
+        {
+            "when": "3104",
+            "model": {
+                "type": "model",
+                "model": "item/jm4"
+            }
+        },
+        {
+            "when": "3105",
+            "model": {
+                "type": "model",
+                "model": "item/cardeffect"
+            }
+        },
+        {
+            "when": "3106",
+            "model": {
+                "type": "model",
+                "model": "item/breezecart"
+            }
+        },
+        {
+            "when": "3107",
+            "model": {
+                "type": "model",
+                "model": "item/phantom/joker"
+            }
+        },
+        {
+            "when": "3108",
+            "model": {
+                "type": "model",
+                "model": "item/phantom/blackjack"
+            }
+        },
+        {
+            "when": "3109",
+            "model": {
+                "type": "model",
+                "model": "item/phantom/blackjack2"
+            }
+        },
+        {
+            "when": "3110",
+            "model": {
+                "type": "model",
+                "model": "item/phantom/riftbreak"
+            }
+        },
+        {
+            "when": "3200",
+            "model": {
+                "type": "model",
+                "model": "item/aa1"
+            }
+        },
+        {
+            "when": "3201",
+            "model": {
+                "type": "model",
+                "model": "item/aa2"
+            }
+        },
+        {
+            "when": "3202",
+            "model": {
+                "type": "model",
+                "model": "item/aa3"
+            }
+        },
+        {
+            "when": "3300",
+            "model": {
+                "type": "model",
+                "model": "item/lucid"
+            }
+        },
+        {
+            "when": "3301",
+            "model": {
+                "type": "model",
+                "model": "item/lucidwind"
+            }
+        },
+        {
+            "when": "3302",
+            "model": {
+                "type": "model",
+                "model": "item/lucidwings"
+            }
+        },
+        {
+            "when": "3400",
+            "model": {
+                "type": "model",
+                "model": "item/randevu"
+            }
+        },
+        {
+            "when": "3401",
+            "model": {
+                "type": "model",
+                "model": "item/randevu_hextech"
+            }
+        },
+                {
+            "when": "3402",
+            "model": {
+                "type": "model",
+                "model": "item/chamber_sion/ran"
+            }
+        },
+                {
+            "when": "3410",
+            "model": {
+                "type": "model",
+                "model": "item/chamber_sion/2_stand"
+            }
+        },
+        {
+            "when": "3411",
+            "model": {
+                "type": "model",
+                "model": "item/chamber_sion/2_hex"
+            }
+        },
+                {
+            "when": "3412",
+            "model": {
+                "type": "model",
+                "model": "item/chamber_sion/trademark"
+            }
+        },
+        {
+            "when": "3500",
+            "model": {
+                "type": "model",
+                "model": "item/wave"
+            }
+        },
+        {
+            "when": "3501",
+            "model": {
+                "type": "model",
+                "model": "item/bigwave"
+            }
+        },
+                {
+            "when": "3502",
+            "model": {
+                "type": "model",
+                "model": "item/wave_kpop"
+            }
+        },
+        {
+            "when": "3503",
+            "model": {
+                "type": "model",
+                "model": "item/bigwave_kpop"
+            }
+        },
+        {
+            "when": "3700",
+            "model": {
+                "type": "model",
+                "model": "item/c37shield"
+            }
+        },
+        {
+            "when": "3701",
+            "model": {
+                "type": "model",
+                "model": "item/c37ult"
+            }
+        },
+                {
+            "when": "3710",
+            "model": {
+                "type": "model",
+                "model": "item/melda/shield"
+            }
+        },
+        {
+            "when": "3711",
+            "model": {
+                "type": "model",
+                "model": "item/melda/ult"
+            }
+        },
+        {
+            "when": "3702",
+            "model": {
+                "type": "model",
+                "model": "item/c37shield_space"
+            }
+        },
+                {
+            "when": "3703",
+            "model": {
+                "type": "model",
+                "model": "item/c37laser"
+            }
+        },
+        {
+            "when": "3704",
+            "model": {
+                "type": "model",
+                "model": "item/c37laser_space"
+            }
+        },
+                        {
+            "when": "3705",
+            "model": {
+                "type": "model",
+                "model": "item/melda/laser"
+            }
+        },
+        {
+            "when": "3800",
+            "model": {
+                "type": "model",
+                "model": "item/doll"
+            }
+        },
+        {
+            "when": "3801",
+            "model": {
+                "type": "model",
+                "model": "item/cracker"
+            }
+        },
+        {
+            "when": "3802",
+            "model": {
+                "type": "model",
+                "model": "item/fumo/circle"
+            }
+        },
+        {
+            "when": "3803",
+            "model": {
+                "type": "model",
+                "model": "item/fumo/cirno"
+            }
+        },
+        {
+            "when": "3804",
+            "model": {
+                "type": "model",
+                "model": "item/fumo/reimu"
+            }
+        },
+        {
+            "when": "3805",
+            "model": {
+                "type": "model",
+                "model": "item/fumo/sakuya"
+            }
+        },
+        {
+            "when": "3806",
+            "model": {
+                "type": "model",
+                "model": "item/fumo/koishi"
+            }
+        },
+        {
+            "when": "3807",
+            "model": {
+                "type": "model",
+                "model": "item/fumo/flan"
+            }
+        },
+        {
+            "when": "3808",
+            "model": {
+                "type": "model",
+                "model": "item/fumo/marisa"
+            }
+        },
+        {
+            "when": "3809",
+            "model": {
+                "type": "model",
+                "model": "item/fumo/youmu"
+            }
+        },
+        {
+            "when": "3900",
+            "model": {
+                "type": "model",
+                "model": "item/accelrock_sg"
+            }
+        },
+        {
+            "when": "3901",
+            "model": {
+                "type": "model",
+                "model": "item/accelrock2_sg"
+            }
+        },
+        {
+            "when": "4000",
+            "model": {
+                "type": "model",
+                "model": "item/wing"
+            }
+        },
+        {
+            "when": "4001",
+            "model": {
+                "type": "model",
+                "model": "item/wings"
+            }
+        },
+        {
+            "when": "4002",
+            "model": {
+                "type": "model",
+                "model": "item/c40_shield"
+            }
+        },
+        {
+            "when": "4003",
+            "model": {
+                "type": "model",
+                "model": "item/wing_devil"
+            }
+        },
+        {
+            "when": "4004",
+            "model": {
+                "type": "model",
+                "model": "item/wings_devil"
+            }
+        },
+        {
+            "when": "4005",
+            "model": {
+                "type": "model",
+                "model": "item/c40_shield_devil"
+            }
+        },
+        {
+            "when": "4006",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/flandre/flandrewing2"
+            }
+        },
+        {
+            "when": "4007",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/flandre/flandrewing"
+            }
+        },
+        {
+            "when": "4008",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/flandre/shield"
+            }
+        },
+        {
+            "when": "4009",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/flandre/flandrehat"
+            }
+        },
+        {
+            "when": "4100",
+            "model": {
+                "type": "model",
+                "model": "item/horn1"
+            }
+        },
+        {
+            "when": "4101",
+            "model": {
+                "type": "model",
+                "model": "item/horn2"
+            }
+        },
+        {
+            "when": "4201",
+            "model": {
+                "type": "model",
+                "model": "item/coin2"
+            }
+        },
+        {
+            "when": "4202",
+            "model": {
+                "type": "model",
+                "model": "item/coin3"
+            }
+        },
+        {
+            "when": "4203",
+            "model": {
+                "type": "model",
+                "model": "item/coin4"
+            }
+        },
+                {
+            "when": "4204",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_sg/coin2"
+            }
+        },
+        {
+            "when": "4205",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_sg/coin3"
+            }
+        },
+        {
+            "when": "4206",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_sg/coin4"
+            }
+        },
+        {
+            "when": "4300",
+            "model": {
+                "type": "model",
+                "model": "item/changsub/face"
+            }
+        },
+        {
+            "when": "4301",
+            "model": {
+                "type": "model",
+                "model": "item/changsub/face2"
+            }
+        },
+        {
+            "when": "4400",
+            "model": {
+                "type": "model",
+                "model": "item/angelfall"
+            }
+        },
+                {
+            "when": "4402",
+            "model": {
+                "type": "model",
+                "model": "item/skybox_angelfall"
+            }
+        },
+        {
+            "when": "4401",
+            "model": {
+                "type": "model",
+                "model": "item/index_fire"
+            }
+        },
+        {
+            "when": "4500",
+            "model": {
+                "type": "model",
+                "model": "item/gas"
+            }
+        },
+        {
+            "when": "4501",
+            "model": {
+                "type": "model",
+                "model": "item/gas_sl"
+            }
+        },
+        {
+            "when": "4502",
+            "model": {
+                "type": "model",
+                "model": "item/spotlight"
+            }
+        },
+        {
+            "when": "4503",
+            "model": {
+                "type": "model",
+                "model": "item/spotlight2"
+            }
+        },
+        {
+            "when": "4504",
+            "model": {
+                "type": "model",
+                "model": "item/gas_beach"
+            }
+        },
+        {
+            "when": "4505",
+            "model": {
+                "type": "model",
+                "model": "item/summer_hat"
+            }
+        },
+        {
+            "when": "4600",
+            "model": {
+                "type": "model",
+                "model": "item/gravity_mine"
+            }
+        },
+        {
+            "when": "4700",
+            "model": {
+                "type": "model",
+                "model": "item/ytrail"
+            }
+        },
+        {
+            "when": "4701",
+            "model": {
+                "type": "model",
+                "model": "item/ytrail2"
+            }
+        },
+        {
+            "when": "4702",
+            "model": {
+                "type": "model",
+                "model": "item/ytrail3"
+            }
+        },
+        {
+            "when": "4800",
+            "model": {
+                "type": "model",
+                "model": "item/square1"
+            }
+        },
+        {
+            "when": "4801",
+            "model": {
+                "type": "model",
+                "model": "item/square2"
+            }
+        },
+        {
+            "when": "4802",
+            "model": {
+                "type": "model",
+                "model": "item/square3"
+            }
+        },
+        {
+            "when": "4803",
+            "model": {
+                "type": "model",
+                "model": "item/heart"
+            }
+        },
+        {
+            "when": "4804",
+            "model": {
+                "type": "model",
+                "model": "item/speaker"
+            }
+        },
+        {
+            "when": "4805",
+            "model": {
+                "type": "model",
+                "model": "item/speaker_rabbit"
+            }
+        },
+        {
+            "when": "4806",
+            "model": {
+                "type": "model",
+                "model": "item/rabbit"
+            }
+        },
+        {
+            "when": "4807",
+            "model": {
+                "type": "model",
+                "model": "item/heart_rabbit"
+            }
+        },
+        {
+            "when": "4900",
+            "model": {
+                "type": "model",
+                "model": "item/ao"
+            }
+        },
+        {
+            "when": "4901",
+            "model": {
+                "type": "model",
+                "model": "item/aka"
+            }
+        },
+        {
+            "when": "4902",
+            "model": {
+                "type": "model",
+                "model": "item/murasaki"
+            }
+        },
+        {
+            "when": "4903",
+            "model": {
+                "type": "model",
+                "model": "item/tenkai"
+            }
+        },
+        {
+            "when": "4904",
+            "model": {
+                "type": "model",
+                "model": "item/infinity"
+            }
+        },
+        {
+            "when": "4905",
+            "model": {
+                "type": "model",
+                "model": "item/ao_2"
+            }
+        },
+        {
+            "when": "4906",
+            "model": {
+                "type": "model",
+                "model": "item/sunglass1"
+            }
+        },
+        {
+            "when": "4999",
+            "model": {
+                "type": "model",
+                "model": "item/wheelchair"
+            }
+        },
+        {
+            "when": "5000",
+            "model": {
+                "type": "model",
+                "model": "item/chain2"
+            }
+        },
+        {
+            "when": "5001",
+            "model": {
+                "type": "model",
+                "model": "item/kbomb"
+            }
+        },
+        {
+            "when": "5002",
+            "model": {
+                "type": "model",
+                "model": "item/chain1"
+            }
+        },
+        {
+            "when": "5003",
+            "model": {
+                "type": "model",
+                "model": "item/kchain"
+            }
+        },
+        {
+            "when": "5100",
+            "model": {
+                "type": "model",
+                "model": "item/sukuna"
+            }
+        },
+        {
+            "when": "5101",
+            "model": {
+                "type": "model",
+                "model": "item/slash"
+            }
+        },
+        {
+            "when": "5102",
+            "model": {
+                "type": "model",
+                "model": "item/fuga"
+            }
+        },
+        {
+            "when": "5103",
+            "model": {
+                "type": "model",
+                "model": "item/shrine"
+            }
+        },
+        {
+            "when": "5104",
+            "model": {
+                "type": "model",
+                "model": "item/domain"
+            }
+        },
+        {
+            "when": "5105",
+            "model": {
+                "type": "model",
+                "model": "item/slash1"
+            }
+        },
+        {
+            "when": "5106",
+            "model": {
+                "type": "model",
+                "model": "item/slash2"
+            }
+        },
+        {
+            "when": "5107",
+            "model": {
+                "type": "model",
+                "model": "item/slash_s"
+            }
+        },
+        {
+            "when": "5108",
+            "model": {
+                "type": "model",
+                "model": "item/fuga2"
+            }
+        },
+        {
+            "when": "5109",
+            "model": {
+                "type": "model",
+                "model": "item/shrine2"
+            }
+        },
+        {
+            "when": "5110",
+            "model": {
+                "type": "model",
+                "model": "item/slash1_s"
+            }
+        },
+        {
+            "when": "5111",
+            "model": {
+                "type": "model",
+                "model": "item/bokma"
+            }
+        },
+        {
+            "when": "5112",
+            "model": {
+                "type": "model",
+                "model": "item/bokma2"
+            }
+        },
+        {
+            "when": "5113",
+            "model": {
+                "type": "model",
+                "model": "item/bokma3"
+            }
+        },
+        {
+            "when": "5300",
+            "model": {
+                "type": "model",
+                "model": "item/yuumi"
+            }
+        },
+        {
+            "when": "5301",
+            "model": {
+                "type": "model",
+                "model": "item/yuumiq"
+            }
+        },
+        {
+            "when": "5302",
+            "model": {
+                "type": "model",
+                "model": "item/yuubee"
+            }
+        },
+        {
+            "when": "5303",
+            "model": {
+                "type": "model",
+                "model": "item/bee"
+            }
+        },
+        {
+            "when": "5304",
+            "model": {
+                "type": "model",
+                "model": "item/muffin/muffin"
+            }
+        },
+        {
+            "when": "5305",
+            "model": {
+                "type": "model",
+                "model": "item/muffin/muffin_happy"
+            }
+        },
+                {
+            "when": "5306",
+            "model": {
+                "type": "model",
+                "model": "item/muffin/muffin_sad"
+            }
+        },
+                {
+            "when": "5307",
+            "model": {
+                "type": "model",
+                "model": "item/muffin/muffin_ult"
+            }
+        },
+        {
+            "when": "5308",
+            "model": {
+                "type": "model",
+                "model": "item/muffin/q"
+            }
+        },
+        {
+            "when": "5400",
+            "model": {
+                "type": "model",
+                "model": "item/tophat"
+            }
+        },
+        {
+            "when": "5401",
+            "model": {
+                "type": "model",
+                "model": "item/rmcard_3"
+            }
+        },
+        {
+            "when": "5402",
+            "model": {
+                "type": "model",
+                "model": "item/rm_card"
+            }
+        },
+        {
+            "when": "5403",
+            "model": {
+                "type": "model",
+                "model": "item/rings"
+            }
+        },
+        {
+            "when": "5404",
+            "model": {
+                "type": "model",
+                "model": "item/ring"
+            }
+        },
+        {
+            "when": "5405",
+            "model": {
+                "type": "model",
+                "model": "item/dove"
+            }
+        },
+        {
+            "when": "5406",
+            "model": {
+                "type": "model",
+                "model": "item/heartforlady"
+            }
+        },
+        {
+            "when": "5407",
+            "model": {
+                "type": "model",
+                "model": "item/rosecart"
+            }
+        },
+        {
+            "when": "5408",
+            "model": {
+                "type": "model",
+                "model": "item/tophat2"
+            }
+        },
+        {
+            "when": "5409",
+            "model": {
+                "type": "model",
+                "model": "item/rmcard_3_kid"
+            }
+        },
+        {
+            "when": "5410",
+            "model": {
+                "type": "model",
+                "model": "item/rm_card_kid"
+            }
+        },
+        {
+            "when": "5411",
+            "model": {
+                "type": "model",
+                "model": "item/rings2"
+            }
+        },
+        {
+            "when": "5412",
+            "model": {
+                "type": "model",
+                "model": "item/ring2"
+            }
+        },
+        {
+            "when": "5413",
+            "model": {
+                "type": "model",
+                "model": "item/dove2"
+            }
+        },
+        {
+            "when": "5414",
+            "model": {
+                "type": "model",
+                "model": "item/heartforlady2"
+            }
+        },
+        {
+            "when": "5415",
+            "model": {
+                "type": "model",
+                "model": "item/rosecart2"
+            }
+        },
+        {
+            "when": "5416",
+            "model": {
+                "type": "model",
+                "model": "item/gogh_sunflower"
+            }
+        },
+        {
+            "when": "5500",
+            "model": {
+                "type": "model",
+                "model": "item/samiragun2"
+            }
+        },
+        {
+            "when": "5501",
+            "model": {
+                "type": "model",
+                "model": "item/bullet"
+            }
+        },
+        {
+            "when": "5502",
+            "model": {
+                "type": "model",
+                "model": "item/gunshot"
+            }
+        },
+        {
+            "when": "5503",
+            "model": {
+                "type": "model",
+                "model": "item/gunshothit"
+            }
+        },
+        {
+            "when": "5504",
+            "model": {
+                "type": "model",
+                "model": "item/samiragun2_psy"
+            }
+        },
+        {
+            "when": "5505",
+            "model": {
+                "type": "model",
+                "model": "item/bullet_psy"
+            }
+        },
+        {
+            "when": "5506",
+            "model": {
+                "type": "model",
+                "model": "item/gunshot_psy"
+            }
+        },
+        {
+            "when": "5507",
+            "model": {
+                "type": "model",
+                "model": "item/gunshothit_psy"
+            }
+        },
+        {
+            "when": "5508",
+            "model": {
+                "type": "model",
+                "model": "item/samiragun2_soul"
+            }
+        },
+        {
+            "when": "5509",
+            "model": {
+                "type": "model",
+                "model": "item/bullet_soul"
+            }
+        },
+        {
+            "when": "5510",
+            "model": {
+                "type": "model",
+                "model": "item/gunshot_soul"
+            }
+        },
+        {
+            "when": "5511",
+            "model": {
+                "type": "model",
+                "model": "item/gunshothit_soul"
+            }
+        },
+        {
+            "when": "5512",
+            "model": {
+                "type": "model",
+                "model": "item/samirar_soul"
+            }
+        },
+        {
+            "when": "5600",
+            "model": {
+                "type": "model",
+                "model": "item/sandevistan"
+            }
+        },
+        {
+            "when": "5601",
+            "model": {
+                "type": "model",
+                "model": "item/sandevistan2"
+            }
+        },
+        {
+            "when": "5700",
+            "model": {
+                "type": "model",
+                "model": "item/mushroom"
+            }
+        },
+        {
+            "when": "5701",
+            "model": {
+                "type": "model",
+                "model": "item/beemo"
+            }
+        },
+        {
+            "when": "5800",
+            "model": {
+                "type": "model",
+                "model": "item/yone_sword1"
+            }
+        },
+        {
+            "when": "5801",
+            "model": {
+                "type": "model",
+                "model": "item/yone2_sword1"
+            }
+        },
+        {
+            "when": "5802",
+            "model": {
+                "type": "model",
+                "model": "item/yoneult"
+            }
+        },
+        {
+            "when": "5803",
+            "model": {
+                "type": "model",
+                "model": "item/yoneee"
+            }
+        },
+        {
+            "when": "5804",
+            "model": {
+                "type": "model",
+                "model": "item/yones_sword1"
+            }
+        },
+        {
+            "when": "5805",
+            "model": {
+                "type": "model",
+                "model": "item/yones2_sword1"
+            }
+        },
+        {
+            "when": "5806",
+            "model": {
+                "type": "model",
+                "model": "item/yoneult_s"
+            }
+        },
+        {
+            "when": "5807",
+            "model": {
+                "type": "model",
+                "model": "item/yoneee_s"
+            }
+        },
+        {
+            "when": "5808",
+            "model": {
+                "type": "model",
+                "model": "item/yone/yoneb_sword1"
+            }
+        },
+        {
+            "when": "5809",
+            "model": {
+                "type": "model",
+                "model": "item/yone/yoneb2_sword1"
+            }
+        },
+        {
+            "when": "5810",
+            "model": {
+                "type": "model",
+                "model": "item/yone/yoneult"
+            }
+        },
+        {
+            "when": "5811",
+            "model": {
+                "type": "model",
+                "model": "item/yone/yoneee"
+            }
+        },
+        {
+            "when": "5900",
+            "model": {
+                "type": "model",
+                "model": "item/hana"
+            }
+        },
+        {
+            "when": "5901",
+            "model": {
+                "type": "model",
+                "model": "item/mask"
+            }
+        },
+        {
+            "when": "5902",
+            "model": {
+                "type": "model",
+                "model": "item/revive"
+            }
+        },
+        {
+            "when": "5903",
+            "model": {
+                "type": "model",
+                "model": "item/horn"
+            }
+        },
+                {
+            "when": "5910",
+            "model": {
+                "type": "model",
+                "model": "item/makima/body"
+            }
+        },
+        {
+            "when": "5911",
+            "model": {
+                "type": "model",
+                "model": "item/makima/mask"
+            }
+        },
+        {
+            "when": "5912",
+            "model": {
+                "type": "model",
+                "model": "item/makima/revive"
+            }
+        },
+        {
+            "when": "5913",
+            "model": {
+                "type": "model",
+                "model": "item/makima/finger"
+            }
+        },
+                {
+            "when": "5914",
+            "model": {
+                "type": "model",
+                "model": "item/makima/chain"
+            }
+        },
+        {
+            "when": "6000",
+            "model": {
+                "type": "model",
+                "model": "item/viegocrown"
+            }
+        },
+        {
+            "when": "6001",
+            "model": {
+                "type": "model",
+                "model": "item/viegop"
+            }
+        },
+        {
+            "when": "6002",
+            "model": {
+                "type": "model",
+                "model": "item/viegocrown_soul"
+            }
+        },
+        {
+            "when": "6003",
+            "model": {
+                "type": "model",
+                "model": "item/viegop_soul"
+            }
+        },
+        {
+            "when": "6004",
+            "model": {
+                "type": "model",
+                "model": "item/viegor_soul"
+            }
+        },
+        {
+            "when": "6300",
+            "model": {
+                "type": "model",
+                "model": "item/poison_arrow"
+            }
+        },
+        {
+            "when": "6301",
+            "model": {
+                "type": "model",
+                "model": "item/poison_sphere"
+            }
+        },
+        {
+            "when": "6302",
+            "model": {
+                "type": "model",
+                "model": "item/cupids_arrow"
+            }
+        },
+        {
+            "when": "6303",
+            "model": {
+                "type": "model",
+                "model": "item/cupid_sphere"
+            }
+        },
+                {
+            "when": "6304",
+            "model": {
+                "type": "model",
+                "model": "item/raven"
+            }
+        },
+        {
+            "when": "6305",
+            "model": {
+                "type": "model",
+                "model": "item/raven_dove"
+            }
+        },
+                {
+            "when": "6310",
+            "model": {
+                "type": "model",
+                "model": "item/devils_bow"
+            }
+        },
+        {
+            "when": "6311",
+            "model": {
+                "type": "model",
+                "model": "item/cupids_bow"
+            }
+        },
+        {
+            "when": "6400",
+            "model": {
+                "type": "model",
+                "model": "item/fang"
+            }
+        },
+        {
+            "when": "6401",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/cirno/ribbon"
+            }
+        },
+        {
+            "when": "6402",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/cirno/wing"
+            }
+        },
+        {
+            "when": "6403",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/cirno/s1"
+            }
+        },
+        {
+            "when": "6404",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/cirno/g"
+            }
+        },
+        {
+            "when": "6500",
+            "model": {
+                "type": "model",
+                "model": "item/betty_ult"
+            }
+        },
+        {
+            "when": "6501",
+            "model": {
+                "type": "model",
+                "model": "item/betty_execute"
+            }
+        },
+        {
+            "when": "6502",
+            "model": {
+                "type": "model",
+                "model": "item/betty_execute2"
+            }
+        },
+        {
+            "when": "6503",
+            "model": {
+                "type": "model",
+                "model": "item/betty_soul"
+            }
+        },
+        {
+            "when": "6504",
+            "model": {
+                "type": "model",
+                "model": "item/evilface"
+            }
+        },
+        {
+            "when": "6508",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/remilia/hat"
+            }
+        },
+        {
+            "when": "6509",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/remilia/wing"
+            }
+        },
+        {
+            "when": "6510",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/remilia/2"
+            }
+        },
+        {
+            "when": "6511",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/remilia/execute"
+            }
+        },
+        {
+            "when": "6512",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/remilia/execute2"
+            }
+        },
+        {
+            "when": "6513",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/remilia/soul"
+            }
+        },
+        {
+            "when": "6514",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/remilia/remilia"
+            }
+        },
+        {
+            "when": "6600",
+            "model": {
+                "type": "model",
+                "model": "item/jinx2"
+            }
+        },
+        {
+            "when": "6601",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_zap"
+            }
+        },
+        {
+            "when": "6602",
+            "model": {
+                "type": "model",
+                "model": "item/missile"
+            }
+        },
+        {
+            "when": "6603",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_rocket"
+            }
+        },
+        {
+            "when": "6604",
+            "model": {
+                "type": "model",
+                "model": "item/jix_trap"
+            }
+        },
+        {
+            "when": "6605",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_bullet"
+            }
+        },
+                {
+            "when": "6606",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_sg/jinx2"
+            }
+        },
+        {
+            "when": "6607",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_sg/zap"
+            }
+        },
+        {
+            "when": "6608",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_sg/missile"
+            }
+        },
+        {
+            "when": "6609",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_sg/rocket"
+            }
+        },
+        {
+            "when": "6610",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_sg/bullet"
+            }
+        },
+        {
+            "when": "6700",
+            "model": {
+                "type": "model",
+                "model": "item/vil"
+            }
+        },
+                {
+            "when": "6710",
+            "model": {
+                "type": "model",
+                "model": "item/garnet/left"
+            }
+        },
+                {
+            "when": "6711",
+            "model": {
+                "type": "model",
+                "model": "item/garnet/glass"
+            }
+        },
+        {
+            "when": "6800",
+            "model": {
+                "type": "model",
+                "model": "item/roland/mask"
+            }
+        },
+        {
+            "when": "6801",
+            "model": {
+                "type": "model",
+                "model": "item/roland/mace"
+            }
+        },
+        {
+            "when": "6802",
+            "model": {
+                "type": "model",
+                "model": "item/roland/crystal"
+            }
+        },
+                {
+            "when": "6841",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/mace"
+            }
+        },
+        {
+            "when": "6842",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/crystal"
+            }
+        },
+                {
+            "when": "6843",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/duran"
+            }
+        },
+        {
+            "when": "6803",
+            "model": {
+                "type": "model",
+                "model": "item/effect/roland/2/0"
+            }
+        },
+        {
+            "when": "6804",
+            "model": {
+                "type": "model",
+                "model": "item/effect/roland/3/0"
+            }
+        },
+        {
+            "when": "6805",
+            "model": {
+                "type": "model",
+                "model": "item/effect/roland/4/0"
+            }
+        },
+        {
+            "when": "6806",
+            "model": {
+                "type": "model",
+                "model": "item/effect/roland/6/0"
+            }
+        },
+                {
+            "when": "6823",
+            "model": {
+                "type": "model",
+                "model": "item/effect/roland2/2/0"
+            }
+        },
+        {
+            "when": "6824",
+            "model": {
+                "type": "model",
+                "model": "item/effect/roland2/3/0"
+            }
+        },
+        {
+            "when": "6825",
+            "model": {
+                "type": "model",
+                "model": "item/effect/roland2/4/0"
+            }
+        },
+        {
+            "when": "6826",
+            "model": {
+                "type": "model",
+                "model": "item/effect/roland2/6/0"
+            }
+        },
+        {
+            "when": "6810",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card1"
+            }
+        },
+        {
+            "when": "6811",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card2"
+            }
+        },
+        {
+            "when": "6812",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card3"
+            }
+        },
+        {
+            "when": "6813",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card4"
+            }
+        },
+        {
+            "when": "6814",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card5"
+            }
+        },
+        {
+            "when": "6815",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card6"
+            }
+        },
+        {
+            "when": "6816",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card7"
+            }
+        },
+        {
+            "when": "6817",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card8"
+            }
+        },
+        {
+            "when": "6818",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card9"
+            }
+        },
+        {
+            "when": "6819",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card10"
+            }
+        },
+                {
+            "when": "6830",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card1"
+            }
+        },
+        {
+            "when": "6831",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card2"
+            }
+        },
+        {
+            "when": "6832",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card3"
+            }
+        },
+        {
+            "when": "6833",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card4"
+            }
+        },
+        {
+            "when": "6834",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card5"
+            }
+        },
+        {
+            "when": "6835",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card6"
+            }
+        },
+        {
+            "when": "6836",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card7"
+            }
+        },
+        {
+            "when": "6837",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card8"
+            }
+        },
+        {
+            "when": "6838",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card9"
+            }
+        },
+        {
+            "when": "6839",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card10"
+            }
+        },
+        {
+            "when": "6900",
+            "model": {
+                "type": "model",
+                "model": "item/mistq"
+            }
+        },
+        {
+            "when": "6901",
+            "model": {
+                "type": "model",
+                "model": "item/mistq2"
+            }
+        },
+        {
+            "when": "6902",
+            "model": {
+                "type": "model",
+                "model": "item/fog"
+            }
+        },
+        {
+            "when": "6903",
+            "model": {
+                "type": "model",
+                "model": "item/mist"
+            }
+        },
+        {
+            "when": "6904",
+            "model": {
+                "type": "model",
+                "model": "item/mistslash"
+            }
+        },
+        {
+            "when": "6905",
+            "model": {
+                "type": "model",
+                "model": "item/mist/mist"
+            }
+        },
+        {
+            "when": "6906",
+            "model": {
+                "type": "model",
+                "model": "item/mist/mistslash"
+            }
+        },
+        {
+            "when": "7000",
+            "model": {
+                "type": "model",
+                "model": "item/jemshield"
+            }
+        },
+        {
+            "when": "7001",
+            "model": {
+                "type": "model",
+                "model": "item/jem1"
+            }
+        },
+        {
+            "when": "7002",
+            "model": {
+                "type": "model",
+                "model": "item/jem2"
+            }
+        },
+        {
+            "when": "7003",
+            "model": {
+                "type": "model",
+                "model": "item/jem3"
+            }
+        },
+        {
+            "when": "7004",
+            "model": {
+                "type": "model",
+                "model": "item/jemcertain"
+            }
+        },
+        {
+            "when": "7005",
+            "model": {
+                "type": "model",
+                "model": "item/jemult"
+            }
+        },
+        {
+            "when": "7006",
+            "model": {
+                "type": "model",
+                "model": "item/jemult2"
+            }
+        },
+        {
+            "when": "7007",
+            "model": {
+                "type": "model",
+                "model": "item/castle"
+            }
+        },
+                {
+            "when": "7010",
+            "model": {
+                "type": "model",
+                "model": "item/jewel_midnightsun/shield"
+            }
+        },
+        {
+            "when": "7011",
+            "model": {
+                "type": "model",
+                "model": "item/jewel_midnightsun/1"
+            }
+        },
+        {
+            "when": "7012",
+            "model": {
+                "type": "model",
+                "model": "item/jewel_midnightsun/2"
+            }
+        },
+        {
+            "when": "7013",
+            "model": {
+                "type": "model",
+                "model": "item/jewel_midnightsun/3"
+            }
+        },
+        {
+            "when": "7014",
+            "model": {
+                "type": "model",
+                "model": "item/jewel_midnightsun/certain"
+            }
+        },
+        {
+            "when": "7015",
+            "model": {
+                "type": "model",
+                "model": "item/jewel_midnightsun/ult"
+            }
+        },
+        {
+            "when": "7016",
+            "model": {
+                "type": "model",
+                "model": "item/jewel_midnightsun/ult2"
+            }
+        },
+        {
+            "when": "7017",
+            "model": {
+                "type": "model",
+                "model": "item/jewel_midnightsun/skybox"
+            }
+        },
+        {
+            "when": "7100",
+            "model": {
+                "type": "model",
+                "model": "item/fishshark"
+            }
+        },
+        {
+            "when": "7101",
+            "model": {
+                "type": "model",
+                "model": "item/whirlpool"
+            }
+        },
+            {
+            "when": "7102",
+            "model": {
+                "type": "model",
+                "model": "item/fishdolphin"
+            }
+        },
+            {
+            "when": "7103",
+            "model": {
+                "type": "model",
+                "model": "item/mei_hat"
+            }
+        },
+        {
+            "when": "7200",
+            "model": {
+                "type": "model",
+                "model": "item/satgat"
+            }
+        },
+        {
+            "when": "7201",
+            "model": {
+                "type": "model",
+                "model": "item/yukcham"
+            }
+        },
+        {
+            "when": "7202",
+            "model": {
+                "type": "model",
+                "model": "item/satgat_slash"
+            }
+        },
+        {
+            "when": "7203",
+            "model": {
+                "type": "model",
+                "model": "item/goldan"
+            }
+        },
+        {
+            "when": "7204",
+            "model": {
+                "type": "model",
+                "model": "item/satgat_slash2"
+            }
+        },
+        {
+            "when": "7205",
+            "model": {
+                "type": "model",
+                "model": "item/jipgong"
+            }
+        },
+        {
+            "when": "7300",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/manwol"
+            }
+        },
+        {
+            "when": "7301",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/mark"
+            }
+        },
+        {
+            "when": "7302",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/cut_circle"
+            }
+        },
+        {
+            "when": "7303",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/gravity_ball"
+            }
+        },
+        {
+            "when": "7304",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/gravity_ball2"
+            }
+        },
+        {
+            "when": "7305",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/ult1"
+            }
+        },
+        {
+            "when": "7306",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/ult2"
+            }
+        },
+        {
+            "when": "7307",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/ult3"
+            }
+        },
+        {
+            "when": "7308",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/ult4"
+            }
+        },
+        {
+            "when": "7309",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/ult5"
+            }
+        },
+        {
+            "when": "7310",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/mark2"
+            }
+        },
+                {
+            "when": "7320",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/manwol"
+            }
+        },
+        {
+            "when": "7321",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/mark"
+            }
+        },
+        {
+            "when": "7322",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/cut_circle"
+            }
+        },
+        {
+            "when": "7323",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/gravity_ball"
+            }
+        },
+        {
+            "when": "7324",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/gravity_ball2"
+            }
+        },
+        {
+            "when": "7325",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/ult1"
+            }
+        },
+        {
+            "when": "7326",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/ult2"
+            }
+        },
+        {
+            "when": "7327",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/ult3"
+            }
+        },
+        {
+            "when": "7328",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/ult4"
+            }
+        },
+        {
+            "when": "7329",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/ult5"
+            }
+        },
+        {
+            "when": "7330",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/mark2"
+            }
+        },
+        {
+            "when": "7400",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/star"
+            }
+        },
+        {
+            "when": "7401",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/portal"
+            }
+        },
+        {
+            "when": "7402",
+            "model": {
+                "type": "model",
+                "model": "item/sleep"
+            }
+        },
+        {
+            "when": "7403",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/wings2"
+            }
+        },
+        {
+            "when": "7404",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/ball"
+            }
+        },
+        {
+            "when": "7405",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/bubble"
+            }
+        },
+        {
+            "when": "7406",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/coconut"
+            }
+        },
+        {
+            "when": "7407",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/pool"
+            }
+        },
+        {
+            "when": "7408",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/beachball"
+            }
+        },
+        {
+            "when": "7409",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/seagull"
+            }
+        },
+        {
+            "when": "7410",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/ball2"
+            }
+        },
+        {
+            "when": "7411",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/bubble_pool"
+            }
+        },
+                {
+            "when": "7420",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/lock"
+            }
+        },
+        {
+            "when": "7421",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/vortex"
+            }
+        },
+        {
+            "when": "7422",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/hack"
+            }
+        },
+        {
+            "when": "7423",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/bluescreen"
+            }
+        },
+        {
+            "when": "7424",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/ball3"
+            }
+        },
+        {
+            "when": "7425",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/bubble_cyber"
+            }
+        },
+        {
+            "when": "7500",
+            "model": {
+                "type": "model",
+                "model": "item/gwenneedle"
+            }
+        },
+        {
+            "when": "7501",
+            "model": {
+                "type": "model",
+                "model": "item/gwenneedle_soul"
+            }
+        },
+        {
+            "when": "7600",
+            "model": {
+                "type": "model",
+                "model": "item/queen/lancer_body"
+            }
+        },
+        {
+            "when": "7601",
+            "model": {
+                "type": "model",
+                "model": "item/queen/lancer_leftarm"
+            }
+        },
+        {
+            "when": "7602",
+            "model": {
+                "type": "model",
+                "model": "item/queen/lancer_rightarm"
+            }
+        },
+        {
+            "when": "7603",
+            "model": {
+                "type": "model",
+                "model": "item/queen/ball"
+            }
+        },
+        {
+            "when": "7604",
+            "model": {
+                "type": "model",
+                "model": "item/queen/laser"
+            }
+        },
+        {
+            "when": "7605",
+            "model": {
+                "type": "model",
+                "model": "item/queen/camera"
+            }
+        },
+        {
+            "when": "7606",
+            "model": {
+                "type": "model",
+                "model": "item/queen/cage"
+            }
+        },
+        {
+            "when": "7607",
+            "model": {
+                "type": "model",
+                "model": "item/queen/chair"
+            }
+        },
+        {
+            "when": "7608",
+            "model": {
+                "type": "model",
+                "model": "item/queen/flash"
+            }
+        },
+        {
+            "when": "7609",
+            "model": {
+                "type": "model",
+                "model": "item/queen/banana"
+            }
+        },
+        {
+            "when": "7700",
+            "model": {
+                "type": "model",
+                "model": "item/holy_star"
+            }
+        },
+        {
+            "when": "7701",
+            "model": {
+                "type": "model",
+                "model": "item/holy_leaf"
+            }
+        },
+        {
+            "when": "7702",
+            "model": {
+                "type": "model",
+                "model": "item/holy_sphere"
+            }
+        },
+        {
+            "when": "7703",
+            "model": {
+                "type": "model",
+                "model": "item/glinda/tiara"
+            }
+        },
+        {
+            "when": "7704",
+            "model": {
+                "type": "model",
+                "model": "item/glinda/star"
+            }
+        },
+        {
+            "when": "7705",
+            "model": {
+                "type": "model",
+                "model": "item/glinda/base"
+            }
+        },
+        {
+            "when": "7706",
+            "model": {
+                "type": "model",
+                "model": "item/glinda/sphere"
+            }
+        },
+        {
+            "when": "7800",
+            "model": {
+                "type": "model",
+                "model": "item/darkhold"
+            }
+        },
+        {
+            "when": "7801",
+            "model": {
+                "type": "model",
+                "model": "item/hex_circle"
+            }
+        },
+        {
+            "when": "7802",
+            "model": {
+                "type": "model",
+                "model": "item/witch_hand"
+            }
+        },
+        {
+            "when": "7803",
+            "model": {
+                "type": "model",
+                "model": "item/red_lightning"
+            }
+        },
+        {
+            "when": "7804",
+            "model": {
+                "type": "model",
+                "model": "item/runestone"
+            }
+        },
+        {
+            "when": "7805",
+            "model": {
+                "type": "model",
+                "model": "item/runestone_on"
+            }
+        },
+        {
+            "when": "7806",
+            "model": {
+                "type": "model",
+                "model": "item/witch_sp"
+            }
+        },
+        {
+            "when": "7807",
+            "model": {
+                "type": "model",
+                "model": "item/wicked/hat"
+            }
+        },
+        {
+            "when": "7808",
+            "model": {
+                "type": "model",
+                "model": "item/wicked/book"
+            }
+        },
+        {
+            "when": "7809",
+            "model": {
+                "type": "model",
+                "model": "item/wicked/hex"
+            }
+        },
+        {
+            "when": "7810",
+            "model": {
+                "type": "model",
+                "model": "item/wicked/hex_circle"
+            }
+        },
+        {
+            "when": "7811",
+            "model": {
+                "type": "model",
+                "model": "item/wicked/hand"
+            }
+        },
+        {
+            "when": "7812",
+            "model": {
+                "type": "model",
+                "model": "item/wicked/lightning"
+            }
+        },
+        {
+            "when": "7813",
+            "model": {
+                "type": "model",
+                "model": "item/wicked/runestone_on"
+            }
+        },
+        {
+            "when": "7814",
+            "model": {
+                "type": "model",
+                "model": "item/wicked/sp"
+            }
+        },
+        {
+            "when": "7900",
+            "model": {
+                "type": "model",
+                "model": "item/exor_nail"
+            }
+        },
+        {
+            "when": "7901",
+            "model": {
+                "type": "model",
+                "model": "item/exor_nail2"
+            }
+        },
+        {
+            "when": "7902",
+            "model": {
+                "type": "model",
+                "model": "item/exor_nail3"
+            }
+        },
+        {
+            "when": "7903",
+            "model": {
+                "type": "model",
+                "model": "item/exor_chain"
+            }
+        },
+        {
+            "when": "7904",
+            "model": {
+                "type": "model",
+                "model": "item/exor_cross"
+            }
+        },
+        {
+            "when": "7905",
+            "model": {
+                "type": "model",
+                "model": "item/bongma"
+            }
+        },
+        {
+            "when": "7906",
+            "model": {
+                "type": "model",
+                "model": "item/mabang"
+            }
+        },
+        {
+            "when": "7907",
+            "model": {
+                "type": "model",
+                "model": "item/fed"
+            }
+        },
+        {
+            "when": "7908",
+            "model": {
+                "type": "model",
+                "model": "item/exor_gadget"
+            }
+        },
+                {
+            "when": "8020",
+            "model": {
+                "type": "model",
+                "model": "item/jhin_project/bullet1"
+            }
+        },
+        {
+            "when": "8021",
+            "model": {
+                "type": "model",
+                "model": "item/jhin_project/bullet2"
+            }
+        },
+        {
+            "when": "8022",
+            "model": {
+                "type": "model",
+                "model": "item/jhin_project/q"
+            }
+        },
+        {
+            "when": "8023",
+            "model": {
+                "type": "model",
+                "model": "item/jhin_project/w"
+            }
+        },
+        {
+            "when": "8024",
+            "model": {
+                "type": "model",
+                "model": "item/jhin_project/lotus"
+            }
+        },
+        {
+            "when": "8025",
+            "model": {
+                "type": "model",
+                "model": "item/jhin_project/r1"
+            }
+        },
+        {
+            "when": "8026",
+            "model": {
+                "type": "model",
+                "model": "item/jhin_project/r2"
+            }
+        },
+        {
+            "when": "8027",
+            "model": {
+                "type": "model",
+                "model": "item/jhin_project/r3"
+            }
+        },
+        {
+            "when": "8000",
+            "model": {
+                "type": "model",
+                "model": "item/jhin/bullet"
+            }
+        },
+        {
+            "when": "8001",
+            "model": {
+                "type": "model",
+                "model": "item/jhin/bullet2"
+            }
+        },
+        {
+            "when": "8002",
+            "model": {
+                "type": "model",
+                "model": "item/jhin/q"
+            }
+        },
+        {
+            "when": "8003",
+            "model": {
+                "type": "model",
+                "model": "item/jhin/w"
+            }
+        },
+        {
+            "when": "8004",
+            "model": {
+                "type": "model",
+                "model": "item/jhin/lotus"
+            }
+        },
+        {
+            "when": "8005",
+            "model": {
+                "type": "model",
+                "model": "item/jhin/r1"
+            }
+        },
+        {
+            "when": "8006",
+            "model": {
+                "type": "model",
+                "model": "item/jhin/r2"
+            }
+        },
+        {
+            "when": "8007",
+            "model": {
+                "type": "model",
+                "model": "item/jhin/r3"
+            }
+        },
+        {
+            "when": "8008",
+            "model": {
+                "type": "model",
+                "model": "item/maestro/wig"
+            }
+        },
+        {
+            "when": "8009",
+            "model": {
+                "type": "model",
+                "model": "item/maestro/violin"
+            }
+        },
+        {
+            "when": "8010",
+            "model": {
+                "type": "model",
+                "model": "item/maestro/note1"
+            }
+        },
+        {
+            "when": "8011",
+            "model": {
+                "type": "model",
+                "model": "item/maestro/note2"
+            }
+        },
+        {
+            "when": "8012",
+            "model": {
+                "type": "model",
+                "model": "item/maestro/w"
+            }
+        },
+        {
+            "when": "8013",
+            "model": {
+                "type": "model",
+                "model": "item/maestro/lotus"
+            }
+        },
+        {
+            "when": "8014",
+            "model": {
+                "type": "model",
+                "model": "item/maestro/r1"
+            }
+        },
+        {
+            "when": "8015",
+            "model": {
+                "type": "model",
+                "model": "item/maestro/r2"
+            }
+        },
+        {
+            "when": "8016",
+            "model": {
+                "type": "model",
+                "model": "item/maestro/r3"
+            }
+        },
+        {
+            "when": "8017",
+            "model": {
+                "type": "model",
+                "model": "item/maestro/bullet"
+            }
+        },
+        {
+            "when": "8018",
+            "model": {
+                "type": "model",
+                "model": "item/maestro/bullet2"
+            }
+        },
+        {
+            "when": "8019",
+            "model": {
+                "type": "model",
+                "model": "item/maestro/violin_stand"
+            }
+        },
+        {
+            "when": "8100",
+            "model": {
+                "type": "model",
+                "model": "item/hwei_ink"
+            }
+        },
+        {
+            "when": "8101",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/p"
+            }
+        },
+        {
+            "when": "8102",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/w_1"
+            }
+        },
+        {
+            "when": "8103",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/w_2"
+            }
+        },
+        {
+            "when": "8104",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/face"
+            }
+        },
+        {
+            "when": "8105",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/e_2"
+            }
+        },
+        {
+            "when": "8106",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/e_2_2"
+            }
+        },
+        {
+            "when": "8107",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/e_3"
+            }
+        },
+        {
+            "when": "8108",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/e_3_2"
+            }
+        },
+        {
+            "when": "8109",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/r"
+            }
+        },
+        {
+            "when": "8200",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/slice1"
+            }
+        },
+        {
+            "when": "8201",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/slice2"
+            }
+        },
+        {
+            "when": "8202",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/slice3"
+            }
+        },
+        {
+            "when": "8203",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/guard"
+            }
+        },
+        {
+            "when": "8204",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/sp_smoke1"
+            }
+        },
+        {
+            "when": "8205",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/sp_smoke2"
+            }
+        },
+        {
+            "when": "8206",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/sp_smoke3"
+            }
+        },
+        {
+            "when": "8207",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/sp_line"
+            }
+        },
+        {
+            "when": "8208",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/sp"
+            }
+        },
+        {
+            "when": "8209",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/sp_trail"
+            }
+        },
+        {
+            "when": "8210",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/sppar1"
+            }
+        },
+        {
+            "when": "8211",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/sppar2"
+            }
+        },
+        {
+            "when": "8212",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/sp_notes"
+            }
+        },
+        {
+            "when": "8213",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/sp_line2"
+            }
+        },
+        {
+            "when": "8220",
+            "model": {
+                "type": "model",
+                "model": "item/angela/slice1"
+            }
+        },
+        {
+            "when": "8221",
+            "model": {
+                "type": "model",
+                "model": "item/angela/slice2"
+            }
+        },
+        {
+            "when": "8222",
+            "model": {
+                "type": "model",
+                "model": "item/angela/slice3"
+            }
+        },
+        {
+            "when": "8223",
+            "model": {
+                "type": "model",
+                "model": "item/angela/guard"
+            }
+        },
+        {
+            "when": "8224",
+            "model": {
+                "type": "model",
+                "model": "item/angela/sp_smoke1"
+            }
+        },
+        {
+            "when": "8225",
+            "model": {
+                "type": "model",
+                "model": "item/angela/sp_smoke2"
+            }
+        },
+        {
+            "when": "8227",
+            "model": {
+                "type": "model",
+                "model": "item/angela/sp_line"
+            }
+        },
+        {
+            "when": "8228",
+            "model": {
+                "type": "model",
+                "model": "item/angela/sp"
+            }
+        },
+        {
+            "when": "8229",
+            "model": {
+                "type": "model",
+                "model": "item/angela/sp_trail"
+            }
+        },
+        {
+            "when": "8230",
+            "model": {
+                "type": "model",
+                "model": "item/angela/finale"
+            }
+        },
+        {
+            "when": "8231",
+            "model": {
+                "type": "model",
+                "model": "item/angela/mask"
+            }
+        },
+        {
+            "when": "8232",
+            "model": {
+                "type": "model",
+                "model": "item/angela/sp_notes"
+            }
+        },
+        {
+            "when": "8233",
+            "model": {
+                "type": "model",
+                "model": "item/angela/sp_line2"
+            }
+        },
+        {
+            "when": "8234",
+            "model": {
+                "type": "model",
+                "model": "item/angela/curtain"
+            }
+        },
+        {
+            "when": "8235",
+            "model": {
+                "type": "model",
+                "model": "item/angela/curtain_left"
+            }
+        },
+        {
+            "when": "8236",
+            "model": {
+                "type": "model",
+                "model": "item/angela/curtain_right"
+            }
+        },
+        {
+            "when": "8300",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/katana_left"
+            }
+        },
+        {
+            "when": "8301",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/katana_left2"
+            }
+        },
+        {
+            "when": "8302",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/mono_left"
+            }
+        },
+        {
+            "when": "8303",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/mono_left2"
+            }
+        },
+        {
+            "when": "8304",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/both_left"
+            }
+        },
+        {
+            "when": "8305",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/both_left2"
+            }
+        },
+        {
+            "when": "8306",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/w2"
+            }
+        },
+        {
+            "when": "8307",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/w3"
+            }
+        },
+        {
+            "when": "8308",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/slash"
+            }
+        },
+        {
+            "when": "8309",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/ult"
+            }
+        },
+        {
+            "when": "8310",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/slash2"
+            }
+        },
+        {
+            "when": "8311",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/thrust"
+            }
+        },
+        {
+            "when": "8400",
+            "model": {
+                "type": "model",
+                "model": "item/yumin/q"
+            }
+        },
+        {
+            "when": "8401",
+            "model": {
+                "type": "model",
+                "model": "item/yumin/w"
+            }
+        },
+        {
+            "when": "8402",
+            "model": {
+                "type": "model",
+                "model": "item/yumin/e"
+            }
+        },
+        {
+            "when": "8403",
+            "model": {
+                "type": "model",
+                "model": "item/yumin/ult"
+            }
+        },
+        {
+            "when": "8404",
+            "model": {
+                "type": "model",
+                "model": "item/yumin/crane"
+            }
+        },
+        {
+            "when": "8405",
+            "model": {
+                "type": "model",
+                "model": "item/yumin/scroll"
+            }
+        },
+        {
+            "when": "8406",
+            "model": {
+                "type": "model",
+                "model": "item/yumin/painting"
+            }
+        },
+        {
+            "when": "8500",
+            "model": {
+                "type": "model",
+                "model": "item/camilo/q"
+            }
+        },
+        {
+            "when": "8501",
+            "model": {
+                "type": "model",
+                "model": "item/camilo/r"
+            }
+        },
+        {
+            "when": "8502",
+            "model": {
+                "type": "model",
+                "model": "item/camilo/spotlight"
+            }
+        },
+        {
+            "when": "8600",
+            "model": {
+                "type": "model",
+                "model": "item/agent/white"
+            }
+        },
+        {
+            "when": "8601",
+            "model": {
+                "type": "model",
+                "model": "item/agent/blue"
+            }
+        },
+        {
+            "when": "8602",
+            "model": {
+                "type": "model",
+                "model": "item/agent/hologram"
+            }
+        },
+        {
+            "when": "8603",
+            "model": {
+                "type": "model",
+                "model": "item/agent/scanner"
+            }
+        },
+        {
+            "when": "8604",
+            "model": {
+                "type": "model",
+                "model": "item/agent/target"
+            }
+        },
+        {
+            "when": "8605",
+            "model": {
+                "type": "model",
+                "model": "item/agent/swordult"
+            }
+        },
+        {
+            "when": "8700",
+            "model": {
+                "type": "model",
+                "model": "item/eiden_w"
+            }
+        },
+        {
+            "when": "8701",
+            "model": {
+                "type": "model",
+                "model": "item/eiden_bolt"
+            }
+        },
+        {
+            "when": "8702",
+            "model": {
+                "type": "model",
+                "model": "item/eiden_r"
+            }
+        },
+        {
+            "when": "8800",
+            "model": {
+                "type": "model",
+                "model": "item/kaneki/centipede"
+            }
+        },
+        {
+            "when": "8801",
+            "model": {
+                "type": "model",
+                "model": "item/kaneki/centipede_head"
+            }
+        },
+        {
+            "when": "8802",
+            "model": {
+                "type": "model",
+                "model": "item/kaneki/w"
+            }
+        },
+        {
+            "when": "8803",
+            "model": {
+                "type": "model",
+                "model": "item/kaneki/ult"
+            }
+        },
+        {
+            "when": "8804",
+            "model": {
+                "type": "model",
+                "model": "item/kaneki/mask"
+            }
+        },
+        {
+            "when": "8805",
+            "model": {
+                "type": "model",
+                "model": "item/kaneki/mask2"
+            }
+        },
+        {
+            "when": "8900",
+            "model": {
+                "type": "model",
+                "model": "item/clove/hairpin"
+            }
+        },
+        {
+            "when": "8901",
+            "model": {
+                "type": "model",
+                "model": "item/clove/bfly"
+            }
+        },
+        {
+            "when": "8902",
+            "model": {
+                "type": "model",
+                "model": "item/clove/bfly2"
+            }
+        },
+        {
+            "when": "8903",
+            "model": {
+                "type": "model",
+                "model": "item/clove/smoke"
+            }
+        },
+        {
+            "when": "8904",
+            "model": {
+                "type": "model",
+                "model": "item/clove/smoke_white"
+            }
+        },
+        {
+            "when": "8905",
+            "model": {
+                "type": "model",
+                "model": "item/clove/smoke_pink"
+            }
+        },
+        {
+            "when": "8906",
+            "model": {
+                "type": "model",
+                "model": "item/clove/cloud"
+            }
+        },
+        {
+            "when": "8907",
+            "model": {
+                "type": "model",
+                "model": "item/clove/damage"
+            }
+        },
+        {
+            "when": "8908",
+            "model": {
+                "type": "model",
+                "model": "item/clove/heal"
+            }
+        },
+        {
+            "when": "8909",
+            "model": {
+                "type": "model",
+                "model": "item/clove/wall"
+            }
+        },
+        {
+            "when": "8910",
+            "model": {
+                "type": "model",
+                "model": "item/clove/wall_white"
+            }
+        },
+        {
+            "when": "8911",
+            "model": {
+                "type": "model",
+                "model": "item/clove/wall_pink"
+            }
+        },
+        {
+            "when": "9000",
+            "model": {
+                "type": "model",
+                "model": "item/time/hat"
+            }
+        },
+        {
+            "when": "9001",
+            "model": {
+                "type": "model",
+                "model": "item/time/death"
+            }
+        },
+        {
+            "when": "9002",
+            "model": {
+                "type": "model",
+                "model": "item/time/glow"
+            }
+        },
+        {
+            "when": "9003",
+            "model": {
+                "type": "model",
+                "model": "item/time/ripped"
+            }
+        },
+        {
+            "when": "9004",
+            "model": {
+                "type": "model",
+                "model": "item/time/clock"
+            }
+        },
+        {
+            "when": "9005",
+            "model": {
+                "type": "model",
+                "model": "item/time/needle"
+            }
+        },
+        {
+            "when": "9006",
+            "model": {
+                "type": "model",
+                "model": "item/time/circle"
+            }
+        },
+        {
+            "when": "9007",
+            "model": {
+                "type": "model",
+                "model": "item/time/return"
+            }
+        },
+        {
+            "when": "9008",
+            "model": {
+                "type": "model",
+                "model": "item/time/record"
+            }
+        },
+        {
+            "when": "9009",
+            "model": {
+                "type": "model",
+                "model": "item/time/watch"
+            }
+        },
+        {
+            "when": "9100",
+            "model": {
+                "type": "model",
+                "model": "item/akshan_boomerang"
+            }
+        },
+        {
+            "when": "9101",
+            "model": {
+                "type": "model",
+                "model": "item/akshan_hook"
+            }
+        },
+        {
+            "when": "9102",
+            "model": {
+                "type": "model",
+                "model": "item/akshan_rope"
+            }
+        },
+        {
+            "when": "9110",
+            "model": {
+                "type": "model",
+                "model": "item/ame/boomerang"
+            }
+        },
+        {
+            "when": "9111",
+            "model": {
+                "type": "model",
+                "model": "item/ame/hook"
+            }
+        },
+        {
+            "when": "9112",
+            "model": {
+                "type": "model",
+                "model": "item/ame/rope"
+            }
+        },
+        {
+            "when": "9200",
+            "model": {
+                "type": "model",
+                "model": "item/bomber/collar"
+            }
+        },
+        {
+            "when": "9201",
+            "model": {
+                "type": "model",
+                "model": "item/bomber/collar2"
+            }
+        },
+        {
+            "when": "9202",
+            "model": {
+                "type": "model",
+                "model": "item/bomber/pin"
+            }
+        },
+        {
+            "when": "9203",
+            "model": {
+                "type": "model",
+                "model": "item/bomber/reze"
+            }
+        },
+                {
+            "when": "9204",
+            "model": {
+                "type": "model",
+                "model": "item/bomber/spark"
+            }
+        },
+                        {
+            "when": "9205",
+            "model": {
+                "type": "model",
+                "model": "item/bomber/missile"
+            }
+        },
+        {
+            "when": "9300",
+            "model": {
+                "type": "model",
+                "model": "item/assasin/head"
+            }
+        },
+        {
+            "when": "9301",
+            "model": {
+                "type": "model",
+                "model": "item/assasin/p1"
+            }
+        },
+        {
+            "when": "9302",
+            "model": {
+                "type": "model",
+                "model": "item/assasin/p2"
+            }
+        },
+        {
+            "when": "9303",
+            "model": {
+                "type": "model",
+                "model": "item/assasin/p3"
+            }
+        },
+        {
+            "when": "9304",
+            "model": {
+                "type": "model",
+                "model": "item/assasin/log"
+            }
+        },
+        {
+            "when": "9310",
+            "model": {
+                "type": "model",
+                "model": "item/assasin_oguma/mask"
+            }
+        },
+        {
+            "when": "9311",
+            "model": {
+                "type": "model",
+                "model": "item/assasin_oguma/p1"
+            }
+        },
+        {
+            "when": "9312",
+            "model": {
+                "type": "model",
+                "model": "item/assasin_oguma/p2"
+            }
+        },
+        {
+            "when": "9313",
+            "model": {
+                "type": "model",
+                "model": "item/assasin_oguma/p3"
+            }
+        },
+        {
+            "when": "9314",
+            "model": {
+                "type": "model",
+                "model": "item/assasin_oguma/log"
+            }
+        },
+        {
+            "when": "9400",
+            "model": {
+                "type": "model",
+                "model": "item/chara/slash"
+            }
+        },
+        {
+            "when": "9401",
+            "model": {
+                "type": "model",
+                "model": "item/chara/face"
+            }
+        },
+        {
+            "when": "9402",
+            "model": {
+                "type": "model",
+                "model": "item/chara/ult1show"
+            }
+        },
+        {
+            "when": "9403",
+            "model": {
+                "type": "model",
+                "model": "item/chara/ult2show"
+            }
+        },
+        {
+            "when": "9404",
+            "model": {
+                "type": "model",
+                "model": "item/chara/ult1"
+            }
+        },
+        {
+            "when": "9405",
+            "model": {
+                "type": "model",
+                "model": "item/chara/ult2"
+            }
+        },
+        {
+            "when": "9406",
+            "model": {
+                "type": "model",
+                "model": "item/chara/ult"
+            }
+        },
+        {
+            "when": "9500",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/righthand"
+            }
+        },
+        {
+            "when": "9501",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/dtrighthand"
+            }
+        },
+        {
+            "when": "9502",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/braverighthand"
+            }
+        },
+        {
+            "when": "9503",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/jusrighthand"
+            }
+        },
+        {
+            "when": "9504",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/kindrighthand"
+            }
+        },
+        {
+            "when": "9505",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/ptrighthand"
+            }
+        },
+        {
+            "when": "9506",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/intrighthand"
+            }
+        },
+        {
+            "when": "9507",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/perighthand"
+            }
+        },
+        {
+            "when": "9508",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/beam"
+            }
+        },
+        {
+            "when": "9509",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/beam_pv"
+            }
+        },
+                {
+            "when": "9510",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/bomb"
+            }
+        },
+        {
+            "when": "9511",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/bomb_pv"
+            }
+        },
+                {
+            "when": "9512",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/bullet"
+            }
+        },
+        {
+            "when": "9513",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/bullet_pv"
+            }
+        },
+        {
+            "when": "9514",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/shield"
+            }
+        },
+        {
+            "when": "9515",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/shield_pv"
+            }
+        },
+                {
+            "when": "9516",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/integritysaw"
+            }
+        },
+        {
+            "when": "9517",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/saw_pv"
+            }
+        },
+            {
+            "when": "9518",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/blackhole"
+            }
+        },
+        {
+            "when": "9519",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/blaster0"
+            }
+        },
+        {
+            "when": "9520",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/blaster1"
+            }
+        },
+                {
+            "when": "9521",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/poly0"
+            }
+        },
+        {
+            "when": "9522",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/poly1"
+            }
+        },
+        {
+            "when": "9600",
+            "model": {
+                "type": "model",
+                "model": "item/blackhole/face"
+            }
+        },
+        {
+            "when": "9601",
+            "model": {
+                "type": "model",
+                "model": "item/blackhole/face2"
+            }
+        },
+        {
+            "when": "9602",
+            "model": {
+                "type": "model",
+                "model": "item/blackhole/cape"
+            }
+        },
+        {
+            "when": "9603",
+            "model": {
+                "type": "model",
+                "model": "item/blackhole/ring"
+            }
+        },
+        {
+            "when": "9604",
+            "model": {
+                "type": "model",
+                "model": "item/blackhole/galaxy"
+            }
+        },
+                {
+            "when": "9614",
+            "model": {
+                "type": "model",
+                "model": "item/blackhole/kambodia"
+            }
+        },
+        {
+            "when": "9605",
+            "model": {
+                "type": "model",
+                "model": "item/blackhole/star"
+            }
+        },
+        {
+            "when": "9606",
+            "model": {
+                "type": "model",
+                "model": "item/blackhole/wing"
+            }
+        },
+        
+                {
+            "when": "9607",
+            "model": {
+                "type": "model",
+                "model": "item/blackhole/pentagon"
+            }
+        },
+                        {
+            "when": "9617",
+            "model": {
+                "type": "model",
+                "model": "item/cardi/cardi"
+            }
+        },
+                {
+            "when": "9610",
+            "model": {
+                "type": "model",
+                "model": "item/cardi/lip"
+            }
+        },
+        {
+            "when": "9611",
+            "model": {
+                "type": "model",
+                "model": "item/cardi/lip_open"
+            }
+        },
+        {
+            "when": "9612",
+            "model": {
+                "type": "model",
+                "model": "item/cardi/whip2"
+            }
+        },
+        {
+            "when": "9613",
+            "model": {
+                "type": "model",
+                "model": "item/cardi/ring"
+            }
+        },
+        {
+            "when": "9624",
+            "model": {
+                "type": "model",
+                "model": "item/cardi/room"
+            }
+        },
+        {
+            "when": "9615",
+            "model": {
+                "type": "model",
+                "model": "item/cardi/face"
+            }
+        },
+        {
+            "when": "9700",
+            "model": {
+                "type": "model",
+                "model": "item/lancer/spade"
+            }
+        },
+        {
+            "when": "9701",
+            "model": {
+                "type": "model",
+                "model": "item/lancer/bike"
+            }
+        },
+        {
+            "when": "9702",
+            "model": {
+                "type": "model",
+                "model": "item/lancer/bike2"
+            }
+        },
+        {
+            "when": "9703",
+            "model": {
+                "type": "model",
+                "model": "item/lancer/bike3"
+            }
+        },
+                {
+            "when": "9704",
+            "model": {
+                "type": "model",
+                "model": "item/lancer/bike4"
+            }
+        },
+                {
+            "when": "9710",
+            "model": {
+                "type": "model",
+                "model": "item/lancer_akira/spade_1"
+            }
+        },
+                        {
+            "when": "9712",
+            "model": {
+                "type": "model",
+                "model": "item/lancer_akira/spade_2"
+            }
+        },
+                        {
+            "when": "9713",
+            "model": {
+                "type": "model",
+                "model": "item/lancer_akira/spade_3"
+            }
+        },
+        {
+            "when": "9711",
+            "model": {
+                "type": "model",
+                "model": "item/lancer_akira/bike"
+            }
+        },
+                {
+            "when": "9800",
+            "model": {
+                "type": "model",
+                "model": "item/noelle/icicle"
+            }
+        },
+        {
+            "when": "9801",
+            "model": {
+                "type": "model",
+                "model": "item/noelle/icedrop"
+            }
+        },
+        {
+            "when": "9900",
+            "model": {
+                "type": "model",
+                "model": "item/knight/knife"
+            }
+        },
+        {
+            "when": "9901",
+            "model": {
+                "type": "model",
+                "model": "item/knight/star"
+            }
+        },
+        {
+            "when": "9902",
+            "model": {
+                "type": "model",
+                "model": "item/knight/slash"
+            }
+        },
+        {
+            "when": "9903",
+            "model": {
+                "type": "model",
+                "model": "item/knight/orb"
+            }
+        },
+        {
+            "when": "9904",
+            "model": {
+                "type": "model",
+                "model": "item/knight/fountain"
+            }
+        },
+                {
+            "when": "9905",
+            "model": {
+                "type": "model",
+                "model": "item/knight/fountain_stone"
+            }
+        },
+        {
+            "when": "9906",
+            "model": {
+                "type": "model",
+                "model": "item/knight/eye"
+            }
+        },
+        {
+            "when": "9907",
+            "model": {
+                "type": "model",
+                "model": "item/knight/hand"
+            }
+        },
+        {
+            "when": "9908",
+            "model": {
+                "type": "model",
+                "model": "item/knight/spawn"
+            }
+        },
+                {
+            "when": "9909",
+            "model": {
+                "type": "model",
+                "model": "item/knight/skybox"
+            }
+        },
+            {
+            "when": "10000",
+            "model": {
+                "type": "model",
+                "model": "item/casette/head"
+            }
+        },
+                    {
+            "when": "10010",
+            "model": {
+                "type": "model",
+                "model": "item/casette/head_1"
+            }
+        },
+                            {
+            "when": "10020",
+            "model": {
+                "type": "model",
+                "model": "item/casette/head_2"
+            }
+        },
+                            {
+            "when": "10030",
+            "model": {
+                "type": "model",
+                "model": "item/casette/head_3"
+            }
+        },
+        {
+            "when": "10001",
+            "model": {
+                "type": "model",
+                "model": "item/casette/disc1"
+            }
+        },
+        {
+            "when": "10002",
+            "model": {
+                "type": "model",
+                "model": "item/casette/disc2"
+            }
+        },
+        {
+            "when": "10003",
+            "model": {
+                "type": "model",
+                "model": "item/casette/disc3"
+            }
+        },
+        {
+            "when": "10004",
+            "model": {
+                "type": "model",
+                "model": "item/casette/disc4"
+            }
+        },
+        {
+            "when": "10005",
+            "model": {
+                "type": "model",
+                "model": "item/casette/disc5"
+            }
+        },
+                {
+            "when": "10006",
+            "model": {
+                "type": "model",
+                "model": "item/casette/disc6"
+            }
+        },
+        {
+            "when": "10007",
+            "model": {
+                "type": "model",
+                "model": "item/casette/disc7"
+            }
+        },
+        {
+            "when": "10008",
+            "model": {
+                "type": "model",
+                "model": "item/casette/disc8"
+            }
+        },
+        {
+            "when": "10009",
+            "model": {
+                "type": "model",
+                "model": "item/casette/disc9"
+            }
+        },
+                {
+            "when": "10100",
+            "model": {
+                "type": "model",
+                "model": "item/leonardo/effect"
+            }
+        },
+        {
+            "when": "10101",
+            "model": {
+                "type": "model",
+                "model": "item/leonardo/portal"
+            }
+        },
+                {
+            "when": "10110",
+            "model": {
+                "type": "model",
+                "model": "item/rick/effect"
+            }
+        },
+                {
+            "when": "10111",
+            "model": {
+                "type": "model",
+                "model": "item/rick/portal2"
+            }
+        },
+                        {
+            "when": "10112",
+            "model": {
+                "type": "model",
+                "model": "item/rick/eyepatch"
+            }
+        },
+        {
+            "when": "10200",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/shelldon"
+            }
+        },
+        {
+            "when": "10201",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/missile"
+            }
+        },
+                {
+            "when": "10202",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/missile2"
+            }
+        },
+                {
+            "when": "10203",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/laser"
+            }
+        },
+                {
+            "when": "10204",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/circle"
+            }
+        },
+        {
+            "when": "10205",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/goggle"
+            }
+        },
+            {
+            "when": "10206",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/circle2"
+            }
+        },
+        {
+            "when": "10207",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/laser2"
+            }
+        },
+        {
+            "when": "10300",
+            "model": {
+                "type": "model",
+                "model": "item/raphael/body"
+            }
+        },
+            {
+            "when": "10400",
+            "model": {
+                "type": "model",
+                "model": "item/mikey/fundo_tip"
+            }
+        },
+        {
+            "when": "10410",
+            "model": {
+                "type": "model",
+                "model": "item/mikey/nunchuk_tip"
+            }
+        },
+        {
+            "when": "10401",
+            "model": {
+                "type": "model",
+                "model": "item/mikey/chain"
+            }
+        },
+        {
+            "when": "10402",
+            "model": {
+                "type": "model",
+                "model": "item/mikey/chain2"
+            }
+        },
+                {
+            "when": "10414",
+            "model": {
+                "type": "model",
+                "model": "item/csm/chainsaw"
+            }
+        },
+                        {
+            "when": "10413",
+            "model": {
+                "type": "model",
+                "model": "item/csm/pochita"
+            }
+        },
+                {
+            "when": "10411",
+            "model": {
+                "type": "model",
+                "model": "item/csm/chain"
+            }
+        },
+        {
+            "when": "10412",
+            "model": {
+                "type": "model",
+                "model": "item/csm/chain2"
+            }
+        },
+                    {
+            "when": "10500",
+            "model": {
+                "type": "model",
+                "model": "item/actor/glass"
+            }
+        },
+            {
+            "when": "10501",
+            "model": {
+                "type": "model",
+                "model": "item/actor/redcarpet"
+            }
+        },
+        {
+            "when": "10502",
+            "model": {
+                "type": "model",
+                "model": "item/actor/box"
+            }
+        },
+                            {
+            "when": "10510",
+            "model": {
+                "type": "model",
+                "model": "item/icespice/wig"
+            }
+        },
+        {
+            "when": "10512",
+            "model": {
+                "type": "model",
+                "model": "item/icespice/spongebob"
+            }
+        },      
+        {
+            "when": "10600",
+            "model": {
+                "type": "model",
+                "model": "item/deadlock/chargerifle"
+            }
+        },
+        {
+            "when": "10601",
+            "model": {
+                "type": "model",
+                "model": "item/deadlock/orb"
+            }
+        },
+            {
+            "when": "10700",
+            "model": {
+                "type": "model",
+                "model": "item/dimension/scouter"
+            }
+        },
+                    {
+            "when": "10701",
+            "model": {
+                "type": "model",
+                "model": "item/dimension/scouter2"
+            }
+        },
+        {
+            "when": "10702",
+            "model": {
+                "type": "model",
+                "model": "item/dimension/vortex"
+            }
+        },
+        {
+            "when": "10703",
+            "model": {
+                "type": "model",
+                "model": "item/dimension/orb1"
+            }
+        },
+                {
+            "when": "10704",
+            "model": {
+                "type": "model",
+                "model": "item/dimension/orb2"
+            }
+        },
+                {
+            "when": "10712",
+            "model": {
+                "type": "model",
+                "model": "item/rick/portal"
+            }
+        },
+        {
+            "when": "10713",
+            "model": {
+                "type": "model",
+                "model": "item/rick/orb"
+            }
+        },
+                {
+            "when": "10800",
+            "model": {
+                "type": "model",
+                "model": "item/giyuu/slash"
+            }
+        },
+                {
+            "when": "10801",
+            "model": {
+                "type": "model",
+                "model": "item/giyuu/yongso"
+            }
+        },
+                        {
+            "when": "11000",
+            "model": {
+                "type": "model",
+                "model": "item/khun/headband"
+            }
+        },
+                {
+            "when": "11001",
+            "model": {
+                "type": "model",
+                "model": "item/khun/briefcase"
+            }
+        },
+                {
+            "when": "11002",
+            "model": {
+                "type": "model",
+                "model": "item/khun/lighthouse"
+            }
+        },
+                        {
+            "when": "11003",
+            "model": {
+                "type": "model",
+                "model": "item/khun/ennacore"
+            }
+        },
+                {
+            "when": "11004",
+            "model": {
+                "type": "model",
+                "model": "item/khun/core"
+            }
+        },
+                        {
+            "when": "11012",
+            "model": {
+                "type": "model",
+                "model": "item/khun/lamp"
+            }
+        },
+                        {
+            "when": "11013",
+            "model": {
+                "type": "model",
+                "model": "item/khun/ennacore2"
+            }
+        },
+                {
+            "when": "11014",
+            "model": {
+                "type": "model",
+                "model": "item/khun/core2"
+            }
+        },
+            {
+            "when": "11100",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/cube"
+            }
+        },
+            {
+            "when": "11101",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/push"
+            }
+        },
+                    {
+            "when": "11102",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/matter1"
+            }
+        },
+            {
+            "when": "11103",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/matter2"
+            }
+        },
+                    {
+            "when": "11104",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/test"
+            }
+        },
+                    {
+            "when": "11110",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/chess/iron_nugget"
+            }
+        },
+                    {
+            "when": "11111",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/chess/leather"
+            }
+        },
+                {
+            "when": "11112",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/chess/nautilus_shell"
+            }
+        },
+                {
+            "when": "11113",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/chess/nether_brick"
+            }
+        },
+                {
+            "when": "11114",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/chess/brick"
+            }
+        },
+                            {
+            "when": "11115",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/chess/gold_nugget"
+            }
+        },
+                    {
+            "when": "11116",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/chess/rabbit_hide"
+            }
+        },
+                {
+            "when": "11117",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/chess/flint"
+            }
+        },
+                {
+            "when": "11118",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/chess/prismarine_crystals"
+            }
+        },
+                {
+            "when": "11119",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/chess/prismarine_shard"
+            }
+        },
+                        {
+            "when": "11200",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/eye"
+            }
+        },
+            {
+            "when": "11201",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/spell1"
+            }
+        },
+                    {
+            "when": "11202",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/spell2"
+            }
+        },
+                    {
+            "when": "11203",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/spell3"
+            }
+        },
+                    {
+            "when": "11204",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/spell4"
+            }
+        },
+                    {
+            "when": "11205",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/spell5"
+            }
+        },
+                    {
+            "when": "11206",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/spell6"
+            }
+        },
+                            {
+            "when": "11266",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/skybox"
+            }
+        },
+                    {
+            "when": "11207",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/spell7"
+            }
+        },
+                    {
+            "when": "11208",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/spell8"
+            }
+        },
+                    {
+            "when": "11209",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/spell9"
+            }
+        },
+                    {
+            "when": "11210",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/spell10"
+            }
+        },
+                            {
+            "when": "11211",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/spell11"
+            }
+        },
+                            {
+            "when": "11212",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/spell12"
+            }
+        },
+                {
+            "when": "11300",
+            "model": {
+                "type": "model",
+                "model": "item/gansu/mask"
+            }
+        },
+                        {
+            "when": "11301",
+            "model": {
+                "type": "model",
+                "model": "item/gansu/w"
+            }
+        },
+                        {
+            "when": "11400",
+            "model": {
+                "type": "model",
+                "model": "item/lucian/lucian2"
+            }
+        },
+                        {
+            "when": "11401",
+            "model": {
+                "type": "model",
+                "model": "item/lucian/bullet"
+            }
+        },
+                                {
+            "when": "11402",
+            "model": {
+                "type": "model",
+                "model": "item/lucian/w"
+            }
+        },
+                                {
+            "when": "11500",
+            "model": {
+                "type": "model",
+                "model": "item/akali/p"
+            }
+        },
+                        {
+            "when": "11501",
+            "model": {
+                "type": "model",
+                "model": "item/akali/q"
+            }
+        },
+                                {
+            "when": "11502",
+            "model": {
+                "type": "model",
+                "model": "item/akali/e"
+            }
+        },
+                                {
+            "when": "11503",
+            "model": {
+                "type": "model",
+                "model": "item/akali/mark"
+            }
+        },
+                                {
+            "when": "11504",
+            "model": {
+                "type": "model",
+                "model": "item/akali/ult"
+            }
+        },
+                                        {
+            "when": "11510",
+            "model": {
+                "type": "model",
+                "model": "item/akali/kama"
+            }
+        },
+                        {
+            "when": "11511",
+            "model": {
+                "type": "model",
+                "model": "item/akali/kama2"
+            }
+        },
+                                {
+            "when": "11512",
+            "model": {
+                "type": "model",
+                "model": "item/akali/kama3"
+            }
+        },
+                                {
+            "when": "11513",
+            "model": {
+                "type": "model",
+                "model": "item/akali/kama4"
+            }
+        },
+                                {
+            "when": "11514",
+            "model": {
+                "type": "model",
+                "model": "item/akali/kama5"
+            }
+        },
+            {
+            "when": "11520",
+            "model": {
+                "type": "model",
+                "model": "item/akali/kama_invis"
+            }
+        },
+                    {
+            "when": "11600",
+            "model": {
+                "type": "model",
+                "model": "item/prism/point"
+            }
+        },
+                            {
+            "when": "11601",
+            "model": {
+                "type": "model",
+                "model": "item/prism/beam"
+            }
+        },
+                                    {
+            "when": "11602",
+            "model": {
+                "type": "model",
+                "model": "item/prism/body"
+            }
+        },
+                                    {
+            "when": "11603",
+            "model": {
+                "type": "model",
+                "model": "item/prism/shard1"
+            }
+        },
+                                    {
+            "when": "11604",
+            "model": {
+                "type": "model",
+                "model": "item/prism/shard2"
+            }
+        },
+                                    {
+            "when": "11605",
+            "model": {
+                "type": "model",
+                "model": "item/prism/spike"
+            }
+        },
+                                            {
+            "when": "11606",
+            "model": {
+                "type": "model",
+                "model": "item/prism/cloud"
+            }
+        },
+                                            {
+            "when": "11607",
+            "model": {
+                "type": "model",
+                "model": "item/prism/cloud2"
+            }
+        },
+                {
+            "when": "11610",
+            "model": {
+                "type": "model",
+                "model": "item/prism/goggle"
+            }
+        },
+                        {
+            "when": "11609",
+            "model": {
+                "type": "model",
+                "model": "item/prism/goggle_ult"
+            }
+        },
+                                {
+            "when": "11700",
+            "model": {
+                "type": "model",
+                "model": "item/chef/slash"
+            }
+        },
+                                        {
+            "when": "11701",
+            "model": {
+                "type": "model",
+                "model": "item/chef/salt"
+            }
+        },
+                                                        {
+            "when": "11720",
+            "model": {
+                "type": "model",
+                "model": "item/chef/hat"
+            }
+        },
+                                                {
+            "when": "11721",
+            "model": {
+                "type": "model",
+                "model": "item/chef/salt_thai"
+            }
+        },
+                                        {
+            "when": "11702",
+            "model": {
+                "type": "model",
+                "model": "item/chef/pepper"
+            }
+        },
+                                        {
+            "when": "11703",
+            "model": {
+                "type": "model",
+                "model": "item/chef/oil"
+            }
+        },
+                                                {
+            "when": "11704",
+            "model": {
+                "type": "model",
+                "model": "item/chef/stove"
+            }
+        },
+                                                        {
+            "when": "11705",
+            "model": {
+                "type": "model",
+                "model": "item/chef/stove2"
+            }
+        },
+                                                                {
+            "when": "11725",
+            "model": {
+                "type": "model",
+                "model": "item/chef/stove2_thai"
+            }
+        },
+                                                {
+            "when": "11710",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food1"
+            }
+        },
+                                        {
+            "when": "11711",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food2"
+            }
+        },
+                                        {
+            "when": "11712",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food3"
+            }
+        },
+                                        {
+            "when": "11713",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food4"
+            }
+        },
+                {
+            "when": "11714",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food5"
+            }
+        },
+            {
+            "when": "11800",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/slash/0"
+            }
+        },
+                    {
+            "when": "11810",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/slash_bottom/0"
+            }
+        },
+                    {
+            "when": "11801",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/slash/1"
+            }
+        },
+                    {
+            "when": "11811",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/slash_bottom/1"
+            }
+        },
+                    {
+            "when": "11802",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/slash/2"
+            }
+        },
+                    {
+            "when": "11812",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/slash_bottom/2"
+            }
+        },
+                    {
+            "when": "11803",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/slash/3"
+            }
+        },
+                    {
+            "when": "11813",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/slash_bottom/3"
+            }
+        },
+                    {
+            "when": "11804",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/slash/4"
+            }
+        },
+                    {
+            "when": "11814",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/slash_bottom/4"
+            }
+        },
+                    {
+            "when": "11806",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/ult/1"
+            }
+        },
+                                    {
+            "when": "11900",
+            "model": {
+                "type": "model",
+                "model": "item/vecna/thorn"
+            }
+        },
+                                    {
+            "when": "11901",
+            "model": {
+                "type": "model",
+                "model": "item/vecna/vine"
+            }
+        },
+                                    {
+            "when": "11902",
+            "model": {
+                "type": "model",
+                "model": "item/vecna/gate"
+            }
+        },
+                                            {
+            "when": "11903",
+            "model": {
+                "type": "model",
+                "model": "item/vecna/demo"
+            }
+        },
+                            {
+            "when": "11905",
+            "model": {
+                "type": "model",
+                "model": "item/vecna/skybox"
+            }
+        },
+                                            {
+            "when": "12000",
+            "model": {
+                "type": "model",
+                "model": "item/angelic/jump"
+            }
+        },
+                                    {
+            "when": "12001",
+            "model": {
+                "type": "model",
+                "model": "item/angelic/star"
+            }
+        },
+                                    {
+            "when": "12002",
+            "model": {
+                "type": "model",
+                "model": "item/angelic/magiccircle"
+            }
+        },
+                                            {
+            "when": "12003",
+            "model": {
+                "type": "model",
+                "model": "item/angelic/spotlight"
+            }
+        },
+                        {
+            "when": "12100",
+            "model": {
+                "type": "model",
+                "model": "item/limbo/waterfall"
+            }
+        },
+                    {
+            "when": "12101",
+            "model": {
+                "type": "model",
+                "model": "item/limbo/slash"
+            }
+        },
+                    {
+            "when": "12102",
+            "model": {
+                "type": "model",
+                "model": "item/limbo/box"
+            }
+        },
+                        {
+            "when": "12103",
+            "model": {
+                "type": "model",
+                "model": "item/limbo/thorn"
+            }
+        },
+                                {
+            "when": "12104",
+            "model": {
+                "type": "model",
+                "model": "item/limbo/square"
+            }
+        },
+                                        {
+            "when": "12105",
+            "model": {
+                "type": "model",
+                "model": "item/limbo/skybox"
+            }
+        },
+                                        {
+            "when": "12110",
+            "model": {
+                "type": "model",
+                "model": "item/limbo/wp"
+            }
+        },
+                                                {
+            "when": "12200",
+            "model": {
+                "type": "model",
+                "model": "item/iroha/equalizer"
+            }
+        },
+                    {
+            "when": "12300",
+            "model": {
+                "type": "model",
+                "model": "item/kaguya/hammer"
+            }
+        },
+                        {
+            "when": "12301",
+            "model": {
+                "type": "model",
+                "model": "item/kaguya/rocket"
+            }
+        },
+                                {
+            "when": "12302",
+            "model": {
+                "type": "model",
+                "model": "item/kaguya/circle"
+            }
+        },
+                                            {
+            "when": "12400",
+            "model": {
+                "type": "model",
+                "model": "item/gag/glove"
+            }
+        },
+                                {
+            "when": "12401",
+            "model": {
+                "type": "model",
+                "model": "item/gag/smile"
+            }
+        },
+                                {
+            "when": "12402",
+            "model": {
+                "type": "model",
+                "model": "item/gag/laugh"
+            }
+        },
+                                        {
+            "when": "12403",
+            "model": {
+                "type": "model",
+                "model": "item/gag/grandpiano"
+            }
+        },
+                                                {
+            "when": "12404",
+            "model": {
+                "type": "model",
+                "model": "item/gag/truck"
+            }
+        },
+                                                        {
+            "when": "12405",
+            "model": {
+                "type": "model",
+                "model": "item/gag/glove_invis"
+            }
+        },
+                            {
+            "when": "12500",
+            "model": {
+                "type": "model",
+                "model": "item/higuruma/evidence"
+            }
+        },
+                                    {
+            "when": "12501",
+            "model": {
+                "type": "model",
+                "model": "item/higuruma/domain"
+            }
+        },
+                                            {
+            "when": "12502",
+            "model": {
+                "type": "model",
+                "model": "item/higuruma/pedestool"
+            }
+        },
+                                            {
+            "when": "12503",
+            "model": {
+                "type": "model",
+                "model": "item/higuruma/judgeman"
+            }
+        },
+                                                    {
+            "when": "12504",
+            "model": {
+                "type": "model",
+                "model": "item/higuruma/balance"
+            }
+        },
+                                                            {
+            "when": "12505",
+            "model": {
+                "type": "model",
+                "model": "item/higuruma/deathpenalty"
+            }
+        },
+                {
+            "when": "12600",
+            "model": {
+                "type": "model",
+                "model": "item/stellar/star"
+            }
+        },
+                        {
+            "when": "12601",
+            "model": {
+                "type": "model",
+                "model": "item/stellar/ring"
+            }
+        },
+                        {
+            "when": "12602",
+            "model": {
+                "type": "model",
+                "model": "item/stellar/laser"
+            }
+        },
+                                {
+            "when": "12700",
+            "model": {
+                "type": "model",
+                "model": "item/alien/balloon"
+            }
+        },
+                                        {
+            "when": "12701",
+            "model": {
+                "type": "model",
+                "model": "item/alien/card"
+            }
+        },
+                                                {
+            "when": "12702",
+            "model": {
+                "type": "model",
+                "model": "item/alien/ufo"
+            }
+        },
+                                                {
+            "when": "12703",
+            "model": {
+                "type": "model",
+                "model": "item/alien/pole"
+            }
+        },
+                                                {
+            "when": "12704",
+            "model": {
+                "type": "model",
+                "model": "item/alien/bar"
+            }
+        },
+                            {
+            "when": "12800",
+            "model": {
+                "type": "model",
+                "model": "item/domina/blaster"
+            }
+        },
+                                    {
+            "when": "12801",
+            "model": {
+                "type": "model",
+                "model": "item/domina/par"
+            }
+        },
+                                    {
+            "when": "12802",
+            "model": {
+                "type": "model",
+                "model": "item/domina/crystal"
+            }
+        },
+                                            {
+            "when": "12810",
+            "model": {
+                "type": "model",
+                "model": "item/domina/shield/1"
+            }
+        },
+                                                    {
+            "when": "12811",
+            "model": {
+                "type": "model",
+                "model": "item/domina/shield/2"
+            }
+        },
+                                                    {
+            "when": "12812",
+            "model": {
+                "type": "model",
+                "model": "item/domina/shield/3"
+            }
+        },
+                                                    {
+            "when": "12813",
+            "model": {
+                "type": "model",
+                "model": "item/domina/shield/4"
+            }
+        },
+                                                    {
+            "when": "12814",
+            "model": {
+                "type": "model",
+                "model": "item/domina/shield/5"
+            }
+        },
+                                                    {
+            "when": "12815",
+            "model": {
+                "type": "model",
+                "model": "item/domina/shield/6"
+            }
+        },
+                                                    {
+            "when": "12816",
+            "model": {
+                "type": "model",
+                "model": "item/domina/shield/7"
+            }
+        },
+                                                    {
+            "when": "12817",
+            "model": {
+                "type": "model",
+                "model": "item/domina/shield/8"
+            }
+        },
+                                                    {
+            "when": "12818",
+            "model": {
+                "type": "model",
+                "model": "item/domina/shield/9"
+            }
+        },
+                                                    {
+            "when": "12819",
+            "model": {
+                "type": "model",
+                "model": "item/domina/shield/10"
+            }
+        },
+                                    {
+            "when": "12900",
+            "model": {
+                "type": "model",
+                "model": "item/chess/pawn"
+            }
+        },
+                                    {
+            "when": "12901",
+            "model": {
+                "type": "model",
+                "model": "item/chess/rook"
+            }
+        },
+                                    {
+            "when": "12902",
+            "model": {
+                "type": "model",
+                "model": "item/chess/queen"
+            }
+        },
+                                            {
+            "when": "12903",
+            "model": {
+                "type": "model",
+                "model": "item/chess/knight"
+            }
+        },
+                                                    {
+            "when": "13035",
+            "model": {
+                "type": "model",
+                "model": "item/lapis/wave"
+            }
+        },
+                            {
+            "when": "13100",
+            "model": {
+                "type": "model",
+                "model": "item/peridot/glasses"
+            }
+        },
+                                    {
+            "when": "13101",
+            "model": {
+                "type": "model",
+                "model": "item/peridot/finger1"
+            }
+        },
+                                    {
+            "when": "13102",
+            "model": {
+                "type": "model",
+                "model": "item/peridot/finger2"
+            }
+        },
+                                    {
+            "when": "13103",
+            "model": {
+                "type": "model",
+                "model": "item/peridot/lid"
+            }
+        },
+                                            {
+            "when": "13104",
+            "model": {
+                "type": "model",
+                "model": "item/peridot/emp"
+            }
+        },
+                                    {
+            "when": "13105",
+            "model": {
+                "type": "model",
+                "model": "item/peridot/robonoid"
+            }
+        },
+                                            {
+            "when": "13106",
+            "model": {
+                "type": "model",
+                "model": "item/peridot/robonoid_leg"
+            }
+        },
+                                                    {
+            "when": "13200",
+            "model": {
+                "type": "model",
+                "model": "item/killer/feather"
+            }
+        },
+                                                            {
+            "when": "13300",
+            "model": {
+                "type": "model",
+                "model": "item/tamer/babydragon/dragon_sit"
+            }
+        },
+                                                            {
+            "when": "13301",
+            "model": {
+                "type": "model",
+                "model": "item/tamer/net"
+            }
+        },
+                                    {
+            "when": "13302",
+            "model": {
+                "type": "model",
+                "model": "item/tamer/babydragon/dragon"
+            }
+        },
+                            {
+            "when": "13303",
+            "model": {
+                "type": "model",
+                "model": "item/tamer/bee"
+            }
+        },
+                                    {
+            "when": "13400",
+            "model": {
+                "type": "model",
+                "model": "item/kris/sword"
+            }
+        },
+                                            {
+            "when": "13401",
+            "model": {
+                "type": "model",
+                "model": "item/kris/tp"
+            }
+        },
+                                                    {
+            "when": "13402",
+            "model": {
+                "type": "model",
+                "model": "item/kris/skybox"
+            }
+        },
+        {
+            "when": "13800",
+            "model": {
+                "type": "model",
+                "model": "item/flowery/flowey"
+            }
+        },
+                                    {
+            "when": "13801",
+            "model": {
+                "type": "model",
+                "model": "item/flowery/pellet"
+            }
+        },
+                                    {
+            "when": "13802",
+            "model": {
+                "type": "model",
+                "model": "item/flowery/punch_center"
+            }
+        },
+                                    {
+            "when": "13803",
+            "model": {
+                "type": "model",
+                "model": "item/flowery/punch_petal"
+            }
+        },
+                                            {
+            "when": "13804",
+            "model": {
+                "type": "model",
+                "model": "item/flowery/petals"
+            }
+        },
+                                    {
+            "when": "13900",
+            "model": {
+                "type": "model",
+                "model": "item/arche/drill"
+            }
+        },
+                                    {
+            "when": "13901",
+            "model": {
+                "type": "model",
+                "model": "item/arche/artifact"
+            }
+        },
+                                    {
+            "when": "13902",
+            "model": {
+                "type": "model",
+                "model": "item/arche/artifact_open"
+            }
+        }
+    ]
+}
+}

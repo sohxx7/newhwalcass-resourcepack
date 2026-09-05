@@ -1,0 +1,259 @@
+{
+    "oversized_in_gui" : true,
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type":"model",
+            "model": "item/warped_fungus_on_a_stick"
+        
+    },
+    "cases": [
+        {
+            "when": "100",
+            "model": {
+                "type": "model",
+                "model": "item/reroll"
+            }
+        },
+        {
+            "when": "200",
+            "model": {
+                "type": "model",
+                "model": "item/check"
+            }
+        },
+        {
+            "when": "201",
+            "model": {
+                "type": "model",
+                "model": "item/oz/bazooka"
+            }
+        },
+        {
+            "when": "202",
+            "model": {
+                "type": "model",
+                "model": "item/oz/shield"
+            }
+        },
+        {
+            "when": "203",
+            "model": {
+                "type": "model",
+                "model": "item/wicked/hat"
+            }
+        },
+        {
+            "when": "1000",
+            "model": {
+                "type": "model",
+                "model": "item/cloak"
+            }
+        },
+        {
+            "when": "1001",
+            "model": {
+                "type": "model",
+                "model": "item/salvation"
+            }
+        },
+        {
+            "when": "1002",
+            "model": {
+                "type": "model",
+                "model": "item/stopwatch"
+            }
+        },
+        {
+            "when": "1100",
+            "model": {
+                "type": "model",
+                "model": "item/ward/ward1"
+            }
+        },
+        {
+            "when": "1200",
+            "model": {
+                "type": "model",
+                "model": "item/ward/ward2"
+            }
+        },
+        {
+            "when": "1300",
+            "model": {
+                "type": "model",
+                "model": "item/ward/ward3"
+            }
+        },
+        {
+            "when": "1400",
+            "model": {
+                "type": "model",
+                "model": "item/ward/ward4"
+            }
+        },
+        {
+            "when": "1500",
+            "model": {
+                "type": "model",
+                "model": "item/ward/ward5"
+            }
+        },
+        {
+            "when": "1600",
+            "model": {
+                "type": "model",
+                "model": "item/ward/ward6"
+            }
+        },
+        {
+            "when": "6901",
+            "model": {
+                "type": "model",
+                "model": "item/takopi/flake_zero"
+            }
+        },
+        {
+            "when": "6902",
+            "model": {
+                "type": "model",
+                "model": "item/takopi/wigovi"
+            }
+        },
+        {
+            "when": "6903",
+            "model": {
+                "type": "model",
+                "model": "item/takopi/fart"
+            }
+        },
+        {
+            "when": "6904",
+            "model": {
+                "type": "model",
+                "model": "item/takopi/oildrum"
+            }
+        },
+            {
+            "when": "6905",
+            "model": {
+                "type": "model",
+                "model": "item/takopi/camera"
+            }
+        },
+        {
+            "when": "6906",
+            "model": {
+                "type": "model",
+                "model": "item/takopi/ribbon"
+            }
+        },
+        {
+            "when": "6907",
+            "model": {
+                "type": "model",
+                "model": "item/takopi/wings"
+            }
+        },
+        {
+            "when": "6908",
+            "model": {
+                "type": "model",
+                "model": "item/takopi/box"
+            }
+        },
+                {
+            "when": "6909",
+            "model": {
+                "type": "model",
+                "model": "item/takopi/rocket"
+            }
+        },
+        {
+            "when": "8200",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/card/card1"
+            }
+        },
+        {
+            "when": "8201",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/card/card2"
+            }
+        },
+        {
+            "when": "8202",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/card/card3"
+            }
+        },
+        {
+            "when": "8203",
+            "model": {
+                "type": "model",
+                "model": "item/angela/card/card1"
+            }
+        },
+        {
+            "when": "8204",
+            "model": {
+                "type": "model",
+                "model": "item/angela/card/card2"
+            }
+        },
+        {
+            "when": "8205",
+            "model": {
+                "type": "model",
+                "model": "item/angela/card/card3"
+            }
+        },
+                {
+            "when": "12200",
+            "model": {
+                "type": "model",
+                "model": "item/iroha/mike"
+            }
+        },
+        {
+            "when": "13901",
+            "model": {
+                "type": "model",
+                "model": "item/arche/relic1"
+            }
+        },
+                                {
+            "when": "13902",
+            "model": {
+                "type": "model",
+                "model": "item/arche/relic2"
+            }
+        },
+                                {
+            "when": "13903",
+            "model": {
+                "type": "model",
+                "model": "item/arche/relic3"
+            }
+        },
+                                {
+            "when": "13904",
+            "model": {
+                "type": "model",
+                "model": "item/arche/relic4"
+            }
+        },
+                                {
+            "when": "13905",
+            "model": {
+                "type": "model",
+                "model": "item/arche/relic5"
+            }
+        }
+    ]
+}
+}

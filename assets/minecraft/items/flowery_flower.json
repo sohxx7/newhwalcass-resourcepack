@@ -1,0 +1,55 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/flowery/center",
+				"tints": [
+					{
+						"type": "minecraft:dye",
+						"default": 16777215
+					}
+				]
+			},
+			{
+				"type": "model",
+				"model": "item/flowery/petal1",
+				"tints": [
+					{
+						"type": "minecraft:dye",
+						"default": 16777215
+					}
+				]
+			},
+			{
+				"type": "model",
+				"model": "item/flowery/petal2",
+				"tints": [
+					{
+						"type": "minecraft:dye",
+						"default": 16777215
+					}
+				]
+			},			{
+				"type": "model",
+				"model": "item/flowery/petal3",
+				"tints": [
+					{
+						"type": "minecraft:dye",
+						"default": 16777215
+					}
+				]
+			},			{
+				"type": "model",
+				"model": "item/flowery/petal4",
+				"tints": [
+					{
+						"type": "minecraft:dye",
+						"default": 16777215
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "dor:item/char/rien/effect4_2"
+	},
+	"elements": [
+		{
+			"from": [5.15, 0, 3.2],
+			"to": [12.15, 0, 10.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.15, 10.3, 4]},
+			"faces": {
+				"up": {"uv": [16, 16, 0, 0], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#1"}
+			}
+		}
+	]
+}

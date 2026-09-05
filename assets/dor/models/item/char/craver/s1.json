@@ -1,0 +1,6 @@
+{
+	"parent": "dor:item/char/craver/s3",
+	"textures": {
+		"2": "dor:item/char/craver/s1"
+	}
+}

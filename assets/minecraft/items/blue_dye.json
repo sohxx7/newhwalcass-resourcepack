@@ -1,0 +1,216 @@
+{
+    "oversized_in_gui" : true,
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type":"model",
+            "model": "item/blue_dye"
+    },
+    "cases": [
+        {
+            "when": "100",
+            "model": {
+                "type": "model",
+                "model": "item/hwalcass_graffiti"
+            }
+        },
+        {
+            "when": "200",
+            "model": {
+                "type": "model",
+                "model": "item/reputation_graffiti"
+            }
+        },
+        {
+            "when": "300",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray3"
+            }
+        },
+        {
+            "when": "400",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray4"
+            }
+        },
+        {
+            "when": "500",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray5"
+            }
+        },
+        {
+            "when": "600",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray6"
+            }
+        },
+        {
+            "when": "700",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray7"
+            }
+        },
+        {
+            "when": "800",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray8"
+            }
+        },
+        {
+            "when": "900",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray9"
+            }
+        },
+        {
+            "when": "1000",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray10"
+            }
+        },
+        {
+            "when": "1100",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray11"
+            }
+        },
+        {
+            "when": "1200",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray12"
+            }
+        },
+        {
+            "when": "1300",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray13"
+            }
+        },
+        {
+            "when": "1400",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray14"
+            }
+        },
+        {
+            "when": "1500",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray15"
+            }
+        },
+        {
+            "when": "1600",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray16"
+            }
+        },
+        {
+            "when": "1700",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray17"
+            }
+        },
+        {
+            "when": "1800",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray18"
+            }
+        },
+        {
+            "when": "1900",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray19"
+            }
+        },
+        {
+            "when": "2000",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray20"
+            }
+        },
+        {
+            "when": "2100",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray21"
+            }
+        },
+                {
+            "when": "2200",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray22"
+            }
+        },
+        {
+            "when": "2300",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray23"
+            }
+        },
+        {
+            "when": "2400",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray24"
+            }
+        },
+                {
+            "when": "2500",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray25"
+            }
+        },
+                {
+            "when": "2600",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray26"
+            }
+        },
+        {
+            "when": "2700",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray27"
+            }
+        },
+        {
+            "when": "2800",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray28"
+            }
+        },
+        {
+            "when": "2900",
+            "model": {
+                "type": "model",
+                "model": "item/spray/spray29"
+            }
+        }
+    ]
+}
+}

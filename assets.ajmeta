@@ -1,0 +1,13 @@
+{
+	"formatVersion": "1.0.0",
+	"rigs": {
+		"teto_sword1": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": ["assets/animated_java/items/blueprint/teto_sword1/hilt.json", "assets/animated_java/models/blueprint/teto_sword1/hilt.json"]
+		},
+		"teto_sword2": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": ["assets/animated_java/items/blueprint/teto_sword2/bone.json", "assets/animated_java/models/blueprint/teto_sword2/bone.json"]
+		}
+	}
+}

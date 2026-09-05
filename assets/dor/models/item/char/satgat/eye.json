@@ -1,0 +1,37 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 150],
+	"textures": {
+		"3": "dor:item/char/satgat/eye",
+		"particle": "dor:item/char/satgat/satgat"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [17, 17, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 2.125, 1.81333], "texture": "#3"},
+				"south": {"uv": [0, 0, 2.125, 1.81333], "texture": "#3"},
+				"west": {"uv": [0, 0, 2.125, 1.81333], "texture": "#3"},
+				"up": {"uv": [0, 0, 2.125, 1.81333], "texture": "#3"},
+				"down": {"uv": [0, 0, 2.125, 1.81333], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"translation": [8, 0, 0],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"head": {
+			"translation": [-11.25, 3, -7.75],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

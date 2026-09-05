@@ -1,0 +1,28 @@
+{
+  "oversized_in_gui": true,
+	"model": {
+		"type": "composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "dor:item/char/ahri/ball_1"
+			},
+			{
+				"type": "model",
+				"model": "dor:item/char/ahri/ball_2"
+			},
+			{
+				"type": "model",
+				"model": "dor:item/char/ahri/ball_3"
+			},
+			{
+				"type": "model",
+				"model": "dor:item/char/ahri/ball_4"
+			},
+			{
+				"type": "model",
+				"model": "dor:item/char/ahri/ball_center"
+			}
+		]
+	}
+}

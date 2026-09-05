@@ -1,0 +1,15 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "dor:item/char/huashan/parts/sword_x2"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "dor:item/char/huashan/parts/sword_y2"
+			}
+		]
+	}
+}

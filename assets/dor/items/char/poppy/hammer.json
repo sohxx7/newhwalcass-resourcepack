@@ -1,0 +1,144 @@
+{
+  "oversized_in_gui": true,
+  "model": {
+    "type": "composite",
+    "models": [
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_0"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_1"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_2"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_3"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_4"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_5"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_6"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_7"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_8"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_9"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_10"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_11"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_12"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_13"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_14"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_15"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_16"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_17"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_18"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_19"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_20"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_21"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_22"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_23"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_24"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_25"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_26"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_27"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_28"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_29"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_30"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_31"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_32"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/poppy/parts/hammer_33"
+      }
+    ]
+  }
+}

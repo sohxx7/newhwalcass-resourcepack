@@ -1,0 +1,95 @@
+{
+	"textures": {
+		"0": "dor:item/char/teto/sword1",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [5.41176, -0.70588, 8.94118],
+			"to": [7.29412, 22.82353, 11.76471],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [6.35294, -0.70588, 10.35294]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 6, 6.25, 7],
+					"rotation": 90,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [6.25, 0, 0, 1.5],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [6.25, 0, 12.5, 1],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [6.25, 1.5, 0, 0],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [6.25, 3, 7.75, 4],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [6.25, 4, 7.75, 5],
+					"rotation": 270,
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [5.29412, -0.94118, 8.82353],
+			"to": [7.41176, 23.05882, 11.88235],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [6.35294, -0.70588, 10.35294]
+			},
+			"faces": {
+				"north": {
+					"uv": [6.25, 1, 12.5, 2],
+					"rotation": 90,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [6.25, 3, 0, 4.5],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [6.25, 2, 12.5, 3],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [6.25, 4.5, 0, 3],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [6.25, 5, 7.75, 6],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [6.25, 6, 7.75, 7],
+					"rotation": 270,
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

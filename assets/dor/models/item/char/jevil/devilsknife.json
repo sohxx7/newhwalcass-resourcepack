@@ -1,0 +1,26 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "dor:item/char/jevil/devilsknife"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-15, -90, 0],
+			"translation": [0, 1.75, -0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-15, 90, 0],
+			"translation": [0, 1.75, -0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -111, 0],
+			"translation": [7.75, 1.25, -6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 69, 0],
+			"translation": [7.75, 1.25, -6]
+		}
+	}
+}

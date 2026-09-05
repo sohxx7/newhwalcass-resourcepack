@@ -1,0 +1,324 @@
+{
+  "oversized_in_gui": true,
+  "model": {
+    "type": "composite",
+    "models": [
+      {
+        "type": "model",
+        "model": "dor:item/char/matan/gun"
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 12,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui_select/1"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 13,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui_select/2"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 14,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui_select/3"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 15,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui_select/4"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 16,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui_select/5"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 17,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui_select/6"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 18,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui_select/7"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 19,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui_select/8"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 20,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui_select/9"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 21,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui_select/10"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 22,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui_select/11"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 23,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui_select/12"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 0,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui/1"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 1,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui/2"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 2,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui/3"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 3,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui/4"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 4,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui/5"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 5,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui/6"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 6,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui/7"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 7,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui/8"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 8,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui/9"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 9,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui/10"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 10,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui/11"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "custom_model_data",
+        "index": 11,
+        "on_true": {
+          "type": "model",
+          "model": "dor:item/char/matan/gui/12"
+        },
+        "on_false": {
+          "type": "model",
+          "model": "minecraft:item/air"
+        }
+      }
+    ]
+  }
+}

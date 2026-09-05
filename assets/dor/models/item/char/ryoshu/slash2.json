@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "dor:item/char/ryoshu/slash2"
+	},
+	"elements": [
+		{
+			"from": [4, 0, -2],
+			"to": [20, 0, 14],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [4, 0, -2]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"up": {"uv": [16, 16, 0, 0], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"rotation": [0, 0, 180],
+			"translation": [0, -8, 0]
+		},
+		"head": {
+			"rotation": [65.75, 0, -90],
+			"translation": [8, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 0, 180],
+			"translation": [0, -8, 0]
+		}
+	}
+}

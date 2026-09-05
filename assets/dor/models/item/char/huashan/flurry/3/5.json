@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"5": "dor:item/char/huashan/flurry/3/5",
+		"particle": "dor:item/char/huashan/flurry/3/1"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 8],
+			"to": [32, 32, 8],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#5"},
+				"east": {"uv": [0, 0, 4, 0.5], "rotation": 90, "texture": "#5"},
+				"south": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#5"},
+				"west": {"uv": [0, 0, 4, 0.5], "rotation": 270, "texture": "#5"},
+				"up": {"uv": [0, 0, 4, 0.5], "texture": "#5"},
+				"down": {"uv": [0, 0, 4, 0.5], "rotation": 180, "texture": "#5"}
+			}
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "dor:item/char/rien/effect6_2",
+		"particle": "dor:item/char/rien/effect6_2"
+	},
+	"elements": [
+		{
+			"from": [4.4, -15, -16],
+			"to": [4.4, 32, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.7, 10.3, 8]},
+			"faces": {
+				"east": {"uv": [16, 16, 0, 0], "texture": "#1"},
+				"west": {"uv": [0, 16, 16, 0], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-16, 8.1, -16],
+			"to": [25.4, 8.1, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.7, 5.8, 8]},
+			"faces": {
+				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [16, 16, 0, 0], "rotation": 90, "texture": "#1"}
+			}
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "dor:item/char/spear/nspear_base",
+  "textures": {
+    "layer0": "dor:item/char/spear/nspear_hand"
+  }
+}

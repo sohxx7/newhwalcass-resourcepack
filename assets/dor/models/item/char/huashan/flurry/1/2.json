@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"3": "dor:item/char/huashan/flurry/1/2"
+	},
+	"elements": [
+		{
+			"from": [-10, 8, -10],
+			"to": [26, 8, 26],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 14]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 0.5], "texture": "#3"},
+				"east": {"uv": [0, 0, 4, 0.5], "texture": "#3"},
+				"south": {"uv": [0, 0, 4, 0.5], "texture": "#3"},
+				"west": {"uv": [0, 0, 4, 0.5], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#3"}
+			}
+		}
+	]
+}

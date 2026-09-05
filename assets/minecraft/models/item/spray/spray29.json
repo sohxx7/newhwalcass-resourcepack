@@ -1,0 +1,118 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/spray/spray29",
+		"particle": "item/spray/spray29"
+	},
+	"elements": [
+		{
+			"from": [-2, -2, 8],
+			"to": [18, 18, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -2, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [0, -180, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "spray23",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [
+				{
+					"name": "spray8",
+					"origin": [8, 8, 8],
+					"scope": 0,
+					"color": 0,
+					"children": [
+						{
+							"name": "spray7",
+							"origin": [8, 8, 8],
+							"scope": 0,
+							"color": 0,
+							"children": [
+								{
+									"name": "spray6",
+									"origin": [8, 8, 8],
+									"scope": 0,
+									"color": 0,
+									"children": [
+										{
+											"name": "spray5",
+											"origin": [8, 8, 8],
+											"scope": 0,
+											"color": 0,
+											"children": [
+												{
+													"name": "spray4",
+													"origin": [8, 8, 8],
+													"scope": 0,
+													"color": 0,
+													"children": [
+														{
+															"name": "spray3",
+															"origin": [8, 8, 8],
+															"scope": 0,
+															"color": 0,
+															"children": [
+																{
+																	"name": "hwalcass_graffiti",
+																	"origin": [8, 8, 8],
+																	"scope": 0,
+																	"color": 0,
+																	"children": [
+																		{
+																			"name": "idsb_graffiti",
+																			"origin": [8, 8, 8],
+																			"scope": 0,
+																			"color": 0,
+																			"children": [
+																				{
+																					"name": "dress_graffiti",
+																					"origin": [8, 8, 8],
+																					"scope": 0,
+																					"color": 0,
+																					"children": [
+																						{
+																							"name": "karma_graffiti",
+																							"origin": [8, 8, 8],
+																							"scope": 0,
+																							"color": 0,
+																							"children": [0]
+																						}
+																					]
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

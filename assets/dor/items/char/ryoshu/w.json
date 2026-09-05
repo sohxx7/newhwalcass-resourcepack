@@ -1,0 +1,41 @@
+{
+  "oversized_in_gui": true,
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "dor:item/char/ryoshu/icon/w"
+    },
+    "cases": [
+      {
+        "when": "0",
+        "model": {
+          "type": "model",
+          "model": "dor:item/char/ryoshu/icon/w"
+        }
+      },
+      {
+        "when": "1",
+        "model": {
+          "type": "model",
+          "model": "dor:item/char/ryoshu/icon/w1"
+        }
+      },
+      {
+        "when": "2",
+        "model": {
+          "type": "model",
+          "model": "dor:item/char/ryoshu/icon/w2"
+        }
+      },
+      {
+        "when": "3",
+        "model": {
+          "type": "model",
+          "model": "dor:item/char/ryoshu/icon/w3"
+        }
+      }
+    ]
+  }
+}

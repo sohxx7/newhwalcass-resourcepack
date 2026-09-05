@@ -1,0 +1,44 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "dor:item/char/lucid/gun"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 0, -2.5],
+			"scale": [0.6, 0.3, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 0, -2.5],
+			"scale": [0.6, 0.3, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -98, 0],
+			"translation": [3.25, 2, -4.25],
+			"scale": [1, 0.5, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 98, 0],
+			"translation": [3.25, 2, -4.25],
+			"scale": [1, 0.5, 1]
+		},
+		"ground": {
+			"scale": [1, 0.5, 1]
+		},
+		"gui": {
+			"rotation": [0, -39, -45],
+			"translation": [-0.75, 0, 0],
+			"scale": [0, 0, 0]
+		},
+		"head": {
+			"scale": [1, 0.5, 1]
+		},
+		"fixed": {
+			"scale": [1, 0.5, 1]
+		}
+	}
+}

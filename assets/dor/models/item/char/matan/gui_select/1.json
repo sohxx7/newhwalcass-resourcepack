@@ -1,0 +1,162 @@
+{
+    "format_version":  "1.21.6",
+    "credit":  "Made with Blockbench",
+    "texture_size":  [
+                         16,
+                         117
+                     ],
+    "textures":  {
+                     "1":  "dor:item/char/matan/gui/select",
+                     "particle":  "dor:item/char/matan/gui/select"
+                 },
+    "elements":  [
+                     {
+                         "from":  [
+                                      5.8,
+                                      -5.5,
+                                      8
+                                  ],
+                         "to":  [
+                                    10.2,
+                                    26.7,
+                                    8
+                                ],
+                         "rotation":  {
+                                          "angle":  0,
+                                          "axis":  "y",
+                                          "origin":  [
+                                                         6.8,
+                                                         2.5,
+                                                         8
+                                                     ]
+                                      },
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                15.90062
+                                                            ],
+                                                     "texture":  "#1"
+                                                 },
+                                       "east":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               15.90062
+                                                           ],
+                                                    "texture":  "#1"
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                15.90062
+                                                            ],
+                                                     "texture":  "#1"
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               15.90062
+                                                           ],
+                                                    "texture":  "#1"
+                                                },
+                                       "up":  {
+                                                  "uv":  [
+                                                             0,
+                                                             0,
+                                                             16,
+                                                             15.90062
+                                                         ],
+                                                  "texture":  "#1"
+                                              },
+                                       "down":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               15.90062
+                                                           ],
+                                                    "texture":  "#1"
+                                                }
+                                   }
+                     }
+                 ],
+    "gui_light":  "front",
+    "display":  {
+                    "thirdperson_righthand":  {
+                                                  "scale":  [
+                                                                0,
+                                                                0,
+                                                                0
+                                                            ]
+                                              },
+                    "thirdperson_lefthand":  {
+                                                 "scale":  [
+                                                               0,
+                                                               0,
+                                                               0
+                                                           ]
+                                             },
+                    "firstperson_righthand":  {
+                                                  "scale":  [
+                                                                0,
+                                                                0,
+                                                                0
+                                                            ]
+                                              },
+                    "firstperson_lefthand":  {
+                                                 "scale":  [
+                                                               0,
+                                                               0,
+                                                               0
+                                                           ]
+                                             },
+                    "ground":  {
+                                   "scale":  [
+                                                 0,
+                                                 0,
+                                                 0
+                                             ]
+                               },
+                    "gui":  {
+                                "translation":  [
+                                                    -8,
+                                                    80,
+                                                    0
+                                                ],
+                                "scale":  [
+                                              3,
+                                              3,
+                                              3
+                                          ]
+                            },
+                    "head":  {
+                                 "scale":  [
+                                               0,
+                                               0,
+                                               1
+                                           ]
+                             },
+                    "fixed":  {
+                                  "scale":  [
+                                                0,
+                                                0,
+                                                0
+                                            ]
+                              },
+                    "on_shelf":  {
+                                     "scale":  [
+                                                   0,
+                                                   0,
+                                                   0
+                                               ]
+                                 }
+                }
+}

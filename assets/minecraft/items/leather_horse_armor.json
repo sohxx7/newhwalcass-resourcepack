@@ -1,0 +1,14 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"model","tints":[{"type":"dye","default":-6265536}],"model":"item/leather_horse_armor"},"entries":[
+    {"threshold":1,"model":{"type":"model","tints":[{"type":"dye","default":-6265536}],"model":"waypoint/waypoint_a"}},
+    {"threshold":2,"model":{"type":"model","tints":[{"type":"dye","default":-6265536}],"model":"waypoint/waypoint_b"}},
+    {"threshold":3,"model":{"type":"model","tints":[{"type":"dye","default":-6265536}],"model":"waypoint/waypoint_c"}},
+    {"threshold":4,"model":{"type":"model","tints":[{"type":"dye","default":-6265536}],"model":"waypoint/waypoint_s"}},
+    {"threshold":2500,"model":{"type":"model","tints":[{"type":"dye","default":-6265536}],"model":"item/mage/magiccircle"}},
+    {"threshold":11200,"model":{"type":"model","tints":[{"type":"dye","default":-6265536}],"model":"item/nanoka/bullet"}},
+    {"threshold":13000,"model":{"type":"model","tints":[{"type":"dye","default":-6265536}],"model":"item/lapis/thorn"}},
+    {"threshold":13001,"model":{"type":"model","tints":[{"type":"dye","default":-6265536}],"model":"item/lapis/hand"}},
+    {"threshold":13002,"model":{"type":"model","tints":[{"type":"dye","default":-6265536}],"model":"item/lapis/chain_base"}},
+    {"threshold":13003,"model":{"type":"model","tints":[{"type":"dye","default":-6265536}],"model":"item/lapis/chain"}},
+    {"threshold":13800,"model":{"type":"model","tints":[{"type":"dye","default":-6265536}],"model":"item/flowery/punch_petal"}}
+    ]}}
+

@@ -1,0 +1,22 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/playerskin_fill.png",
+      "ascent": 8,
+      "height": 20,
+      "chars": [
+        "身"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/playerskin_empty.png",
+      "ascent": -32768,
+      "height": -3,
+      "chars": [
+        "反"
+      ]
+    }
+  ]
+}

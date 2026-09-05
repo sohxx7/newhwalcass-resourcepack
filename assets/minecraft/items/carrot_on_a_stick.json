@@ -1,0 +1,3284 @@
+{
+    "oversized_in_gui" : true,
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type":"model",
+            "model": "item/carrot_on_a_stick"
+        
+    },
+    "cases": [
+        {
+            "when": "100",
+            "model": {
+                "type": "model",
+                "model": "item/astral"
+            }
+        },
+        {
+            "when": "101",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/momiji/sword"
+            }
+        },
+        {
+            "when": "102",
+            "model": {
+                "type": "model",
+                "model": "item/constellation"
+            }
+        },
+                {
+            "when": "103",
+            "model": {
+                "type": "model",
+                "model": "item/pearl/spear"
+            }
+        },
+        {
+            "when": "200",
+            "model": {
+                "type": "model",
+                "model": "item/sungjunwp"
+            }
+        },
+        {
+            "when": "201",
+            "model": {
+                "type": "model",
+                "model": "item/sungjunwp_fire"
+            }
+        },
+        {
+            "when": "202",
+            "model": {
+                "type": "model",
+                "model": "item/sungjunwp_end"
+            }
+        },
+                {
+            "when": "203",
+            "model": {
+                "type": "model",
+                "model": "item/hiro/sword"
+            }
+        },
+        {
+            "when": "300",
+            "model": {
+                "type": "model",
+                "model": "item/ade"
+            }
+        },
+        {
+            "when": "301",
+            "model": {
+                "type": "model",
+                "model": "item/ade_tropical"
+            }
+        },
+        {
+            "when": "302",
+            "model": {
+                "type": "model",
+                "model": "item/ade2"
+            }
+        },
+        {
+            "when": "303",
+            "model": {
+                "type": "model",
+                "model": "item/ade3"
+            }
+        },
+        {
+            "when": "304",
+            "model": {
+                "type": "model",
+                "model": "item/ade4"
+            }
+        },
+        {
+            "when": "305",
+            "model": {
+                "type": "model",
+                "model": "item/ade5"
+            }
+        },
+                {
+            "when": "310",
+            "model": {
+                "type": "model",
+                "model": "item/lemonade"
+            }
+        },
+                        {
+            "when": "311",
+            "model": {
+                "type": "model",
+                "model": "item/lemonade2"
+            }
+        },
+                        {
+            "when": "312",
+            "model": {
+                "type": "model",
+                "model": "item/lemonade3"
+            }
+        },
+        {
+            "when": "400",
+            "model": {
+                "type": "model",
+                "model": "item/jettwp"
+            }
+        },
+        {
+            "when": "401",
+            "model": {
+                "type": "model",
+                "model": "item/jettwp_gold"
+            }
+        },
+        {
+            "when": "402",
+            "model": {
+                "type": "model",
+                "model": "item/jettwp_dia"
+            }
+        },
+        {
+            "when": "500",
+            "model": {
+                "type": "model",
+                "model": "item/gun"
+            }
+        },
+        {
+            "when": "501",
+            "model": {
+                "type": "model",
+                "model": "item/sniper"
+            }
+        },
+        {
+            "when": "502",
+            "model": {
+                "type": "model",
+                "model": "item/sniper2"
+            }
+        },
+        {
+            "when": "503",
+            "model": {
+                "type": "model",
+                "model": "item/watergun/cottonpistol"
+            }
+        },
+        {
+            "when": "504",
+            "model": {
+                "type": "model",
+                "model": "item/watergun/cottonsniper"
+            }
+        },
+        {
+            "when": "505",
+            "model": {
+                "type": "model",
+                "model": "item/watergun/cottonsniper2"
+            }
+        },
+        {
+            "when": "506",
+            "model": {
+                "type": "model",
+                "model": "item/gun_ps"
+            }
+        },
+        {
+            "when": "507",
+            "model": {
+                "type": "model",
+                "model": "item/sniper_ps"
+            }
+        },
+        {
+            "when": "508",
+            "model": {
+                "type": "model",
+                "model": "item/sniper2_ps"
+            }
+        },
+        {
+            "when": "600",
+            "model": {
+                "type": "model",
+                "model": "item/tracer"
+            }
+        },
+        {
+            "when": "601",
+            "model": {
+                "type": "model",
+                "model": "item/tracer_golden"
+            }
+        },
+        {
+            "when": "602",
+            "model": {
+                "type": "model",
+                "model": "item/tracer2"
+            }
+        },
+        {
+            "when": "700",
+            "model": {
+                "type": "model",
+                "model": "item/teslacannon"
+            }
+        },
+        {
+            "when": "701",
+            "model": {
+                "type": "model",
+                "model": "item/teslacannon_golden"
+            }
+        },
+        {
+            "when": "702",
+            "model": {
+                "type": "model",
+                "model": "item/particlecannon"
+            }
+        },
+        {
+            "when": "800",
+            "model": {
+                "type": "model",
+                "model": "item/yisword"
+            }
+        },
+        {
+            "when": "802",
+            "model": {
+                "type": "model",
+                "model": "item/yisword_project"
+            }
+        },
+        {
+            "when": "803",
+            "model": {
+                "type": "model",
+                "model": "item/yi2"
+            }
+        },
+        {
+            "when": "804",
+            "model": {
+                "type": "model",
+                "model": "item/yi2ult"
+            }
+        },
+        {
+            "when": "1000",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/chainsword"
+            }
+        },
+        {
+            "when": "1001",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/chainsword_flame"
+            }
+        },
+        {
+            "when": "1100",
+            "model": {
+                "type": "model",
+                "model": "item/astrawp"
+            }
+        },
+        {
+            "when": "1101",
+            "model": {
+                "type": "model",
+                "model": "item/astrawp_ps"
+            }
+        },
+        {
+            "when": "1200",
+            "model": {
+                "type": "model",
+                "model": "item/jokerdagger"
+            }
+        },
+        {
+            "when": "1201",
+            "model": {
+                "type": "model",
+                "model": "item/jokerdagger2"
+            }
+        },
+        {
+            "when": "1202",
+            "model": {
+                "type": "model",
+                "model": "item/galaxydagger"
+            }
+        },
+        {
+            "when": "1203",
+            "model": {
+                "type": "model",
+                "model": "item/galaxydagger2"
+            }
+        },
+        {
+            "when": "1300",
+            "model": {
+                "type": "model",
+                "model": "item/yasuo"
+            }
+        },
+        {
+            "when": "1301",
+            "model": {
+                "type": "model",
+                "model": "item/yasuo2"
+            }
+        },
+        {
+            "when": "1302",
+            "model": {
+                "type": "model",
+                "model": "item/yasuo_night"
+            }
+        },
+        {
+            "when": "1303",
+            "model": {
+                "type": "model",
+                "model": "item/yasuo2_night"
+            }
+        },
+        {
+            "when": "1304",
+            "model": {
+                "type": "model",
+                "model": "item/yasuo_td"
+            }
+        },
+        {
+            "when": "1305",
+            "model": {
+                "type": "model",
+                "model": "item/yasuo2_td"
+            }
+        },
+                {
+            "when": "1306",
+            "model": {
+                "type": "model",
+                "model": "item/nyansuo/paw"
+            }
+        },
+        {
+            "when": "1307",
+            "model": {
+                "type": "model",
+                "model": "item/nyansuo/paw2"
+            }
+        },
+        {
+            "when": "1400",
+            "model": {
+                "type": "model",
+                "model": "item/shuriken"
+            }
+        },
+        {
+            "when": "1401",
+            "model": {
+                "type": "model",
+                "model": "item/dragonblade"
+            }
+        },
+        {
+            "when": "1402",
+            "model": {
+                "type": "model",
+                "model": "item/shuriken_golden"
+            }
+        },
+        {
+            "when": "1403",
+            "model": {
+                "type": "model",
+                "model": "item/dragonblade_golden"
+            }
+        },
+        {
+            "when": "1404",
+            "model": {
+                "type": "model",
+                "model": "item/shuriken2"
+            }
+        },
+        {
+            "when": "1405",
+            "model": {
+                "type": "model",
+                "model": "item/dragonblade2"
+            }
+        },
+        {
+            "when": "1500",
+            "model": {
+                "type": "model",
+                "model": "item/azure_greatsword"
+            }
+        },
+        {
+            "when": "1501",
+            "model": {
+                "type": "model",
+                "model": "item/yoru"
+            }
+        },
+        {
+            "when": "1502",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/yukari/sword"
+            }
+        },
+        {
+            "when": "1503",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/yukari/sword2"
+            }
+        },
+        {
+            "when": "1504",
+            "model": {
+                "type": "model",
+                "model": "item/yoruwp_ps"
+            }
+        },
+        {
+            "when": "1505",
+            "model": {
+                "type": "model",
+                "model": "item/yoru_ps"
+            }
+        },
+        {
+            "when": "1600",
+            "model": {
+                "type": "model",
+                "model": "item/hwadongwp"
+            }
+        },
+        {
+            "when": "1601",
+            "model": {
+                "type": "model",
+                "model": "item/hwadong"
+            }
+        },
+        {
+            "when": "1602",
+            "model": {
+                "type": "model",
+                "model": "item/hwadongwp2"
+            }
+        },
+        {
+            "when": "1603",
+            "model": {
+                "type": "model",
+                "model": "item/hwadong2"
+            }
+        },
+        {
+            "when": "1700",
+            "model": {
+                "type": "model",
+                "model": "item/ezreal"
+            }
+        },
+        {
+            "when": "1701",
+            "model": {
+                "type": "model",
+                "model": "item/ezreal_battle"
+            }
+        },
+        {
+            "when": "1702",
+            "model": {
+                "type": "model",
+                "model": "item/gauntlet_psy"
+            }
+        },
+        {
+            "when": "1800",
+            "model": {
+                "type": "model",
+                "model": "item/shotgun"
+            }
+        },
+        {
+            "when": "1801",
+            "model": {
+                "type": "model",
+                "model": "item/shotgun_golden"
+            }
+        },
+        {
+            "when": "1802",
+            "model": {
+                "type": "model",
+                "model": "item/shotgun_water"
+            }
+        },
+        {
+            "when": "1900",
+            "model": {
+                "type": "model",
+                "model": "item/kunai"
+            }
+        },
+        {
+            "when": "1901",
+            "model": {
+                "type": "model",
+                "model": "item/kunai_golden"
+            }
+        },
+        {
+            "when": "1902",
+            "model": {
+                "type": "model",
+                "model": "item/kunai_kpop"
+            }
+        },
+        {
+            "when": "2000",
+            "model": {
+                "type": "model",
+                "model": "item/mike"
+            }
+        },
+        {
+            "when": "2001",
+            "model": {
+                "type": "model",
+                "model": "item/mike_kda"
+            }
+        },
+        {
+            "when": "2100",
+            "model": {
+                "type": "model",
+                "model": "item/kaisawp"
+            }
+        },
+        {
+            "when": "2101",
+            "model": {
+                "type": "model",
+                "model": "item/kaisawp2"
+            }
+        },
+        {
+            "when": "2102",
+            "model": {
+                "type": "model",
+                "model": "item/kaisawp_kda"
+            }
+        },
+        {
+            "when": "2103",
+            "model": {
+                "type": "model",
+                "model": "item/kaisawp_kda2"
+            }
+        },
+        {
+            "when": "2104",
+            "model": {
+                "type": "model",
+                "model": "item/kaisawp_sg"
+            }
+        },
+        {
+            "when": "2105",
+            "model": {
+                "type": "model",
+                "model": "item/kaisawp_sg2"
+            }
+        },
+        {
+            "when": "2200",
+            "model": {
+                "type": "model",
+                "model": "item/energy_sword"
+            }
+        },
+        {
+            "when": "2201",
+            "model": {
+                "type": "model",
+                "model": "item/energy_sword2"
+            }
+        },
+        {
+            "when": "2202",
+            "model": {
+                "type": "model",
+                "model": "item/renergy_sword"
+            }
+        },
+        {
+            "when": "2203",
+            "model": {
+                "type": "model",
+                "model": "item/renergy_sword2"
+            }
+        },
+                {
+            "when": "2204",
+            "model": {
+                "type": "model",
+                "model": "item/ironman/ironman_blaster"
+            }
+        },
+        {
+            "when": "2205",
+            "model": {
+                "type": "model",
+                "model": "item/ironman/ironman_blaster2"
+            }
+        },
+        {
+            "when": "2206",
+            "model": {
+                "type": "model",
+                "model": "item/ironman/ironman_sword"
+            }
+        },
+        {
+            "when": "2207",
+            "model": {
+                "type": "model",
+                "model": "item/ironman/ironman_sword2"
+            }
+        },
+        {
+            "when": "2300",
+            "model": {
+                "type": "model",
+                "model": "item/aotsword"
+            }
+        },
+        {
+            "when": "2301",
+            "model": {
+                "type": "model",
+                "model": "item/diamond_acro"
+            }
+        },
+        {
+            "when": "2400",
+            "model": {
+                "type": "model",
+                "model": "item/gravity"
+            }
+        },
+        {
+            "when": "2401",
+            "model": {
+                "type": "model",
+                "model": "item/invis"
+            }
+        },
+        {
+            "when": "2402",
+            "model": {
+                "type": "model",
+                "model": "item/gravity_slime"
+            }
+        },
+                {
+            "when": "2403",
+            "model": {
+                "type": "model",
+                "model": "item/gravity_soda"
+            }
+        },
+        {
+            "when": "2500",
+            "model": {
+                "type": "model",
+                "model": "item/staff"
+            }
+        },
+        {
+            "when": "2501",
+            "model": {
+                "type": "model",
+                "model": "item/staff_blue"
+            }
+        },
+        {
+            "when": "2502",
+            "model": {
+                "type": "model",
+                "model": "item/staff_white"
+            }
+        },
+        {
+            "when": "2503",
+            "model": {
+                "type": "model",
+                "model": "item/staff_brown"
+            }
+        },
+        {
+            "when": "2504",
+            "model": {
+                "type": "model",
+                "model": "item/mage/staff"
+            }
+        },
+                {
+            "when": "2514",
+            "model": {
+                "type": "model",
+                "model": "item/mage/staff_oguma"
+            }
+        },
+        {
+            "when": "2600",
+            "model": {
+                "type": "model",
+                "model": "item/slayer"
+            }
+        },
+        {
+            "when": "2601",
+            "model": {
+                "type": "model",
+                "model": "item/katarina_battle"
+            }
+        },
+        {
+            "when": "2602",
+            "model": {
+                "type": "model",
+                "model": "item/kata/blade"
+            }
+        },
+        {
+            "when": "2700",
+            "model": {
+                "type": "model",
+                "model": "item/aki"
+            }
+        },
+        {
+            "when": "2701",
+            "model": {
+                "type": "model",
+                "model": "item/aki2"
+            }
+        },
+        {
+            "when": "2702",
+            "model": {
+                "type": "model",
+                "model": "item/aki_ghost"
+            }
+        },
+        {
+            "when": "2703",
+            "model": {
+                "type": "model",
+                "model": "item/aki2_ghost"
+            }
+        },
+                {
+            "when": "2704",
+            "model": {
+                "type": "model",
+                "model": "item/aki_kpop"
+            }
+        },
+        {
+            "when": "2705",
+            "model": {
+                "type": "model",
+                "model": "item/aki2_kpop"
+            }
+        },
+        {
+            "when": "2800",
+            "model": {
+                "type": "model",
+                "model": "item/bloody_knife"
+            }
+        },
+        {
+            "when": "2801",
+            "model": {
+                "type": "model",
+                "model": "item/bloody_axe"
+            }
+        },
+        {
+            "when": "2802",
+            "model": {
+                "type": "model",
+                "model": "item/bloody_scythe"
+            }
+        },
+        {
+            "when": "2803",
+            "model": {
+                "type": "model",
+                "model": "item/bloody_hammer"
+            }
+        },
+        {
+            "when": "2900",
+            "model": {
+                "type": "model",
+                "model": "item/ekko"
+            }
+        },
+        {
+            "when": "2901",
+            "model": {
+                "type": "model",
+                "model": "item/ekkowp_td"
+            }
+        },
+                {
+            "when": "2910",
+            "model": {
+                "type": "model",
+                "model": "item/ekko/ekkowp"
+            }
+        },
+                {
+            "when": "2920",
+            "model": {
+                "type": "model",
+                "model": "item/ekko/ekkowp2"
+            }
+        },
+        {
+            "when": "3000",
+            "model": {
+                "type": "model",
+                "model": "item/zerrywp"
+            }
+        },
+        {
+            "when": "3001",
+            "model": {
+                "type": "model",
+                "model": "item/watergun/cottonrifle"
+            }
+        },
+        {
+            "when": "3100",
+            "model": {
+                "type": "model",
+                "model": "item/cane"
+            }
+        },
+        {
+            "when": "3200",
+            "model": {
+                "type": "model",
+                "model": "item/pathfinder"
+            }
+        },
+        {
+            "when": "3300",
+            "model": {
+                "type": "model",
+                "model": "item/lucidwp"
+            }
+        },
+        {
+            "when": "3400",
+            "model": {
+                "type": "model",
+                "model": "item/headhunter"
+            }
+        },
+        {
+            "when": "3401",
+            "model": {
+                "type": "model",
+                "model": "item/tour"
+            }
+        },
+        {
+            "when": "3402",
+            "model": {
+                "type": "model",
+                "model": "item/tour2"
+            }
+        },
+        {
+            "when": "3403",
+            "model": {
+                "type": "model",
+                "model": "item/headhunter_hextech"
+            }
+        },
+        {
+            "when": "3404",
+            "model": {
+                "type": "model",
+                "model": "item/chamber_hextech"
+            }
+        },
+        {
+            "when": "3405",
+            "model": {
+                "type": "model",
+                "model": "item/chamber2_hextech"
+            }
+        },
+                {
+            "when": "3406",
+            "model": {
+                "type": "model",
+                "model": "item/chamber_sion/headhunter"
+            }
+        },
+        {
+            "when": "3407",
+            "model": {
+                "type": "model",
+                "model": "item/chamber_sion/tour"
+            }
+        },
+        {
+            "when": "3408",
+            "model": {
+                "type": "model",
+                "model": "item/chamber_sion/tour2"
+            }
+        },
+        {
+            "when": "3500",
+            "model": {
+                "type": "model",
+                "model": "item/row"
+            }
+        },
+        {
+            "when": "3501",
+            "model": {
+                "type": "model",
+                "model": "item/row2"
+            }
+        },
+                {
+            "when": "3502",
+            "model": {
+                "type": "model",
+                "model": "item/row_kpop"
+            }
+        },
+        {
+            "when": "3503",
+            "model": {
+                "type": "model",
+                "model": "item/row2_kpop"
+            }
+        },
+        {
+            "when": "3600",
+            "model": {
+                "type": "model",
+                "model": "item/rayawp"
+            }
+        },
+        {
+            "when": "3601",
+            "model": {
+                "type": "model",
+                "model": "item/rayawp2"
+            }
+        },
+        {
+            "when": "3602",
+            "model": {
+                "type": "model",
+                "model": "item/rayawp_fire"
+            }
+        },
+        {
+            "when": "3603",
+            "model": {
+                "type": "model",
+                "model": "item/rayawp2_fire"
+            }
+        },
+        {
+            "when": "3604",
+            "model": {
+                "type": "model",
+                "model": "item/raya_sushi"
+            }
+        },
+        {
+            "when": "3605",
+            "model": {
+                "type": "model",
+                "model": "item/raya2_sushi"
+            }
+        },
+        {
+            "when": "3700",
+            "model": {
+                "type": "model",
+                "model": "item/mugino"
+            }
+        },
+        {
+            "when": "3701",
+            "model": {
+                "type": "model",
+                "model": "item/mugino_space"
+            }
+        },
+                {
+            "when": "3702",
+            "model": {
+                "type": "model",
+                "model": "item/melda/orb"
+            }
+        },
+        {
+            "when": "3800",
+            "model": {
+                "type": "model",
+                "model": "item/frenda"
+            }
+        },
+        {
+            "when": "3801",
+            "model": {
+                "type": "model",
+                "model": "item/cracker"
+            }
+        },
+        {
+            "when": "3802",
+            "model": {
+                "type": "model",
+                "model": "item/cracker_fumo"
+            }
+        },
+        {
+            "when": "3900",
+            "model": {
+                "type": "model",
+                "model": "item/accel"
+            }
+        },
+        {
+            "when": "3901",
+            "model": {
+                "type": "model",
+                "model": "item/accel_sg"
+            }
+        },
+        {
+            "when": "4000",
+            "model": {
+                "type": "model",
+                "model": "item/kakine"
+            }
+        },
+        {
+            "when": "4001",
+            "model": {
+                "type": "model",
+                "model": "item/pinset_devil"
+            }
+        },
+        {
+            "when": "4002",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/flandre/levatain"
+            }
+        },
+        {
+            "when": "4003",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/flandre/levatain2"
+            }
+        },
+        {
+            "when": "4100",
+            "model": {
+                "type": "model",
+                "model": "item/nail"
+            }
+        },
+        {
+            "when": "4101",
+            "model": {
+                "type": "model",
+                "model": "item/pole"
+            }
+        },
+        {
+            "when": "4102",
+            "model": {
+                "type": "model",
+                "model": "item/nail_devil"
+            }
+        },
+        {
+            "when": "4103",
+            "model": {
+                "type": "model",
+                "model": "item/pole_devil"
+            }
+        },
+        {
+            "when": "4200",
+            "model": {
+                "type": "model",
+                "model": "item/coin"
+            }
+        },
+        {
+            "when": "4201",
+            "model": {
+                "type": "model",
+                "model": "item/iron_dust_sword"
+            }
+        },
+                {
+            "when": "4202",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_sg/coin"
+            }
+        },
+        {
+            "when": "4203",
+            "model": {
+                "type": "model",
+                "model": "item/iron_dust_sword_sg"
+            }
+        },
+        {
+            "when": "4300",
+            "model": {
+                "type": "model",
+                "model": "item/fist"
+            }
+        },
+        {
+            "when": "4301",
+            "model": {
+                "type": "model",
+                "model": "item/dragonstrike"
+            }
+        },
+        {
+            "when": "4302",
+            "model": {
+                "type": "model",
+                "model": "item/changsub/red_cube"
+            }
+        },
+        {
+            "when": "4303",
+            "model": {
+                "type": "model",
+                "model": "item/changsub/black_cube"
+            }
+        },
+        {
+            "when": "4400",
+            "model": {
+                "type": "model",
+                "model": "item/index"
+            }
+        },
+        {
+            "when": "4500",
+            "model": {
+                "type": "model",
+                "model": "item/hairspray"
+            }
+        },
+        {
+            "when": "4501",
+            "model": {
+                "type": "model",
+                "model": "item/spray_super"
+            }
+        },
+        {
+            "when": "4502",
+            "model": {
+                "type": "model",
+                "model": "item/airhorn"
+            }
+        },
+        {
+            "when": "4600",
+            "model": {
+                "type": "model",
+                "model": "item/starlord"
+            }
+        },
+        {
+            "when": "4700",
+            "model": {
+                "type": "model",
+                "model": "item/yakka"
+            }
+        },
+        {
+            "when": "4800",
+            "model": {
+                "type": "model",
+                "model": "item/amp"
+            }
+        },
+        {
+            "when": "4801",
+            "model": {
+                "type": "model",
+                "model": "item/amp_bunny"
+            }
+        },
+        {
+            "when": "4900",
+            "model": {
+                "type": "model",
+                "model": "item/fist2"
+            }
+        },
+        {
+            "when": "5000",
+            "model": {
+                "type": "model",
+                "model": "item/chainwhip"
+            }
+        },
+        {
+            "when": "5100",
+            "model": {
+                "type": "model",
+                "model": "item/finger"
+            }
+        },
+        {
+            "when": "5101",
+            "model": {
+                "type": "model",
+                "model": "item/finger2"
+            }
+        },
+        {
+            "when": "5200",
+            "model": {
+                "type": "model",
+                "model": "item/bong"
+            }
+        },
+        {
+            "when": "5201",
+            "model": {
+                "type": "model",
+                "model": "item/bong_soda"
+            }
+        },
+        {
+            "when": "5300",
+            "model": {
+                "type": "model",
+                "model": "item/yuumiwp"
+            }
+        },
+        {
+            "when": "5301",
+            "model": {
+                "type": "model",
+                "model": "item/yuumiwp_blue"
+            }
+        },
+        {
+            "when": "5400",
+            "model": {
+                "type": "model",
+                "model": "item/magicstick"
+            }
+        },
+        {
+            "when": "5401",
+            "model": {
+                "type": "model",
+                "model": "item/magiccane"
+            }
+        },
+        {
+            "when": "5500",
+            "model": {
+                "type": "model",
+                "model": "item/samiragun"
+            }
+        },
+        {
+            "when": "5501",
+            "model": {
+                "type": "model",
+                "model": "item/samirasword"
+            }
+        },
+        {
+            "when": "5502",
+            "model": {
+                "type": "model",
+                "model": "item/samiragun_psy"
+            }
+        },
+        {
+            "when": "5503",
+            "model": {
+                "type": "model",
+                "model": "item/samirasword_psy"
+            }
+        },
+        {
+            "when": "5504",
+            "model": {
+                "type": "model",
+                "model": "item/samiragun_soul"
+            }
+        },
+        {
+            "when": "5505",
+            "model": {
+                "type": "model",
+                "model": "item/samirasword_soul"
+            }
+        },
+        {
+            "when": "5600",
+            "model": {
+                "type": "model",
+                "model": "item/dgun"
+            }
+        },
+        {
+            "when": "5601",
+            "model": {
+                "type": "model",
+                "model": "item/davidgun2"
+            }
+        },
+        {
+            "when": "5700",
+            "model": {
+                "type": "model",
+                "model": "item/dart"
+            }
+        },
+        {
+            "when": "5701",
+            "model": {
+                "type": "model",
+                "model": "item/dart_bee"
+            }
+        },
+        {
+            "when": "5800",
+            "model": {
+                "type": "model",
+                "model": "item/yone_sword2"
+            }
+        },
+        {
+            "when": "5801",
+            "model": {
+                "type": "model",
+                "model": "item/yone2_sword2"
+            }
+        },
+        {
+            "when": "5802",
+            "model": {
+                "type": "model",
+                "model": "item/yones_sword2"
+            }
+        },
+        {
+            "when": "5803",
+            "model": {
+                "type": "model",
+                "model": "item/yones2_sword2"
+            }
+        },
+        {
+            "when": "5804",
+            "model": {
+                "type": "model",
+                "model": "item/yone/yoneb_sword2"
+            }
+        },
+        {
+            "when": "5805",
+            "model": {
+                "type": "model",
+                "model": "item/yone/yoneb2_sword2"
+            }
+        },
+        {
+            "when": "5900",
+            "model": {
+                "type": "model",
+                "model": "item/holysword"
+            }
+        },
+                {
+            "when": "5910",
+            "model": {
+                "type": "model",
+                "model": "item/makima/sword"
+            }
+        },
+        {
+            "when": "6000",
+            "model": {
+                "type": "model",
+                "model": "item/bork"
+            }
+        },
+        {
+            "when": "6001",
+            "model": {
+                "type": "model",
+                "model": "item/bork2"
+            }
+        },
+        {
+            "when": "6002",
+            "model": {
+                "type": "model",
+                "model": "item/bork_soul"
+            }
+        },
+        {
+            "when": "6003",
+            "model": {
+                "type": "model",
+                "model": "item/bork2_soul"
+            }
+        },
+        {
+            "when": "6100",
+            "model": {
+                "type": "model",
+                "model": "item/blaster2"
+            }
+        },
+        {
+            "when": "6101",
+            "model": {
+                "type": "model",
+                "model": "item/blaster2_hextech"
+            }
+        },
+        {
+            "when": "6200",
+            "model": {
+                "type": "model",
+                "model": "item/shovel"
+            }
+        },
+        {
+            "when": "6201",
+            "model": {
+                "type": "model",
+                "model": "item/shovel2"
+            }
+        },
+        {
+            "when": "6300",
+            "model": {
+                "type": "model",
+                "model": "item/devils_bow"
+            }
+        },
+        {
+            "when": "6301",
+            "model": {
+                "type": "model",
+                "model": "item/cupids_bow"
+            }
+        },
+        {
+            "when": "6400",
+            "model": {
+                "type": "model",
+                "model": "item/fingertip"
+            }
+        },
+        {
+            "when": "6401",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/cirno/ice"
+            }
+        },
+        {
+            "when": "6500",
+            "model": {
+                "type": "model",
+                "model": "item/betty_sythe"
+            }
+        },
+        {
+            "when": "6501",
+            "model": {
+                "type": "model",
+                "model": "item/betty_spear"
+            }
+        },
+        {
+            "when": "6502",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/remilia/remiliasythe"
+            }
+        },
+        {
+            "when": "6503",
+            "model": {
+                "type": "model",
+                "model": "item/touhou/remilia/remiliaspear"
+            }
+        },
+        {
+            "when": "6600",
+            "model": {
+                "type": "model",
+                "model": "item/jinx"
+            }
+        },
+        {
+            "when": "6601",
+            "model": {
+                "type": "model",
+                "model": "item/jinx3"
+            }
+        },
+                {
+            "when": "6602",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_sg/jinx"
+            }
+        },
+        {
+            "when": "6603",
+            "model": {
+                "type": "model",
+                "model": "item/jinx_sg/jinx3"
+            }
+        },
+        {
+            "when": "6700",
+            "model": {
+                "type": "model",
+                "model": "item/vir"
+            }
+        },
+                {
+            "when": "6710",
+            "model": {
+                "type": "model",
+                "model": "item/garnet/right"
+            }
+        },
+        {
+            "when": "6800",
+            "model": {
+                "type": "model",
+                "model": "item/roland/axe"
+            }
+        },
+        {
+            "when": "6801",
+            "model": {
+                "type": "model",
+                "model": "item/roland/wolftooth"
+            }
+        },
+        {
+            "when": "6802",
+            "model": {
+                "type": "model",
+                "model": "item/roland/oldboy"
+            }
+        },
+        {
+            "when": "6803",
+            "model": {
+                "type": "model",
+                "model": "item/roland/alas"
+            }
+        },
+        {
+            "when": "6804",
+            "model": {
+                "type": "model",
+                "model": "item/roland/alas2"
+            }
+        },
+        {
+            "when": "6805",
+            "model": {
+                "type": "model",
+                "model": "item/roland/mook"
+            }
+        },
+        {
+            "when": "6806",
+            "model": {
+                "type": "model",
+                "model": "item/roland/logicpistol"
+            }
+        },
+        {
+            "when": "6807",
+            "model": {
+                "type": "model",
+                "model": "item/roland/logicshotgun"
+            }
+        },
+        {
+            "when": "6808",
+            "model": {
+                "type": "model",
+                "model": "item/roland/durandal"
+            }
+        },
+        {
+            "when": "6809",
+            "model": {
+                "type": "model",
+                "model": "item/roland/durandal2"
+            }
+        },
+        {
+            "when": "6810",
+            "model": {
+                "type": "model",
+                "model": "item/roland/crystal"
+            }
+        },
+        {
+            "when": "6811",
+            "model": {
+                "type": "model",
+                "model": "item/roland/wheels"
+            }
+        },
+                {
+            "when": "6820",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/axe"
+            }
+        },
+        {
+            "when": "6821",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/wolftooth"
+            }
+        },
+        {
+            "when": "6822",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/oldboy"
+            }
+        },
+        {
+            "when": "6823",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/alas"
+            }
+        },
+        {
+            "when": "6824",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/alas2"
+            }
+        },
+        {
+            "when": "6825",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/mook"
+            }
+        },
+        {
+            "when": "6826",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/logicpistol"
+            }
+        },
+        {
+            "when": "6827",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/logicshotgun"
+            }
+        },
+        {
+            "when": "6828",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/durandal"
+            }
+        },
+        {
+            "when": "6829",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/durandal2"
+            }
+        },
+        {
+            "when": "6830",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/crystal"
+            }
+        },
+        {
+            "when": "6831",
+            "model": {
+                "type": "model",
+                "model": "item/angelica/wheels"
+            }
+        },
+        {
+            "when": "6900",
+            "model": {
+                "type": "model",
+                "model": "item/fogsword"
+            }
+        },
+        {
+            "when": "6901",
+            "model": {
+                "type": "model",
+                "model": "item/fogsword2"
+            }
+        },
+        {
+            "when": "6902",
+            "model": {
+                "type": "model",
+                "model": "item/mist/sword"
+            }
+        },
+        {
+            "when": "6903",
+            "model": {
+                "type": "model",
+                "model": "item/mist/sword2"
+            }
+        },
+        {
+            "when": "7000",
+            "model": {
+                "type": "model",
+                "model": "item/jewel_gun"
+            }
+        },
+        {
+            "when": "7001",
+            "model": {
+                "type": "model",
+                "model": "item/jewel_gun2"
+            }
+        },
+                {
+            "when": "7010",
+            "model": {
+                "type": "model",
+                "model": "item/jewel_midnightsun/hairdryer"
+            }
+        },
+        {
+            "when": "7011",
+            "model": {
+                "type": "model",
+                "model": "item/jewel_midnightsun/hairdryer2"
+            }
+        },
+        {
+            "when": "7100",
+            "model": {
+                "type": "model",
+                "model": "item/trident1"
+            }
+        },
+        {
+            "when": "7101",
+            "model": {
+                "type": "model",
+                "model": "item/trident2"
+            }
+        },
+                {
+            "when": "7102",
+            "model": {
+                "type": "model",
+                "model": "item/trident1_mei"
+            }
+        },
+        {
+            "when": "7103",
+            "model": {
+                "type": "model",
+                "model": "item/trident2_mei"
+            }
+        },
+        {
+            "when": "7200",
+            "model": {
+                "type": "model",
+                "model": "item/satgat_sword"
+            }
+        },
+        {
+            "when": "7201",
+            "model": {
+                "type": "model",
+                "model": "item/satgat_sword2"
+            }
+        },
+        {
+            "when": "7300",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/aphelios_calibrum"
+            }
+        },
+        {
+            "when": "7301",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/aphelios_severum"
+            }
+        },
+        {
+            "when": "7302",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/aphelios_gravitum"
+            }
+        },
+        {
+            "when": "7303",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/apelios_infernum"
+            }
+        },
+        {
+            "when": "7304",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios/aphelios_crescendum"
+            }
+        },
+                {
+            "when": "7310",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/aphelios_calibrum"
+            }
+        },
+        {
+            "when": "7311",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/aphelios_severum"
+            }
+        },
+        {
+            "when": "7312",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/aphelios_gravitum"
+            }
+        },
+        {
+            "when": "7313",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/apelios_infernum"
+            }
+        },
+        {
+            "when": "7314",
+            "model": {
+                "type": "model",
+                "model": "item/aphelios_tech/aphelios_crescendum"
+            }
+        },
+        {
+            "when": "7400",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/bracelet"
+            }
+        },
+        {
+            "when": "7401",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/bracelet_pool"
+            }
+        },
+                {
+            "when": "7402",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/bracelet_hack"
+            }
+        },
+        {
+            "when": "7500",
+            "model": {
+                "type": "model",
+                "model": "item/gwenclose"
+            }
+        },
+        {
+            "when": "7501",
+            "model": {
+                "type": "model",
+                "model": "item/gwen"
+            }
+        },
+        {
+            "when": "7502",
+            "model": {
+                "type": "model",
+                "model": "item/gweninvis"
+            }
+        },
+        {
+            "when": "7510",
+            "model": {
+                "type": "model",
+                "model": "item/gwenclose_soul"
+            }
+        },
+        {
+            "when": "7511",
+            "model": {
+                "type": "model",
+                "model": "item/gwen_soul"
+            }
+        },
+        {
+            "when": "7512",
+            "model": {
+                "type": "model",
+                "model": "item/gweninvis_soul"
+            }
+        },
+        {
+            "when": "7600",
+            "model": {
+                "type": "model",
+                "model": "item/queen_staff"
+            }
+        },
+        {
+            "when": "7601",
+            "model": {
+                "type": "model",
+                "model": "item/queen/glass"
+            }
+        },
+        {
+            "when": "7700",
+            "model": {
+                "type": "model",
+                "model": "item/holy_staff"
+            }
+        },
+        {
+            "when": "7701",
+            "model": {
+                "type": "model",
+                "model": "item/glinda/wand"
+            }
+        },
+        {
+            "when": "7800",
+            "model": {
+                "type": "model",
+                "model": "item/hex"
+            }
+        },
+        {
+            "when": "7801",
+            "model": {
+                "type": "model",
+                "model": "item/wicked/broom"
+            }
+        },
+        {
+            "when": "7900",
+            "model": {
+                "type": "model",
+                "model": "item/exor_hammer"
+            }
+        },
+        {
+            "when": "8000",
+            "model": {
+                "type": "model",
+                "model": "item/jhin/jhinpistol"
+            }
+        },
+        {
+            "when": "8001",
+            "model": {
+                "type": "model",
+                "model": "item/jhin/jhinrifle"
+            }
+        },
+                {
+            "when": "8010",
+            "model": {
+                "type": "model",
+                "model": "item/jhin_project/jhinpistol"
+            }
+        },
+        {
+            "when": "8011",
+            "model": {
+                "type": "model",
+                "model": "item/jhin_project/jhinrifle"
+            }
+        },
+        {
+            "when": "8002",
+            "model": {
+                "type": "model",
+                "model": "item/maestro/bow"
+            }
+        },
+        {
+            "when": "8100",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/brush"
+            }
+        },
+        {
+            "when": "8101",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/brush_1"
+            }
+        },
+        {
+            "when": "8102",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/brush_2"
+            }
+        },
+        {
+            "when": "8103",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/brush_3"
+            }
+        },
+        {
+            "when": "8200",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/nat"
+            }
+        },
+        {
+            "when": "8201",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/nat2"
+            }
+        },
+        {
+            "when": "8202",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/nat3"
+            }
+        },
+        {
+            "when": "8203",
+            "model": {
+                "type": "model",
+                "model": "item/angela/nat"
+            }
+        },
+        {
+            "when": "8204",
+            "model": {
+                "type": "model",
+                "model": "item/angela/nat2"
+            }
+        },
+        {
+            "when": "8205",
+            "model": {
+                "type": "model",
+                "model": "item/angela/nat3"
+            }
+        },
+        {
+            "when": "8300",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/katana"
+            }
+        },
+        {
+            "when": "8301",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/katana2"
+            }
+        },
+        {
+            "when": "8302",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/mono"
+            }
+        },
+        {
+            "when": "8303",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/mono2"
+            }
+        },
+        {
+            "when": "8400",
+            "model": {
+                "type": "model",
+                "model": "item/yumin/fan"
+            }
+        },
+        {
+            "when": "8500",
+            "model": {
+                "type": "model",
+                "model": "item/camilo/sword"
+            }
+        },
+        {
+            "when": "8501",
+            "model": {
+                "type": "model",
+                "model": "item/camilo/sword2"
+            }
+        },
+        {
+            "when": "8600",
+            "model": {
+                "type": "model",
+                "model": "item/agent/rifle"
+            }
+        },
+        {
+            "when": "8601",
+            "model": {
+                "type": "model",
+                "model": "item/agent/sword"
+            }
+        },
+        {
+            "when": "8602",
+            "model": {
+                "type": "model",
+                "model": "item/agent/sword2"
+            }
+        },
+                {
+            "when": "8610",
+            "model": {
+                "type": "model",
+                "model": "item/agent/rifle_kungs"
+            }
+        },
+        {
+            "when": "8611",
+            "model": {
+                "type": "model",
+                "model": "item/agent/sword_kungs"
+            }
+        },
+        {
+            "when": "8612",
+            "model": {
+                "type": "model",
+                "model": "item/agent/sword2_kungs"
+            }
+        },
+        {
+            "when": "8700",
+            "model": {
+                "type": "model",
+                "model": "item/eiden"
+            }
+        },
+        {
+            "when": "8701",
+            "model": {
+                "type": "model",
+                "model": "item/eiden2"
+            }
+        },
+        {
+            "when": "8702",
+            "model": {
+                "type": "model",
+                "model": "item/eiden3"
+            }
+        },
+        {
+            "when": "8800",
+            "model": {
+                "type": "model",
+                "model": "item/kaneki/handcuff_r"
+            }
+        },
+        {
+            "when": "8801",
+            "model": {
+                "type": "model",
+                "model": "item/kaneki/handcuff_l"
+            }
+        },
+        {
+            "when": "8900",
+            "model": {
+                "type": "model",
+                "model": "item/clove/gun"
+            }
+        },
+        {
+            "when": "9000",
+            "model": {
+                "type": "model",
+                "model": "item/time/pistol"
+            }
+        },
+        {
+            "when": "9100",
+            "model": {
+                "type": "model",
+                "model": "item/akshan"
+            }
+        },
+        {
+            "when": "9101",
+            "model": {
+                "type": "model",
+                "model": "item/akshan_nohook"
+            }
+        },
+                {
+            "when": "9110",
+            "model": {
+                "type": "model",
+                "model": "item/ame/gun"
+            }
+        },
+        {
+            "when": "9111",
+            "model": {
+                "type": "model",
+                "model": "item/ame/gun_nohook"
+            }
+        },
+        {
+            "when": "9200",
+            "model": {
+                "type": "model",
+                "model": "item/bomber/gaunlet"
+            }
+        },
+        {
+            "when": "9300",
+            "model": {
+                "type": "model",
+                "model": "item/assasin/shuriken"
+            }
+        },
+        {
+            "when": "9301",
+            "model": {
+                "type": "model",
+                "model": "item/assasin/katana"
+            }
+        },
+        {
+            "when": "9302",
+            "model": {
+                "type": "model",
+                "model": "item/assasin/katana2"
+            }
+        },
+                {
+            "when": "9310",
+            "model": {
+                "type": "model",
+                "model": "item/assasin_oguma/shuriken"
+            }
+        },
+        {
+            "when": "9311",
+            "model": {
+                "type": "model",
+                "model": "item/assasin_oguma/katana"
+            }
+        },
+        {
+            "when": "9312",
+            "model": {
+                "type": "model",
+                "model": "item/assasin_oguma/katana2"
+            }
+        },
+                {
+            "when": "9400",
+            "model": {
+                "type": "model",
+                "model": "item/chara/stone"
+            }
+        },
+        {
+            "when": "9401",
+            "model": {
+                "type": "model",
+                "model": "item/chara/dt"
+            }
+        },
+        {
+            "when": "9402",
+            "model": {
+                "type": "model",
+                "model": "item/chara/invis"
+            }
+        },
+        {
+            "when": "9500",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/punchrhand"
+            }
+        },
+                {
+            "when": "9600",
+            "model": {
+                "type": "model",
+                "model": "item/blackhole/fist"
+            }
+        },
+                {
+            "when": "9601",
+            "model": {
+                "type": "model",
+                "model": "item/blackhole/stab"
+            }
+        },
+                        {
+            "when": "9610",
+            "model": {
+                "type": "model",
+                "model": "item/cardi/whip"
+            }
+        },
+                {
+            "when": "9611",
+            "model": {
+                "type": "model",
+                "model": "item/cardi/whip_spike"
+            }
+        },
+            {
+            "when": "9700",
+            "model": {
+                "type": "model",
+                "model": "item/lancer/spear"
+            }
+        },
+                    {
+            "when": "9710",
+            "model": {
+                "type": "model",
+                "model": "item/lancer_akira/gun"
+            }
+        },
+            {
+            "when": "9800",
+            "model": {
+                "type": "model",
+                "model": "item/noelle/icering"
+            }
+        },
+        {
+            "when": "9801",
+            "model": {
+                "type": "model",
+                "model": "item/noelle/thornring"
+            }
+        },
+        {
+            "when": "9900",
+            "model": {
+                "type": "model",
+                "model": "item/knight/knight"
+            }
+        },
+        {
+            "when": "10000",
+            "model": {
+                "type": "model",
+                "model": "item/casette/gloves"
+            }
+        },
+        {
+            "when": "10100",
+            "model": {
+                "type": "model",
+                "model": "item/leonardo/odachi"
+            }
+        },
+        {
+            "when": "10101",
+            "model": {
+                "type": "model",
+                "model": "item/leonardo/katana"
+            }
+        },
+                {
+            "when": "10102",
+            "model": {
+                "type": "model",
+                "model": "item/leonardo/leo_katana2"
+            }
+        },
+                {
+            "when": "10110",
+            "model": {
+                "type": "model",
+                "model": "item/rick/sword"
+            }
+        },
+        {
+            "when": "10111",
+            "model": {
+                "type": "model",
+                "model": "item/rick/sword2"
+            }
+        },
+                {
+            "when": "10112",
+            "model": {
+                "type": "model",
+                "model": "item/rick/sword3"
+            }
+        },
+                {
+            "when": "10200",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/bo"
+            }
+        },
+        {
+            "when": "10201",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/hammer"
+            }
+        },
+                {
+            "when": "10202",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/cannon"
+            }
+        },
+        {
+            "when": "10210",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/bo2"
+            }
+        },
+        {
+            "when": "10211",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/hammer2"
+            }
+        },
+                {
+            "when": "10212",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/cannon2"
+            }
+        },
+                {
+            "when": "10213",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/bo2_2"
+            }
+        },
+                        {
+            "when": "10203",
+            "model": {
+                "type": "model",
+                "model": "item/donatello/bo_2"
+            }
+        },
+            {
+            "when": "10300",
+            "model": {
+                "type": "model",
+                "model": "item/raphael/tonfa"
+            }
+        },
+        {
+            "when": "10310",
+            "model": {
+                "type": "model",
+                "model": "item/raphael/sai"
+            }
+        },
+        {
+            "when": "10301",
+            "model": {
+                "type": "model",
+                "model": "item/raphael/tonfa2"
+            }
+        },
+                {
+            "when": "10311",
+            "model": {
+                "type": "model",
+                "model": "item/raphael/sai2"
+            }
+        },
+                {
+            "when": "10302",
+            "model": {
+                "type": "model",
+                "model": "item/raphael/arm_right"
+            }
+        },
+                        {
+            "when": "10303",
+            "model": {
+                "type": "model",
+                "model": "item/raphael/arm_left"
+            }
+        },
+            {
+            "when": "10400",
+            "model": {
+                "type": "model",
+                "model": "item/mikey/fundo"
+            }
+        },
+        {
+            "when": "10410",
+            "model": {
+                "type": "model",
+                "model": "item/mikey/nunchuk"
+            }
+        },
+        {
+            "when": "10401",
+            "model": {
+                "type": "model",
+                "model": "item/mikey/fundo_handle"
+            }
+        },
+                {
+            "when": "10411",
+            "model": {
+                "type": "model",
+                "model": "item/mikey/nunchuk_handle"
+            }
+        },
+                {
+            "when": "10420",
+            "model": {
+                "type": "model",
+                "model": "item/csm/chainsaw"
+            }
+        },
+                {
+            "when": "10421",
+            "model": {
+                "type": "model",
+                "model": "item/csm/chainsaw2"
+            }
+        },
+                {
+            "when": "10500",
+            "model": {
+                "type": "model",
+                "model": "item/actor/gold"
+            }
+        },
+                {
+            "when": "10501",
+            "model": {
+                "type": "model",
+                "model": "item/actor/silver"
+            }
+        },
+                        {
+            "when": "10502",
+            "model": {
+                "type": "model",
+                "model": "item/actor/gold_invis"
+            }
+        },
+                {
+            "when": "10503",
+            "model": {
+                "type": "model",
+                "model": "item/actor/silver_invis"
+            }
+        },
+                        {
+            "when": "10510",
+            "model": {
+                "type": "model",
+                "model": "item/icespice/gold"
+            }
+        },
+                {
+            "when": "10511",
+            "model": {
+                "type": "model",
+                "model": "item/icespice/silver"
+            }
+        },
+                        {
+            "when": "10512",
+            "model": {
+                "type": "model",
+                "model": "item/icespice/gold_invis"
+            }
+        },
+                {
+            "when": "10513",
+            "model": {
+                "type": "model",
+                "model": "item/icespice/silver_invis"
+            }
+        },
+                                    {
+            "when": "10600",
+            "model": {
+                "type": "model",
+                "model": "item/deadlock/chargerifle"
+            }
+        },
+                    {
+            "when": "10601",
+            "model": {
+                "type": "model",
+                "model": "item/deadlock/overkill"
+            }
+        },
+        {
+            "when": "10602",
+            "model": {
+                "type": "model",
+                "model": "item/deadlock/overkill2"
+            }
+        },
+        {
+            "when": "10700",
+            "model": {
+                "type": "model",
+                "model": "item/dimension/scfisword"
+            }
+        },
+        {
+            "when": "10701",
+            "model": {
+                "type": "model",
+                "model": "item/dimension/scfiaxe"
+            }
+        },
+        {
+            "when": "10702",
+            "model": {
+                "type": "model",
+                "model": "item/dimension/scfishield"
+            }
+        },
+                {
+            "when": "10710",
+            "model": {
+                "type": "model",
+                "model": "item/dimension/scfisword2"
+            }
+        },
+        {
+            "when": "10711",
+            "model": {
+                "type": "model",
+                "model": "item/dimension/scfiaxe2"
+            }
+        },
+        {
+            "when": "10712",
+            "model": {
+                "type": "model",
+                "model": "item/dimension/scfishield2"
+            }
+        },
+                {
+            "when": "10720",
+            "model": {
+                "type": "model",
+                "model": "item/rick/raiden"
+            }
+        },
+        {
+            "when": "10721",
+            "model": {
+                "type": "model",
+                "model": "item/rick/horizon_axe"
+            }
+        },
+        {
+            "when": "10722",
+            "model": {
+                "type": "model",
+                "model": "item/rick/toxic_scythe"
+            }
+        },
+                {
+            "when": "10730",
+            "model": {
+                "type": "model",
+                "model": "item/rick/raiden2"
+            }
+        },
+        {
+            "when": "10731",
+            "model": {
+                "type": "model",
+                "model": "item/rick/horizon_axe2"
+            }
+        },
+        {
+            "when": "10732",
+            "model": {
+                "type": "model",
+                "model": "item/rick/toxic_scythe2"
+            }
+        },
+        {
+            "when": "10800",
+            "model": {
+                "type": "model",
+                "model": "item/giyuu/sword"
+            }
+        },
+        {
+            "when": "10801",
+            "model": {
+                "type": "model",
+                "model": "item/giyuu/sword2"
+            }
+        },
+                {
+            "when": "10900",
+            "model": {
+                "type": "model",
+                "model": "item/shinobu/poisonsword"
+            }
+        },
+        {
+            "when": "10901",
+            "model": {
+                "type": "model",
+                "model": "item/shinobu/poisonsword2"
+            }
+        },
+                {
+            "when": "11000",
+            "model": {
+                "type": "model",
+                "model": "item/khun/knife"
+            }
+        },
+                        {
+            "when": "11100",
+            "model": {
+                "type": "model",
+                "model": "item/kinesis/esp_limiter"
+            }
+        },
+            {
+            "when": "11200",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/gun"
+            }
+        },
+                    {
+            "when": "11201",
+            "model": {
+                "type": "model",
+                "model": "item/nanoka/gun2"
+            }
+        },
+                    {
+            "when": "11300",
+            "model": {
+                "type": "model",
+                "model": "item/gansu/nat"
+            }
+        },
+                    {
+            "when": "11301",
+            "model": {
+                "type": "model",
+                "model": "item/gansu/nat2"
+            }
+        },
+                            {
+            "when": "11400",
+            "model": {
+                "type": "model",
+                "model": "item/lucian/lucian1"
+            }
+        },
+                    {
+            "when": "11500",
+            "model": {
+                "type": "model",
+                "model": "item/akali/dagger"
+            }
+        },
+                            {
+            "when": "11520",
+            "model": {
+                "type": "model",
+                "model": "item/akali/dagger_invis"
+            }
+        },
+                            {
+            "when": "11600",
+            "model": {
+                "type": "model",
+                "model": "item/prism/light"
+            }
+        },
+                    {
+            "when": "11700",
+            "model": {
+                "type": "model",
+                "model": "item/chef/knife"
+            }
+        },
+                            {
+            "when": "11720",
+            "model": {
+                "type": "model",
+                "model": "item/chef/knife_thai"
+            }
+        },
+                            {
+            "when": "11701",
+            "model": {
+                "type": "model",
+                "model": "item/chef/torch"
+            }
+        },
+                            {
+            "when": "11702",
+            "model": {
+                "type": "model",
+                "model": "item/chef/pan"
+            }
+        },
+                            {
+            "when": "11703",
+            "model": {
+                "type": "model",
+                "model": "item/chef/pan2"
+            }
+        },
+                                    {
+            "when": "11800",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/needle"
+            }
+        },
+                            {
+            "when": "11801",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/needle2"
+            }
+        },
+                            {
+            "when": "11802",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/needle3"
+            }
+        },
+                                            {
+            "when": "11900",
+            "model": {
+                "type": "model",
+                "model": "item/vecna/hand"
+            }
+        },
+                            {
+            "when": "11901",
+            "model": {
+                "type": "model",
+                "model": "item/vecna/hand2"
+            }
+        },
+                                    {
+            "when": "12000",
+            "model": {
+                "type": "model",
+                "model": "item/angelic/soulshooter"
+            }
+        },
+                                            {
+            "when": "12100",
+            "model": {
+                "type": "model",
+                "model": "item/limbo/wp"
+            }
+        },
+                                                    {
+            "when": "12200",
+            "model": {
+                "type": "model",
+                "model": "item/iroha/keyboard"
+            }
+        },
+                                                            {
+            "when": "12201",
+            "model": {
+                "type": "model",
+                "model": "item/iroha/keyboard2"
+            }
+        },
+                                                    {
+            "when": "12300",
+            "model": {
+                "type": "model",
+                "model": "item/kaguya/hammer"
+            }
+        },
+                                                    {
+            "when": "12301",
+            "model": {
+                "type": "model",
+                "model": "item/kaguya/umbrella"
+            }
+        },
+                                    {
+            "when": "12400",
+            "model": {
+                "type": "model",
+                "model": "item/gag/glove"
+            }
+        },
+                                                                {
+            "when": "12405",
+            "model": {
+                "type": "model",
+                "model": "item/gag/glove_invis"
+            }
+        },
+                                            {
+            "when": "12500",
+            "model": {
+                "type": "model",
+                "model": "item/higuruma/bong"
+            }
+        },
+                                            {
+            "when": "12501",
+            "model": {
+                "type": "model",
+                "model": "item/higuruma/bong_long"
+            }
+        },
+                                            {
+            "when": "12502",
+            "model": {
+                "type": "model",
+                "model": "item/higuruma/sword"
+            }
+        },
+                                            {
+            "when": "12503",
+            "model": {
+                "type": "model",
+                "model": "item/higuruma/sword2"
+            }
+        },
+                                                    {
+            "when": "12600",
+            "model": {
+                "type": "model",
+                "model": "item/stellar/crystal"
+            }
+        },
+                                                            {
+            "when": "12700",
+            "model": {
+                "type": "model",
+                "model": "item/alien/blaster"
+            }
+        },
+                            {
+            "when": "12701",
+            "model": {
+                "type": "model",
+                "model": "item/alien/blaster2"
+            }
+        },
+                            {
+            "when": "12800",
+            "model": {
+                "type": "model",
+                "model": "item/domina/blaster"
+            }
+        },
+                                    {
+            "when": "12900",
+            "model": {
+                "type": "model",
+                "model": "item/chess/staff"
+            }
+        },
+                                            {
+            "when": "12901",
+            "model": {
+                "type": "model",
+                "model": "item/chess/staff_picked"
+            }
+        },
+                                            {
+            "when": "12902",
+            "model": {
+                "type": "model",
+                "model": "item/chess/staff_casting"
+            }
+        },
+                                                    {
+            "when": "13000",
+            "model": {
+                "type": "model",
+                "model": "item/lapis/mirror"
+            }
+        },
+                                    {
+            "when": "13100",
+            "model": {
+                "type": "model",
+                "model": "item/peridot/limbenhancer"
+            }
+        },
+                                            {
+            "when": "13101",
+            "model": {
+                "type": "model",
+                "model": "item/peridot/limbenhancer2"
+            }
+        },
+                                            {
+            "when": "13200",
+            "model": {
+                "type": "model",
+                "model": "item/killer/knife"
+            }
+        },
+                                            {
+            "when": "13201",
+            "model": {
+                "type": "model",
+                "model": "item/killer/knife2"
+            }
+        },
+                                                    {
+            "when": "13300",
+            "model": {
+                "type": "model",
+                "model": "item/tamer/spear"
+            }
+        },
+                                                            {
+            "when": "13400",
+            "model": {
+                "type": "model",
+                "model": "item/kris/sword"
+            }
+        },
+		{
+            "when": "13800",
+            "model": {
+                "type": "model",
+                "model": "item/flowery/flowermantle"
+            }
+        },
+                        {
+            "when": "13900",
+            "model": {
+                "type": "model",
+                "model": "item/arche/gun_close"
+            }
+        },
+                        {
+            "when": "13901",
+            "model": {
+                "type": "model",
+                "model": "item/arche/gun_open"
+            }
+        },
+                                {
+            "when": "13910",
+            "model": {
+                "type": "model",
+                "model": "item/arche/gun1_close"
+            }
+        },
+                        {
+            "when": "13911",
+            "model": {
+                "type": "model",
+                "model": "item/arche/gun1_open"
+            }
+        },
+                                        {
+            "when": "13920",
+            "model": {
+                "type": "model",
+                "model": "item/arche/gun2_close"
+            }
+        },
+                        {
+            "when": "13921",
+            "model": {
+                "type": "model",
+                "model": "item/arche/gun2_open"
+            }
+        },
+                                        {
+            "when": "13930",
+            "model": {
+                "type": "model",
+                "model": "item/arche/gun3_close"
+            }
+        },
+                        {
+            "when": "13931",
+            "model": {
+                "type": "model",
+                "model": "item/arche/gun3_open"
+            }
+        },
+                                                {
+            "when": "13940",
+            "model": {
+                "type": "model",
+                "model": "item/arche/gun4_close"
+            }
+        },
+                        {
+            "when": "13941",
+            "model": {
+                "type": "model",
+                "model": "item/arche/gun4_open"
+            }
+        },
+                                                {
+            "when": "13950",
+            "model": {
+                "type": "model",
+                "model": "item/arche/gun5_close"
+            }
+        },
+                        {
+            "when": "13951",
+            "model": {
+                "type": "model",
+                "model": "item/arche/gun5_open"
+            }
+        }
+
+    ]
+}
+}

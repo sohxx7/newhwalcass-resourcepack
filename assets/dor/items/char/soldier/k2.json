@@ -1,0 +1,20 @@
+{
+  "oversized_in_gui": true,
+  "model": {
+    "type": "composite",
+    "models": [
+      {
+        "type": "model",
+        "model": "dor:item/char/soldier/parts/k2_x"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/soldier/parts/k2_y"
+      },
+      {
+        "type": "model",
+        "model": "dor:item/char/soldier/parts/k2_z"
+      }
+    ]
+  }
+}

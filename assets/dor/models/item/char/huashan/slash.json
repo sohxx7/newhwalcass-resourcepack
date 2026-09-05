@@ -1,0 +1,17 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "dor:item/char/huashan/slash"
+	},
+	"elements": [
+		{
+			"from": [-12, -12, 8],
+			"to": [28, 28, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#1"}
+			}
+		}
+	]
+}
