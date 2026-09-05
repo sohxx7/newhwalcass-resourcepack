@@ -18,6 +18,10 @@ python tools/build.py
 
 결과는 `dist/Newhwalcass.zip`입니다. GitHub의 자동 생성 Source code ZIP 대신 이 빌드 파일을 게임에 넣습니다.
 
+## 룰루 모자
+
+`dor:char/lulu/hat`의 아이템 등록·모델·텍스처를 기존 서버 배포본에서 복구했습니다. 원본 모양과 머리 착용 변환, 제작자 표기를 유지합니다. 서버의 Class146 모자 지급 코드는 그대로 사용할 수 있습니다.
+
 ## 장화신은 고양이 장비
 
 검은 모자와 버건디 테두리·굽은 금색 깃털, 은색 컵 가드 레이피어, 붉은 커프 테두리가 있는 검은 장화입니다. 기존 캐릭터와 같은 `dor` 네임스페이스의 `char/puss` 양식으로 등록했습니다. 아이템 ID는 `dor:char/puss/rapier`, `dor:char/puss/hat`, `dor:char/puss/boots`입니다.
