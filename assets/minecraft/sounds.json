@@ -1151,5 +1151,18 @@
     "sounds": [
       "skill/lulu/r1"
     ]
-  }
+  },
+  "skill.mj_voice1": {"sounds":["skill/mj/voice1"]},
+  "skill.mj_voice2": {"sounds":["skill/mj/voice2"]},
+  "skill.mj_voice3": {"sounds":["skill/mj/voice3"]},
+  "skill.mj_voice4": {"sounds":["skill/mj/voice4"]},
+  "skill.mj_voice5": {"sounds":["skill/mj/voice5"]},
+  "skill.mj_voice6": {"sounds":["skill/mj/voice6"]},
+  "skill.mj_voice7": {"sounds":["skill/mj/voice7"]},
+  "skill.mj_voice8": {"sounds":["skill/mj/voice8"]},
+  "skill.mj_voice9": {"sounds":["skill/mj/voice9"]},
+  "skill.mj_voice10": {"sounds":["skill/mj/voice10"]},
+  "skill.mj_voice11": {"sounds":["skill/mj/voice11"]},
+  "skill.mj_voice12": {"sounds":["skill/mj/voice12"]},
+  "char.85_6": {"sounds":["char/85_6"]}
 }

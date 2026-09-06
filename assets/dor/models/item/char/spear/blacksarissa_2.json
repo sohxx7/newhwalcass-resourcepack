@@ -1471,11 +1471,17 @@
 		"thirdperson_righthand": {
 			"rotation": [0, -31, 0],
 			"translation": [0, 1.5, 1],
-			"scale": [1.5, 1.5, 1.5]
+			"scale": [0, 0, 0]
 		},
 		"thirdperson_lefthand": {
 			"translation": [0, 1.5, 0],
-			"scale": [1.5, 1.5, 1.5]
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
 		},
 		"gui": {
 			"rotation": [-180, 48, -130],
