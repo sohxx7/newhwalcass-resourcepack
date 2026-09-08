@@ -1,0 +1,3 @@
+/give @s minecraft:stick[item_model="dor:char/wukong/jingubang",custom_name={text:"여의봉",color:"gold",italic:false},max_stack_size=1]
+/give @s minecraft:paper[item_model="dor:char/wukong/jingeuna",custom_name={text:"긴고아",color:"gold",italic:false},max_stack_size=1,equippable={slot:"head",equip_sound:"minecraft:item.armor.equip_gold",damage_on_hurt:false}]
+/give @s minecraft:paper[item_model="dor:char/wukong/jindouyun",custom_name={text:"근두운",color:"yellow",italic:false},max_stack_size=1]
