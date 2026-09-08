@@ -1,6 +1,7 @@
 {
+  "oversized_in_gui": true,
   "model": {
-    "type": "minecraft:model",
+    "type": "model",
     "model": "dor:item/char/wukong/jingeuna"
   }
 }
