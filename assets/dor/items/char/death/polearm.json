@@ -1,7 +1,141 @@
 {
   "oversized_in_gui": true,
   "model": {
-    "type": "minecraft:model",
-    "model": "dor:item/char/death/polearm"
-  }
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 14901,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_guard_1"
+        }
+      },
+      {
+        "threshold": 14902,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_guard_2"
+        }
+      },
+      {
+        "threshold": 14903,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_guard_3"
+        }
+      },
+      {
+        "threshold": 14904,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_guard_4"
+        }
+      },
+      {
+        "threshold": 14905,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/polearm"
+        }
+      },
+      {
+        "threshold": 14911,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_slash_1"
+        }
+      },
+      {
+        "threshold": 14912,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_slash_2"
+        }
+      },
+      {
+        "threshold": 14913,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_slash_3"
+        }
+      },
+      {
+        "threshold": 14914,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_slash_4"
+        }
+      },
+      {
+        "threshold": 14915,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_slash_5"
+        }
+      },
+      {
+        "threshold": 14916,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_slash_6"
+        }
+      },
+      {
+        "threshold": 14917,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/polearm"
+        }
+      },
+      {
+        "threshold": 14921,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_counter_1"
+        }
+      },
+      {
+        "threshold": 14922,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_counter_2"
+        }
+      },
+      {
+        "threshold": 14923,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_counter_3"
+        }
+      },
+      {
+        "threshold": 14924,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_counter_4"
+        }
+      },
+      {
+        "threshold": 14925,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/pose/polearm_counter_5"
+        }
+      },
+      {
+        "threshold": 14926,
+        "model": {
+          "type": "minecraft:model",
+          "model": "dor:item/char/death/polearm"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "dor:item/char/death/polearm"
+    }
+  },
+  "hand_animation_on_swap": false
 }

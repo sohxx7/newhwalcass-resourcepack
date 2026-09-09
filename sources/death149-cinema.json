@@ -1,0 +1,114 @@
+{
+  "base_release": "v2026.09.09-death149-fx.1",
+  "audio": [
+    {
+      "event": "skill.death_p",
+      "resource": "assets/minecraft/sounds/skill/death/p.ogg",
+      "url": "https://www.youtube.com/watch?v=cnMou4cBa3w",
+      "start_seconds": 207,
+      "end_seconds": 208.6,
+      "scene": "Death whistle"
+    },
+    {
+      "event": "skill.death_p_mark",
+      "resource": "assets/minecraft/sounds/skill/death/p_mark.ogg",
+      "url": "https://www.youtube.com/watch?v=cnMou4cBa3w",
+      "start_seconds": 207.4,
+      "end_seconds": 208.20000000000002,
+      "scene": "Short Death whistle"
+    },
+    {
+      "event": "skill.death_right",
+      "resource": "assets/minecraft/sounds/skill/death/right.ogg",
+      "url": "https://www.youtube.com/watch?v=cnMou4cBa3w",
+      "start_seconds": 153.2,
+      "end_seconds": 153.95,
+      "scene": "Tavern sickle slash"
+    },
+    {
+      "event": "skill.death_right2",
+      "resource": "assets/minecraft/sounds/skill/death/right2.ogg",
+      "url": "https://www.youtube.com/watch?v=1o8GWhoD53I",
+      "start_seconds": 128.5,
+      "end_seconds": 129.25,
+      "scene": "Final-fight weapon throw"
+    },
+    {
+      "event": "skill.death_right2_hit",
+      "resource": "assets/minecraft/sounds/skill/death/right2_hit.ogg",
+      "url": "https://www.youtube.com/watch?v=1o8GWhoD53I",
+      "start_seconds": 138.7,
+      "end_seconds": 139.29999999999998,
+      "scene": "Final-fight blade impact"
+    },
+    {
+      "event": "skill.death_right_enhanced",
+      "resource": "assets/minecraft/sounds/skill/death/right_enhanced.ogg",
+      "url": "https://www.youtube.com/watch?v=1o8GWhoD53I",
+      "start_seconds": 123.1,
+      "end_seconds": 124.25,
+      "scene": "Joined sickle sweep"
+    },
+    {
+      "event": "skill.death_f",
+      "resource": "assets/minecraft/sounds/skill/death/f.ogg",
+      "url": "https://www.youtube.com/watch?v=cnMou4cBa3w",
+      "start_seconds": 99.75,
+      "end_seconds": 100.4,
+      "scene": "Tavern sickle draw"
+    },
+    {
+      "event": "skill.death_f_counter",
+      "resource": "assets/minecraft/sounds/skill/death/f_counter.ogg",
+      "url": "https://www.youtube.com/watch?v=1o8GWhoD53I",
+      "start_seconds": 105.9,
+      "end_seconds": 106.60000000000001,
+      "scene": "Final-fight weapon clash"
+    },
+    {
+      "event": "skill.death_q",
+      "resource": "assets/minecraft/sounds/skill/death/q.ogg",
+      "url": "https://www.youtube.com/watch?v=1o8GWhoD53I",
+      "start_seconds": 17.4,
+      "end_seconds": 18.95,
+      "scene": "Ring of fire rising"
+    },
+    {
+      "event": "skill.death_q_loop",
+      "resource": "assets/minecraft/sounds/skill/death/q_loop.ogg",
+      "url": "https://www.youtube.com/watch?v=1o8GWhoD53I",
+      "start_seconds": 19.4,
+      "end_seconds": 22.4,
+      "scene": "Ring of fire"
+    },
+    {
+      "event": "skill.death_q_escape",
+      "resource": "assets/minecraft/sounds/skill/death/q_escape.ogg",
+      "url": "https://www.youtube.com/watch?v=cnMou4cBa3w",
+      "start_seconds": 207,
+      "end_seconds": 208.6,
+      "scene": "Death whistle on escape"
+    },
+    {
+      "event": "skill.death_gadget",
+      "resource": "assets/minecraft/sounds/skill/death/gadget.ogg",
+      "url": "https://www.youtube.com/watch?v=1o8GWhoD53I",
+      "start_seconds": 118.2,
+      "end_seconds": 118.95,
+      "scene": "Sickles joining into polearm"
+    }
+  ],
+  "processing": "Short original-film excerpts, mono 48 kHz Vorbis; high/low-pass filtering, gain, edge fades and limiter. Original music or vocal bleed may remain; these are not isolated studio stems.",
+  "visuals": [
+    "Held sickle cross-block and polearm center-shaft block poses",
+    "Held crossing-slash poses with two opposing diagonal trails",
+    "Removed gadget world-space effect",
+    "Restored marked steel on the lower polearm blade"
+  ],
+  "unchanged": [
+    "Skill damage, range, cooldown and target rules",
+    "Spin hit detection and pitch behavior",
+    "Global kill dialogue and round-end whistle",
+    "HQ BGM pack"
+  ]
+}

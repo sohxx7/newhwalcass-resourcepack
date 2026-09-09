@@ -97,5 +97,85 @@
         "attenuation_distance": 16
       }
     ]
+  },
+  "death.slash": {
+    "sounds": [
+      {
+        "stream": false,
+        "name": "minecraft:skill/death/right"
+      }
+    ]
+  },
+  "death.hook_cast": {
+    "sounds": [
+      {
+        "stream": false,
+        "name": "minecraft:skill/death/right2"
+      }
+    ]
+  },
+  "death.hook_hit": {
+    "sounds": [
+      {
+        "stream": false,
+        "name": "minecraft:skill/death/right2_hit"
+      }
+    ]
+  },
+  "death.guard_raise": {
+    "sounds": [
+      {
+        "stream": false,
+        "name": "minecraft:skill/death/f"
+      }
+    ]
+  },
+  "death.guard_counter": {
+    "sounds": [
+      {
+        "stream": false,
+        "name": "minecraft:skill/death/f_counter"
+      }
+    ]
+  },
+  "death.ring_cast": {
+    "sounds": [
+      {
+        "stream": false,
+        "name": "minecraft:skill/death/q"
+      }
+    ]
+  },
+  "death.ring_loop": {
+    "sounds": [
+      {
+        "stream": false,
+        "name": "minecraft:skill/death/q_loop"
+      }
+    ]
+  },
+  "death.polearm_join": {
+    "sounds": [
+      {
+        "stream": false,
+        "name": "minecraft:skill/death/gadget"
+      }
+    ]
+  },
+  "death.spin": {
+    "sounds": [
+      {
+        "stream": false,
+        "name": "minecraft:skill/death/right_enhanced"
+      }
+    ]
+  },
+  "death.pursuit": {
+    "sounds": [
+      {
+        "stream": false,
+        "name": "minecraft:skill/death/p"
+      }
+    ]
   }
 }

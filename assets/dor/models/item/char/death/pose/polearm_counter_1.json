@@ -1,0 +1,73 @@
+{
+  "parent": "dor:item/char/death/polearm",
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        -4,
+        -12,
+        90
+      ],
+      "translation": [
+        -6,
+        1.6,
+        -5
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -4,
+        12,
+        -90
+      ],
+      "translation": [
+        6,
+        1.6,
+        -5
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -15,
+        90
+      ],
+      "translation": [
+        -4,
+        5,
+        -3
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        15,
+        -90
+      ],
+      "translation": [
+        4,
+        5,
+        -3
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "parent": "dor:item/char/death/sickle_right",
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        15,
+        -30,
+        65
+      ],
+      "translation": [
+        -4,
+        0.5,
+        -6
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        15,
+        30,
+        -65
+      ],
+      "translation": [
+        4,
+        0.5,
+        -6
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        10,
+        -35,
+        65
+      ],
+      "translation": [
+        -3,
+        2,
+        -4
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        10,
+        35,
+        -65
+      ],
+      "translation": [
+        3,
+        2,
+        -4
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}
