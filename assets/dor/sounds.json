@@ -146,14 +146,6 @@
       }
     ]
   },
-  "death.ring_loop": {
-    "sounds": [
-      {
-        "stream": false,
-        "name": "minecraft:skill/death/q_loop"
-      }
-    ]
-  },
   "death.polearm_join": {
     "sounds": [
       {

@@ -1278,11 +1278,6 @@
       "skill/death/q"
     ]
   },
-  "skill.death_q_loop": {
-    "sounds": [
-      "skill/death/q_loop"
-    ]
-  },
   "skill.death_q_escape": {
     "sounds": [
       "skill/death/q_escape"
