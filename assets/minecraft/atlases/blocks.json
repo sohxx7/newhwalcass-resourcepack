@@ -1,9 +1,41 @@
 {
-	"sources": [
-		{
-			"type": "directory",
-			"source": "blueprint",
-			"prefix": "blueprint/"
-		}
-	]
+  "sources": [
+    {
+      "type": "directory",
+      "source": "blueprint",
+      "prefix": "blueprint/"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/death/fx_chain"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/death/fx_counter"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/death/fx_cross"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/death/fx_fire"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/death/fx_guard"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/death/fx_mark"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/death/fx_smoke"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/death/fx_spin"
+    }
+  ]
 }
