@@ -1,0 +1,82 @@
+{
+  "base_release": "v2026.09.09-death149-steel-smooth.1",
+  "base_sha256": "ff77e2c55865d090dd26014e332dd7b723b7408c79601c0c536870d5c1060832",
+  "gain_db": 6,
+  "limiter_ceiling_db": -1,
+  "global_audio": "Round-win audio uses stereo; teacher and Flowery hidden audio already use stereo.",
+  "changed_assets": {
+    "assets/dor/sounds/puss/round_win.ogg": {
+      "before": {
+        "mean_db": -16.3,
+        "max_db": -1.7
+      },
+      "after": {
+        "mean_db": -12.3,
+        "max_db": -0.7
+      },
+      "original_sha256": "3a267e0911ba887276779afc72dcf2e26bced8629e8bbbf5acdad4c369760c65",
+      "sha256": "1b250801fda42cc6e8c2b4a888191b12aa5b6f987aec2f1d65367abb2d1e04d7"
+    },
+    "assets/dor/sounds/puss/ultimate.ogg": {
+      "before": {
+        "mean_db": -14.6,
+        "max_db": -3.1
+      },
+      "after": {
+        "mean_db": -9.4,
+        "max_db": -0.6
+      },
+      "original_sha256": "6df44cff182e12887b7a17907f05b788abcc45be0bec76b606d52f5f9641fcf7",
+      "sha256": "947afccfed09ad9c9b82aad9ff198992bdf0105c46668c1d042e331a2d4e79d1"
+    },
+    "assets/minecraft/sounds/skill/teacher/hidden1.ogg": {
+      "before": {
+        "mean_db": -22.4,
+        "max_db": -3.1
+      },
+      "after": {
+        "mean_db": -16.8,
+        "max_db": -0.8
+      },
+      "original_sha256": "5273f142daf69b8cea528ad7557145c66a1a5878287a64ae28cd786bc9db1d47",
+      "sha256": "e5958bf71c2de0b053335bba0d17ef5b458cb0f4986b3970d24ae8072c47950d"
+    },
+    "assets/minecraft/sounds/skill/teacher/realhidden.ogg": {
+      "before": {
+        "mean_db": -19.5,
+        "max_db": -2.0
+      },
+      "after": {
+        "mean_db": -14.0,
+        "max_db": -0.7
+      },
+      "original_sha256": "039e2c06df921ead8aca6906a910590bd80958bed84e150b53b2094ef5a8fc66",
+      "sha256": "c5e5c81c17cc59aeffd6f64d16631938a94e5011b95002ea0c6d06843f42555c"
+    },
+    "assets/minecraft/sounds/skill/flowery/138_combine.ogg": {
+      "before": {
+        "mean_db": -20.5,
+        "max_db": -6.7
+      },
+      "after": {
+        "mean_db": -14.5,
+        "max_db": -1.0
+      },
+      "original_sha256": "6286a0abb14996d8ba338f2001f9ec2692a33226c68efe8d03d3ed136d9e3b18",
+      "sha256": "117b85fa6e65feda664617825dab2d50e91ffde3d35de53dbe536bab399a8322"
+    },
+    "assets/minecraft/sounds/skill/flowery/138_power.ogg": {
+      "before": {
+        "mean_db": -19.4,
+        "max_db": -6.1
+      },
+      "after": {
+        "mean_db": -13.5,
+        "max_db": -0.9
+      },
+      "original_sha256": "b2ff935c799f82134cb0f82089702787f536c0a2debc5dfae2a5b23aa5f11fd6",
+      "sha256": "bded7605637f47dfb7acbb059205e4b80332b0cd922229e2fec18a40dc92795a"
+    }
+  },
+  "pack_sha256": "3b6415c1dd99a76061fb3188aa32184c70edb10dba1680d5987c172a04062464"
+}
