@@ -1,0 +1,79 @@
+{
+  "base_release": "v2026.09.09-character-audio-gain.1",
+  "base_sha256": "3b6415c1dd99a76061fb3188aa32184c70edb10dba1680d5987c172a04062464",
+  "pack_sha256": "d11f91c331293e261d2229648ebf88eb0b767fa51d398c73ff03d7e58e0a2d8c",
+  "events": {
+    "dor:puss.fente": "skill.puss_right",
+    "dor:puss.hit": "skill.puss_right_hit",
+    "dor:puss.roll": "skill.puss_f",
+    "dor:puss.dodge": "skill.puss_p_dodge",
+    "dor:puss.bounty": "skill.puss_p_mark",
+    "dor:puss.touche": "skill.puss_p_touche",
+    "dor:puss.ultimate": "skill.puss_q",
+    "dor:puss.hat_throw": "skill.puss_gadget",
+    "dor:puss.hat_return": "skill.puss_gadget_return",
+    "dor:puss.round_win": "char.148"
+  },
+  "moves": {
+    "assets/dor/sounds/puss/fente.ogg": "assets/minecraft/sounds/skill/puss/right.ogg",
+    "assets/dor/sounds/puss/hit.ogg": "assets/minecraft/sounds/skill/puss/right_hit.ogg",
+    "assets/dor/sounds/puss/roll.ogg": "assets/minecraft/sounds/skill/puss/f.ogg",
+    "assets/dor/sounds/puss/dodge.ogg": "assets/minecraft/sounds/skill/puss/p_dodge.ogg",
+    "assets/dor/sounds/puss/bounty.ogg": "assets/minecraft/sounds/skill/puss/p_mark.ogg",
+    "assets/dor/sounds/puss/touche.ogg": "assets/minecraft/sounds/skill/puss/p_touche.ogg",
+    "assets/dor/sounds/puss/ultimate.ogg": "assets/minecraft/sounds/skill/puss/q.ogg",
+    "assets/dor/sounds/puss/hat_throw.ogg": "assets/minecraft/sounds/skill/puss/gadget.ogg",
+    "assets/dor/sounds/puss/hat_return.ogg": "assets/minecraft/sounds/skill/puss/gadget_return.ogg",
+    "assets/dor/sounds/puss/round_win.ogg": "assets/minecraft/sounds/char/148.ogg",
+    "assets/dor/sounds/puss/CREDITS.txt": "assets/minecraft/sounds/skill/puss/CREDITS.txt"
+  },
+  "deleted_paths": [
+    "assets/dor/sounds.json",
+    "assets/dor/sounds/puss/CREDITS.txt",
+    "assets/dor/sounds/puss/bounty.ogg",
+    "assets/dor/sounds/puss/dodge.ogg",
+    "assets/dor/sounds/puss/fente.ogg",
+    "assets/dor/sounds/puss/hat_return.ogg",
+    "assets/dor/sounds/puss/hat_throw.ogg",
+    "assets/dor/sounds/puss/hit.ogg",
+    "assets/dor/sounds/puss/pentakill.ogg",
+    "assets/dor/sounds/puss/roll.ogg",
+    "assets/dor/sounds/puss/round_win.ogg",
+    "assets/dor/sounds/puss/touche.ogg",
+    "assets/dor/sounds/puss/ultimate.ogg"
+  ],
+  "removed_unused_events": [
+    "death.slash",
+    "death.hook_cast",
+    "death.hook_hit",
+    "death.guard_raise",
+    "death.guard_counter",
+    "death.ring_cast",
+    "death.polearm_join",
+    "death.spin",
+    "death.pursuit",
+    "puss.pentakill"
+  ],
+  "note": "Existing audio bytes and full bgm.class148/class149 routes are preserved. The unused short pentakill clip is removed. Puss Q uses volume 2.5 with default 16-block attenuation instead of volume 2 with custom 20-block attenuation, preserving the 40-block client attenuation range.",
+  "kill_voice": {
+    "event": "char.148_149",
+    "path": "assets/minecraft/sounds/char/148_149.ogg",
+    "url": "https://www.youtube.com/watch?v=G9GPC1q8VZs",
+    "title": "Puss in Boots 2 Full Ending Scene 🌀 4K",
+    "start_seconds": 215,
+    "end_seconds": 220,
+    "duration_seconds": 4.993333333333333,
+    "gain_db": 3,
+    "limiter_ceiling_db": -1,
+    "before": {
+      "mean_db": -23.0,
+      "max_db": -4.0
+    },
+    "after": {
+      "mean_db": -20.0,
+      "max_db": -0.9
+    },
+    "source_sha256": "23c3d70ad537500f6abede0b346d3a9cb2af35d09260a6e143d58272ca6e96a5",
+    "sha256": "5cef939ca285d0bd39136323de7a79785dc5d39a48643a19d0e4b8935243153e"
+  }
+}

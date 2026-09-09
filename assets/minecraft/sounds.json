@@ -1219,18 +1219,12 @@
   },
   "char.149": {
     "sounds": [
-      {
-        "name": "char/149",
-        "stream": false
-      }
+      "char/149"
     ]
   },
   "char.149_148": {
     "sounds": [
-      {
-        "name": "char/149_148",
-        "stream": false
-      }
+      "char/149_148"
     ]
   },
   "skill.death_p": {
@@ -1286,6 +1280,61 @@
   "skill.death_gadget": {
     "sounds": [
       "skill/death/gadget"
+    ]
+  },
+  "skill.puss_right": {
+    "sounds": [
+      "skill/puss/right"
+    ]
+  },
+  "skill.puss_right_hit": {
+    "sounds": [
+      "skill/puss/right_hit"
+    ]
+  },
+  "skill.puss_f": {
+    "sounds": [
+      "skill/puss/f"
+    ]
+  },
+  "skill.puss_p_dodge": {
+    "sounds": [
+      "skill/puss/p_dodge"
+    ]
+  },
+  "skill.puss_p_mark": {
+    "sounds": [
+      "skill/puss/p_mark"
+    ]
+  },
+  "skill.puss_p_touche": {
+    "sounds": [
+      "skill/puss/p_touche"
+    ]
+  },
+  "skill.puss_q": {
+    "sounds": [
+      "skill/puss/q"
+    ]
+  },
+  "skill.puss_gadget": {
+    "sounds": [
+      "skill/puss/gadget"
+    ]
+  },
+  "skill.puss_gadget_return": {
+    "sounds": [
+      "skill/puss/gadget_return"
+    ]
+  },
+  "char.148": {
+    "sounds": [
+      "char/148"
+    ]
+  },
+  "char.148_149": {
+    "sounds": [
+      "char/148_149"
     ]
   }
 }

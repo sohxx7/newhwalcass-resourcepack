@@ -1,6 +1,6 @@
 Hwalcass / Puss skill audio credits
 
-fente.ogg
+right.ogg
 190155_FencingFoilBladesClashing.wav by GaelanW
 https://freesound.org/people/GaelanW/sounds/490074/
 Licensed under Creative Commons Attribution 3.0 Unported:
@@ -9,7 +9,7 @@ Adapted from 5.869-6.160 seconds: one lighter blade clash extracted,
 played at 1.20x speed, raised in pitch, equalized, faded, compressed,
 normalized, converted to mono, and encoded as Vorbis (about 0.24 seconds).
 
-roll.ogg
+f.ogg
 Whoosh by qubodup
 https://freesound.org/people/qubodup/sounds/60013/
 CC0 1.0 Universal / public domain:
@@ -17,21 +17,20 @@ https://creativecommons.org/publicdomain/zero/1.0/
 Recorded bamboo-stick air swish. Adapted: mono 48 kHz, light filtering,
 30 ms motion alignment, fades, level adjustment and Vorbis conversion.
 
-pentakill.ogg
-Fearless Hero (Hero Version) - Antonio Banderas / Heitor Pereira
-User-selected soundtrack video: https://www.youtube.com/watch?v=s8EAdlxwsq8
-Back Lot Music; (P) 2022 Universal Studios Music.
-Short 159.300-169.300-second excerpt, not the full track.
-
-round_win.ogg
+../../char/148.ogg
 Puss in Boots: The Last Wish (2022) - Puss Meets Death
 User-selected clip: https://www.youtube.com/watch?v=Bm7zI0ksExY
 Dialogue excerpt 81.300-84.850 seconds, including the complete final word.
 
-ultimate.ogg
+q.ogg
 Universal Pictures official Puss in Boots: The Last Wish trailer
 https://www.youtube.com/watch?v=xgZLXyqbYOc
 Dialogue excerpt 110.140-112.120 seconds.
+
+../../char/148_149.ogg
+Puss in Boots: The Last Wish (2022) - ending scene
+User-selected clip: https://www.youtube.com/watch?v=G9GPC1q8VZs
+Dialogue excerpt 215.000-220.000 seconds; +3 dB gain with a peak limiter.
 
 The movie and soundtrack excerpts are not CC-licensed. The CC BY license
 above applies only to GaelanW's fencing recording; the air swish is CC0.
