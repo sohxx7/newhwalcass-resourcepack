@@ -13,9 +13,9 @@
         -3
       ],
       "scale": [
-        0.55,
-        0.55,
-        0.55
+        0.75,
+        0.75,
+        0.75
       ]
     },
     "firstperson_lefthand": {
@@ -30,14 +30,14 @@
         -3
       ],
       "scale": [
-        0.55,
-        0.55,
-        0.55
+        0.75,
+        0.75,
+        0.75
       ]
     },
     "thirdperson_righthand": {
       "rotation": [
-        8,
+        44,
         -55,
         48
       ],
@@ -54,7 +54,7 @@
     },
     "thirdperson_lefthand": {
       "rotation": [
-        8,
+        44,
         55,
         -48
       ],

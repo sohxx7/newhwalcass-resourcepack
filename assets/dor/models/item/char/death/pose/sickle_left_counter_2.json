@@ -37,7 +37,7 @@
     },
     "thirdperson_righthand": {
       "rotation": [
-        -10,
+        62,
         -50,
         0
       ],
@@ -54,7 +54,7 @@
     },
     "thirdperson_lefthand": {
       "rotation": [
-        -10,
+        62,
         -50,
         0
       ],
