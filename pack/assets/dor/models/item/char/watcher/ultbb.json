@@ -1,0 +1,33 @@
+{
+  "_comment": "vfx 빌보드 판. 면은 하나만 둔다: 빌보드는 정점 번호로 코너를 다시 놓으므로 앞뒤 두 면이 같은 자리에 겹쳐 z-fight(대각선 반쪽 거울상)가 난다. tintindex 0 = 염색색이 24비트 데이터. display 블록은 절대 넣지 않는다.",
+  "textures": {
+    "particle": "dor:item/char/watcher/ultbb",
+    "0": "dor:item/char/watcher/ultbb"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        8
+      ],
+      "to": [
+        16,
+        16,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#0",
+          "tintindex": 0
+        }
+      }
+    }
+  ]
+}
