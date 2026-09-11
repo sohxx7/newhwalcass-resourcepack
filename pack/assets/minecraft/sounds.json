@@ -1337,6 +1337,17 @@
       "char/148_149"
     ]
   },
+  "char.150": {
+    "sounds": [
+      "char/150"
+    ]
+  },
+  "char.140": {
+    "replace": true,
+    "sounds": [
+      "char/140"
+    ]
+  },
   "char.88_2": {
     "sounds": [
       "char/88_2"
