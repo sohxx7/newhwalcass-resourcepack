@@ -1,0 +1,29 @@
+{
+  "class": 150,
+  "name": "제천대성",
+  "base_release": "v2026.09.11-soldier140-roundvoice.1",
+  "base_sha256": "942d88b3e6640b74aa2d8154b95607eb11c08bfd38acedd23e9a337e62e44b56",
+  "source_url": "https://www.youtube.com/watch?v=tFPbzfU5XL4",
+  "source_interval_seconds": [
+    54.5,
+    57
+  ],
+  "previous_interval_seconds": [
+    54,
+    57
+  ],
+  "duration_seconds": 2.5,
+  "audio_sha256": "153cd39d0a4daab344e667b7addb1ce8a21aec0d8fcb72387a8a9e14e3be0ae5",
+  "event": "char.150",
+  "encoding": "Vorbis quality 6, stereo 48000 Hz; source loudness unchanged",
+  "changed_paths": [
+    "assets/minecraft/sounds/char/150.ogg"
+  ],
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 60098804,
+      "sha256": "b1095ab707be2c155e02b49b310506a5aeeecf30dbe2b79e7b46016a8a32be71"
+    }
+  }
+}
