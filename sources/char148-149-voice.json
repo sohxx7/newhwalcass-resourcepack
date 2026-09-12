@@ -9,26 +9,26 @@
     79
   ],
   "duration_seconds": 5.0,
-  "gain_db": 6.5,
+  "gain_db": 3.5,
   "limiter_ceiling_db": -1,
   "before": {
     "mean_db": -22.0,
     "max_db": -4.4
   },
   "after": {
-    "mean_db": -15.7,
-    "max_db": -0.8
+    "mean_db": -18.5,
+    "max_db": -1.0
   },
   "encoding": "Vorbis quality 6, stereo 48000 Hz",
-  "audio_sha256": "14957899cb418adb5ffadf2123a3380538adf89df6f94ab206c928d3ea9f43f2",
+  "audio_sha256": "ad0305a9678f43e77642450ad170ac2d2e3cc4ae858dbbb123a42063bea97454",
   "changed_paths": [
     "assets/minecraft/sounds/char/148_149.ogg"
   ],
   "packs": {
     "new": {
       "filename": "Newhwalcass.zip",
-      "bytes": 71425353,
-      "sha256": "9b4f6bc9d9ec54f835f351a9445a5d05eadd527b6bb3b5bf5a21c7ad91b6b213"
+      "bytes": 71423862,
+      "sha256": "68649dce7bbe42b3925b635a439382d9a4413c77d0dfb3ec4baa50712e4d8d04"
     }
   }
 }
