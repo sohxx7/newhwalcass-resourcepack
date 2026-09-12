@@ -1352,5 +1352,20 @@
     "sounds": [
       "char/88_2"
     ]
+  },
+  "skill.watcher_right": {
+    "sounds": [
+      "skill/watcher/right"
+    ]
+  },
+  "skill.watcher_f": {
+    "sounds": [
+      "skill/watcher/f"
+    ]
+  },
+  "skill.watcher_q": {
+    "sounds": [
+      "skill/watcher/q"
+    ]
   }
 }
