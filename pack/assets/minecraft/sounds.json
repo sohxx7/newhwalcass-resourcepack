@@ -1385,5 +1385,13 @@
         "stream": true
       }
     ]
+  },
+  "bgm.class147": {
+    "sounds": [
+      {
+        "name": "bgm/class147",
+        "stream": true
+      }
+    ]
   }
 }
