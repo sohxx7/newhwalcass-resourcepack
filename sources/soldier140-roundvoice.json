@@ -1,0 +1,30 @@
+{
+  "class": 140,
+  "name": "군인",
+  "base_release": "v2026.09.11-wukong150-audio.1",
+  "base_sha256": "fff1ef7c4c7c080587d3a907b436c9e8494b129814ba3090d4bf24e7d7f04289",
+  "source_url": "https://www.youtube.com/watch?v=aLSDhmTQ160",
+  "source_interval_seconds": [
+    397,
+    401
+  ],
+  "duration_seconds": 4.0,
+  "encoding": "Vorbis quality 6, stereo 48000 Hz; source loudness unchanged",
+  "audio_sha256": "1d7151454a422f66b3259b60ebeb0f4f36bf294ee58a34dd7fa40bd142b5e569",
+  "event": "char.140",
+  "changed_paths": [
+    "assets/minecraft/sounds.json",
+    "assets/minecraft/sounds/char/140.ogg"
+  ],
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 60110346,
+      "sha256": "942d88b3e6640b74aa2d8154b95607eb11c08bfd38acedd23e9a337e62e44b56"
+    }
+  },
+  "global_round_voices": [
+    "char.140",
+    "char.150"
+  ]
+}

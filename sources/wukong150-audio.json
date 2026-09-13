@@ -1,0 +1,43 @@
+{
+  "class": 150,
+  "name": "제천대성",
+  "base_release": "v2026.09.09-character-sound-format.1",
+  "packs": {
+    "hq": {
+      "filename": "활카스브금리팩(고음질).zip",
+      "bytes": 744302697,
+      "sha256": "08e442f71012270df05f67ded26546e24e3c004f04f89d946deac901e65dc824",
+      "base_sha256": "81fb558b168833075a696be19bf0d073efe1a159891d9336fa82f8c9890e9bb2",
+      "event": "bgm.class150",
+      "changed_paths": [
+        "assets/minecraft/sounds.json",
+        "assets/minecraft/sounds/bgm/class150.ogg"
+      ],
+      "audio_sha256": "f5840bb40bfab2deeb2d9f60abde3e7df28aafb608687a4f16cdf95ae8f872f3",
+      "duration_seconds": 177.39625,
+      "source_url": "https://www.youtube.com/watch?v=uZCr_SKGIts",
+      "source_interval_seconds": "full",
+      "encoding": "Vorbis quality 6, stereo 48000 Hz; source loudness unchanged"
+    },
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 60044755,
+      "sha256": "fff1ef7c4c7c080587d3a907b436c9e8494b129814ba3090d4bf24e7d7f04289",
+      "base_sha256": "d11f91c331293e261d2229648ebf88eb0b767fa51d398c73ff03d7e58e0a2d8c",
+      "event": "char.150",
+      "changed_paths": [
+        "assets/minecraft/sounds.json",
+        "assets/minecraft/sounds/char/150.ogg"
+      ],
+      "audio_sha256": "aeff806f0ab6e14524f750d014bc91babf8bc9de41fdb7e94b44065935fee428",
+      "duration_seconds": 3.0,
+      "source_url": "https://www.youtube.com/watch?v=tFPbzfU5XL4",
+      "source_interval_seconds": [
+        54,
+        57
+      ],
+      "encoding": "Vorbis quality 6, stereo 48000 Hz; source loudness unchanged"
+    }
+  },
+  "bgm_timer_ticks": 3548
+}

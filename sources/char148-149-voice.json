@@ -1,0 +1,34 @@
+{
+  "event": "char.148_149",
+  "class": 148,
+  "name": "장화신은고양이",
+  "context": "장화신은고양이가 죽음(149)을 처치했을 때 나오는 전용 대사",
+  "source_url": "https://www.youtube.com/watch?v=1o8GWhoD53I",
+  "source_interval_seconds": [
+    74,
+    79
+  ],
+  "duration_seconds": 5.0,
+  "gain_db": 3.5,
+  "limiter_ceiling_db": -1,
+  "before": {
+    "mean_db": -22.0,
+    "max_db": -4.4
+  },
+  "after": {
+    "mean_db": -18.5,
+    "max_db": -1.0
+  },
+  "encoding": "Vorbis quality 6, stereo 48000 Hz",
+  "audio_sha256": "ad0305a9678f43e77642450ad170ac2d2e3cc4ae858dbbb123a42063bea97454",
+  "changed_paths": [
+    "assets/minecraft/sounds/char/148_149.ogg"
+  ],
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 71423862,
+      "sha256": "68649dce7bbe42b3925b635a439382d9a4413c77d0dfb3ec4baa50712e4d8d04"
+    }
+  }
+}

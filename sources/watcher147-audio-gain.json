@@ -1,0 +1,63 @@
+{
+  "base_release": "v2026.09.12-char148-149-voice.2",
+  "base_sha256": "68649dce7bbe42b3925b635a439382d9a4413c77d0dfb3ec4baa50712e4d8d04",
+  "limiter_ceiling_db": -1,
+  "note": "감시자(147) 효과음 4종이 다른 캐릭터보다 작게 들려 헤드룸만큼 올렸다. right/f 는 피크가 -8.6/-9.4dB 로 8~9dB 를 놀리고 있었다. 파일마다 원래 여유가 달라 일괄 게인 대신 피크가 -1dB 에 붙도록 개별 게인을 줬다. q 는 원본 피크가 이미 0.0dB(클리핑 직전)라 게인 2dB 를 리미터로 받았다. 음원·길이·구간은 그대로이고 음량만 조정했다.",
+  "encoder": "libvorbis -b:a 110k -ar 48000 -ac 1 (원본과 동일 사양)",
+  "changed_assets": {
+    "assets/minecraft/sounds/skill/watcher/right.ogg": {
+      "gain_db": 7.9,
+      "before": {
+        "mean_db": -19.6,
+        "max_db": -8.6
+      },
+      "after": {
+        "mean_db": -11.8,
+        "max_db": -1.0
+      },
+      "original_sha256": "5b555cd900a07bd90c02ce41b97bac4e5636b401669d30ef32462f8a3ea06825",
+      "sha256": "ac063ae8998e64c41017e6718530fa9ce528db72a9a5521bae781f224180a2fb"
+    },
+    "assets/minecraft/sounds/skill/watcher/f.ogg": {
+      "gain_db": 8.3,
+      "before": {
+        "mean_db": -21.9,
+        "max_db": -9.4
+      },
+      "after": {
+        "mean_db": -13.7,
+        "max_db": -1.2
+      },
+      "original_sha256": "2e57f0741eef6712a339ead0a62f014250838631f7a1fe6afd13a53cf5fea62e",
+      "sha256": "3b5504f149635ae285c218dee6dcca5a604feade36a054cb074d14826035dec2"
+    },
+    "assets/minecraft/sounds/skill/watcher/f_boom.ogg": {
+      "gain_db": 2.4,
+      "before": {
+        "mean_db": -15.1,
+        "max_db": -3.3
+      },
+      "after": {
+        "mean_db": -12.8,
+        "max_db": -0.9
+      },
+      "original_sha256": "72a7aaebc8001c1d6a41c8b4a23bb3fdba285fca024082234b058e37fd90f528",
+      "sha256": "267b8c34c69ea4117f26b24d4fe0d9a0674c3ef86e2f7e15ab46296cedff7f60"
+    },
+    "assets/minecraft/sounds/skill/watcher/q.ogg": {
+      "gain_db": 2,
+      "limited": true,
+      "before": {
+        "mean_db": -14.5,
+        "max_db": 0.0
+      },
+      "after": {
+        "mean_db": -12.8,
+        "max_db": -0.6
+      },
+      "original_sha256": "58210aad61339d84ddd4c1bc92cf8e9826f3269ad0b99c237ee51796b222f1de",
+      "sha256": "4c05139131249a31c94ae2be99df9ebac33828f7f2052c45abfacec2aedf0730"
+    }
+  },
+  "pack_sha256": "31196f05ceea0e64b3cf7e2f5249a8bf88e4ef3b78e47142450b7c960688fe06"
+}
