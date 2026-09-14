@@ -1,0 +1,24 @@
+{
+  "event": "minecraft:bgm.class147.5",
+  "asset": "assets/minecraft/sounds/bgm/class147.5.ogg",
+  "source_archive": "활카스브금리팩(고음질) (9).zip",
+  "source_entry": "assets/minecraft/sounds/bgm/class147.5.ogg",
+  "note": "Copied the class147.5 file from the manually installed HQ BGM pack without re-encoding. That pack had the file but no bgm.class147.5 sound event. Register the event in Newhwalcass so a separate HQ pack update is not required.",
+  "sha256": "d2a97f3df77f092c20cdb711ec43f08ce30524c8453109255f216ce3daad4971",
+  "bytes": 2272881,
+  "audio": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "vorbis",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "format": {
+      "duration": "125.062676"
+    }
+  },
+  "source_event_was_missing": true
+}

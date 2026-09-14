@@ -1377,5 +1377,14 @@
     "sounds": [
       "char/822"
     ]
+  },
+  "bgm.class147.5": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "bgm/class147.5",
+        "stream": true
+      }
+    ]
   }
 }
