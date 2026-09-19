@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "dor:item/lapis/vest",
+    "tints": [
+      { "type": "minecraft:dye", "default": -6265536 }
+    ]
+  }
+}
