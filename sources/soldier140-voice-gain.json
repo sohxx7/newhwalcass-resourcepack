@@ -1,0 +1,33 @@
+{
+  "class": 140,
+  "name": "군인",
+  "event": "char.140",
+  "base_release": "v2026.09.20-lapis130-wings.1",
+  "base_commit": "0566fb802245cbc7d43356e7c04b33e1ec353d10",
+  "base_sha256": "38849051a2cd14957d47287d2ec99098402d6a31ee12a8351630926b8996cb59",
+  "gain_db": 9,
+  "measured_gain_db": 8.979084854860147,
+  "before": {
+    "seconds": 4.0,
+    "mean_dbfs": -28.87275327051463,
+    "peak_dbfs": -11.168033986967746
+  },
+  "after": {
+    "seconds": 4.0,
+    "mean_dbfs": -19.89366841565448,
+    "peak_dbfs": -2.2235329255357392
+  },
+  "waveform_correlation": 0.9978235115144798,
+  "encoding": "Vorbis quality 6, stereo 48000 Hz; timing and pitch preserved",
+  "audio_sha256": "b6bd77ad4e1b5584799b4d174bdc12d5ac2a734553ce78db86e2a6d5f4d22987",
+  "changed_paths": [
+    "assets/minecraft/sounds/char/140.ogg"
+  ],
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 75425773,
+      "sha256": "bd8e90eb52079a64c7246dfc16fa949231ba6b63d34801b11190450b3fdf0dc1"
+    }
+  }
+}
