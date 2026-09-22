@@ -1,0 +1,51 @@
+{
+  "character": 62,
+  "skin_slot": 1,
+  "skin_tag": "wpskin62",
+  "weapon_elements": 11,
+  "q_display_entities": 1,
+  "q_model_elements": 1,
+  "q_texture_frames": 16,
+  "pack_sha256": "015b7df32ed330f6366ac99521ec60b550673a5ea2e8e660aec8e10b5caa1ad6",
+  "source_references": [
+    "https://x.com/brawlstarsjp/status/1262654959171932160",
+    "https://quasarzone.com/bbs/qf_mobile/views/27148"
+  ],
+  "name": "도적 모티스 언더테이커",
+  "shop_price": 200,
+  "release_tag": "v2026.09.22-rogue-mortis62.1",
+  "base_release": "v2026.09.20-soldier140-voice-gain.1",
+  "base_commit": "3bd0eca97e1d50823a9e1a774635573e83b52ee6",
+  "base_sha256": "bd8e90eb52079a64c7246dfc16fa949231ba6b63d34801b11190450b3fdf0dc1",
+  "unchanged_base_files": 1340,
+  "added_paths": [
+    "assets/dor/items/char/undertaker/rogue_mortis/sandstorm.json",
+    "assets/dor/items/char/undertaker/rogue_mortis/scimitar.json",
+    "assets/dor/items/char/undertaker/rogue_mortis/scimitar_swing.json",
+    "assets/dor/models/char/undertaker/rogue_mortis/sandstorm.json",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json",
+    "assets/dor/textures/char/undertaker/rogue_mortis/sandstorm.png",
+    "assets/dor/textures/char/undertaker/rogue_mortis/sandstorm.png.mcmeta",
+    "assets/dor/textures/char/undertaker/rogue_mortis/scimitar.png"
+  ],
+  "asset_sha256": {
+    "assets/dor/items/char/undertaker/rogue_mortis/sandstorm.json": "0ee0b71eb2b2d99fcc0c828d28cc21f8e6786ce25038db013a2084219337aac8",
+    "assets/dor/items/char/undertaker/rogue_mortis/scimitar.json": "cd448f4e65c84e4aab3efc2fc23716b355584e0cb93f81245d5b65cfcbb5cf30",
+    "assets/dor/items/char/undertaker/rogue_mortis/scimitar_swing.json": "132a2e27aaf91860076668e0aef76af6a67f02c9b505e698da9a3f83e60b47ee",
+    "assets/dor/models/char/undertaker/rogue_mortis/sandstorm.json": "d1e28bd3bec4edbc9ef4c2e65990cf2861dcfa84fcf8f2636923bbf0c544eef0",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json": "159d99cef375bf381132df3b538b313eea485fae0f4e6b451316df0a4439da3e",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json": "4165cbffa28da3157cf9c88ee95e61ab6767e4d91a37cf461b91291a79d32f75",
+    "assets/dor/textures/char/undertaker/rogue_mortis/sandstorm.png": "840b5fc5990790f3e98aac1eb56b1358b77923ce375773ab532ab1da02af525d",
+    "assets/dor/textures/char/undertaker/rogue_mortis/sandstorm.png.mcmeta": "0e594982c8aea8b9bdf634a2b1ec0b886cac19a50a479be04113a886b49f5cb2",
+    "assets/dor/textures/char/undertaker/rogue_mortis/scimitar.png": "874abc0c3bb8bb617e60f0107bd6bbea41e00ed699f84ddc72bf3f9446d4cd0d"
+  },
+  "source_path_prefix": "pack/",
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 75465356,
+      "sha256": "0ad98bcdca8ae385b2acc91f99c4878cab2d2ab42aad0c1ec656b8f801a0d28c"
+    }
+  }
+}
