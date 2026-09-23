@@ -1,0 +1,36 @@
+{
+  "name": "도적 언더테이커",
+  "character": 62,
+  "shop_price": 200,
+  "release_tag": "v2026.09.23-rogue-undertaker62-texture-fix.1",
+  "base_release": "v2026.09.22-rogue-mortis62.1",
+  "base_commit": "bd91198de177f6270a50bab31fc98a2ce6ebd4ee",
+  "base_sha256": "0ad98bcdca8ae385b2acc91f99c4878cab2d2ab42aad0c1ec656b8f801a0d28c",
+  "source_path_prefix": "pack/",
+  "changed_paths": [
+    "assets/minecraft/atlases/blocks.json"
+  ],
+  "added_atlas_sprites": [
+    "dor:char/undertaker/rogue_mortis/scimitar",
+    "dor:char/undertaker/rogue_mortis/sandstorm"
+  ],
+  "unchanged_base_files": 1348,
+  "asset_sha256": {
+    "assets/minecraft/atlases/blocks.json": "5a217c6b92f12352a676ff6af32d10a1c76be7f7beaeac9f3b99466b35bbef95"
+  },
+  "official_build_script_sha256": "c03e28fabc230510f5ec81de02791a57928b99efae38d272511cb6d2712dc752",
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 75465394,
+      "sha256": "5b8f66d0242880b33fd0fe2a02f74c55aa7c2e8865e5145b33ca4534fe8da1eb"
+    }
+  },
+  "verification": {
+    "base_missing_both_sprites": true,
+    "fixed_registers_both_sprites": true,
+    "existing_atlas_sources_preserved": true,
+    "only_atlas_file_changed": true,
+    "post_fix_client_rendering_tested": false
+  }
+}

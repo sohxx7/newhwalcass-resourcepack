@@ -36,6 +36,14 @@
     {
       "type": "minecraft:single",
       "resource": "dor:char/death/fx_spin"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/undertaker/rogue_mortis/scimitar"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/undertaker/rogue_mortis/sandstorm"
     }
   ]
 }
