@@ -1,0 +1,43 @@
+{
+  "ambientocclusion": false,
+  "gui_light": "front",
+  "textures": {
+    "0": "dor:item/map/breeze",
+    "particle": "dor:item/map/breeze"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0.10068768651874915,
+        8
+      ],
+      "to": [
+        16,
+        15.89931231348125,
+        8
+      ],
+      "shade": false,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}

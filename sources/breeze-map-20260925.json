@@ -1,0 +1,36 @@
+{
+  "map": "브리즈",
+  "map_score": 32,
+  "map_number": 31,
+  "release_tag": "v2026.09.25-breeze-map.1",
+  "base_release": "v2026.09.24-flowery138-audio.1",
+  "base_commit": "5d96189ff2c0f72f4b68b6fd7c943b11fdfa4f18",
+  "base_sha256": "5cb179dc9157b6cdb6460fff439987c0b42c6ce3a174034a4f3ce9a1005b16c1",
+  "source_image": {
+    "width": 1101,
+    "height": 761,
+    "sha256": "0f2685d51bebcafcae79b45ac1a0e270a5d3a6d112d9e3a725d9ff85447edb38"
+  },
+  "changed_paths": [
+    "assets/dor/items/map/breeze.json",
+    "assets/dor/models/item/map/breeze.json",
+    "assets/dor/textures/item/map/breeze.png"
+  ],
+  "deleted_paths": [],
+  "asset_sha256": {
+    "assets/dor/items/map/breeze.json": "cccc99726f3679d893a5515448eec9bd9e60b19eea3983b96946a1359e6d3ccc",
+    "assets/dor/models/item/map/breeze.json": "5d424f47217cccba01b28a73ce591fdafdd810868ef6860bd8c5cec32bf2fa67",
+    "assets/dor/textures/item/map/breeze.png": "0f2685d51bebcafcae79b45ac1a0e270a5d3a6d112d9e3a725d9ff85447edb38"
+  },
+  "pack_sha256": "528d100741cc2932d2fa91054dbfb2ed5c15bb7017c69c26536d278ebede963b",
+  "pack_bytes": 77098107,
+  "unchanged_base_files": 1348,
+  "verification": {
+    "zip_crc": true,
+    "all_json_valid": true,
+    "source_png_byte_identical": true,
+    "image_aspect_preserved": true,
+    "all_previous_assets_preserved": true,
+    "client_visual_tested": false
+  }
+}
