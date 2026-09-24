@@ -7,7 +7,8 @@
     256
   ],
   "textures": {
-    "0": "dor:char/undertaker/rogue_mortis/scimitar"
+    "0": "dor:char/undertaker/rogue_mortis/scimitar",
+    "particle": "dor:char/undertaker/rogue_mortis/scimitar"
   },
   "elements": [
     {
