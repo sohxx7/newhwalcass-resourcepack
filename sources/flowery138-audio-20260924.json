@@ -1,0 +1,26 @@
+{
+  "character": 138,
+  "release_tag": "v2026.09.24-flowery138-audio.1",
+  "base_release": "v2026.09.23-rogue-undertaker62-texture-fix.1",
+  "base_commit": "7b4d9c587d48628c64bdcc2483e4685f50c8b19d",
+  "base_sha256": "5b8f66d0242880b33fd0fe2a02f74c55aa7c2e8865e5145b33ca4534fe8da1eb",
+  "changed_paths": [
+    "assets/minecraft/sounds.json"
+  ],
+  "deleted_paths": [
+    "assets/minecraft/sounds/skill/flowery/138_ult.ogg"
+  ],
+  "asset_sha256": {
+    "assets/minecraft/sounds.json": "19be3c344c88ca5f14e71f611bcdfde0164dd49ef2a507a4c3e51167ae6aea17"
+  },
+  "pack_sha256": "5cb179dc9157b6cdb6460fff439987c0b42c6ce3a174034a4f3ce9a1005b16c1",
+  "pack_bytes": 75428782,
+  "unchanged_base_files": 1347,
+  "verification": {
+    "zip_crc": true,
+    "all_json_valid": true,
+    "audio_bytes_preserved": true,
+    "only_requested_pack_changes": true,
+    "client_listening_tested": false
+  }
+}

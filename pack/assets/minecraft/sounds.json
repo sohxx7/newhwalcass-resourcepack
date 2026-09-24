@@ -237,7 +237,7 @@
   },
   "char.138_134": {
     "sounds": [
-      "char/138_134"
+      "skill/flowery/138_134"
     ]
   },
   "char.139_ult": {
@@ -275,11 +275,6 @@
       "skill/flowery/punch"
     ]
   },
-  "skill.flowery_138_ult": {
-    "sounds": [
-      "skill/flowery/138_ult"
-    ]
-  },
   "skill.flowery_punchhit": {
     "sounds": [
       "skill/flowery/punchhit"
@@ -293,6 +288,11 @@
   "skill.flowery_wind": {
     "sounds": [
       "skill/flowery/wind"
+    ]
+  },
+  "skill.flowery_flower": {
+    "sounds": [
+      "skill/flowery/flower"
     ]
   },
   "skill.flowery_138_omega": {
