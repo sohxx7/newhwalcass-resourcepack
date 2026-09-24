@@ -1,0 +1,34 @@
+{
+  "map": "브리즈",
+  "release_tag": "v2026.09.25-breeze-brightness.1",
+  "base_release": "v2026.09.25-breeze-map.1",
+  "base_commit": "14f9aa1f615a2e13e48df60e47366ce0553f5375",
+  "base_sha256": "528d100741cc2932d2fa91054dbfb2ed5c15bb7017c69c26536d278ebede963b",
+  "changed_paths": [
+    "assets/dor/textures/item/map/breeze.png"
+  ],
+  "deleted_paths": [],
+  "asset_sha256": {
+    "assets/dor/textures/item/map/breeze.png": "9e7973aa3c4b5346d3dd94864aaac751cbcec33190a2eaf71974b2ac073cdd08"
+  },
+  "pack_sha256": "a1716f6d442ef97b8f559eed9123fd9cf65324766a7982d4ca67f4a0ac249da1",
+  "pack_bytes": 76885483,
+  "source_image_sha256": "0f2685d51bebcafcae79b45ac1a0e270a5d3a6d112d9e3a725d9ff85447edb38",
+  "texture_encoding": {
+    "size": [
+      1101,
+      761
+    ],
+    "alpha_before": 255,
+    "alpha_after": 252,
+    "reference": "assets/minecraft/textures/item/map/map30.png"
+  },
+  "verification": {
+    "rgb_pixels_identical": true,
+    "dimensions_unchanged": true,
+    "zip_crc": true,
+    "all_json_valid": true,
+    "only_breeze_texture_changed": true,
+    "client_visual_tested": false
+  }
+}
