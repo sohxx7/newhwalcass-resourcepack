@@ -1,10 +1,13 @@
 {
-  "credit": "Hwalcass - Rogue Mortis inspired scimitar, 11 elements",
+  "format_version": "1.21.6",
+  "credit": "Made with Blockbench",
   "ambientocclusion": false,
-  "gui_light": "front",
+  "texture_size": [
+    128,
+    256
+  ],
   "textures": {
-    "0": "dor:char/undertaker/rogue_mortis/scimitar",
-    "particle": "dor:char/undertaker/rogue_mortis/scimitar"
+    "0": "dor:char/undertaker/rogue_mortis/scimitar"
   },
   "elements": [
     {
@@ -19,6 +22,15 @@
         6.8,
         8.9
       ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      },
       "faces": {
         "north": {
           "uv": [
@@ -29,7 +41,7 @@
           ],
           "texture": "#0"
         },
-        "south": {
+        "east": {
           "uv": [
             8,
             0,
@@ -38,7 +50,7 @@
           ],
           "texture": "#0"
         },
-        "east": {
+        "south": {
           "uv": [
             8,
             0,
@@ -88,6 +100,15 @@
         1.1,
         9.2
       ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "z",
+        "origin": [
+          8,
+          0,
+          8
+        ]
+      },
       "faces": {
         "north": {
           "uv": [
@@ -98,7 +119,7 @@
           ],
           "texture": "#0"
         },
-        "south": {
+        "east": {
           "uv": [
             12,
             2,
@@ -107,7 +128,7 @@
           ],
           "texture": "#0"
         },
-        "east": {
+        "south": {
           "uv": [
             12,
             2,
@@ -143,15 +164,6 @@
           ],
           "texture": "#0"
         }
-      },
-      "rotation": {
-        "axis": "z",
-        "angle": 22.5,
-        "origin": [
-          8,
-          0,
-          8
-        ]
       }
     },
     {
@@ -166,6 +178,15 @@
         1.6,
         9.05
       ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      },
       "faces": {
         "north": {
           "uv": [
@@ -176,7 +197,7 @@
           ],
           "texture": "#0"
         },
-        "south": {
+        "east": {
           "uv": [
             0,
             0,
@@ -185,7 +206,7 @@
           ],
           "texture": "#0"
         },
-        "east": {
+        "south": {
           "uv": [
             0,
             0,
@@ -235,6 +256,15 @@
         6.4,
         9.05
       ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      },
       "faces": {
         "north": {
           "uv": [
@@ -245,7 +275,7 @@
           ],
           "texture": "#0"
         },
-        "south": {
+        "east": {
           "uv": [
             0,
             0,
@@ -254,7 +284,7 @@
           ],
           "texture": "#0"
         },
-        "east": {
+        "south": {
           "uv": [
             0,
             0,
@@ -304,6 +334,15 @@
         7.8,
         9.3
       ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      },
       "faces": {
         "north": {
           "uv": [
@@ -314,7 +353,7 @@
           ],
           "texture": "#0"
         },
-        "south": {
+        "east": {
           "uv": [
             0,
             0,
@@ -323,7 +362,7 @@
           ],
           "texture": "#0"
         },
-        "east": {
+        "south": {
           "uv": [
             0,
             0,
@@ -373,6 +412,15 @@
         5.65,
         8.75
       ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      },
       "faces": {
         "north": {
           "uv": [
@@ -383,7 +431,7 @@
           ],
           "texture": "#0"
         },
-        "south": {
+        "east": {
           "uv": [
             0,
             0,
@@ -392,7 +440,7 @@
           ],
           "texture": "#0"
         },
-        "east": {
+        "south": {
           "uv": [
             0,
             0,
@@ -442,6 +490,15 @@
         6.45,
         8.75
       ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "z",
+        "origin": [
+          4.4,
+          5.8,
+          8
+        ]
+      },
       "faces": {
         "north": {
           "uv": [
@@ -452,7 +509,7 @@
           ],
           "texture": "#0"
         },
-        "south": {
+        "east": {
           "uv": [
             0,
             0,
@@ -461,7 +518,7 @@
           ],
           "texture": "#0"
         },
-        "east": {
+        "south": {
           "uv": [
             0,
             0,
@@ -497,15 +554,6 @@
           ],
           "texture": "#0"
         }
-      },
-      "rotation": {
-        "axis": "z",
-        "angle": 22.5,
-        "origin": [
-          4.4,
-          5.8,
-          8
-        ]
       }
     },
     {
@@ -520,6 +568,15 @@
         1.5,
         8.75
       ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "z",
+        "origin": [
+          5.1,
+          0.9,
+          8
+        ]
+      },
       "faces": {
         "north": {
           "uv": [
@@ -530,7 +587,7 @@
           ],
           "texture": "#0"
         },
-        "south": {
+        "east": {
           "uv": [
             0,
             0,
@@ -539,7 +596,7 @@
           ],
           "texture": "#0"
         },
-        "east": {
+        "south": {
           "uv": [
             0,
             0,
@@ -575,15 +632,6 @@
           ],
           "texture": "#0"
         }
-      },
-      "rotation": {
-        "axis": "z",
-        "angle": -22.5,
-        "origin": [
-          5.1,
-          0.9,
-          8
-        ]
       }
     },
     {
@@ -598,130 +646,88 @@
         8.3,
         9.35
       ],
-      "faces": {
-        "north": {
-          "uv": [
-            0,
-            0,
-            8,
-            4
-          ],
-          "texture": "#0"
-        },
-        "south": {
-          "uv": [
-            0,
-            0,
-            8,
-            4
-          ],
-          "texture": "#0"
-        },
-        "east": {
-          "uv": [
-            0,
-            0,
-            8,
-            4
-          ],
-          "texture": "#0"
-        },
-        "west": {
-          "uv": [
-            0,
-            0,
-            8,
-            4
-          ],
-          "texture": "#0"
-        },
-        "up": {
-          "uv": [
-            0,
-            0,
-            8,
-            4
-          ],
-          "texture": "#0"
-        },
-        "down": {
-          "uv": [
-            0,
-            0,
-            8,
-            4
-          ],
-          "texture": "#0"
-        }
-      },
       "rotation": {
-        "axis": "z",
         "angle": 45,
+        "axis": "z",
         "origin": [
           10,
           7.4,
           8
         ]
-      }
-    },
-    {
-      "name": "Notched silver cutlass",
-      "from": [
-        5.6,
-        7.4,
-        7.5
-      ],
-      "to": [
-        14.0,
-        30.2,
-        8.5
-      ],
+      },
       "faces": {
         "north": {
           "uv": [
             0,
+            0,
             8,
-            16,
-            16
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            8,
+            4
           ],
           "texture": "#0"
         },
         "south": {
           "uv": [
-            16,
-            8,
             0,
-            16
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            8,
+            4
           ],
           "texture": "#0"
         }
       }
     },
     {
-      "name": "Silver blade root",
+      "name": "Blade heel",
       "from": [
-        7.55,
-        7.7,
-        7.51
+        7.1,
+        7.65,
+        7.4
       ],
       "to": [
-        8.85,
-        9.4,
-        8.49
+        8.9,
+        14.1,
+        8.6
       ],
       "faces": {
         "north": {
           "uv": [
-            0,
-            4,
-            8,
-            8
-          ],
-          "texture": "#0"
-        },
-        "south": {
-          "uv": [
-            0,
+            2,
             4,
             8,
             8
@@ -730,7 +736,16 @@
         },
         "east": {
           "uv": [
-            0,
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2,
             4,
             8,
             8
@@ -741,14 +756,14 @@
           "uv": [
             0,
             4,
-            8,
+            1.75,
             8
           ],
           "texture": "#0"
         },
         "up": {
           "uv": [
-            0,
+            2,
             4,
             8,
             8
@@ -757,7 +772,379 @@
         },
         "down": {
           "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "Blade lower",
+      "from": [
+        6.75,
+        13.85,
+        7.4
+      ],
+      "to": [
+        9.5,
+        20.6,
+        8.6
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
             0,
+            4,
+            1.75,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "Blade belly",
+      "from": [
+        6.75,
+        19.5,
+        7.4
+      ],
+      "to": [
+        12.05,
+        24.85,
+        8.6
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            4,
+            1.75,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "Blade curve",
+      "from": [
+        7.15,
+        23.7,
+        7.4
+      ],
+      "to": [
+        10.9,
+        28,
+        8.6
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "z",
+        "origin": [
+          9.2,
+          24,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            4,
+            1.75,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "Blade tip",
+      "from": [
+        9.15,
+        26.3,
+        7.55
+      ],
+      "to": [
+        10.9,
+        30.45,
+        8.45
+      ],
+      "rotation": {
+        "angle": -45,
+        "axis": "z",
+        "origin": [
+          10,
+          26.3,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            4,
+            1.75,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "Blade back",
+      "from": [
+        6.5,
+        13.7,
+        7.4
+      ],
+      "to": [
+        9.5,
+        20.6,
+        8.6
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "z",
+        "origin": [
+          8.2,
+          13.7,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            4,
+            1.75,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            2,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            2,
             4,
             8,
             8
@@ -767,16 +1154,17 @@
       }
     }
   ],
+  "gui_light": "front",
   "display": {
     "thirdperson_righthand": {
       "rotation": [
         0,
-        -90,
+        90,
         0
       ],
       "translation": [
         0,
-        1.5,
+        3.6,
         -1
       ],
       "scale": [
@@ -793,7 +1181,7 @@
       ],
       "translation": [
         0,
-        1.5,
+        3.6,
         -1
       ],
       "scale": [
@@ -805,12 +1193,12 @@
     "firstperson_righthand": {
       "rotation": [
         0,
-        -90,
-        12
+        90,
+        -12
       ],
       "translation": [
         0,
-        0,
+        2.8,
         -1.5
       ],
       "scale": [
@@ -827,13 +1215,25 @@
       ],
       "translation": [
         0,
-        0,
+        2.8,
         -1.5
       ],
       "scale": [
         0.65,
         0.65,
         0.65
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.35,
+        0.35,
+        0.35
       ]
     },
     "gui": {
@@ -853,22 +1253,10 @@
         0.4
       ]
     },
-    "ground": {
-      "translation": [
-        0,
-        3,
-        0
-      ],
-      "scale": [
-        0.35,
-        0.35,
-        0.35
-      ]
-    },
     "fixed": {
       "rotation": [
         0,
-        180,
+        -180,
         -30
       ],
       "translation": [
@@ -882,5 +1270,35 @@
         0.55
       ]
     }
-  }
+  },
+  "groups": [
+    {
+      "name": "Weapon",
+      "origin": [
+        8,
+        3.5,
+        8
+      ],
+      "scope": 0,
+      "color": 0,
+      "shade": false,
+      "children": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    }
+  ]
 }

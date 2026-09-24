@@ -1,0 +1,45 @@
+{
+  "name": "도적 언더테이커",
+  "character": 62,
+  "shop_price": 200,
+  "release_tag": "v2026.09.25-rogue-undertaker62-cubes.1",
+  "base_release": "v2026.09.25-breeze-brightness.1",
+  "base_commit": "8b543f2c28fc3b150e20f1cef8f8950c4ee6ddb9",
+  "base_sha256": "a1716f6d442ef97b8f559eed9123fd9cf65324766a7982d4ca67f4a0ac249da1",
+  "source_path_prefix": "pack/",
+  "changed_paths": [
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json"
+  ],
+  "unchanged_base_files": 1349,
+  "asset_sha256": {
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json": "8b39992f8eff959dc4d3fa8bf9d732c05d636dd54d63225366d7d01b9fb80c99",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json": "39f05b6776b9cc6c5e08a81622836f095fcc7c9fa3a503f3a732a605ba4272ae"
+  },
+  "editable_sha256": {
+    "rogue_mortis_scimitar.bbmodel": "f4b80d6f2f74623926fde7cf372e74307a7a7edd03fc22e8b36e5947dd326837",
+    "rogue_mortis_scimitar_swing.bbmodel": "0b6f0dd0a66604dfefcdc85363163fecf862271d660b545365bc80c7d3dba278"
+  },
+  "official_build_script_sha256": "690d87861d3711bc7b087af8386d30ef70699bee457c616b66e5951cf9ae3886",
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 76885763,
+      "sha256": "b20d8d134585f0b9724938a3cb75c739b8819e0538463e1ccbdbffb3f015efde"
+    }
+  },
+  "verification": {
+    "native_blockbench_mcp": true,
+    "native_project_reopened": true,
+    "target_minecraft": "1.21.8",
+    "cube_count": 15,
+    "blade_cube_count": 6,
+    "mesh_count": 0,
+    "all_blade_faces_opaque": true,
+    "native_export_geometry_and_uv_match": true,
+    "thirdperson_normal_swing_grip_unchanged": true,
+    "both_hands_display_reviewed": true,
+    "textures_and_atlas_unchanged": true,
+    "actual_minecraft_client_rendering_tested": false
+  }
+}
