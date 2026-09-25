@@ -1,0 +1,45 @@
+{
+  "name": "도적 언더테이커 손잡이 및 파지 방향 수정",
+  "release_tag": "v2026.09.25-rogue-undertaker62-grip.1",
+  "base_release": "v2026.09.25-krmale40-volume.1",
+  "base_commit": "2409dbff154a71bbe9d600f45f08751b8cc510e2",
+  "base_sha256": "f41f0f6e4e85ea3260e53be9be42412cb5bd353e3bb5343bd249054985763261",
+  "source_path_prefix": "pack/",
+  "changed_paths": [
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json"
+  ],
+  "asset_sha256": {
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json": "425ec6392bd8147687e478818df4ad192dc70e23bddd18e441437fc2da6c74b0",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json": "214819bc5a6f29396170d9c821e226ff0291cb82ab5e1b7f85124513c7d88f4e"
+  },
+  "editable_sha256": {
+    "rogue_mortis_scimitar.bbmodel": "236c7b1b4ba2bd2036c64369b9f15e3ad151b666df63532826efb55d6fbf3490",
+    "rogue_mortis_scimitar_swing.bbmodel": "24bb3b94e0191ff766c36a676b7efbd27fad4989d4ffd4de1b1c0489bcd7f480"
+  },
+  "unchanged_base_files": 1358,
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 77120685,
+      "sha256": "a100edd013f5ab0240e1463010ced60e623432ab4893b0085e0e8e42ec5d96e3"
+    }
+  },
+  "verification": {
+    "native_blockbench_export_and_reopen": true,
+    "cubes": 99,
+    "meshes": 0,
+    "geometry_uv_texture_unchanged": true,
+    "normal_pose_matches_user_reference_transform": true,
+    "shared_grip_anchor": [
+      0.0,
+      -0.7993002290993156,
+      2.169896156018938
+    ],
+    "right_click_horizontal": true,
+    "firstperson_transforms_unchanged": true,
+    "korean_man_boosted_audio_preserved": true,
+    "actual_minecraft_pose_tested": false
+  },
+  "delivery_policy": "Publish and apply links; do not resend to connected players."
+}
