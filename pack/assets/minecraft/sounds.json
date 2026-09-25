@@ -1386,5 +1386,20 @@
         "stream": true
       }
     ]
+  },
+  "emote.krmale1": {
+    "sounds": [
+      "emote/krmale1"
+    ]
+  },
+  "emote.krmale2": {
+    "sounds": [
+      "emote/krmale2"
+    ]
+  },
+  "emote.krmale3": {
+    "sounds": [
+      "emote/krmale3"
+    ]
   }
 }

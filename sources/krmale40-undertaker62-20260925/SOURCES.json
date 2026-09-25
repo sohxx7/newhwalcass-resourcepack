@@ -1,0 +1,194 @@
+{
+  "name": "한국 남자 + 도적 언더테이커",
+  "release_tag": "v2026.09.25-krmale40-undertaker62.1",
+  "base_release": "v2026.09.25-rogue-undertaker62-cubes.2",
+  "base_commit": "7c4046c4780b0fdef2ea6cc2d55846860f92fb1a",
+  "base_sha256": "39a4ae8cfd0aa99e691cca870c3af33433d34082852469e53f16e5daf6202bec",
+  "source_path_prefix": "pack/",
+  "changed_paths": [
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json",
+    "assets/dor/textures/char/undertaker/rogue_mortis/scimitar.png",
+    "assets/minecraft/items/green_dye.json",
+    "assets/minecraft/models/item/emote/krmale1.json",
+    "assets/minecraft/models/item/emote/krmale2.json",
+    "assets/minecraft/models/item/emote/krmale3.json",
+    "assets/minecraft/sounds.json",
+    "assets/minecraft/sounds/emote/krmale1.ogg",
+    "assets/minecraft/sounds/emote/krmale2.ogg",
+    "assets/minecraft/sounds/emote/krmale3.ogg",
+    "assets/minecraft/textures/item/emote/krmale1.png",
+    "assets/minecraft/textures/item/emote/krmale2.png",
+    "assets/minecraft/textures/item/emote/krmale3.png"
+  ],
+  "added_paths": [
+    "assets/minecraft/models/item/emote/krmale1.json",
+    "assets/minecraft/models/item/emote/krmale2.json",
+    "assets/minecraft/models/item/emote/krmale3.json",
+    "assets/minecraft/sounds/emote/krmale1.ogg",
+    "assets/minecraft/sounds/emote/krmale2.ogg",
+    "assets/minecraft/sounds/emote/krmale3.ogg",
+    "assets/minecraft/textures/item/emote/krmale1.png",
+    "assets/minecraft/textures/item/emote/krmale2.png",
+    "assets/minecraft/textures/item/emote/krmale3.png"
+  ],
+  "modified_paths": [
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json",
+    "assets/dor/textures/char/undertaker/rogue_mortis/scimitar.png",
+    "assets/minecraft/items/green_dye.json",
+    "assets/minecraft/sounds.json"
+  ],
+  "unchanged_base_files": 1346,
+  "emote": {
+    "id": 40,
+    "name": "한국 남자",
+    "price": 300,
+    "selection": "one uniform random integer 1..3 per use, shared by sound and image",
+    "inputs": [
+      {
+        "variant": 1,
+        "image": "krmale.jpg",
+        "audio": "krmale.ogg",
+        "image_sha256": "b81f76d10968a2b34bb4c42e0df3107dbebc28ac85611ff22e49b6e10cc607e7",
+        "audio_sha256": "1d7f3c03166ad23ccc4a29317bb05451205fdc632ef595c016eb70e0e5ac327a",
+        "audio_mtime_ns": 1790307765406204200,
+        "audio_info": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "vorbis",
+              "sample_rate": "16000",
+              "channels": 1
+            }
+          ],
+          "format": {
+            "duration": "0.383875"
+          }
+        },
+        "image_size": [
+          200,
+          200
+        ],
+        "original_audio_bytes_preserved": true,
+        "decoded_image_pixels_preserved": true
+      },
+      {
+        "variant": 2,
+        "image": "krmale2.jpg",
+        "audio": "krmale2.ogg",
+        "image_sha256": "044d415a8398bbc71c5cfb357fd720bba1127f9917bf0ae37c5122e9154d51dd",
+        "audio_sha256": "af6cdd73c3f1d894563f0f0563aef1304c8c9a6c88f68ceaf82c84ed6a67fc2d",
+        "audio_mtime_ns": 1790307765411541200,
+        "audio_info": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "vorbis",
+              "sample_rate": "16000",
+              "channels": 1
+            }
+          ],
+          "format": {
+            "duration": "0.592188"
+          }
+        },
+        "image_size": [
+          200,
+          200
+        ],
+        "original_audio_bytes_preserved": true,
+        "decoded_image_pixels_preserved": true
+      },
+      {
+        "variant": 3,
+        "image": "krmale3.jpg",
+        "audio": "krmale3.ogg",
+        "image_sha256": "12050f0231342bfe4af40c0dc5cea3ac59ac168f56c771bd9082fcfcbacb2108",
+        "audio_sha256": "f95690887acd651874c92bbdd8767a27c9e548be5bdb61c0a74c70824eb29e35",
+        "audio_mtime_ns": 1790308011297287200,
+        "audio_info": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "vorbis",
+              "sample_rate": "16000",
+              "channels": 1
+            }
+          ],
+          "format": {
+            "duration": "0.222063"
+          }
+        },
+        "image_size": [
+          200,
+          200
+        ],
+        "original_audio_bytes_preserved": true,
+        "decoded_image_pixels_preserved": true
+      }
+    ]
+  },
+  "weapon": {
+    "name": "도적 언더테이커",
+    "cube_count": 99,
+    "normal_pose": "up",
+    "right_click_pose": "horizontal",
+    "price": 200,
+    "prior_native_validation": {
+      "native_blockbench_mcp": true,
+      "native_project_reopened": true,
+      "cube_count": 99,
+      "blade_cube_count": 14,
+      "mesh_count": 0,
+      "target_minecraft": "1.21.8",
+      "all_mapped_faces_opaque": true,
+      "geometry_max_corner_error": 0,
+      "native_geometry_and_uv_match": true,
+      "thirdperson_palm_anchor_preserved": true,
+      "normal_blade_points_up": true,
+      "both_hands_and_poses_reviewed": true,
+      "neutral_front_side_and_oblique_reviewed": true,
+      "atlas_and_other_assets_unchanged": true,
+      "actual_minecraft_pose_visually_tested": false
+    }
+  },
+  "asset_sha256": {
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json": "b466efeb053f377d567957a4efd16d841a0157341cf37dd68dd542a89c565816",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json": "5c4a249dc75c9a051eca4b5ce191c23bab85abbdb44ffa0347110b8bcd384223",
+    "assets/dor/textures/char/undertaker/rogue_mortis/scimitar.png": "d403ecb63acd3bc30295bc1b043d8b1942c0b01b3b70379a8a80d7fdb873fd4a",
+    "assets/minecraft/items/green_dye.json": "59f7a6f9bfad44404793d964e93daa7c9acf6e27df00779224fe6cd26793c08e",
+    "assets/minecraft/models/item/emote/krmale1.json": "59f32dbcef22a6239de19d8d21c531f53067b12dcb6e8e283b2a2cb136d04635",
+    "assets/minecraft/models/item/emote/krmale2.json": "5abcc6063e04acc1c58b0286f6ee8eef15bc76ebe5dc5e80e565031be4d3425e",
+    "assets/minecraft/models/item/emote/krmale3.json": "c59f373d9d24c4042d4dbaab735d2694c326c7fb02ff4fe29be6a8b1236fbfaa",
+    "assets/minecraft/sounds.json": "c23df3c81dd1f014fff51a0376be3fc7d26dd83e681049cdd680203f2e28fefe",
+    "assets/minecraft/sounds/emote/krmale1.ogg": "1d7f3c03166ad23ccc4a29317bb05451205fdc632ef595c016eb70e0e5ac327a",
+    "assets/minecraft/sounds/emote/krmale2.ogg": "af6cdd73c3f1d894563f0f0563aef1304c8c9a6c88f68ceaf82c84ed6a67fc2d",
+    "assets/minecraft/sounds/emote/krmale3.ogg": "f95690887acd651874c92bbdd8767a27c9e548be5bdb61c0a74c70824eb29e35",
+    "assets/minecraft/textures/item/emote/krmale1.png": "9ed22965d5740e489a9e96bc1e115588ce8147785d7de7d273b48a6c79bdb61b",
+    "assets/minecraft/textures/item/emote/krmale2.png": "28e9ab3b99163a529d294736831bf4b3ed61152f70311732dff4f42f1879bc7e",
+    "assets/minecraft/textures/item/emote/krmale3.png": "53a9821464828da9d1b553fe7e6bafe86d70132b8bafb65d994eeb533842cbfe"
+  },
+  "editable_sha256": {
+    "rogue_mortis_scimitar.bbmodel": "e4b0e3060558dc008e9646475bba30df53de549a603091e77cdb9b06b56068ed",
+    "rogue_mortis_scimitar_swing.bbmodel": "102bde467849d24d7d0588dea3cca6040e6f79ed9e3eba3f700c0ead5ae0a08c"
+  },
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 77115003,
+      "sha256": "b73dd0b315b74e49b3d1e9689ba73b0507a76300cbd6068a338a53c8a5d8ed5a"
+    }
+  },
+  "verification": {
+    "zip_valid": true,
+    "all_json_valid": true,
+    "existing_sound_events_and_emote_cases_preserved": true,
+    "image_sound_pairs_match": true,
+    "sword_assets_exactly_match_approved_local_pack": true,
+    "actual_client_playback_tested": false
+  }
+}
