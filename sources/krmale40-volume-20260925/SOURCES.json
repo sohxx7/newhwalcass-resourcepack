@@ -1,0 +1,120 @@
+{
+  "name": "한국 남자 이모트 음량 조정",
+  "release_tag": "v2026.09.25-krmale40-volume.1",
+  "base_release": "v2026.09.25-krmale40-undertaker62.1",
+  "base_commit": "3a80cf16198bd2f1bf47e68624c61f52f67590d1",
+  "base_sha256": "b73dd0b315b74e49b3d1e9689ba73b0507a76300cbd6068a338a53c8a5d8ed5a",
+  "source_path_prefix": "pack/",
+  "changed_paths": [
+    "assets/minecraft/sounds/emote/krmale1.ogg",
+    "assets/minecraft/sounds/emote/krmale2.ogg",
+    "assets/minecraft/sounds/emote/krmale3.ogg"
+  ],
+  "asset_sha256": {
+    "assets/minecraft/sounds/emote/krmale1.ogg": "cc1e01ee881e4bb572af15428d9927a94318d7df265fba42bad3df1d78e0c8d9",
+    "assets/minecraft/sounds/emote/krmale2.ogg": "8d8dd9a8dd4710f55b3c65734301c85fe26d811ce195af0c413231a0626c982b",
+    "assets/minecraft/sounds/emote/krmale3.ogg": "d018ef54517ec7494bc41c511f5553b0650988a8ef713124f449075193027002"
+  },
+  "editable_sha256": {},
+  "unchanged_base_files": 1357,
+  "audio": [
+    {
+      "variant": 1,
+      "original_filename": "krmale.ogg",
+      "original_mtime_ns": 1790307765406204200,
+      "original_sha256": "1d7f3c03166ad23ccc4a29317bb05451205fdc632ef595c016eb70e0e5ac327a",
+      "applied_gain_db": 6,
+      "limiter_ceiling_dbfs": -1.5,
+      "filter": "volume=6dB,alimiter=limit=0.841395142:release=20:level=false:latency=true,apad=whole_len=6142,atrim=end_sample=6142,asetpts=N/SR/TB",
+      "before": {
+        "duration": 0.383875,
+        "codec_name": "vorbis",
+        "sample_rate": "16000",
+        "channels": 1,
+        "peak_dbfs": -3.6543648760485326,
+        "rms_dbfs": -16.816845046154242,
+        "decoded_samples": 6144
+      },
+      "after": {
+        "duration": 0.383875,
+        "codec_name": "vorbis",
+        "sample_rate": "16000",
+        "channels": 1,
+        "peak_dbfs": -1.3047414700435775,
+        "rms_dbfs": -12.150011577109836,
+        "decoded_samples": 6144
+      },
+      "measured_rms_increase_db": 4.6668334690444055
+    },
+    {
+      "variant": 2,
+      "original_filename": "krmale2.ogg",
+      "original_mtime_ns": 1790307765411541200,
+      "original_sha256": "af6cdd73c3f1d894563f0f0563aef1304c8c9a6c88f68ceaf82c84ed6a67fc2d",
+      "applied_gain_db": 20,
+      "limiter_ceiling_dbfs": -1.5,
+      "filter": "volume=20dB,alimiter=limit=0.841395142:release=20:level=false:latency=true,apad=whole_len=9475,atrim=end_sample=9475,asetpts=N/SR/TB",
+      "before": {
+        "duration": 0.592188,
+        "codec_name": "vorbis",
+        "sample_rate": "16000",
+        "channels": 1,
+        "peak_dbfs": -17.137372797721483,
+        "rms_dbfs": -32.06355887322425,
+        "decoded_samples": 9728
+      },
+      "after": {
+        "duration": 0.592188,
+        "codec_name": "vorbis",
+        "sample_rate": "16000",
+        "channels": 1,
+        "peak_dbfs": -1.3841051485525488,
+        "rms_dbfs": -13.458644936506827,
+        "decoded_samples": 9728
+      },
+      "measured_rms_increase_db": 18.604913936717423
+    },
+    {
+      "variant": 3,
+      "original_filename": "krmale3.ogg",
+      "original_mtime_ns": 1790308011297287200,
+      "original_sha256": "f95690887acd651874c92bbdd8767a27c9e548be5bdb61c0a74c70824eb29e35",
+      "applied_gain_db": 6,
+      "limiter_ceiling_dbfs": -1.5,
+      "filter": "volume=6dB,alimiter=limit=0.841395142:release=20:level=false:latency=true,apad=whole_len=3553,atrim=end_sample=3553,asetpts=N/SR/TB",
+      "before": {
+        "duration": 0.222063,
+        "codec_name": "vorbis",
+        "sample_rate": "16000",
+        "channels": 1,
+        "peak_dbfs": -3.7065486506205487,
+        "rms_dbfs": -17.334585288227462,
+        "decoded_samples": 3297
+      },
+      "after": {
+        "duration": 0.222063,
+        "codec_name": "vorbis",
+        "sample_rate": "16000",
+        "channels": 1,
+        "peak_dbfs": -1.4799480592713778,
+        "rms_dbfs": -14.044349148649504,
+        "decoded_samples": 3712
+      },
+      "measured_rms_increase_db": 3.2902361395779582
+    }
+  ],
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 77120668,
+      "sha256": "f41f0f6e4e85ea3260e53be9be42412cb5bd353e3bb5343bd249054985763261"
+    }
+  },
+  "verification": {
+    "zip_and_json_valid": true,
+    "only_three_ogg_files_changed": true,
+    "duration_and_sample_rate_preserved": true,
+    "decoded_peak_at_most_minus_1_dbfs": true,
+    "actual_client_listening_tested": false
+  }
+}
