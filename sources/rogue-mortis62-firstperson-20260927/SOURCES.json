@@ -1,0 +1,45 @@
+{
+  "name": "도적 언더테이커 1인칭 자세 수정",
+  "release_tag": "v2026.09.27-rogue-undertaker62-firstperson.1",
+  "base_release": "v2026.09.25-rogue-undertaker62-grip.1",
+  "base_commit": "fe2c435d72dbed69722f8be2b2555ecc15c116cf",
+  "base_sha256": "a100edd013f5ab0240e1463010ced60e623432ab4893b0085e0e8e42ec5d96e3",
+  "source_path_prefix": "pack/",
+  "changed_paths": [
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json"
+  ],
+  "asset_sha256": {
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json": "288bb20139cd059d33db8cc020b8fb6404dc75d22ebf1e72e9bacbe6afacaf00",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json": "112e4406aeb35970aa0d6333ff8c6b5987505887563e002791983d2cce260360"
+  },
+  "editable_sha256": {
+    "rogue_mortis_scimitar.bbmodel": "9bf0dcbca13416803f66e28da4c0e28d6147755aa84db70a27fd5e2150cce56e",
+    "rogue_mortis_scimitar_swing.bbmodel": "3c720a9f84f00cf304da936186f9e3128737419603e1675cd5ba96f2798adb19"
+  },
+  "unchanged_base_files": 1358,
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 77120675,
+      "sha256": "2e6c22d6d946cb948c421c1ad53761c56f95e475397126b9e6e5e67a46ea19ba"
+    }
+  },
+  "verification": {
+    "native_export_reopen": true,
+    "cubes": 99,
+    "meshes": 0,
+    "firstperson_matches_thirdperson_world_orientation": true,
+    "all_grip_positions_preserved": true,
+    "thirdperson_geometry_textures_other_assets_unchanged": true,
+    "actual_client_pose_tested": false
+  },
+  "server_q_change": {
+    "path": "world/datapacks/Class62/data/class62/function/rogue/s3.mcfunction",
+    "Glowing": 1,
+    "Team": "bat",
+    "vanilla_settings_match": true,
+    "runtime_load_tested": false
+  },
+  "player_resend_authorized": false
+}
