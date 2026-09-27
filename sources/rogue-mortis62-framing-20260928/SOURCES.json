@@ -1,0 +1,78 @@
+{
+  "name": "도적 언더테이커 곡도 1인칭 위치·각도 수정",
+  "release_tag": "v2026.09.28-rogue-undertaker62-framing.1",
+  "base_release": "v2026.09.27-rogue-undertaker62-firstperson.1",
+  "base_commit": "d938d6cbebfdcf41c4b70ab54a9b6e92434d482e",
+  "base_sha256": "2e6c22d6d946cb948c421c1ad53761c56f95e475397126b9e6e5e67a46ea19ba",
+  "changed_paths": [
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json"
+  ],
+  "asset_sha256": {
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json": "3f15e8d7015295604d4e47ead431206aa8a7b4008408d5fcd5bfd107a52f44a5",
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json": "faddc2ce02ad6164ddb1fb2f84f48d5fcf839b5f930ce5d4ed04d671017e1e64"
+  },
+  "editable_sha256": {
+    "rogue_mortis_scimitar.bbmodel": "2b24c18e64818eea0b0d9ce721b0c4b531a2e0fe792df78992906e816fc395fd",
+    "rogue_mortis_scimitar_swing.bbmodel": "d40c202c168387fa82b9f214f084a83b148fef65b15d27be9e833cece60969ea"
+  },
+  "unchanged_base_files": 1358,
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 77120687,
+      "sha256": "b7f3473ae764496d5275d302747d177f8884d4eda3d6e6c04cc1fc448e47eab2"
+    }
+  },
+  "verification": {
+    "native_blockbench_export_reopen": true,
+    "cubes": 99,
+    "meshes": 0,
+    "firstperson_normal_right_left_and_swing_previews": true,
+    "thirdperson_geometry_textures_scale_other_assets_unchanged": true,
+    "actual_client_pose_tested": false
+  },
+  "firstperson_normal": {
+    "rotation": [
+      15,
+      -35,
+      30
+    ],
+    "translation": [
+      4.70725,
+      1.62016,
+      -1.58636
+    ],
+    "scale": [
+      0.58,
+      0.58,
+      0.58
+    ]
+  },
+  "firstperson_swing": {
+    "rotation": [
+      -157.5,
+      0,
+      90
+    ],
+    "translation": [
+      3.87468,
+      5.17701,
+      -0.88674
+    ],
+    "scale": [
+      0.65,
+      0.65,
+      0.65
+    ]
+  },
+  "server_name_change": {
+    "before": "모티스의 곡도",
+    "after": "곡도",
+    "functions": [
+      "class62:wp",
+      "class62:s1"
+    ]
+  },
+  "player_resend_authorized": false
+}
