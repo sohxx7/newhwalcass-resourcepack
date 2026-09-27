@@ -1,0 +1,51 @@
+{
+  "name": "도적 언더테이커 곡도 1인칭 기울기 미세 조정",
+  "release_tag": "v2026.09.28-rogue-undertaker62-upright.1",
+  "base_release": "v2026.09.28-rogue-undertaker62-swingflip.1",
+  "base_commit": "bac256b7e6a51eef6192b23b08f3bba48c3df722",
+  "base_sha256": "43d8cd169e5162cdb54953d5abf145fcd2abb645f16665b3c6b30e65744b52a3",
+  "changed_paths": [
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json"
+  ],
+  "asset_sha256": {
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json": "c9c905b2215d78c3ae8ba2abeb009904571b1e6f7ee16cb3d8675970d8857421"
+  },
+  "editable_sha256": {
+    "rogue_mortis_scimitar.bbmodel": "bc42a9497ae5ede4bbd9ba553e660082af18936caca6860d0b55c7e034c27b1e"
+  },
+  "unchanged_base_files": 1359,
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 77120684,
+      "sha256": "72a7ca95bb6630e3ec69326c28261460a529fef7bf6dcc0d84d273c48b46afa9"
+    }
+  },
+  "verification": {
+    "native_blockbench_export_reopen": true,
+    "cubes": 99,
+    "meshes": 0,
+    "firstperson_both_hands_previews": true,
+    "grip_anchor_preserved": true,
+    "thirdperson_swing_geometry_textures_other_assets_unchanged": true,
+    "actual_client_pose_tested": false
+  },
+  "firstperson": {
+    "rotation": [
+      15,
+      -35,
+      25
+    ],
+    "translation": [
+      4.87637,
+      1.69332,
+      -1.44416
+    ],
+    "scale": [
+      0.58,
+      0.58,
+      0.58
+    ]
+  },
+  "player_resend_authorized": false
+}
