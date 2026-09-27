@@ -1,0 +1,104 @@
+{
+  "name": "도적 언더테이커 곡도 우클릭 상하 반전",
+  "release_tag": "v2026.09.28-rogue-undertaker62-swingflip.1",
+  "base_release": "v2026.09.28-rogue-undertaker62-framing.1",
+  "base_commit": "45e3e89d793e0127648f04d1d6dc6a153821ff4c",
+  "base_sha256": "b7f3473ae764496d5275d302747d177f8884d4eda3d6e6c04cc1fc448e47eab2",
+  "changed_paths": [
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json"
+  ],
+  "asset_sha256": {
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar_swing.json": "c28ef741909fd276e66fca12016572fe480f36033837e2ccf0a87f835e389afd"
+  },
+  "editable_sha256": {
+    "rogue_mortis_scimitar_swing.bbmodel": "9548382af647d2e3a66079aead09b580b340a23f095f71a572375bd2c7a7e242"
+  },
+  "unchanged_base_files": 1359,
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 77120685,
+      "sha256": "43d8cd169e5162cdb54953d5abf145fcd2abb645f16665b3c6b30e65744b52a3"
+    }
+  },
+  "verification": {
+    "native_blockbench_export_reopen": true,
+    "cubes": 99,
+    "meshes": 0,
+    "first_third_person_both_hands_previews": true,
+    "grip_anchor_and_blade_axis_preserved": true,
+    "normal_pose_geometry_textures_other_assets_unchanged": true,
+    "actual_client_pose_tested": false
+  },
+  "changed_display_slots": {
+    "thirdperson_righthand": {
+      "rotation": [
+        90,
+        0,
+        90
+      ],
+      "translation": [
+        -2.99,
+        -0.7993,
+        2.1699
+      ],
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        90,
+        0,
+        90
+      ],
+      "translation": [
+        -2.99,
+        -0.7993,
+        2.1699
+      ],
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        22.5,
+        0,
+        90
+      ],
+      "translation": [
+        3.87468,
+        5.17701,
+        -0.88674
+      ],
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        22.5,
+        0,
+        90
+      ],
+      "translation": [
+        3.87468,
+        5.17701,
+        -0.88674
+      ],
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ]
+    }
+  },
+  "player_resend_authorized": false
+}
