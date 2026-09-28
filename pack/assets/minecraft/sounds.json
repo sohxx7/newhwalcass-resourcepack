@@ -1401,5 +1401,21 @@
     "sounds": [
       "emote/krmale3"
     ]
+  },
+  "bgm.ending.pink_clouding": {
+    "sounds": [
+      {
+        "name": "minecraft:bgm/ending/pink_clouding",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.ending.babylon": {
+    "sounds": [
+      {
+        "name": "minecraft:bgm/ending/babylon",
+        "stream": true
+      }
+    ]
   }
 }

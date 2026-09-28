@@ -1,0 +1,67 @@
+{
+  "name": "엔딩곡 1 Pink Clouding / 엔딩곡 2 Babylon",
+  "release_tag": "v2026.09.29-ending-songs.1",
+  "base_release": "v2026.09.28-rogue-undertaker62-swing-userpose.1",
+  "base_commit": "1a44d8bc6e569408974174c8c12cc2093185efc1",
+  "base_sha256": "9be8c0dee6e5e2aa86b119ea5cd77e728a4f3c05870e52dd6baad13a4fc503be",
+  "tracks": [
+    {
+      "slot": 1,
+      "title": "Pink Clouding",
+      "artist": "Taylor Swift",
+      "source_url": "https://www.youtube.com/watch?v=kXOKQCtttbw",
+      "source_video_id": "kXOKQCtttbw",
+      "source_duration_seconds": 193.861,
+      "audio_duration_seconds": 193.834667,
+      "timer_ticks": 3878,
+      "sound_event": "minecraft:bgm.ending.pink_clouding",
+      "pack_path": "assets/minecraft/sounds/bgm/ending/pink_clouding.ogg",
+      "source_sha256": "d1a6d272b0218c1703f4bd97401a38fa987bca3cd48418de23fb1bb574e50c1b",
+      "audio_sha256": "387a8f7075d6ee5fb3084fba64781ded90cb8dd197d97b409bbd8d9ff0aa9342",
+      "codec": "vorbis",
+      "channels": 2,
+      "sample_rate": 48000,
+      "processing": "Complete source audio, no trimming or gain change; Vorbis quality 6"
+    },
+    {
+      "slot": 2,
+      "title": "Babylon",
+      "artist": "Taylor Swift",
+      "source_url": "https://www.youtube.com/watch?v=tZnNLoPKriU",
+      "source_video_id": "tZnNLoPKriU",
+      "source_duration_seconds": 222.541,
+      "audio_duration_seconds": 222.528021,
+      "timer_ticks": 4452,
+      "sound_event": "minecraft:bgm.ending.babylon",
+      "pack_path": "assets/minecraft/sounds/bgm/ending/babylon.ogg",
+      "source_sha256": "384f3781da9ea31b55f208e4ceea8ef88b5f83d2df392b1350b20d1d12ddf56e",
+      "audio_sha256": "b0f6a35109574fa304333a37cc25ca12ba0d578f1abfe5855b10b67e5842bc36",
+      "codec": "vorbis",
+      "channels": 2,
+      "sample_rate": 48000,
+      "processing": "Complete source audio, no trimming or gain change; Vorbis quality 6"
+    }
+  ],
+  "added_paths": [
+    "assets/minecraft/sounds/bgm/ending/babylon.ogg",
+    "assets/minecraft/sounds/bgm/ending/pink_clouding.ogg"
+  ],
+  "changed_paths": [
+    "assets/minecraft/sounds.json"
+  ],
+  "unchanged_base_files": 1359,
+  "pack_sha256": "24df98bebdff387150782b5c8e81f033dcffa87392281c6fdf865861f164b6b8",
+  "pack_sha1": "14be82c8923b568082cdf1f62167233aef6443fa",
+  "pack_bytes": 86067325,
+  "verification": {
+    "zip_crc": true,
+    "all_json_valid": true,
+    "all_audio_decodes": true,
+    "other_sound_events_unchanged": true,
+    "non_audio_assets_unchanged": true,
+    "actual_client_playback_tested": false
+  },
+  "preexisting_source_release_differences_preserved": [
+    "assets/minecraft/sounds/char/140.ogg"
+  ]
+}
