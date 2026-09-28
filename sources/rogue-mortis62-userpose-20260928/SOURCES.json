@@ -1,0 +1,155 @@
+{
+  "name": "도적 언더테이커 직접 조정한 자세 반영",
+  "release_tag": "v2026.09.28-rogue-undertaker62-userpose.1",
+  "base_release": "v2026.09.28-rogue-undertaker62-upright.1",
+  "base_commit": "04421e404f0fef257e0bf76cc4b0d92dd1e0f697",
+  "base_sha256": "72a7ca95bb6630e3ec69326c28261460a529fef7bf6dcc0d84d273c48b46afa9",
+  "changed_paths": [
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json"
+  ],
+  "asset_sha256": {
+    "assets/dor/models/char/undertaker/rogue_mortis/scimitar.json": "1f5de0900342b2725e794a1658ca67b34cd903ab841b08d21055e50622082298"
+  },
+  "editable_sha256": {
+    "rogue_mortis_scimitar.bbmodel": "8f5d1c07eb5fd75a7bfdae2f9d93ddbf375cd122b9218fd72b8b5111fcc1a262"
+  },
+  "unchanged_base_files": 1359,
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 77120707,
+      "sha256": "dd152eba1d91a3f98f15b75fd042bd8f669b1949d6f8f5d1cd9b9603aad95dbc"
+    }
+  },
+  "verification": {
+    "native_blockbench_export_reopen": true,
+    "cubes": 99,
+    "meshes": 0,
+    "user_settings_matched_without_adjustment": true,
+    "changed_display_previews": true,
+    "swing_geometry_textures_other_assets_unchanged": true,
+    "actual_client_pose_tested": false
+  },
+  "user_display_settings": {
+    "thirdperson_righthand": {
+      "rotation": [
+        31,
+        -99,
+        0
+      ],
+      "translation": [
+        0,
+        1.76363,
+        3.70986
+      ],
+      "scale": [
+        0.64023,
+        0.65,
+        0.65
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        31,
+        103,
+        0
+      ],
+      "translation": [
+        0,
+        1.76363,
+        3.70986
+      ],
+      "scale": [
+        0.64023,
+        0.65,
+        0.65
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0.8651,
+        -106,
+        16.43346
+      ],
+      "translation": [
+        4.25,
+        1.75,
+        -1.30197
+      ],
+      "scale": [
+        0.65,
+        0.64,
+        0.64
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0.8651,
+        67,
+        -5
+      ],
+      "translation": [
+        2.75,
+        0.99743,
+        -1.30197
+      ],
+      "scale": [
+        0.65,
+        0.64,
+        0.64
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.35,
+        0.35,
+        0.35
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        -22.5,
+        -28
+      ],
+      "translation": [
+        -1.15,
+        -1.8,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        -180,
+        -30
+      ],
+      "translation": [
+        0,
+        -3,
+        0
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    }
+  },
+  "changed_display_slots": [
+    "thirdperson_lefthand",
+    "firstperson_righthand",
+    "firstperson_lefthand"
+  ],
+  "player_resend_authorized": false
+}
