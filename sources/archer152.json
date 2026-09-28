@@ -1,0 +1,56 @@
+{
+  "class": 152,
+  "name": "아처",
+  "base_release": "v2026.09.29-ending-songs.1",
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 86078723,
+      "sha256": "bfdd7d7b4804465d964ebb4567d2a932ae2e99ea95ddebb11ab771dac080c94a",
+      "base_sha256": "24df98bebdff387150782b5c8e81f033dcffa87392281c6fdf865861f164b6b8",
+      "changed_paths": [
+        "assets/dor/items/char/archer/crossbow.json",
+        "assets/dor/items/char/archer/mark.json",
+        "assets/dor/models/char/archer/crossbow.json",
+        "assets/dor/models/char/archer/mark.json",
+        "assets/dor/textures/char/archer/crossbow.png",
+        "assets/dor/textures/char/archer/mark.png"
+      ]
+    },
+    "hq": {
+      "filename": "활카스브금리팩(고음질).zip",
+      "bytes": 745685617,
+      "sha256": "c17fc31807ccccafe508433b4dc2c51c601ae1d4b015cfdfa8d1f56e46c8b1eb",
+      "base_sha256": "57b592f7c4190477a137eab8a9839e78734bc7c6dd3d63bd9c4337e3574ebaa7",
+      "changed_paths": [
+        "assets/minecraft/sounds.json",
+        "assets/minecraft/sounds/bgm/class152.ogg"
+      ]
+    }
+  },
+  "weapon": {
+    "source": "user-edited crossbow.json",
+    "geometry_elements": 47,
+    "display_preserved": true
+  },
+  "mark": {
+    "source_sha256": "f73d13acf02285c681b2fd443826bbb7524d625d52f470c9e7dde8df19850dbf",
+    "unchanged": true
+  },
+  "audio": {
+    "id": "jSX-2Hz_U9g",
+    "title": "[좀비고] OSTㅣ우연히 가위에 잘리다",
+    "channel": "Awesomepiece",
+    "duration": 65,
+    "webpage_url": "https://www.youtube.com/watch?v=jSX-2Hz_U9g",
+    "format_id": "251",
+    "acodec": "opus",
+    "asr": 48000,
+    "audio_channels": 2,
+    "duration_seconds": 65.002667,
+    "interval": "full",
+    "encoding": "Vorbis quality 6, stereo 48000 Hz; source loudness unchanged",
+    "audio_sha256": "cae7fba5ed154b5ce9702e86ef10ff13d28cf4b55e22fe6e82dc45d5a0ad9f0d",
+    "user_confirmed_redistribution_rights": true
+  }
+}

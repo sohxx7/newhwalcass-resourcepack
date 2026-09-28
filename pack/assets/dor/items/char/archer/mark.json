@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "dor:char/archer/mark",
+    "light_emission": 15
+  }
+}
