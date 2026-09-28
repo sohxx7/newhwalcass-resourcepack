@@ -1417,5 +1417,13 @@
         "stream": true
       }
     ]
+  },
+  "char152.lc": {
+    "sounds": [
+      {
+        "name": "char/archer/attack",
+        "stream": false
+      }
+    ]
   }
 }

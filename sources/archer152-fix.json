@@ -1,0 +1,35 @@
+{
+  "base": "v2026.09.29-archer152.1",
+  "release": "v2026.09.29-archer152.2",
+  "changed": [
+    "assets/dor/models/char/archer/crossbow.json",
+    "assets/dor/models/char/archer/mark.json",
+    "assets/dor/textures/item/char/archer/crossbow.png",
+    "assets/dor/textures/item/char/archer/mark.png",
+    "assets/minecraft/sounds.json",
+    "assets/minecraft/sounds/char/archer/attack.ogg"
+  ],
+  "removed": [
+    "assets/dor/textures/char/archer/crossbow.png",
+    "assets/dor/textures/char/archer/mark.png"
+  ],
+  "bytes": 86094143,
+  "sha256": "e9da6a419fad64761dc6c29b1561a700929d5fbaa828443cc153516802794422",
+  "all_unrelated_assets_unchanged": true,
+  "weapon_pose_and_geometry_unchanged": true,
+  "mark_pixels_unchanged": true,
+  "textures_in_default_item_atlas": true,
+  "sound": {
+    "source": "https://www.youtube.com/watch?v=-spzoSc3xTc",
+    "start_seconds": 26,
+    "end_seconds": 27,
+    "duration_seconds": 1,
+    "codec": "vorbis",
+    "sample_rate": 48000,
+    "channels": 1,
+    "gain_changed": false,
+    "pitch": 1,
+    "event": "minecraft:char152.lc",
+    "applies_to": "basic attacks only"
+  }
+}
