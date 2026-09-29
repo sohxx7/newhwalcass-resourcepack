@@ -1,0 +1,179 @@
+{
+  "release": "v2026.09.29-archer152-custom-sounds.1",
+  "base": "v2026.09.29-archer152-attack-tail.4",
+  "changed": [
+    "assets/minecraft/sounds.json",
+    "assets/minecraft/sounds/char/archer/attack.ogg"
+  ],
+  "added": [
+    "assets/minecraft/sounds/char/archer/hit.ogg",
+    "assets/minecraft/sounds/char/archer/q.ogg",
+    "assets/minecraft/sounds/char/archer/right.ogg"
+  ],
+  "unchanged_files": 1367,
+  "bytes": 86112283,
+  "sha256": "7c950c8d52ab35015611e26bcb6396e5419f4693a22f73984f86278c7ca3e239",
+  "processing": "Full-length mono Vorbis at original sample rate and exact duration; codec padding bounded to original granule count. No normalization, gain or pitch filters.",
+  "audio": {
+    "q": {
+      "source_filename": "q.ogg",
+      "source_modified": "2026-09-29T21:21:18.218316",
+      "source_sha256": "dd5771c3ae4aa48b2d9c487938b5fd9be7194fa7306f45af6d71efe8cee5270e",
+      "output_sha256": "ebda39fb7a142bb4009411f3b6767d98afb7d1e7e10376e182811f21c2574311",
+      "path": "assets/minecraft/sounds/char/archer/q.ogg",
+      "event": "minecraft:char152.q",
+      "ffprobe_before": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "44100",
+            "channels": 2,
+            "duration_ts": 14529,
+            "duration": "0.329456"
+          }
+        ],
+        "format": {
+          "duration": "0.329456"
+        }
+      },
+      "ffprobe_after": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "44100",
+            "channels": 1,
+            "duration_ts": 14529,
+            "duration": "0.329456"
+          }
+        ],
+        "format": {
+          "duration": "0.329456"
+        }
+      }
+    },
+    "hit": {
+      "source_filename": "hit.ogg",
+      "source_modified": "2026-09-29T21:21:18.226826",
+      "source_sha256": "176acd9006452cea6a5b1f5acb1c359c45d1b8a00c4ed4bcc46970eeb4432784",
+      "output_sha256": "a2e447c679015411a76f8507743d190f4d1bf9aa613d16cf1d1e7f685d2c503e",
+      "path": "assets/minecraft/sounds/char/archer/hit.ogg",
+      "event": "minecraft:char152.hit",
+      "ffprobe_before": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "44100",
+            "channels": 2,
+            "duration_ts": 14529,
+            "duration": "0.329456"
+          }
+        ],
+        "format": {
+          "duration": "0.329456"
+        }
+      },
+      "ffprobe_after": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "44100",
+            "channels": 1,
+            "duration_ts": 14529,
+            "duration": "0.329456"
+          }
+        ],
+        "format": {
+          "duration": "0.329456"
+        }
+      }
+    },
+    "attack": {
+      "source_filename": "attack.ogg",
+      "source_modified": "2026-09-29T21:21:18.238334",
+      "source_sha256": "2a886f2b43455741b418e5e1887593126fed2d63324383434c165b3ea5b594df",
+      "output_sha256": "ec99b560e62d6fcc5a932b749389f16a4d5697a9f9fd9e9c7de467c62d6f1b8d",
+      "path": "assets/minecraft/sounds/char/archer/attack.ogg",
+      "event": "minecraft:char152.lc",
+      "ffprobe_before": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "44100",
+            "channels": 2,
+            "duration_ts": 36707,
+            "duration": "0.832358"
+          }
+        ],
+        "format": {
+          "duration": "0.832358"
+        }
+      },
+      "ffprobe_after": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "44100",
+            "channels": 1,
+            "duration_ts": 36707,
+            "duration": "0.832358"
+          }
+        ],
+        "format": {
+          "duration": "0.832358"
+        }
+      }
+    },
+    "right": {
+      "source_filename": "right.ogg",
+      "source_modified": "2026-09-29T21:21:18.248753",
+      "source_sha256": "93b991b15f7b7b114079de852f6ff39dea6b62f2353ad5f7d6d7ff050b92dc47",
+      "output_sha256": "1bd2222f09e00f0d8f638b2dfcaa3289e851e22a55875915239cc85fd13c2d1f",
+      "path": "assets/minecraft/sounds/char/archer/right.ogg",
+      "event": "minecraft:char152.right",
+      "ffprobe_before": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "44100",
+            "channels": 2,
+            "duration_ts": 36376,
+            "duration": "0.824853"
+          }
+        ],
+        "format": {
+          "duration": "0.824853"
+        }
+      },
+      "ffprobe_after": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "44100",
+            "channels": 1,
+            "duration_ts": 36376,
+            "duration": "0.824853"
+          }
+        ],
+        "format": {
+          "duration": "0.824853"
+        }
+      }
+    }
+  }
+}

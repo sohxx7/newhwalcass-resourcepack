@@ -1425,5 +1425,29 @@
         "stream": false
       }
     ]
+  },
+  "char152.q": {
+    "sounds": [
+      {
+        "name": "char/archer/q",
+        "stream": false
+      }
+    ]
+  },
+  "char152.hit": {
+    "sounds": [
+      {
+        "name": "char/archer/hit",
+        "stream": false
+      }
+    ]
+  },
+  "char152.right": {
+    "sounds": [
+      {
+        "name": "char/archer/right",
+        "stream": false
+      }
+    ]
   }
 }
