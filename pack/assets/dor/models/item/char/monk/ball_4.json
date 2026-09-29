@@ -1,0 +1,6 @@
+{
+  "parent": "dor:item/char/monk/_billboard",
+  "textures": {
+    "layer0": "dor:item/char/monk/ball_4"
+  }
+}

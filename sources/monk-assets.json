@@ -1,0 +1,155 @@
+{
+  "namespace": "dor",
+  "character": "monk",
+  "note": "Flat sprites for vanilla item_display billboard center; generated metal orb variants are static choices, not continuous rotation frames. Ultimate v6 is the latest local retouch draft. Game rendering not yet verified.",
+  "assets": [
+    {
+      "item_model": "dor:char/monk/ball_0",
+      "texture": "assets/dor/textures/item/char/monk/ball_0.png",
+      "source": "output/imagegen/zen-orb/textures-256/00-base.png",
+      "source_sha256": "02e630cf7c470a1c1306475fe26b41db37bac28ac840f1bd48cb362a2de8883f",
+      "output_sha256": "02e630cf7c470a1c1306475fe26b41db37bac28ac840f1bd48cb362a2de8883f",
+      "size": [
+        256,
+        256
+      ],
+      "resize": null,
+      "animated": false
+    },
+    {
+      "item_model": "dor:char/monk/ball_1",
+      "texture": "assets/dor/textures/item/char/monk/ball_1.png",
+      "source": "output/imagegen/zen-orb/textures-256/01-front.png",
+      "source_sha256": "e13236b9a27feac974cf8879e4cfbac618797a1ef46970e816e3ac136fe3923b",
+      "output_sha256": "e13236b9a27feac974cf8879e4cfbac618797a1ef46970e816e3ac136fe3923b",
+      "size": [
+        256,
+        256
+      ],
+      "resize": null,
+      "animated": false
+    },
+    {
+      "item_model": "dor:char/monk/ball_2",
+      "texture": "assets/dor/textures/item/char/monk/ball_2.png",
+      "source": "output/imagegen/zen-orb/textures-256/02-left.png",
+      "source_sha256": "ee56bff7a00a963c54d30488975acb859569eb42d4fcebb219275cb1c4a1f898",
+      "output_sha256": "ee56bff7a00a963c54d30488975acb859569eb42d4fcebb219275cb1c4a1f898",
+      "size": [
+        256,
+        256
+      ],
+      "resize": null,
+      "animated": false
+    },
+    {
+      "item_model": "dor:char/monk/ball_3",
+      "texture": "assets/dor/textures/item/char/monk/ball_3.png",
+      "source": "output/imagegen/zen-orb/textures-256/03-right.png",
+      "source_sha256": "455b667272081ee4b70d47a18ebf2c71b4544a0e6186dd74102b64f54ed8f9e6",
+      "output_sha256": "455b667272081ee4b70d47a18ebf2c71b4544a0e6186dd74102b64f54ed8f9e6",
+      "size": [
+        256,
+        256
+      ],
+      "resize": null,
+      "animated": false
+    },
+    {
+      "item_model": "dor:char/monk/ball_4",
+      "texture": "assets/dor/textures/item/char/monk/ball_4.png",
+      "source": "output/imagegen/zen-orb/textures-256/04-top.png",
+      "source_sha256": "5e5c5f368c7119f97be3d61cfb2dfb7548faf56910b08d9e1904fd0f68cd3b73",
+      "output_sha256": "5e5c5f368c7119f97be3d61cfb2dfb7548faf56910b08d9e1904fd0f68cd3b73",
+      "size": [
+        256,
+        256
+      ],
+      "resize": null,
+      "animated": false
+    },
+    {
+      "item_model": "dor:char/monk/ball_5",
+      "texture": "assets/dor/textures/item/char/monk/ball_5.png",
+      "source": "output/imagegen/zen-orb/textures-256/05-bottom.png",
+      "source_sha256": "8b9a7fafd8d48261938817e8b15ce81277aa1554630a7a5687a77a8d7bffc753",
+      "output_sha256": "8b9a7fafd8d48261938817e8b15ce81277aa1554630a7a5687a77a8d7bffc753",
+      "size": [
+        256,
+        256
+      ],
+      "resize": null,
+      "animated": false
+    },
+    {
+      "item_model": "dor:char/monk/orb_yellow",
+      "texture": "assets/dor/textures/item/char/monk/orb_yellow.png",
+      "source": "output/skul-reference/minecraft-20t-glow/orb_yellow_compact.png",
+      "source_sha256": "1b0d59cdb9fc34d587e42b0cb7af815991c3d439abb9fa48fd394444453a6b2c",
+      "output_sha256": "1b0d59cdb9fc34d587e42b0cb7af815991c3d439abb9fa48fd394444453a6b2c",
+      "size": [
+        512,
+        7424
+      ],
+      "resize": null,
+      "animated": true
+    },
+    {
+      "item_model": "dor:char/monk/orb_purple",
+      "texture": "assets/dor/textures/item/char/monk/orb_purple.png",
+      "source": "output/skul-reference/minecraft-20t-glow/orb_purple_compact.png",
+      "source_sha256": "d70fee4bfcb91790d2d174cb01697bc3acc4e3728a341f59a88f9bc97b6ec6cf",
+      "output_sha256": "d70fee4bfcb91790d2d174cb01697bc3acc4e3728a341f59a88f9bc97b6ec6cf",
+      "size": [
+        512,
+        7424
+      ],
+      "resize": null,
+      "animated": true
+    },
+    {
+      "item_model": "dor:char/monk/ult",
+      "texture": "assets/dor/textures/item/char/monk/ult.png",
+      "source": "output/imagegen/wisdom-eye/sacred-eye-v6-local-retouch-2048.png",
+      "source_sha256": "0e0e2213459ff99428369398a2634dea4025ee8e04884fef7b36104e7ab9310a",
+      "output_sha256": "538ddd6cbb35265efeea0ee24fc2684fc35b47bfee36851befb04ef929271e05",
+      "size": [
+        512,
+        512
+      ],
+      "resize": [
+        512,
+        512
+      ],
+      "animated": false
+    }
+  ],
+  "equipment": {
+    "hat": {
+      "item_model": "dor:char/monk/hat",
+      "source": "sources/monk/monk_hat.bbmodel",
+      "model": "assets/dor/models/item/char/monk/hat.json",
+      "texture": "assets/dor/textures/item/char/monk/equipment.png",
+      "source_sha256": "9d730d02decd6515fd9e592c59cab3a472505115b7701a2dab56ba64430aec18",
+      "model_sha256": "c7b3b10ed638b01504599a59cd724db791b1d05461e3b9abed93146ceefd264b",
+      "texture_sha256": "6849c1491cb19d7e6918004b4806a9a864c343c8cea44d27742018765eda93e9",
+      "cubes": 24,
+      "created_with": "Blockbench 5.1.6 / Blockbench MCP 1.9.3",
+      "target": "Minecraft Java 1.21.8",
+      "game_verified": false
+    },
+    "wp": {
+      "item_model": "dor:char/monk/wp",
+      "source": "sources/monk/monk_wp.bbmodel",
+      "model": "assets/dor/models/item/char/monk/wp.json",
+      "texture": "assets/dor/textures/item/char/monk/equipment.png",
+      "source_sha256": "5a4c00831fbaf0fe28abc41480b0060cbc7483a67dbebcc04f7480bf1d022836",
+      "model_sha256": "d71262c6432cc1cd8f6464e7ad45870bad4048e719fe320902763ff3d90942ab",
+      "texture_sha256": "6849c1491cb19d7e6918004b4806a9a864c343c8cea44d27742018765eda93e9",
+      "cubes": 235,
+      "created_with": "Blockbench 5.1.6 / Blockbench MCP 1.9.3",
+      "target": "Minecraft Java 1.21.8",
+      "game_verified": false
+    }
+  }
+}
