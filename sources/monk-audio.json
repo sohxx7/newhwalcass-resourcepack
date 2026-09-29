@@ -1,0 +1,101 @@
+{
+  "release": "v2026.09.29-monk151-audio.1",
+  "class": 151,
+  "name": "수도승",
+  "bgm": {
+    "id": "df9_a4ySCcE",
+    "title": "반야심경 리믹스",
+    "channel": "고기",
+    "duration": 105,
+    "webpage_url": "https://www.youtube.com/watch?v=df9_a4ySCcE",
+    "format_id": "234",
+    "acodec": null,
+    "asr": null,
+    "audio_channels": null,
+    "duration_seconds": 105.186396,
+    "timer_ticks": 2104,
+    "interval": "full",
+    "ffprobe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vorbis",
+          "sample_rate": "48000",
+          "channels": 2,
+          "duration_ts": 5048947
+        }
+      ],
+      "format": {
+        "duration": "105.186396"
+      }
+    }
+  },
+  "voice": {
+    "source_filename": "round.ogg",
+    "source_sha256": "447768fcdc894ea46b6936168b1c48113735f9a231482d08f4cb033fb0629429",
+    "gain_db": 6,
+    "limiter_ceiling_db": -1,
+    "scope": "every player at their own position",
+    "ffprobe_before": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vorbis",
+          "sample_rate": "48000",
+          "channels": 1,
+          "duration_ts": 131392
+        }
+      ],
+      "format": {
+        "duration": "2.737333"
+      }
+    },
+    "ffprobe_after": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vorbis",
+          "sample_rate": "48000",
+          "channels": 1,
+          "duration_ts": 131520
+        }
+      ],
+      "format": {
+        "duration": "2.740000"
+      }
+    }
+  },
+  "packs": {
+    "new": {
+      "file": "Newhwalcass.zip",
+      "bytes": 89154267,
+      "sha256": "672073d8cd8eefffc03ed4eff74d794462a49a3586a5526676104afb223440f2",
+      "changed": [
+        "assets/minecraft/sounds.json"
+      ],
+      "added": [
+        "assets/minecraft/sounds/char/151.ogg"
+      ],
+      "unchanged_entries": 1406,
+      "event": "char.151",
+      "audio_sha256": "1a9e6ad4a31f520320f3a7a854b5f5dbcb4cc991cb7a35c220eaf4fa37128af3"
+    },
+    "hq": {
+      "file": "활카스브금리팩(고음질).zip",
+      "bytes": 747903930,
+      "sha256": "320549b62b73495b9f17a010d40a720edad783225182c1faa83f0b48f967def6",
+      "changed": [
+        "assets/minecraft/sounds.json"
+      ],
+      "added": [
+        "assets/minecraft/sounds/bgm/class151.ogg"
+      ],
+      "unchanged_entries": 295,
+      "event": "bgm.class151",
+      "audio_sha256": "029d78e4e87d4838ca160a81ae8543819a5fdb286cbd59e2215ee1cb02e41623"
+    }
+  }
+}

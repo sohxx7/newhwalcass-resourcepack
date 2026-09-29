@@ -1449,5 +1449,13 @@
         "stream": false
       }
     ]
+  },
+  "char.151": {
+    "sounds": [
+      {
+        "name": "char/151",
+        "stream": false
+      }
+    ]
   }
 }
