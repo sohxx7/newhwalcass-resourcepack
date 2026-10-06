@@ -1457,5 +1457,20 @@
         "stream": false
       }
     ]
+  },
+  "emote.emote41": {
+    "sounds": [
+      "emote/emote41"
+    ]
+  },
+  "emote.emote42": {
+    "sounds": [
+      "emote/emote42"
+    ]
+  },
+  "emote.emote43": {
+    "sounds": [
+      "emote/emote43"
+    ]
   }
 }

@@ -1,0 +1,193 @@
+{
+  "release_tag": "v2026.10.06-emotes41-43.1",
+  "base_release": "v2026.09.30-shader-dependency.1",
+  "base_commit": "3b93ce4384fb531cdb1c39fb4a87dbc315a83085",
+  "base_sha256": "e57d386b6d29ff6cb559f1d3794685d31f64b24f7211a272ed3901502ed1fa3d",
+  "changed_paths": [
+    "assets/minecraft/items/green_dye.json",
+    "assets/minecraft/models/item/emote/emote41.json",
+    "assets/minecraft/models/item/emote/emote42.json",
+    "assets/minecraft/models/item/emote/emote43.json",
+    "assets/minecraft/sounds.json",
+    "assets/minecraft/sounds/emote/emote41.ogg",
+    "assets/minecraft/sounds/emote/emote42.ogg",
+    "assets/minecraft/sounds/emote/emote43.ogg",
+    "assets/minecraft/textures/item/emote/emote41.png",
+    "assets/minecraft/textures/item/emote/emote42.png",
+    "assets/minecraft/textures/item/emote/emote43.png"
+  ],
+  "added_paths": [
+    "assets/minecraft/models/item/emote/emote41.json",
+    "assets/minecraft/models/item/emote/emote42.json",
+    "assets/minecraft/models/item/emote/emote43.json",
+    "assets/minecraft/sounds/emote/emote41.ogg",
+    "assets/minecraft/sounds/emote/emote42.ogg",
+    "assets/minecraft/sounds/emote/emote43.ogg",
+    "assets/minecraft/textures/item/emote/emote41.png",
+    "assets/minecraft/textures/item/emote/emote42.png",
+    "assets/minecraft/textures/item/emote/emote43.png"
+  ],
+  "modified_paths": [
+    "assets/minecraft/items/green_dye.json",
+    "assets/minecraft/sounds.json"
+  ],
+  "unchanged_base_files": 1407,
+  "emotes": [
+    {
+      "id": 41,
+      "name": "로모띠",
+      "price": 200,
+      "image": "C:\\Users\\pjh05\\Downloads\\romoti\\romoti.png",
+      "audio": "C:\\Users\\pjh05\\Downloads\\romoti\\romoti.ogg",
+      "image_size": [
+        1331,
+        737
+      ],
+      "image_sha256": "11524de503752f72d4362e158a7f44265524da50f4fb50eb98211e22163f3a8b",
+      "audio_sha256": "97806798e99abcee465ea549bbca537164be9352af51602e49591c5d02e50694",
+      "original_audio_info": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "48000",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "0.583333"
+        }
+      },
+      "pack_audio_info": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "0.583333"
+        }
+      },
+      "decoded_image_pixels_preserved": true,
+      "image_aspect_ratio_preserved": true
+    },
+    {
+      "id": 42,
+      "name": "후잉",
+      "price": 200,
+      "image": "C:\\Users\\pjh05\\Downloads\\whooing.jpg",
+      "audio": "C:\\Users\\pjh05\\Downloads\\whooing.ogg",
+      "image_size": [
+        200,
+        192
+      ],
+      "image_sha256": "42ab0c1a19d9aa999520daa3b081226eebe9a5575335b41288cfbbcfdfac8191",
+      "audio_sha256": "511c228b1d632a67511f01235b0846bfa26692706654728c5d94b9ddcdcc18e9",
+      "original_audio_info": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "0.469728"
+        }
+      },
+      "pack_audio_info": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "0.469728"
+        }
+      },
+      "decoded_image_pixels_preserved": true,
+      "image_aspect_ratio_preserved": true
+    },
+    {
+      "id": 43,
+      "name": "샤아크",
+      "price": 200,
+      "image": "C:\\Users\\pjh05\\Downloads\\shaark.jpg",
+      "audio": "C:\\Users\\pjh05\\Downloads\\shaark.ogg",
+      "image_size": [
+        320,
+        480
+      ],
+      "image_sha256": "4a52a78306d247ea970553e06f05a22c6acb9d336c5edebab65443d451126d65",
+      "audio_sha256": "ca4a89a462e1a4517949d65b1cf529921c116b008ce2a20ee62f24b669794bc6",
+      "original_audio_info": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "1.909887"
+        }
+      },
+      "pack_audio_info": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "1.909887"
+        }
+      },
+      "decoded_image_pixels_preserved": true,
+      "image_aspect_ratio_preserved": true
+    }
+  ],
+  "asset_sha256": {
+    "assets/minecraft/items/green_dye.json": "e6e6ff42bb652221a877115fea193a191b461399a5775b19c9d109866e16761f",
+    "assets/minecraft/models/item/emote/emote41.json": "93285c7532f9cba217c1005e85a30d8f43d0b56b9d5536a638d5f2a9838b6ace",
+    "assets/minecraft/models/item/emote/emote42.json": "ee710c94ead7f05ae05d0416fda469704bb8aa1e09f24f7637af2c16f0587289",
+    "assets/minecraft/models/item/emote/emote43.json": "36bbb6ba25204e2cfe0550d920bdf3f72c25efaee64847fab12c7215b821e6c4",
+    "assets/minecraft/sounds.json": "8425fc9f6b96708b605b3df3344df44b884aa109961b9b3ce1b2f9b7e79c3224",
+    "assets/minecraft/sounds/emote/emote41.ogg": "71dabeaafb6d443194bfca50dd02f830ecdb44b7799b3564906d3dc506c9197f",
+    "assets/minecraft/sounds/emote/emote42.ogg": "f9d64823725c0a345716984a6f429862543bc50e4c97200dcfd7db52eb0b11bb",
+    "assets/minecraft/sounds/emote/emote43.ogg": "2cb55a69d4962f92def17842a64f3ed0bf4633855304e5e925a71837f298ecbc",
+    "assets/minecraft/textures/item/emote/emote41.png": "51246857768e7b78804168c137ee87e50415312206d5d6c94a2ad7654f5ce827",
+    "assets/minecraft/textures/item/emote/emote42.png": "120f3158473bc66c81f64e8e94eaeba6e71fea56ad75d729c19ea6303f61b366",
+    "assets/minecraft/textures/item/emote/emote43.png": "c9a32a67695bcb2980d77907bba4a93ed64d606c1da1e8829871d8d0013f0245"
+  },
+  "editable_sha256": {},
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 89957962,
+      "sha256": "520f50f95026676c816f050822c7313d39cafc3c4af5880210f96a5c6a007226"
+    }
+  },
+  "verification": {
+    "zip_valid": true,
+    "all_json_valid": true,
+    "existing_assets_preserved": true,
+    "actual_client_playback_tested": false
+  }
+}

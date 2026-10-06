@@ -308,6 +308,27 @@
           "type": "model",
           "model": "item/emote/krmale1"
         }
+      },
+      {
+        "when": "4100",
+        "model": {
+          "type": "model",
+          "model": "item/emote/emote41"
+        }
+      },
+      {
+        "when": "4200",
+        "model": {
+          "type": "model",
+          "model": "item/emote/emote42"
+        }
+      },
+      {
+        "when": "4300",
+        "model": {
+          "type": "model",
+          "model": "item/emote/emote43"
+        }
       }
     ]
   }
