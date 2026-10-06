@@ -1,0 +1,39 @@
+{
+  "release_tag": "v2026.10.06-romoti41-gui.1",
+  "base_release": "v2026.10.06-emotes41-43.1",
+  "base_commit": "16a6fd5a2b6621a139d634a41babc6dc65830c1f",
+  "base_sha256": "520f50f95026676c816f050822c7313d39cafc3c4af5880210f96a5c6a007226",
+  "changed_paths": [
+    "assets/minecraft/models/item/emote/emote41.json"
+  ],
+  "asset_sha256": {
+    "assets/minecraft/models/item/emote/emote41.json": "a7b7c4cc803fe707a454a86771e7451b8a157d685b52ca59b205a42cfb736d83"
+  },
+  "editable_sha256": {},
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 89957988,
+      "sha256": "07f04fb2ab0f4ef05eeb09a975bf1c5f5220f9acfbe636466783da19c7cc84fd"
+    }
+  },
+  "verification": {
+    "only_gui_transform_changed": true,
+    "world_display_geometry_preserved": true,
+    "gui_scale_before": [
+      1,
+      1,
+      1
+    ],
+    "gui_scale_after": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "gui_width_model_units": 15.350746268656714,
+    "gui_height_model_units": 8.5,
+    "zip_valid": true,
+    "all_json_valid": true,
+    "actual_client_gui_verified": false
+  }
+}
