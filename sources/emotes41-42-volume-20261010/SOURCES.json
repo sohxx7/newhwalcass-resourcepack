@@ -1,0 +1,74 @@
+{
+  "release_tag": "v2026.10.10-emotes41-42-volume.1",
+  "base_release": "v2026.10.06-romoti41-gui.1",
+  "base_commit": "16881664acb207f15906b569db7984e911ad68f1",
+  "base_sha256": "07f04fb2ab0f4ef05eeb09a975bf1c5f5220f9acfbe636466783da19c7cc84fd",
+  "changed_paths": [
+    "assets/minecraft/sounds/emote/emote41.ogg",
+    "assets/minecraft/sounds/emote/emote42.ogg"
+  ],
+  "asset_sha256": {
+    "assets/minecraft/sounds/emote/emote41.ogg": "dfa390c203d5286b50843f2105e768686d530f8727396942fc887873089ec202",
+    "assets/minecraft/sounds/emote/emote42.ogg": "b58e09cc9b16d9b49b9b853caa416de291e300b7937edbfd7ad5a84afddd55d4"
+  },
+  "editable_sha256": {},
+  "packs": {
+    "new": {
+      "filename": "Newhwalcass.zip",
+      "bytes": 89958516,
+      "sha256": "83528ee0f557e0e34aa66b23f0cea6b759754ffae671afd1748aa0f561017a17"
+    }
+  },
+  "verification": {
+    "zip_valid": true,
+    "all_json_valid": true,
+    "only_two_audio_entries_changed": true,
+    "zip_metadata_preserved": true,
+    "audio": {
+      "41": {
+        "before": {
+          "codec": "vorbis",
+          "sample_rate": 48000,
+          "channels": 1,
+          "samples": 28000,
+          "duration": 0.583333,
+          "mean_db": -15.3,
+          "peak_db": -3.2
+        },
+        "after": {
+          "codec": "vorbis",
+          "sample_rate": 48000,
+          "channels": 1,
+          "samples": 28000,
+          "duration": 0.583333,
+          "mean_db": -10.3,
+          "peak_db": -0.9
+        },
+        "mean_gain_db": 5.0
+      },
+      "42": {
+        "before": {
+          "codec": "vorbis",
+          "sample_rate": 44100,
+          "channels": 1,
+          "samples": 20715,
+          "duration": 0.469728,
+          "mean_db": -22.5,
+          "peak_db": -7.0
+        },
+        "after": {
+          "codec": "vorbis",
+          "sample_rate": 44100,
+          "channels": 1,
+          "samples": 20715,
+          "duration": 0.469728,
+          "mean_db": -16.5,
+          "peak_db": -1.0
+        },
+        "mean_gain_db": 6.0
+      }
+    },
+    "filter": "volume=6dB,alimiter=limit=0.891250938:level=false:latency=true",
+    "actual_client_audio_verified": false
+  }
+}
