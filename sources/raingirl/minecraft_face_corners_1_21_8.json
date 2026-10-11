@@ -1,0 +1,38 @@
+{
+  "down": [
+    "xyZ",
+    "xyz",
+    "Xyz",
+    "XyZ"
+  ],
+  "up": [
+    "xYz",
+    "xYZ",
+    "XYZ",
+    "XYz"
+  ],
+  "north": [
+    "XYz",
+    "Xyz",
+    "xyz",
+    "xYz"
+  ],
+  "south": [
+    "xYZ",
+    "xyZ",
+    "XyZ",
+    "XYZ"
+  ],
+  "west": [
+    "xYz",
+    "xyz",
+    "xyZ",
+    "xYZ"
+  ],
+  "east": [
+    "XYZ",
+    "XyZ",
+    "Xyz",
+    "XYz"
+  ]
+}

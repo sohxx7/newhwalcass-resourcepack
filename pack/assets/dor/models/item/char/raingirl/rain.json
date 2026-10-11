@@ -1,0 +1,6 @@
+{
+ "parent": "dor:item/char/raingirl/_plane",
+ "textures": {
+  "layer0": "dor:item/char/raingirl/rain"
+ }
+}

@@ -1,0 +1,17 @@
+{
+  "event": "minecraft:char.153",
+  "asset": "assets/minecraft/sounds/char/153.ogg",
+  "character": "Navia",
+  "game": "Genshin Impact",
+  "language": "Korean",
+  "voice_line": "After the Rain",
+  "text": "다행이다, 비가 그쳤어!",
+  "page": "https://genshin-impact.fandom.com/wiki/Navia/Voice-Overs/Korean",
+  "source": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/VO_KO_Navia_After_the_Rain.ogg/revision/latest?cb=20231221032741",
+  "downloaded": "2026-10-11",
+  "conversion": "Original Ogg Vorbis copied without re-encoding",
+  "duration_seconds": 2.413333,
+  "sample_rate": 48000,
+  "channels": 1,
+  "sha256": "7f34fc553780b6e9d653377ee0d40487e41fbb1503e3580f1798022805b97cad"
+}

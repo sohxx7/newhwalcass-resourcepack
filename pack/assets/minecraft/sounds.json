@@ -1458,6 +1458,14 @@
       }
     ]
   },
+  "char.153": {
+    "sounds": [
+      {
+        "name": "char/153",
+        "stream": false
+      }
+    ]
+  },
   "emote.emote41": {
     "sounds": [
       "emote/emote41"

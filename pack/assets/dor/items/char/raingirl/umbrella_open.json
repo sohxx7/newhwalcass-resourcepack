@@ -1,0 +1,24 @@
+{
+  "oversized_in_gui": true,
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "dor:item/char/raingirl/parts/umbrella_open_assembly_0"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "dor:item/char/raingirl/parts/umbrella_open_assembly_1"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "dor:item/char/raingirl/parts/umbrella_open_assembly_2"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "dor:item/char/raingirl/parts/umbrella_open_assembly_3"
+      }
+    ]
+  }
+}

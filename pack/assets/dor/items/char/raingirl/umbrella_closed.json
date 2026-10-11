@@ -1,0 +1,36 @@
+{
+  "oversized_in_gui": true,
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "dor:item/char/raingirl/parts/umbrella_closed_assembly_0"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "dor:item/char/raingirl/parts/umbrella_closed_assembly_1"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "dor:item/char/raingirl/parts/umbrella_closed_assembly_2"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "dor:item/char/raingirl/parts/umbrella_closed_assembly_3"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "dor:item/char/raingirl/parts/umbrella_closed_assembly_4"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "dor:item/char/raingirl/parts/umbrella_closed_assembly_5"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "dor:item/char/raingirl/parts/umbrella_closed_assembly_6"
+      }
+    ]
+  }
+}

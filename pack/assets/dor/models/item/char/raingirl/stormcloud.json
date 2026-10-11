@@ -1,0 +1,7 @@
+{
+ "parent": "dor:item/char/raingirl/cloud",
+ "textures": {
+  "0": "dor:item/char/raingirl/stormcloud",
+  "particle": "dor:item/char/raingirl/stormcloud"
+ }
+}
