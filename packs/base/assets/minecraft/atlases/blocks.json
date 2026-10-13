@@ -1,0 +1,30 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "blueprint",
+      "prefix": "blueprint/"
+    },
+    {
+      "type": "single",
+      "resource": "waypoint/waypoint_a"
+    },
+    {
+      "type": "single",
+      "resource": "waypoint/waypoint_b"
+    },
+    {
+      "type": "single",
+      "resource": "waypoint/waypoint_c"
+    },
+    {
+      "type": "single",
+      "resource": "waypoint/waypoint_s"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:item/invis",
+      "sprite": "hwal263:blocks/minecraft/item/invis"
+    }
+  ]
+}

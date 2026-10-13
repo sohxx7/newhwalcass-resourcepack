@@ -1,0 +1,23 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/peridot/bubble"
+			},
+			{
+				"type": "model",
+				"model": "item/peridot/bubble2"
+			},
+						{
+				"type": "model",
+				"model": "item/peridot/bubble3"
+			},
+			{
+				"type": "model",
+				"model": "item/peridot/bubble4"
+			}
+		]
+	}
+}

@@ -1,0 +1,279 @@
+{
+    "oversized_in_gui" : true,
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type":"model",
+            "model": "item/purple_dye"
+    },
+    "cases": [
+        {
+            "when": "1",
+            "model": {
+                "type": "model",
+                "model": "item/map/map1"
+            }
+        },
+        {
+            "when": "2",
+            "model": {
+                "type": "model",
+                "model": "item/map/map2"
+            }
+        },
+        {
+            "when": "3",
+            "model": {
+                "type": "model",
+                "model": "item/map/map3"
+            }
+        },
+        {
+            "when": "4",
+            "model": {
+                "type": "model",
+                "model": "item/map/map4"
+            }
+        },
+        {
+            "when": "5",
+            "model": {
+                "type": "model",
+                "model": "item/map/map5"
+            }
+        },
+        {
+            "when": "6",
+            "model": {
+                "type": "model",
+                "model": "item/map/map6"
+            }
+        },
+        {
+            "when": "7",
+            "model": {
+                "type": "model",
+                "model": "item/map/map7"
+            }
+        },
+        {
+            "when": "10",
+            "model": {
+                "type": "model",
+                "model": "item/map/map10"
+            }
+        },
+        {
+            "when": "11",
+            "model": {
+                "type": "model",
+                "model": "item/map/map11"
+            }
+        },
+        {
+            "when": "12",
+            "model": {
+                "type": "model",
+                "model": "item/map/map12"
+            }
+        },
+        {
+            "when": "13",
+            "model": {
+                "type": "model",
+                "model": "item/map/map13"
+            }
+        },
+        {
+            "when": "14",
+            "model": {
+                "type": "model",
+                "model": "item/map/map14"
+            }
+        },
+        {
+            "when": "15",
+            "model": {
+                "type": "model",
+                "model": "item/map/map15"
+            }
+        },
+        {
+            "when": "16",
+            "model": {
+                "type": "model",
+                "model": "item/map/map16"
+            }
+        },
+        {
+            "when": "17",
+            "model": {
+                "type": "model",
+                "model": "item/map/map17"
+            }
+        },
+        {
+            "when": "18",
+            "model": {
+                "type": "model",
+                "model": "item/map/map18"
+            }
+        },
+        {
+            "when": "19",
+            "model": {
+                "type": "model",
+                "model": "item/map/map19"
+            }
+        },
+        {
+            "when": "20",
+            "model": {
+                "type": "model",
+                "model": "item/map/map20"
+            }
+        },
+        {
+            "when": "21",
+            "model": {
+                "type": "model",
+                "model": "item/map/map21"
+            }
+        },
+        {
+            "when": "22",
+            "model": {
+                "type": "model",
+                "model": "item/map/map22"
+            }
+        },
+                {
+            "when": "23",
+            "model": {
+                "type": "model",
+                "model": "item/map/map23"
+            }
+        },
+        {
+            "when": "24",
+            "model": {
+                "type": "model",
+                "model": "item/map/map24"
+            }
+        },
+                {
+            "when": "25",
+            "model": {
+                "type": "model",
+                "model": "item/map/map25"
+            }
+        },
+                        {
+            "when": "26",
+            "model": {
+                "type": "model",
+                "model": "item/map/map26"
+            }
+        },
+                                {
+            "when": "27",
+            "model": {
+                "type": "model",
+                "model": "item/map/map27"
+            }
+        },
+                                {
+            "when": "28",
+            "model": {
+                "type": "model",
+                "model": "item/map/map28"
+            }
+        },
+                                        {
+            "when": "29",
+            "model": {
+                "type": "model",
+                "model": "item/map/map29"
+            }
+        },
+                                        {
+            "when": "30",
+            "model": {
+                "type": "model",
+                "model": "item/map/map30"
+            }
+        },
+                                                {
+            "when": "11710",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food1"
+            }
+        },
+                                        {
+            "when": "11711",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food2"
+            }
+        },
+                                        {
+            "when": "11712",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food3"
+            }
+        },
+                                        {
+            "when": "11713",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food4"
+            }
+        },
+                {
+            "when": "11714",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food5"
+            }
+        },
+                                                        {
+            "when": "11720",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food1_thai"
+            }
+        },
+                                        {
+            "when": "11721",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food2_thai"
+            }
+        },
+                                        {
+            "when": "11722",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food3_thai"
+            }
+        },
+                                        {
+            "when": "11723",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food4_thai"
+            }
+        },
+                {
+            "when": "11724",
+            "model": {
+                "type": "model",
+                "model": "item/chef/food5_thai"
+            }
+        }
+    ]
+}
+}

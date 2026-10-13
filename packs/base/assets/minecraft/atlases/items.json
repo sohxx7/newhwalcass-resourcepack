@@ -1,0 +1,344 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/foot",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/foot"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/head",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/head"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/horn",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/horn"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/jaw",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/jaw"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/leg",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/leg"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/nose",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/nose"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/tail1",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/tail1"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/tail2",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/tail2"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/tail3",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/tail3"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/tail4",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/tail4"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/teeth",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/teeth"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/torso1",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/torso1"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/torso2",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/torso2"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/wing1",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/wing1"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/babydragon/wing2",
+      "sprite": "hwal263:items/animated_java/blueprint/babydragon/wing2"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/dragon/dragon",
+      "sprite": "hwal263:items/animated_java/blueprint/dragon/dragon"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/sword_morty/katana_cyber2",
+      "sprite": "hwal263:items/animated_java/blueprint/sword_morty/katana_cyber2"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/sword_morty/katana_cyber_anim1_2",
+      "sprite": "hwal263:items/animated_java/blueprint/sword_morty/katana_cyber_anim1_2"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "animated_java:blueprint/sword_morty/katana_cyber_anim2_2",
+      "sprite": "hwal263:items/animated_java/blueprint/sword_morty/katana_cyber_anim2_2"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/anvil",
+      "sprite": "hwal263:items/minecraft/block/anvil"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/azalea_leaves",
+      "sprite": "hwal263:items/minecraft/block/azalea_leaves"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/barrel_side",
+      "sprite": "hwal263:items/minecraft/block/barrel_side"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/black_concrete",
+      "sprite": "hwal263:items/minecraft/block/black_concrete"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/black_concrete_powder",
+      "sprite": "hwal263:items/minecraft/block/black_concrete_powder"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/black_wool",
+      "sprite": "hwal263:items/minecraft/block/black_wool"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/blood1",
+      "sprite": "hwal263:items/minecraft/block/blood1"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/brown_wool",
+      "sprite": "hwal263:items/minecraft/block/brown_wool"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/cauldron_inner",
+      "sprite": "hwal263:items/minecraft/block/cauldron_inner"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/coal_block",
+      "sprite": "hwal263:items/minecraft/block/coal_block"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/cobblestone",
+      "sprite": "hwal263:items/minecraft/block/cobblestone"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/emerald_block",
+      "sprite": "hwal263:items/minecraft/block/emerald_block"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/flowering_azalea_leaves",
+      "sprite": "hwal263:items/minecraft/block/flowering_azalea_leaves"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/glass",
+      "sprite": "hwal263:items/minecraft/block/glass"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/gold_block",
+      "sprite": "hwal263:items/minecraft/block/gold_block"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/gray_concrete",
+      "sprite": "hwal263:items/minecraft/block/gray_concrete"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/iron_block",
+      "sprite": "hwal263:items/minecraft/block/iron_block"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/light_gray_concrete",
+      "sprite": "hwal263:items/minecraft/block/light_gray_concrete"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/light_gray_glazed_terracotta",
+      "sprite": "hwal263:items/minecraft/block/light_gray_glazed_terracotta"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/light_gray_wool",
+      "sprite": "hwal263:items/minecraft/block/light_gray_wool"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/moss_block",
+      "sprite": "hwal263:items/minecraft/block/moss_block"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/nether_portal",
+      "sprite": "hwal263:items/minecraft/block/nether_portal"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/oak_log",
+      "sprite": "hwal263:items/minecraft/block/oak_log"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/oak_log_top",
+      "sprite": "hwal263:items/minecraft/block/oak_log_top"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/orange_terracotta",
+      "sprite": "hwal263:items/minecraft/block/orange_terracotta"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/polished_basalt_side",
+      "sprite": "hwal263:items/minecraft/block/polished_basalt_side"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/poppy",
+      "sprite": "hwal263:items/minecraft/block/poppy"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/quartz_block_bottom",
+      "sprite": "hwal263:items/minecraft/block/quartz_block_bottom"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/quartz_block_side",
+      "sprite": "hwal263:items/minecraft/block/quartz_block_side"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/quartz_block_top",
+      "sprite": "hwal263:items/minecraft/block/quartz_block_top"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/red_sand",
+      "sprite": "hwal263:items/minecraft/block/red_sand"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/red_wool",
+      "sprite": "hwal263:items/minecraft/block/red_wool"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/redstone_lamp_on",
+      "sprite": "hwal263:items/minecraft/block/redstone_lamp_on"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/sea_lantern",
+      "sprite": "hwal263:items/minecraft/block/sea_lantern"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/smooth_stone",
+      "sprite": "hwal263:items/minecraft/block/smooth_stone"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/soul_fire_1",
+      "sprite": "hwal263:items/minecraft/block/soul_fire_1"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/spruce_log",
+      "sprite": "hwal263:items/minecraft/block/spruce_log"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/stone_bricks",
+      "sprite": "hwal263:items/minecraft/block/stone_bricks"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/stripped_crimson_stem",
+      "sprite": "hwal263:items/minecraft/block/stripped_crimson_stem"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/stripped_oak_log",
+      "sprite": "hwal263:items/minecraft/block/stripped_oak_log"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/water_flow",
+      "sprite": "hwal263:items/minecraft/block/water_flow"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/white_concrete",
+      "sprite": "hwal263:items/minecraft/block/white_concrete"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/white_concrete_powder",
+      "sprite": "hwal263:items/minecraft/block/white_concrete_powder"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/white_wool",
+      "sprite": "hwal263:items/minecraft/block/white_wool"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/yellow_concrete",
+      "sprite": "hwal263:items/minecraft/block/yellow_concrete"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:waypoint/waypoint_a",
+      "sprite": "hwal263:items/minecraft/waypoint/waypoint_a"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:waypoint/waypoint_b",
+      "sprite": "hwal263:items/minecraft/waypoint/waypoint_b"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:waypoint/waypoint_c",
+      "sprite": "hwal263:items/minecraft/waypoint/waypoint_c"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:waypoint/waypoint_s",
+      "sprite": "hwal263:items/minecraft/waypoint/waypoint_s"
+    }
+  ]
+}

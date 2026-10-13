@@ -1,0 +1,47 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/phantom",
+		"particle": "item/phantom"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 0],
+			"to": [14, 0, 15],
+			"faces": {
+				"north": {"uv": [0, 0, 5.5, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 7.5, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 5.5, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 7.5, 0], "texture": "#0"},
+				"up": {"uv": [14.07459, 14.83702, 1.94475, 1.14917], "texture": "#0"},
+				"down": {"uv": [14.07459, 14.83702, 1.94475, 1.14917], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [95, 180, 0],
+			"translation": [0.25, 1.75, 3.75],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [48, -180, -18],
+			"translation": [9.75, 5, -3.75]
+		},
+		"gui": {
+			"rotation": [90, -180, 0],
+			"translation": [0.5, 0.5, 0]
+		},
+		"head": {
+			"translation": [-0.25, -33.5, 1]
+		}
+	},
+	"groups": [
+		{
+			"name": "rm_card",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

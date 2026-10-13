@@ -1,0 +1,29 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/giyuu/tanjiro_effect_tanjiro_effect",
+		"particle": "item/giyuu/tanjiro_effect_tanjiro_effect"
+	},
+	"elements": [
+		{
+			"from": [0, 0, -6],
+			"to": [16, 0, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, -6]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [90, 0, -90],
+			"translation": [8, 0, 0]
+		}
+	}
+}

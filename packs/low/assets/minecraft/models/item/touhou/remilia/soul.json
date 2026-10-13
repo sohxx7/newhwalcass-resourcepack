@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"particle": "item/touhou/remilia/remiliasoul",
+		"layer0": "item/touhou/remilia/remiliasoul"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 45],
+			"translation": [0, 5, 2],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [6, 98, 0],
+			"translation": [1.75, 4.75, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "betty_soul",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		}
+	]
+}

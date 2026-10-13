@@ -1,0 +1,50 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [16, 15],
+	"textures": {
+		"0": "item/jewel_girl",
+		"particle": "item/jewel_girl"
+	},
+	"elements": [
+		{
+			"from": [0, -10, -3.20581],
+			"to": [16, 3.8, -3.20581],
+			"rotation": {"angle": -10.82, "axis": "x", "origin": [8, -9.10535, -0.90582]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [16, 0, 0, 16], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [0, 16, 16, 0], "texture": "#0"},
+				"west": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, -11.4, -1.78433],
+			"to": [16, -11.4, 12.01567],
+			"rotation": {"angle": 37.37, "axis": "x", "origin": [8, -9.10535, -0.90582]},
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 16, 16, 0], "texture": "#0"},
+				"south": {"uv": [0, 16, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 16, 16, 0], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, -36, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/touhou/yukari/120",
+		"particle": "item/touhou/yukari/120"
+	},
+	"elements": [
+		{
+			"from": [-4, 0, -8],
+			"to": [12, 0, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [-4, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"rotation": [90, 45, 0]
+		},
+		"head": {
+			"rotation": [90, -45, 0]
+		}
+	}
+}

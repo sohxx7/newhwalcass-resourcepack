@@ -1,0 +1,572 @@
+{
+    "providers": [
+
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE029"
+            ],
+            "ascent": 8,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE028"
+            ],
+            "ascent": 7,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE027"
+            ],
+            "ascent": 6,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE026"
+            ],
+            "ascent": 5,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE025"
+            ],
+            "ascent": 4,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE024"
+            ],
+            "ascent": 3,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE023"
+            ],
+            "ascent": 2,
+            "height": 8
+        },
+                    {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE022"
+            ],
+            "ascent": 1,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE021"
+            ],
+            "ascent": 0,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE020"
+            ],
+            "ascent": -1,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE019"
+            ],
+            "ascent": -2,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE018"
+            ],
+            "ascent": -3,
+            "height": 8
+        },
+                    {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE017"
+            ],
+            "ascent": -4,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE016"
+            ],
+            "ascent": -5,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE015"
+            ],
+            "ascent": -6,
+            "height": 8
+        },
+                            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE014"
+            ],
+            "ascent": -7,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE013"
+            ],
+            "ascent": -8,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE012"
+            ],
+            "ascent": -9,
+            "height": 8
+        },
+                                    {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE011"
+            ],
+            "ascent": -10,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE010"
+            ],
+            "ascent": -11,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE009"
+            ],
+            "ascent": -12,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE008"
+            ],
+            "ascent": -13,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE007"
+            ],
+            "ascent": -14,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE006"
+            ],
+            "ascent": -15,
+            "height": 8
+        },
+                    {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE005"
+            ],
+            "ascent": -16,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE004"
+            ],
+            "ascent": -17,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE003"
+            ],
+            "ascent": -18,
+            "height": 8
+        },
+                            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE002"
+            ],
+            "ascent": -19,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE001"
+            ],
+            "ascent": -20,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_right.png",
+            "chars": [
+                "\uE000"
+            ],
+            "ascent": -21,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE129"
+            ],
+            "ascent": 8,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE128"
+            ],
+            "ascent": 7,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE127"
+            ],
+            "ascent": 6,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE126"
+            ],
+            "ascent": 5,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE125"
+            ],
+            "ascent": 4,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE124"
+            ],
+            "ascent": 3,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE123"
+            ],
+            "ascent": 2,
+            "height": 8
+        },
+                    {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE122"
+            ],
+            "ascent": 1,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE121"
+            ],
+            "ascent": 0,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE120"
+            ],
+            "ascent": -1,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE119"
+            ],
+            "ascent": -2,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE118"
+            ],
+            "ascent": -3,
+            "height": 8
+        },
+                    {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE117"
+            ],
+            "ascent": -4,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE116"
+            ],
+            "ascent": -5,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE115"
+            ],
+            "ascent": -6,
+            "height": 8
+        },
+                            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE114"
+            ],
+            "ascent": -7,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE113"
+            ],
+            "ascent": -8,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE112"
+            ],
+            "ascent": -9,
+            "height": 8
+        },
+                                    {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE111"
+            ],
+            "ascent": -10,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE110"
+            ],
+            "ascent": -11,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE109"
+            ],
+            "ascent": -12,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE108"
+            ],
+            "ascent": -13,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE107"
+            ],
+            "ascent": -14,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE106"
+            ],
+            "ascent": -15,
+            "height": 8
+        },
+                    {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE105"
+            ],
+            "ascent": -16,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE104"
+            ],
+            "ascent": -17,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE103"
+            ],
+            "ascent": -18,
+            "height": 8
+        },
+                            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE102"
+            ],
+            "ascent": -19,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE101"
+            ],
+            "ascent": -20,
+            "height": 8
+        },
+            {
+            "type": "bitmap",
+            "file": "font/note_left.png",
+            "chars": [
+                "\uE100"
+            ],
+            "ascent": -21,
+            "height": 8
+        },
+                    {
+            "type": "bitmap",
+            "file": "font/mid_right.png",
+            "chars": [
+                "\uE00A"
+            ],
+            "ascent": -20,
+            "height": 8
+        },
+                    {
+            "type": "bitmap",
+            "file": "font/mid_left.png",
+            "chars": [
+                "\uE10A"
+            ],
+            "ascent": -20,
+            "height": 8
+        },
+                            {
+            "type": "bitmap",
+            "file": "font/blank2.png",
+            "chars": [
+                "\uE00B"
+            ],
+            "ascent": -20,
+            "height": 8
+        }
+    ]
+}

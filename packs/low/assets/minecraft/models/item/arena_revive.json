@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/arena_circle",
+		"particle": "item/arena_circle"
+	},
+	"elements": [
+		{
+			"from": [-1, 0, -1.05],
+			"to": [17, 0, 16.95],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"up": {"uv": [0.85762, 0.91122, 15.19598, 15.03518], "texture": "#0"},
+				"down": {"uv": [15.19598, 0.91122, 0.85762, 15.03518], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "cut_circle",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

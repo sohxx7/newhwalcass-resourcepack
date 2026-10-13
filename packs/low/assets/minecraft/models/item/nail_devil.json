@@ -1,0 +1,111 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/bloody_hammer",
+		"particle": "item/bloody_hammer"
+	},
+	"elements": [
+		{
+			"from": [7, 14, 7],
+			"to": [8, 19, 8],
+			"faces": {
+				"north": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"east": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"south": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"west": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"up": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"down": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 12, 7],
+			"to": [8, 13, 8],
+			"faces": {
+				"north": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"east": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"south": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"west": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"up": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"down": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 19.5, 7],
+			"to": [8, 20, 8],
+			"faces": {
+				"north": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"east": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"south": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"west": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"up": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"down": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.25, 20, 7],
+			"to": [7.75, 20.5, 8],
+			"faces": {
+				"north": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"east": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"south": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"west": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"up": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"down": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.75, 19, 7],
+			"to": [8.25, 19.5, 8],
+			"faces": {
+				"north": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"east": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"south": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"west": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"up": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"down": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 13, 7],
+			"to": [9, 14, 8],
+			"faces": {
+				"north": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"east": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"south": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"west": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"up": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"},
+				"down": {"uv": [2.25, 0, 4.5, 3.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-180, 90, 0],
+			"translation": [0, 6.5, 1],
+			"scale": [0.9, 1, 0.9]
+		},
+		"firstperson_righthand": {
+			"rotation": [16, 70, 173],
+			"translation": [9, 12.5, -1],
+			"scale": [1.4, 1.4, 0.81]
+		},
+		"gui": {
+			"rotation": [0, 0, 135],
+			"translation": [10.25, 11.75, 0],
+			"scale": [1.9, 1.9, 2]
+		},
+		"head": {
+			"rotation": [180, 0, 0],
+			"translation": [0, 7.5, 0],
+			"scale": [2.2, 2.2, 1.9]
+		}
+	},
+	"groups": [
+		{
+			"name": "pole_devil",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
+}

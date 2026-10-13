@@ -1,10 +1,13 @@
 {
-	"pack": {
-		"pack_format": 63,
-		"description": "Hwalcass ;^)",
-		"supported_formats": {
-			"min_inclusive": 63,
-			"max_inclusive": 68
-		}
-	}
+  "pack": {
+    "description": "Hwalcass ;^) - 26.3 port (test)",
+    "min_format": [
+      97,
+      1
+    ],
+    "max_format": [
+      97,
+      1
+    ]
+  }
 }

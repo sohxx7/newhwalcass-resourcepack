@@ -1,0 +1,52 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [512, 512],
+	"textures": {
+		"0": "item/touhou/cirno/wing",
+		"particle": "item/touhou/cirno/wing"
+	},
+	"elements": [
+		{
+			"from": [10, -16, 8],
+			"to": [26, 16, 8],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [10, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"south": {"uv": [8, 0, 0, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-10, -16, 8],
+			"to": [6, 16, 8],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [6, 0, 8]},
+			"faces": {
+				"north": {"uv": [8, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_lefthand": {
+			"rotation": [66, 0, 0],
+			"translation": [-6, -1.75, 14.75]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"scale": [0, 0, 0]
+		},
+		"head": {
+			"translation": [0, -51, 4],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

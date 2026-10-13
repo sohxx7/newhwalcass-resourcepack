@@ -1,0 +1,27 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/hornet/slash/0",
+		"particle": "item/hornet/slash/0"
+	},
+	"elements": [
+		{
+			"from": [8, -16, -16],
+			"to": [8, 32, 32],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [16, 16, 0, 0], "rotation": 180, "texture": "#0", "tintindex": 0},
+				"west": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#0", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"rotation": [0, 0, 35]
+		},
+		"head": {
+			"rotation": [0, 0, -35]
+		}
+	}
+}

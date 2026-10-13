@@ -1,0 +1,440 @@
+{
+    "oversized_in_gui" : true,
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type":"model",
+            "model": "item/warped_fungus"
+    },
+    "cases": [
+        {
+            "when": "100",
+            "model": {
+                "type": "model",
+                "model": "item/reload"
+            }
+        },
+        {
+            "when": "200",
+            "model": {
+                "type": "model",
+                "model": "item/check"
+            }
+        },
+                {
+            "when": "1000",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/ultoff"
+            }
+        },
+                        {
+            "when": "1001",
+            "model": {
+                "type": "model",
+                "model": "item/battlequeen/ulton"
+            }
+        },
+        {
+            "when": "3200",
+            "model": {
+                "type": "model",
+                "model": "item/lucidgo"
+            }
+        },
+        {
+            "when": "3700",
+            "model": {
+                "type": "model",
+                "model": "item/c37fire"
+            }
+        },
+        {
+            "when": "4200",
+            "model": {
+                "type": "model",
+                "model": "item/electricity"
+            }
+        },
+                {
+            "when": "4201",
+            "model": {
+                "type": "model",
+                "model": "item/electricity_sg"
+            }
+        },
+        {
+            "when": "5300",
+            "model": {
+                "type": "model",
+                "model": "item/yuumiw"
+            }
+        },
+        {
+            "when": "5500",
+            "model": {
+                "type": "model",
+                "model": "item/samira/f"
+            }
+        },
+        {
+            "when": "5501",
+            "model": {
+                "type": "model",
+                "model": "item/samira/e"
+            }
+        },
+        {
+            "when": "5502",
+            "model": {
+                "type": "model",
+                "model": "item/samira/d"
+            }
+        },
+        {
+            "when": "5503",
+            "model": {
+                "type": "model",
+                "model": "item/samira/c"
+            }
+        },
+        {
+            "when": "5504",
+            "model": {
+                "type": "model",
+                "model": "item/samira/b"
+            }
+        },
+        {
+            "when": "5505",
+            "model": {
+                "type": "model",
+                "model": "item/samira/a"
+            }
+        },
+        {
+            "when": "5506",
+            "model": {
+                "type": "model",
+                "model": "item/samira/s"
+            }
+        },
+        {
+            "when": "5510",
+            "model": {
+                "type": "model",
+                "model": "item/samira/soul/f"
+            }
+        },
+        {
+            "when": "5511",
+            "model": {
+                "type": "model",
+                "model": "item/samira/soul/e"
+            }
+        },
+        {
+            "when": "5512",
+            "model": {
+                "type": "model",
+                "model": "item/samira/soul/d"
+            }
+        },
+        {
+            "when": "5513",
+            "model": {
+                "type": "model",
+                "model": "item/samira/soul/c"
+            }
+        },
+        {
+            "when": "5514",
+            "model": {
+                "type": "model",
+                "model": "item/samira/soul/b"
+            }
+        },
+        {
+            "when": "5515",
+            "model": {
+                "type": "model",
+                "model": "item/samira/soul/a"
+            }
+        },
+        {
+            "when": "5516",
+            "model": {
+                "type": "model",
+                "model": "item/samira/soul/s"
+            }
+        },
+        {
+            "when": "6900",
+            "model": {
+                "type": "model",
+                "model": "item/takopi/flake"
+            }
+        },
+        {
+            "when": "7400",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/barrier"
+            }
+        },
+        {
+            "when": "7401",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/cleanse"
+            }
+        },
+        {
+            "when": "7402",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/ignite"
+            }
+        },
+        {
+            "when": "7403",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/flash"
+            }
+        },
+        {
+            "when": "7404",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/heal"
+            }
+        },
+        {
+            "when": "7405",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/exhaust"
+            }
+        },
+        {
+            "when": "7406",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/ghost"
+            }
+        },
+        {
+            "when": "7407",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/smite"
+            }
+        },
+        {
+            "when": "7408",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/teleport"
+            }
+        },
+        {
+            "when": "7409",
+            "model": {
+                "type": "model",
+                "model": "item/zoe/spikeshield"
+            }
+        },
+        {
+            "when": "7410",
+            "model": {
+                "type": "model",
+                "model": "item/cloak"
+            }
+        },
+        {
+            "when": "7411",
+            "model": {
+                "type": "model",
+                "model": "item/salvation"
+            }
+        },
+        {
+            "when": "7412",
+            "model": {
+                "type": "model",
+                "model": "item/stopwatch"
+            }
+        },
+        {
+            "when": "8100",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/ron"
+            }
+        },
+        {
+            "when": "8101",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/roff"
+            }
+        },
+        {
+            "when": "8102",
+            "model": {
+                "type": "model",
+                "model": "item/hwei/wash"
+            }
+        },
+        {
+            "when": "8200",
+            "model": {
+                "type": "model",
+                "model": "item/argalia/blue"
+            }
+        },
+        {
+            "when": "8201",
+            "model": {
+                "type": "model",
+                "model": "item/angela/blue"
+            }
+        },
+        {
+            "when": "8300",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/icon/w"
+            }
+        },
+        {
+            "when": "8301",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/icon/w1"
+            }
+        },
+        {
+            "when": "8302",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/icon/w2"
+            }
+        },
+        {
+            "when": "8303",
+            "model": {
+                "type": "model",
+                "model": "item/hisui/icon/w3"
+            }
+        },
+        {
+            "when": "8400",
+            "model": {
+                "type": "model",
+                "model": "item/yumin/icon"
+            }
+        },
+        {
+            "when": "8401",
+            "model": {
+                "type": "model",
+                "model": "item/yumin/icon_off"
+            }
+        },
+        {
+            "when": "8500",
+            "model": {
+                "type": "model",
+                "model": "item/camilo/icon/r0"
+            }
+        },
+        {
+            "when": "8501",
+            "model": {
+                "type": "model",
+                "model": "item/camilo/icon/r1"
+            }
+        },
+        {
+            "when": "8502",
+            "model": {
+                "type": "model",
+                "model": "item/camilo/icon/r2"
+            }
+        },
+        {
+            "when": "8503",
+            "model": {
+                "type": "model",
+                "model": "item/camilo/icon/r3"
+            }
+        },
+        {
+            "when": "9500",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/blaster_icon"
+            }
+        },
+        {
+            "when": "9501",
+            "model": {
+                "type": "model",
+                "model": "item/gaster/blaster_off"
+            }
+        },
+                {
+            "when": "11501",
+            "model": {
+                "type": "model",
+                "model": "item/akali/r1"
+            }
+        },
+        {
+            "when": "11502",
+            "model": {
+                "type": "model",
+                "model": "item/akali/r2"
+            }
+        },
+        {
+            "when": "11500",
+            "model": {
+                "type": "model",
+                "model": "item/akali/roff"
+            }
+        },
+                {
+            "when": "11801",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/r"
+            }
+        },
+        {
+            "when": "11800",
+            "model": {
+                "type": "model",
+                "model": "item/hornet/roff"
+            }
+        },
+                        {
+            "when": "12901",
+            "model": {
+                "type": "model",
+                "model": "item/chess/icon/on"
+            }
+        },
+        {
+            "when": "12900",
+            "model": {
+                "type": "model",
+                "model": "item/chess/icon/off"
+            }
+        }
+    ]
+}
+}

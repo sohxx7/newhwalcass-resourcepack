@@ -1,0 +1,31 @@
+{
+    "providers": [
+    {
+            "type": "bitmap",
+            "file": "minecraft:font/astrology/sun.png",
+            "chars": [
+                "1"
+            ],
+            "ascent": -12,
+            "height": 7
+        },
+    {
+            "type": "bitmap",
+            "file": "minecraft:font/astrology/saturn.png",
+            "chars": [
+                "2"
+            ],
+            "ascent": -12,
+            "height": 7
+        },
+    {
+            "type": "bitmap",
+            "file": "minecraft:font/astrology/blackhole.png",
+            "chars": [
+                "3"
+            ],
+            "ascent": -12,
+            "height": 7
+        }
+    ]
+}

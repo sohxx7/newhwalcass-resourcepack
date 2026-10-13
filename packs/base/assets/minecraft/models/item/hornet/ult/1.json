@@ -1,0 +1,25 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made by Caneko-chan",
+	"texture_size": [64, 154],
+	"textures": {
+		"0": "item/hornet/ult",
+		"particle": "item/hornet/ult"
+	},
+	"elements": [
+		{
+			"from": [-4.25, 0, -4.25],
+			"to": [20.25, 0, 20.25],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "x", "origin": [0, 0, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

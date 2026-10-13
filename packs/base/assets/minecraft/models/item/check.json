@@ -1,0 +1,101 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/check",
+		"particle": "item/check"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"overrides": [
+		{"predicate": {"custom_model_data": 100}, "model": "item/reload"},
+		{"predicate": {"custom_model_data": 3200}, "model": "item/lucidgo"},
+		{"predicate": {"custom_model_data": 3700}, "model": "item/c37fire"},
+		{"predicate": {"custom_model_data": 4200}, "model": "item/electricity"},
+		{"predicate": {"custom_model_data": 5300}, "model": "item/yuumiw"},
+		{"predicate": {"custom_model_data": 5500}, "model": "item/samira/f"},
+		{"predicate": {"custom_model_data": 5501}, "model": "item/samira/e"},
+		{"predicate": {"custom_model_data": 5502}, "model": "item/samira/d"},
+		{"predicate": {"custom_model_data": 5503}, "model": "item/samira/c"},
+		{"predicate": {"custom_model_data": 5504}, "model": "item/samira/b"},
+		{"predicate": {"custom_model_data": 5505}, "model": "item/samira/a"},
+		{"predicate": {"custom_model_data": 5506}, "model": "item/samira/s"},
+		{"predicate": {"custom_model_data": 7400}, "model": "item/zoe/barrier"},
+		{"predicate": {"custom_model_data": 7401}, "model": "item/zoe/cleanse"},
+		{"predicate": {"custom_model_data": 7402}, "model": "item/zoe/ignite"},
+		{"predicate": {"custom_model_data": 7403}, "model": "item/zoe/flash"},
+		{"predicate": {"custom_model_data": 7404}, "model": "item/zoe/heal"},
+		{"predicate": {"custom_model_data": 7405}, "model": "item/zoe/exhaust"},
+		{"predicate": {"custom_model_data": 7406}, "model": "item/zoe/ghost"},
+		{"predicate": {"custom_model_data": 7407}, "model": "item/zoe/smite"},
+		{"predicate": {"custom_model_data": 7408}, "model": "item/zoe/teleport"},
+		{"predicate": {"custom_model_data": 7409}, "model": "item/zoe/spikeshield"},
+		{"predicate": {"custom_model_data": 7410}, "model": "item/cloak"},
+		{"predicate": {"custom_model_data": 7411}, "model": "item/salvation"},
+		{"predicate": {"custom_model_data": 7412}, "model": "item/stopwatch"}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.25, 0],
+			"scale": [0.5, 0.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, 70],
+			"translation": [0.5, 2.5, 0],
+			"scale": [0.35, 0.35, 0.1]
+		},
+		"firstperson_righthand": {
+			"translation": [2.25, 3.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-32.93, -34.11, -93.91],
+			"translation": [0.5, 5.75, -1],
+			"scale": [0.4, 0.4, 0.1]
+		},
+		"gui": {
+			"scale": [0.8, 0.8, 0.8]
+		}
+	},
+	"groups": [
+		{
+			"name": "salvation",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "cloak",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [
+						{
+							"name": "yuumiw",
+							"origin": [8, 8, 8],
+							"color": 0,
+							"children": [
+								{
+									"name": "reload",
+									"origin": [8, 8, 8],
+									"color": 0,
+									"children": [0]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

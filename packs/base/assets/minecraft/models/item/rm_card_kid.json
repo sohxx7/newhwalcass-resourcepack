@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/kid2",
+		"1": "item/kid",
+		"particle": "item/kid2"
+	},
+	"elements": [
+		{
+			"from": [3, 6, 0],
+			"to": [14, 6, 15],
+			"faces": {
+				"north": {"uv": [0, 0, 5.5, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 7.5, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 5.5, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 7.5, 0], "texture": "#1"},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#1"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [95, 180, 0],
+			"translation": [0.25, 1.75, 1.5],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [62, -180, -18],
+			"translation": [9, 5, -3.75]
+		},
+		"gui": {
+			"rotation": [90, -180, 0],
+			"translation": [0.5, 0.5, 0]
+		},
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "rm_card",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

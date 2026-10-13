@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/shuriken2"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [15, 0, 74],
+			"translation": [0, 1.25, 0.75],
+			"scale": [0.6, 0.6, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [6, 98, 0],
+			"translation": [1.75, 4.75, 0],
+			"scale": [1, 1, 0.3]
+		},
+		"gui": {
+			"rotation": [0, -14, 0],
+			"scale": [0.8, 0.8, 1]
+		}
+	}
+}

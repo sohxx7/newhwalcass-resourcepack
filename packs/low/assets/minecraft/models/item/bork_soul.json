@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/bork_soul"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-65, 90, 45],
+			"translation": [0, 11.5, -3.5],
+			"scale": [1.06, 2.47, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [14, 98, 0],
+			"translation": [6.5, 5.5, -4.5],
+			"scale": [1, 2.01, 1]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"scale": [0.8, 1.6, 1]
+		}
+	}
+}

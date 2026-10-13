@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"1": "item/samira/samiragun_soul",
+		"particle": "item/samira/samiragun_soul",
+		"layer0": "item/samira/samiragun2_soul"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, -4],
+			"translation": [0.25, 1.25, 1.5],
+			"scale": [1.25, 0.5, 0.77]
+		},
+		"firstperson_righthand": {
+			"rotation": [3, -88, 0],
+			"translation": [6, 0.5, -3],
+			"scale": [1.79, 1, 0.88]
+		},
+		"gui": {
+			"rotation": [0, 180, -26],
+			"translation": [-1.25, 0.25, 0],
+			"scale": [1.29, 0.6, 1]
+		}
+	}
+}

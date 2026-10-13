@@ -1,0 +1,55 @@
+{
+  "minecraft": "26.3",
+  "resource_pack_format": [
+    97,
+    1
+  ],
+  "release_tag": "v2026.10.13-minecraft26.3.1",
+  "branch": "codex/minecraft-26.3",
+  "model_revision": 13,
+  "files": [
+    {
+      "file": "new-26.3.zip",
+      "source_directory": "pack",
+      "bytes": 90371937,
+      "sha1": "8681e0c2f6583727c08e16c8972e2c84b6f213b3",
+      "sha256": "43f8e5cdc328c31aad4752d9c2c675d5f18a78b1314e77c49466e6841edda83c",
+      "files": 1477,
+      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/new-26.3.zip"
+    },
+    {
+      "file": "base-26.3.zip",
+      "source_directory": "packs/base",
+      "bytes": 240255828,
+      "sha1": "d2ccca4d3f624d7836cbc15926ae2bc94a36501c",
+      "sha256": "af2bd6c0e90fa2731ffbef00332ce865751646296e1fceb32ebb7bb21f75392e",
+      "files": 6800,
+      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/base-26.3.zip"
+    },
+    {
+      "file": "low-26.3.zip",
+      "source_directory": "packs/low",
+      "bytes": 149472933,
+      "sha1": "0935b8db48e203378cd0b527bea6148732bf8d03",
+      "sha256": "b63115ae3e4b1f12aa56bf4b5959afa1d988251be5fb06e10e9ffe2a843f798f",
+      "files": 6800,
+      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/low-26.3.zip"
+    },
+    {
+      "file": "bgm-26.3.zip",
+      "source_directory": "packs/bgm",
+      "bytes": 262044276,
+      "sha1": "61ef54e4cb794807fa3bd2cc4e01b990aaee0f88",
+      "sha256": "07be2c112876bb2be63290b89947edf4c7c3374c5595abe7768cb8d19bc744bc",
+      "files": 204,
+      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/bgm-26.3.zip"
+    }
+  ],
+  "hq_bgm": "Existing manual file and URL unchanged; excluded from this release",
+  "validation": "Archive CRC, metadata, source-byte equivalence, SHA-1/SHA-256 and secret-pattern scan",
+  "known_limitations": [
+    "No new client test in this publication",
+    "Inherited new-pack reference findings: 4 errors / 29 warnings in previous full-pack check",
+    "Existing manual HQ pack lacks bgm.class153 and bgm.class153_2"
+  ]
+}

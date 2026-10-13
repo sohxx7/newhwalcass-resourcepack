@@ -1,0 +1,44 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "item/actor/glasses",
+		"particle": "item/actor/glasses"
+	},
+	"elements": [
+		{
+			"name": "head",
+			"from": [3.5, -0.5, 3.5],
+			"to": [12.5, 8.5, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 5.75, 4, 7.75], "texture": "#1"},
+				"east": {"uv": [0, 5.75, 2, 7.75], "texture": "#1"},
+				"south": {"uv": [6, 5.75, 8, 7.75], "texture": "#1"},
+				"west": {"uv": [4, 5.75, 6, 7.75], "texture": "#1"},
+				"up": {"uv": [4, 5.75, 2, 3.75], "texture": "#1"},
+				"down": {"uv": [6, 3.75, 4, 5.75], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 4.5, 0],
+			"scale": [2, 1, 2]
+		},
+		"head": {
+			"translation": [0, 3.25, 1.5],
+			"scale": [2, 1, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "head",
+			"origin": [8, 0, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/death/fx_counter",
+      "sprite": "hwal263:items/dor/char/death/fx_counter"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/death/fx_cross",
+      "sprite": "hwal263:items/dor/char/death/fx_cross"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/death/fx_fire",
+      "sprite": "hwal263:items/dor/char/death/fx_fire"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/death/fx_smoke",
+      "sprite": "hwal263:items/dor/char/death/fx_smoke"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/death/fx_spin",
+      "sprite": "hwal263:items/dor/char/death/fx_spin"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:entity/equipment/humanoid/char/puss/boots",
+      "sprite": "hwal263:items/dor/entity/equipment/humanoid/char/puss/boots"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/undertaker/rogue_mortis/scimitar",
+      "sprite": "hwal263:items/dor/char/undertaker/rogue_mortis/scimitar"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "dor:char/undertaker/rogue_mortis/sandstorm",
+      "sprite": "hwal263:items/dor/char/undertaker/rogue_mortis/sandstorm"
+    }
+  ]
+}

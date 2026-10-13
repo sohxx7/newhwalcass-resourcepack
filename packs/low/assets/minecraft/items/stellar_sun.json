@@ -1,0 +1,43 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/stellar/bubble1"
+			},
+			{
+				"type": "model",
+				"model": "item/stellar/bubble2"
+			},
+						{
+				"type": "model",
+				"model": "item/stellar/bubble3"
+			},
+			{
+				"type": "model",
+				"model": "item/stellar/bubble4"
+			},
+						{
+				"type": "model",
+				"model": "item/stellar/sun1"
+			},
+			{
+				"type": "model",
+				"model": "item/stellar/sun2"
+			},
+						{
+				"type": "model",
+				"model": "item/stellar/sun3"
+			},
+			{
+				"type": "model",
+				"model": "item/stellar/sun4"
+			},
+						{
+				"type": "model",
+				"model": "item/stellar/corona"
+			}
+		]
+	}
+}

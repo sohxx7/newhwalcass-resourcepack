@@ -1,0 +1,23 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/angelic/lc1"
+			},
+			{
+				"type": "model",
+				"model": "item/angelic/lc2"
+			},
+						{
+				"type": "model",
+				"model": "item/angelic/lc3"
+			},
+			{
+				"type": "model",
+				"model": "item/angelic/lc4"
+			}
+		]
+	}
+}

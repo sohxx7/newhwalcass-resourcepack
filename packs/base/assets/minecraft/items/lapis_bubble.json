@@ -1,0 +1,47 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/lapis/bubble1",
+				"tints": [
+					{
+						"type": "minecraft:dye",
+						"default": 16777215
+					}
+				]
+			},
+			{
+				"type": "model",
+				"model": "item/lapis/bubble2",
+				"tints": [
+					{
+						"type": "minecraft:dye",
+						"default": 16777215
+					}
+				]
+			},
+			{
+				"type": "model",
+				"model": "item/lapis/bubble3",
+				"tints": [
+					{
+						"type": "minecraft:dye",
+						"default": 16777215
+					}
+				]
+			},
+			{
+				"type": "model",
+				"model": "item/lapis/bubble4",
+				"tints": [
+					{
+						"type": "minecraft:dye",
+						"default": 16777215
+					}
+				]
+			}
+		]
+	}
+}

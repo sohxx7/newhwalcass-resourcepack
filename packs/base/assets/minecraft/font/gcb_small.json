@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:gcb.ttf",
+            "shift": [1, -2],
+            "size": 7,
+            "oversample": 4
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/chef/food5_thai"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 3, 0.75],
+			"scale": [0.8, 0.8, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-78, -36, -26],
+			"translation": [5.25, -1.5, 1.5]
+		},
+		"head": {
+			"scale": [1.2, 0.9, 1]
+		}
+	},
+	"groups": [
+		{
+			"name": "food4",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [
+				{
+					"name": "food3",
+					"origin": [8, 8, 8],
+					"scope": 0,
+					"color": 0,
+					"children": [
+						{
+							"name": "food2",
+							"origin": [8, 8, 8],
+							"scope": 0,
+							"color": 0,
+							"children": [
+								{
+									"name": "food1",
+									"origin": [8, 8, 8],
+									"scope": 0,
+									"color": 0,
+									"children": [
+										{
+											"name": "bloody_axe",
+											"origin": [8, 8, 8],
+											"scope": 0,
+											"color": 0,
+											"children": []
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

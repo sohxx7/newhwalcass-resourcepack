@@ -1,6 +1,1 @@
-{
-	"parent": "dor:item/char/craver/f/1",
-	"textures": {
-		"2": "dor:item/char/craver/f/11"
-	}
-}
+{"parent":"dor:item/char/craver/f/1","textures":{"2":"hwal263:item/legacy_missing"}}

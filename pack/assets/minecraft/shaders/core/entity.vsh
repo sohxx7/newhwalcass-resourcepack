@@ -1,9 +1,73 @@
-#version 150
+#version 330
+#extension GL_ARB_separate_shader_objects : require
 
-#moj_import <minecraft:light.glsl>
-#moj_import <minecraft:fog.glsl>
-#moj_import <minecraft:dynamictransforms.glsl>
-#moj_import <minecraft:projection.glsl>
+#if defined(PER_FACE_LIGHTING) || !defined(NO_CARDINAL_LIGHTING)
+#include <minecraft:light.glsl>
+#endif
+#include <minecraft:fog.glsl>
+#include <minecraft:dynamictransforms.glsl>
+#include <minecraft:projection.glsl>
+#include <minecraft:sample_lightmap.glsl>
+
+layout(location = 0) in vec3 Position;
+layout(location = 1) in vec4 Color;
+layout(location = 2) in vec2 UV0;
+layout(location = 3) in ivec2 UV1;
+layout(location = 4) in ivec2 UV2;
+layout(location = 5) in vec3 Normal;
+
+#if !defined(NO_OVERLAY) && !defined(OIT_ALPHA_ONLY)
+uniform sampler2D Sampler1;
+#endif
+
+#if !defined(EMISSIVE) && !defined(OIT_ALPHA_ONLY)
+uniform sampler2D Sampler2;
+#endif
+
+layout(location = 0) out float sphericalVertexDistance;
+layout(location = 1) out float cylindricalVertexDistance;
+
+#ifdef PER_FACE_LIGHTING
+layout(location = 2) out vec4 vertexPerFaceColorBack;
+layout(location = 3) out vec4 vertexPerFaceColorFront;
+#else
+layout(location = 2) out vec4 vertexColor;
+#endif
+
+#ifndef EMISSIVE
+layout(location = 4) out vec4 lightMapColor;
+#endif
+
+#ifndef NO_OVERLAY
+layout(location = 5) out vec4 overlayColor;
+#endif
+
+layout(location = 6) out vec2 texCoord0;
+#ifdef GLINT
+layout(location = 7) out vec2 texCoordGlint;
+#endif
+
+#if defined(ALPHA_CUTOUT) && !defined(EMISSIVE) && !defined(NO_OVERLAY) && !defined(APPLY_TEXTURE_MATRIX)
+#define MAYBE_PLAYERDISP 1
+#endif
+
+#ifdef MAYBE_PLAYERDISP
+uniform sampler2D Sampler0;
+vec4 hwal_light(){
+#ifndef OIT_ALPHA_ONLY
+ return sample_lightmap(Sampler2, UV2);
+#else
+ return vec4(1.0);
+#endif
+}
+vec4 hwal_overlay(){
+#ifndef OIT_ALPHA_ONLY
+ return texelFetch(Sampler1, UV1, 0);
+#else
+ return vec4(0.0,0.0,0.0,1.0);
+#endif
+}
+
 
 #if defined(ALPHA_CUTOUT) && !defined(EMISSIVE) && !defined(NO_OVERLAY) && !defined(APPLY_TEXTURE_MATRIX)
 #define MAYBE_PLAYERDISP 1
@@ -11,30 +75,21 @@
 
 #define SPLITMODEL 0
 
-in vec3 Position;
-in vec4 Color;
-in vec2 UV0;
-in ivec2 UV1;
-in ivec2 UV2;
-in vec3 Normal;
 
 #ifdef MAYBE_PLAYERDISP
-uniform sampler2D Sampler0;
 #endif
-uniform sampler2D Sampler1;
-uniform sampler2D Sampler2;
 
-out float sphericalVertexDistance;
-out float cylindricalVertexDistance;
-out vec4 vertexColor;
-out vec4 floweryTint;
-out float pussBody;
-out vec4 lightMapColor;
-out vec4 overlayColor;
-out vec2 texCoord0;
+layout(location = 8) out float hwal_sphericalVertexDistance;
+layout(location = 9) out float hwal_cylindricalVertexDistance;
+layout(location = 10) out vec4 hwal_vertexColor;
+layout(location = 11) out vec4 hwal_floweryTint;
+layout(location = 12) out float hwal_pussBody;
+layout(location = 13) out vec4 hwal_lightMapColor;
+layout(location = 14) out vec4 hwal_overlayColor;
+layout(location = 15) out vec2 hwal_texCoord0;
 #ifdef MAYBE_PLAYERDISP
-out vec2 texCoord1;
-out float part;
+layout(location = 16) out vec2 hwal_texCoord1;
+layout(location = 17) out float hwal_part;
 
 #define SPACING 1024.0
 #define MAXRANGE (0.5 * SPACING)
@@ -86,21 +141,21 @@ vec3 floweryPalette(float h) {
     return mix(vec3(1.0), rgb, 0.86);
 }
 
-void main() {
-    floweryTint = vec4(1.0, 1.0, 1.0, -1.0);
-    pussBody = 0.0;
+void hwal_legacy() {
+    hwal_floweryTint = vec4(1.0, 1.0, 1.0, -1.0);
+    hwal_pussBody = 0.0;
 #ifdef NO_CARDINAL_LIGHTING
-    vertexColor = Color;
+    hwal_vertexColor = Color;
 #else
-    vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, Color);
+    hwal_vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, Color);
 #endif
-    lightMapColor = texelFetch(Sampler2, UV2 / 16, 0);
-    overlayColor = texelFetch(Sampler1, UV1, 0);
+    hwal_lightMapColor = hwal_light();
+    hwal_overlayColor = hwal_overlay();
 
 #ifdef MAYBE_PLAYERDISP
     ivec2 dim = textureSize(Sampler0, 0);
-    part = 0.0;
-    texCoord1 = vec2(0.0);
+    hwal_part = 0.0;
+    hwal_texCoord1 = vec2(0.0);
 
     // check world projmat (not gui), 64x64 texture (player tex dim), valid fog (not hand)
     if (abs(ProjMat[2][3]) > 10e-6 && dim.x == SKINRES && dim.y == SKINRES && FogRenderDistanceEnd > FogRenderDistanceStart) {
@@ -109,13 +164,13 @@ void main() {
         // Puss cartwheel: same profile UVs, original skin colours, independent of Flowery tint.
         if (partId >= 48 && partId <= 53) {
             partId -= 48;
-            pussBody = 1.0;
+            hwal_pussBody = 1.0;
             if (partId == 0) {
                 vec3 wpos = Position + vec3(0.0, SPACING * float(positionPart), 0.0);
                 gl_Position = ProjMat * ModelViewMat * vec4(wpos, 1.0);
-                sphericalVertexDistance = fog_spherical_distance(wpos);
-                cylindricalVertexDistance = fog_cylindrical_distance(wpos);
-                texCoord0 = UV0;
+                hwal_sphericalVertexDistance = fog_spherical_distance(wpos);
+                hwal_cylindricalVertexDistance = fog_cylindrical_distance(wpos);
+                hwal_texCoord0 = UV0;
                 return;
             }
         }
@@ -125,118 +180,40 @@ void main() {
             float hue = float(clamp(UV2.x / 16, 0, 15)) / 16.0;
             int strength = clamp(UV2.y / 16, 0, 15);
             float alpha = strength >= 15 ? 1.0 : (strength == 14 ? 0.78 : (strength == 13 ? 0.50 : 0.24));
-            floweryTint = vec4(floweryPalette(hue), alpha);
-            vertexColor = vec4(1.0);
-            lightMapColor = vec4(1.0);
-            overlayColor = vec4(0.0, 0.0, 0.0, 1.0);
+            hwal_floweryTint = vec4(floweryPalette(hue), alpha);
+            hwal_vertexColor = vec4(1.0);
+            hwal_lightMapColor = vec4(1.0);
+            hwal_overlayColor = vec4(0.0, 0.0, 0.0, 1.0);
             if (partId == 0) {
                 vec3 wpos = Position + vec3(0.0, SPACING * float(positionPart), 0.0);
                 gl_Position = ProjMat * ModelViewMat * vec4(wpos, 1.0);
-                sphericalVertexDistance = fog_spherical_distance(wpos);
-                cylindricalVertexDistance = fog_cylindrical_distance(wpos);
-                texCoord0 = UV0;
+                hwal_sphericalVertexDistance = fog_spherical_distance(wpos);
+                hwal_cylindricalVertexDistance = fog_cylindrical_distance(wpos);
+                hwal_texCoord0 = UV0;
                 return;
             }
         }
 
 
-        part = float(partId);
+        hwal_part = float(partId);
 
         if (partId != 0) {
-            partId -= 1;
-            vec4 samp1 = texture(Sampler0, SLIMCHECK0);
-            vec4 samp2 = texture(Sampler0, SLIMCHECK1);
+            // HWAL_UV263: UV face rectangles remain stable when vertex ordering changes.
+            vec4 samp1 = texelFetch(Sampler0, ivec2(54, 20), 0);
+            vec4 samp2 = texelFetch(Sampler0, ivec2(55, 20), 0);
             bool slim = samp1.a == 0.0 || (((samp1.r + samp1.g + samp1.b) == 0.0) && ((samp2.r + samp2.g + samp2.b) == 0.0) && samp1.a == 1.0 && samp2.a == 1.0);
-            int partIdMod = partId % 5;
-            int outerLayer = (gl_VertexID / 24) % 2; 
-            int vertexId = gl_VertexID % 4;
-            int faceId = (gl_VertexID % 24) / 4;
-            ivec2 faceIdTmp = ivec2(round(UV0 * SKINRES));
-
-            // find the desired part UV origin
-            vec2 UVout = origins[2 * partIdMod + outerLayer];
-            vec2 UVout2 = origins[2 * partIdMod];
-
-            // find the player head face UV origin
-            if ((faceId != 1 && vertexId >= 2) || (faceId == 1 && vertexId <= 1)) {
-                faceIdTmp.y -= FACERES;
-            }
-            if (vertexId == 0 || vertexId == 3) {
-                faceIdTmp.x -= FACERES;
-            }
-
-            // calculate a faceId based on face UV origin
-            faceIdTmp /= FACERES;
-            faceId = (faceIdTmp.x % 4) + 4 * faceIdTmp.y;
-            faceId = faceremap[faceId];
-            int subuvIndex = faceId;
-
-            if (slim && (partIdMod == 0 || partIdMod == 1)) { // select slim arms
-                subuvIndex += 6;
-            }
-            else if (partIdMod == 2) { // select torso
-                subuvIndex += 12;
-            }
-
-            vec4 subuv = subuvs[subuvIndex];
-            vec2 offset = vec2(0.0);
-
-#if SPLITMODEL == 1
-            // adjust UVs in split cases
-            if (faceId >= 2) {
-                subuv.w -= 6.0;
-                if (partId >= 5) {
-                    subuv.yw += 6.0;
-                }
-            }
-#endif
-
-            // find the UV offset within the current part
-            if (faceId == 1) {
-                if (vertexId == 0) {
-                    offset += subuv.zw;
-                }
-                else if (vertexId == 1) {
-                    offset += subuv.xw;
-                }
-                else if (vertexId == 2) {
-                    offset += subuv.xy;
-                }
-                else {
-                    offset += subuv.zy;
-                }
-            }
-            else {
-                if (vertexId == 0) {
-                    offset += subuv.zy;
-                }
-                else if (vertexId == 1) {
-                    offset += subuv.xy;
-                }
-                else if (vertexId == 2) {
-                    offset += subuv.xw;
-                }
-                else {
-                    offset += subuv.zw;
-                }
-            }
-
-            // apply offset to part origin and normalize
-            UVout += offset;
-            UVout2 += offset;
-            UVout /= float(SKINRES);
-            UVout2 /= float(SKINRES);
+            hwal_texCoord1 = vec2(slim ? 1.0 : 0.0, 0.0);
 
             // assign output
             vec3 wpos = Position;
             wpos.y += SPACING * float(positionPart);
             gl_Position = ProjMat * ModelViewMat * vec4(wpos, 1.0);
 
-            sphericalVertexDistance = fog_spherical_distance(wpos);
-            cylindricalVertexDistance = fog_cylindrical_distance(wpos);
+            hwal_sphericalVertexDistance = fog_spherical_distance(wpos);
+            hwal_cylindricalVertexDistance = fog_cylindrical_distance(wpos);
             
-            texCoord0 = UVout;
-            texCoord1 = UVout2;
+            hwal_texCoord0 = UV0;
+
 
             return;
         }
@@ -245,11 +222,52 @@ void main() {
 
     gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
 
+    hwal_sphericalVertexDistance = fog_spherical_distance(Position);
+    hwal_cylindricalVertexDistance = fog_cylindrical_distance(Position);
+
+    hwal_texCoord0 = UV0;
+#ifdef APPLY_TEXTURE_MATRIX
+    hwal_texCoord0 = (TextureMat * vec4(UV0, 0.0, 1.0)).xy;
+#endif
+}
+
+#endif
+void main() {
+    gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+
     sphericalVertexDistance = fog_spherical_distance(Position);
     cylindricalVertexDistance = fog_cylindrical_distance(Position);
 
+#ifdef PER_FACE_LIGHTING
+    vec2 light = minecraft_compute_light(Light0_Direction, Light1_Direction, Normal);
+    vertexPerFaceColorBack = minecraft_mix_light_separate(-light, Color);
+    vertexPerFaceColorFront = minecraft_mix_light_separate(light, Color);
+#elif defined(NO_CARDINAL_LIGHTING)
+    vertexColor = Color;
+#else
+    vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, Color);
+#endif
+
+#if !defined(EMISSIVE) && !defined(OIT_ALPHA_ONLY)
+    lightMapColor = sample_lightmap(Sampler2, UV2);
+#endif
+
+#if !defined(NO_OVERLAY) && !defined(OIT_ALPHA_ONLY)
+    overlayColor = texelFetch(Sampler1, UV1, 0);
+#endif
+
     texCoord0 = UV0;
+
 #ifdef APPLY_TEXTURE_MATRIX
     texCoord0 = (TextureMat * vec4(UV0, 0.0, 1.0)).xy;
+#endif
+
+#ifdef GLINT
+    texCoordGlint = (TextureMat * vec4(UV0, 0.0, 1.0)).xy;
+#endif
+
+#ifdef MAYBE_PLAYERDISP
+ hwal_legacy();
+ texCoord0=hwal_texCoord0;
 #endif
 }

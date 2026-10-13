@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/rosecart2",
+		"1": "item/fire",
+		"particle": "item/rosecart2"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 7],
+			"to": [16, 16, 7],
+			"faces": {
+				"north": {"uv": [2.80976, 0, 12.99512, 10.06829], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [12.99512, 0, 2.80976, 10.06829], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-5.75, 2.5, 7.25],
+			"to": [28.5, 24.25, 7.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 2.5, 0.25]},
+			"faces": {
+				"north": {"uv": [5.55976, 0.875, 9.99512, 10.06829], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#1"},
+				"south": {"uv": [9.99512, 0.875, 5.55976, 10.06829], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "rosecart",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "rosecart",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [1]
+		}
+	]
+}

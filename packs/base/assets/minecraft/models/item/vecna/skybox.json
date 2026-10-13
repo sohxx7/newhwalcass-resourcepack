@@ -1,0 +1,23 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/vecna/skybox",
+		"particle": "item/vecna/skybox"
+	},
+	"elements": [
+		{
+			"from": [16, 0, 0],
+			"to": [0, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"north": {"uv": [12, 8, 16, 16], "texture": "#0"},
+				"east": {"uv": [8, 8, 12, 16], "texture": "#0"},
+				"south": {"uv": [4, 8, 8, 16], "texture": "#0"},
+				"west": {"uv": [0, 8, 4, 16], "texture": "#0"},
+				"up": {"uv": [4, 0, 8, 8], "texture": "#0"},
+				"down": {"uv": [8, 8, 12, 0], "texture": "#0"}
+			}
+		}
+	]
+}

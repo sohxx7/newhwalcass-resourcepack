@@ -1,0 +1,40 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/lancer_akira/spade"
+	},
+	"elements": [
+		{
+			"from": [0, -1, 0],
+			"to": [16, 0, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"up": {"uv": [5.15556, 0, 10.31112, 16], "texture": "#1"},
+				"down": {"uv": [5.15556, 16, 10.31112, 0], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 90],
+			"translation": [5.5, -2, -4.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [104, 0, 58],
+			"translation": [11.25, -1.5, -15.25]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -1.75, 0],
+			"scale": [1.5, 1.5, 0.9]
+		},
+		"head": {
+			"scale": [1, 1, 0.6]
+		}
+	}
+}

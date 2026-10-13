@@ -1,0 +1,47 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/moving_matter/1"
+			},
+			{
+				"type": "model",
+				"model": "item/moving_matter/2"
+			},
+			{
+				"type": "model",
+				"model": "item/moving_matter/3"
+			},
+			{
+				"type": "model",
+				"model": "item/moving_matter/4"
+			},
+			{
+				"type": "model",
+				"model": "item/moving_matter/5"
+			},
+			{
+				"type": "model",
+				"model": "item/moving_matter/6"
+			},
+			{
+				"type": "model",
+				"model": "item/moving_matter/7"
+			},
+			{
+				"type": "model",
+				"model": "item/moving_matter/8"
+			},
+			{
+				"type": "model",
+				"model": "item/moving_matter/9"
+			},
+			{
+				"type": "model",
+				"model": "item/moving_matter/10"
+			}
+		]
+	}
+}

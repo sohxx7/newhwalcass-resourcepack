@@ -1,0 +1,20 @@
+{
+    "oversized_in_gui" : true,
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type":"model",
+            "model": "item/spike"
+    },
+    "cases": [
+        {
+            "when": "100",
+            "model": {
+                "type": "model",
+                "model": "item/spike"
+            }
+        }
+    ]
+}
+}

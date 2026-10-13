@@ -1,0 +1,33 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/domina/triangle",
+		"particle": "item/domina/triangle"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 14, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [3, 0, 3, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 3, 16, 3], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [0, 0, 60],
+			"translation": [1.25, -3.25, 0]
+		},
+		"head": {
+			"rotation": [0, 0, 30],
+			"translation": [2.25, -3.25, 0]
+		}
+	}
+}

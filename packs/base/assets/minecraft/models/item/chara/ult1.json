@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/undertale/dt_texture",
+		"particle": "item/undertale/dt_texture"
+	},
+	"elements": [
+		{
+			"from": [10, 0, 6],
+			"to": [16, 0.25, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"east": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"west": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"down": {"uv": [0, 0, 4.5, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 6],
+			"to": [6, 0.25, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-2, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"east": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"west": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"down": {"uv": [0, 0, 4.5, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 0, 0],
+			"to": [10, 0.25, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"east": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"west": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 4.5, 7], "texture": "#0"},
+				"down": {"uv": [0, 0, 4.5, 7], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 45, 0]
+		}
+	}
+}

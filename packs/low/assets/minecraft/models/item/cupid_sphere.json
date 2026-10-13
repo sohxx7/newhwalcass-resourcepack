@@ -1,0 +1,60 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/pink_cloud",
+		"particle": "item/pink_cloud"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 45],
+			"translation": [0, 5, 2],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-4.5, -1.5, 15],
+			"scale": [4, 4, 4]
+		},
+		"firstperson_righthand": {
+			"rotation": [6, 98, 0],
+			"translation": [1.75, 4.75, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [-6.75, 10.25, 0],
+			"scale": [4, 4, 4]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [-1, -42.75, 2],
+			"scale": [2.3, 2.3, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "poison_sphere",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "sigma",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [0]
+				}
+			]
+		}
+	]
+}

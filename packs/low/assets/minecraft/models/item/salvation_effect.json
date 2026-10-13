@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/salvation_effect",
+		"particle": "item/salvation_effect"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"up": {"uv": [1.208, 1.36, 14.792, 14.84], "texture": "#0"},
+				"down": {"uv": [1.208, 14.84, 14.792, 1.36], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {}
+}

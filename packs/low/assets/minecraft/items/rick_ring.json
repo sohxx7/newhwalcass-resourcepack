@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/rick/ring1"
+			},
+			{
+				"type": "model",
+				"model": "item/rick/ring2"
+			},
+						{
+				"type": "model",
+				"model": "item/rick/ring3"
+			}
+		]
+	}
+}

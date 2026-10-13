@@ -1,0 +1,20 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/warped_fungus_on_a_stick"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1000}, "model": "item/cloak"},
+		{"predicate": {"custom_model_data": 1001}, "model": "item/salvation"},
+		{"predicate": {"custom_model_data": 1002}, "model": "item/stopwatch"}
+	],
+	"groups": [
+		{
+			"name": "warped_fungus_on_a_stick",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		}
+	]
+}

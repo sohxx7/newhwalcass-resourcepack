@@ -1,0 +1,24 @@
+{
+	"oversized_in_gui" : true,
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/tmnt"
+			},
+			{
+				"type": "model",
+				"model": "item/tmnt2"
+			},
+						{
+				"type": "model",
+				"model": "item/tmnt3"
+			},
+			{
+				"type": "model",
+				"model": "item/tmnt4"
+			}
+		]
+	}
+}

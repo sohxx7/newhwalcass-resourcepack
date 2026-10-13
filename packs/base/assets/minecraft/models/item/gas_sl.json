@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/mirrorball",
+		"particle": "item/mirrorball"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, -16],
+			"to": [32, 0, 32],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"up": {"uv": [2.31111, 1.88444, 13.68889, 13.22667], "texture": "#0"},
+				"down": {"uv": [2.31111, 1.88444, 13.68889, 13.22667], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "gas",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

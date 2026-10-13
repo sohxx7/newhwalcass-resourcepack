@@ -1,0 +1,54 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/mage/magiccircle",
+		"particle": "item/mage/magiccircle"
+	},
+	"elements": [
+		{
+			"from": [2, 2, 8],
+			"to": [14, 14, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -2, -0.75],
+			"scale": [0.75, 0.75, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [16, 6, 0],
+			"translation": [3.25, 1, -1]
+		},
+		"head": {
+			"rotation": [90, 0, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "magic1",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [
+				{
+					"name": "group",
+					"origin": [0, 0, 8],
+					"scope": 0,
+					"color": 0,
+					"children": []
+				},
+				0
+			]
+		}
+	]
+}

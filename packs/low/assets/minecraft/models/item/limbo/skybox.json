@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/limbo/skybox/back",
+		"1": "item/limbo/skybox/down",
+		"2": "item/limbo/skybox/front",
+		"3": "item/limbo/skybox/left",
+		"4": "item/limbo/skybox/right",
+		"5": "item/limbo/skybox/up",
+		"particle": "item/limbo/skybox/back"
+	},
+	"elements": [
+		{
+			"name": "cube inverted",
+			"from": [16, 16, 16],
+			"to": [0, 0, 0],
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 16, 16, 0], "texture": "#4"},
+				"south": {"uv": [0, 16, 16, 0], "texture": "#2"},
+				"west": {"uv": [0, 16, 16, 0], "texture": "#3"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#1"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#5"}
+			}
+		}
+	]
+}

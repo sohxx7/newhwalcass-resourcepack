@@ -1,0 +1,31 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/peridot/orb"
+			},
+			{
+				"type": "model",
+				"model": "item/peridot/orb2"
+			},
+						{
+				"type": "model",
+				"model": "item/peridot/orb3"
+			},
+			{
+				"type": "model",
+				"model": "item/peridot/orb4"
+			},
+									{
+				"type": "model",
+				"model": "item/peridot/orb5"
+			},
+			{
+				"type": "model",
+				"model": "item/peridot/orb6"
+			}
+		]
+	}
+}

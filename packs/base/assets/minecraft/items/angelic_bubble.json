@@ -1,0 +1,27 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/angelic/bubble1"
+			},
+			{
+				"type": "model",
+				"model": "item/angelic/bubble2"
+			},
+						{
+				"type": "model",
+				"model": "item/angelic/bubble3"
+			},
+			{
+				"type": "model",
+				"model": "item/angelic/bubble4"
+			},
+						{
+				"type": "model",
+				"model": "item/angelic/star"
+			}
+		]
+	}
+}

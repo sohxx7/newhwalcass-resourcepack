@@ -1,0 +1,2285 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"mesh_palette": "item/jokerdagger"
+	},
+	"elements": [
+		{
+			"name": "Voxels-232122",
+			"from": [6.32111, 7.60163, 7.6522],
+			"to": [7.43415, 8.01902, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.32111, 7.60163, 7.7913],
+			"to": [6.7385, 7.74076, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [6.32111, 7.60163, 8.2087],
+			"to": [7.43415, 8.01902, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.32111, 7.74073, 7.7913],
+			"to": [6.59937, 8.01899, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [6.46031, 7.46243, 7.6522],
+			"to": [7.57335, 7.60156, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.46031, 7.46243, 7.7913],
+			"to": [7.57335, 7.60156, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [6.46031, 7.46243, 8.2087],
+			"to": [7.57335, 7.60156, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [6.46031, 8.01893, 7.6522],
+			"to": [7.57335, 8.15806, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.46031, 8.01893, 7.7913],
+			"to": [7.57335, 8.15806, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [6.46031, 8.01893, 8.2087],
+			"to": [7.57335, 8.15806, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [6.59941, 7.74073, 7.513],
+			"to": [7.0168, 7.87986, 7.65213],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [6.59941, 7.74073, 7.7913],
+			"to": [7.0168, 7.87986, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [6.59941, 7.74073, 8.3478],
+			"to": [7.0168, 7.87986, 8.48693],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [6.59941, 8.15813, 7.6522],
+			"to": [7.71245, 8.29726, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.59941, 8.15813, 7.7913],
+			"to": [7.29506, 8.29726, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [6.59941, 8.15813, 8.2087],
+			"to": [7.71245, 8.29726, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [6.73851, 7.32333, 7.6522],
+			"to": [7.71242, 7.46246, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.73851, 7.32333, 7.7913],
+			"to": [7.71242, 7.46246, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [6.73851, 7.32333, 8.2087],
+			"to": [7.71242, 7.46246, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [6.73851, 7.60163, 7.513],
+			"to": [6.87764, 7.74076, 7.65213],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [6.73851, 7.60163, 8.3478],
+			"to": [6.87764, 7.74076, 8.48693],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [6.73851, 7.87983, 7.513],
+			"to": [6.87764, 8.01896, 7.65213],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [6.73851, 7.87983, 8.3478],
+			"to": [6.87764, 8.01896, 8.48693],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.73851, 8.29723, 7.9304],
+			"to": [9.10373, 8.85375, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.73851, 9.68853, 7.9304],
+			"to": [9.10373, 10.66244, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.87761, 7.60163, 7.7913],
+			"to": [7.43413, 7.74076, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.87761, 7.87983, 7.7913],
+			"to": [7.43413, 8.01896, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [6.87761, 8.29723, 7.6522],
+			"to": [8.96457, 8.43636, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.87761, 8.29723, 7.7913],
+			"to": [8.26891, 8.43636, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.87761, 8.29723, 8.0696],
+			"to": [8.26891, 8.43636, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [6.87761, 8.29723, 8.2087],
+			"to": [8.96457, 8.43636, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.87761, 8.85373, 7.9304],
+			"to": [8.96457, 8.99286, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.87761, 9.54943, 7.9304],
+			"to": [8.96457, 9.68856, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [6.87761, 10.66243, 7.9304],
+			"to": [8.96457, 11.63634, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.01681, 7.74073, 7.7913],
+			"to": [7.4342, 7.87986, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.01681, 8.43633, 7.7913],
+			"to": [8.12985, 8.71459, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.01681, 8.43633, 8.0696],
+			"to": [8.12985, 8.71459, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.01681, 8.99293, 7.9304],
+			"to": [8.8255, 9.54945, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.01681, 9.82763, 7.7913],
+			"to": [8.8255, 10.52328, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.01681, 9.82763, 8.0696],
+			"to": [8.8255, 10.52328, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.01681, 11.63633, 7.9304],
+			"to": [8.8255, 12.74937, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.15591, 7.18423, 7.6522],
+			"to": [8.68634, 7.32336, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.15591, 7.18423, 7.7913],
+			"to": [7.71243, 7.32336, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.15591, 7.18423, 8.2087],
+			"to": [8.68634, 7.32336, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.15591, 8.71463, 7.7913],
+			"to": [8.68634, 8.85376, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.15591, 8.71463, 8.0696],
+			"to": [8.68634, 8.85376, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.15591, 9.68853, 7.7913],
+			"to": [8.68634, 9.82766, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.15591, 9.68853, 8.0696],
+			"to": [8.68634, 9.82766, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.15591, 10.52333, 7.7913],
+			"to": [8.68634, 11.49724, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.15591, 10.52333, 8.0696],
+			"to": [8.68634, 11.49724, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.15591, 12.74943, 7.9304],
+			"to": [8.68634, 13.72334, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.29501, 8.15813, 7.9304],
+			"to": [7.7124, 8.29726, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.29501, 8.43633, 7.6522],
+			"to": [8.54718, 8.57546, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.29501, 8.43633, 8.2087],
+			"to": [8.54718, 8.57546, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.29501, 8.85373, 7.7913],
+			"to": [8.54718, 9.68851, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.29501, 8.85373, 8.0696],
+			"to": [8.54718, 9.68851, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.29501, 9.96683, 7.6522],
+			"to": [8.54718, 10.66248, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.29501, 9.96683, 8.2087],
+			"to": [8.54718, 10.66248, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.29501, 11.49723, 7.7913],
+			"to": [8.54718, 12.61027, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.29501, 11.49723, 8.0696],
+			"to": [8.54718, 12.61027, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.29501, 13.72333, 7.9304],
+			"to": [8.54718, 14.83637, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.43421, 1.61893, 7.6522],
+			"to": [8.40812, 1.75806, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.43421, 1.61893, 7.7913],
+			"to": [8.40812, 1.75806, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.43421, 1.61893, 8.2087],
+			"to": [8.40812, 1.75806, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.43421, 1.75813, 7.6522],
+			"to": [7.57334, 2.03639, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.43421, 1.75813, 7.7913],
+			"to": [7.57334, 2.03639, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.43421, 1.75813, 8.2087],
+			"to": [7.57334, 2.03639, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.43421, 7.04503, 7.6522],
+			"to": [8.40812, 7.18416, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.43421, 7.04503, 7.7913],
+			"to": [8.40812, 7.18416, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.43421, 7.04503, 8.2087],
+			"to": [8.40812, 7.18416, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.43421, 8.15813, 7.7913],
+			"to": [7.71247, 8.29726, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.43421, 8.15813, 8.0696],
+			"to": [7.71247, 8.29726, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.43421, 8.57553, 7.6522],
+			"to": [8.40812, 8.85379, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.43421, 8.57553, 8.2087],
+			"to": [8.40812, 8.85379, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.43421, 9.82763, 7.6522],
+			"to": [8.40812, 9.96676, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.43421, 9.82763, 8.2087],
+			"to": [8.40812, 9.96676, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.43421, 10.66243, 7.6522],
+			"to": [8.40812, 11.63634, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.43421, 10.66243, 8.2087],
+			"to": [8.40812, 11.63634, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.43421, 12.61023, 7.7913],
+			"to": [8.40812, 13.58414, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.43421, 12.61023, 8.0696],
+			"to": [8.40812, 13.58414, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.43421, 14.83633, 7.9304],
+			"to": [8.40812, 15.94937, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.57331, 1.47983, 7.6522],
+			"to": [8.26896, 1.61896, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.57331, 1.47983, 7.7913],
+			"to": [8.26896, 1.61896, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.57331, 1.47983, 8.2087],
+			"to": [8.26896, 1.61896, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.57331, 1.89723, 7.6522],
+			"to": [8.40809, 2.03636, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.57331, 1.89723, 7.7913],
+			"to": [8.40809, 2.03636, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.57331, 1.89723, 8.2087],
+			"to": [8.40809, 2.03636, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.57331, 2.03633, 7.6522],
+			"to": [8.26896, 7.04503, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.57331, 2.03633, 7.7913],
+			"to": [8.26896, 2.59285, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.57331, 2.03633, 8.2087],
+			"to": [8.26896, 7.04503, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.57331, 2.59293, 7.7913],
+			"to": [7.85157, 2.73206, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.57331, 2.73203, 7.7913],
+			"to": [7.71244, 7.04507, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.57331, 8.85373, 7.6522],
+			"to": [8.26896, 9.13199, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.57331, 8.85373, 8.2087],
+			"to": [8.26896, 9.13199, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.57331, 9.54943, 7.6522],
+			"to": [8.26896, 9.82769, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.57331, 9.54943, 8.2087],
+			"to": [8.26896, 9.82769, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.57331, 11.63633, 7.6522],
+			"to": [8.26896, 12.74937, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.57331, 11.63633, 8.2087],
+			"to": [8.26896, 12.74937, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.57331, 13.58423, 7.7913],
+			"to": [8.26896, 14.69727, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.57331, 13.58423, 8.0696],
+			"to": [8.26896, 14.69727, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.57331, 15.94943, 7.9304],
+			"to": [8.26896, 17.06247, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.71241, 2.73203, 7.513],
+			"to": [8.1298, 2.87116, 7.65213],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.71241, 2.73203, 7.7913],
+			"to": [8.1298, 2.87116, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.71241, 2.73203, 8.3478],
+			"to": [8.1298, 2.87116, 8.48693],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"south": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.71241, 2.87113, 7.7913],
+			"to": [7.85154, 6.34939, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.71241, 6.34943, 7.513],
+			"to": [8.1298, 6.48856, 7.65213],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.71241, 6.34943, 7.7913],
+			"to": [8.1298, 6.48856, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.71241, 6.34943, 8.3478],
+			"to": [8.1298, 6.48856, 8.48693],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"south": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.71241, 6.48853, 7.7913],
+			"to": [7.85154, 7.04505, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.71241, 9.13203, 7.6522],
+			"to": [8.1298, 9.54942, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.71241, 9.13203, 8.2087],
+			"to": [8.1298, 9.54942, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.71241, 12.74943, 7.6522],
+			"to": [8.1298, 13.72334, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.71241, 12.74943, 8.2087],
+			"to": [8.1298, 13.72334, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.71241, 14.69723, 7.7913],
+			"to": [8.1298, 15.81027, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.71241, 14.69723, 8.0696],
+			"to": [8.1298, 15.81027, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.71241, 17.06243, 7.9304],
+			"to": [8.1298, 17.89721, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.85161, 2.59293, 7.513],
+			"to": [7.99074, 2.73206, 7.65213],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.85161, 2.59293, 8.3478],
+			"to": [7.99074, 2.73206, 8.48693],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"south": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.85161, 2.87113, 7.513],
+			"to": [7.99074, 3.01026, 7.65213],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.85161, 2.87113, 8.3478],
+			"to": [7.99074, 3.01026, 8.48693],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"south": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.85161, 3.01023, 7.7913],
+			"to": [8.269, 6.21023, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.85161, 6.21023, 7.513],
+			"to": [7.99074, 6.34936, 7.65213],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.85161, 6.21023, 8.3478],
+			"to": [7.99074, 6.34936, 8.48693],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"south": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.85161, 6.48853, 7.513],
+			"to": [7.99074, 6.62766, 7.65213],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [7.85161, 6.48853, 8.3478],
+			"to": [7.99074, 6.62766, 8.48693],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"south": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.85161, 6.62763, 7.7913],
+			"to": [8.269, 7.04502, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.85161, 13.72333, 7.6522],
+			"to": [7.99074, 14.83637, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [7.85161, 13.72333, 8.2087],
+			"to": [7.99074, 14.83637, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.85161, 15.81023, 7.7913],
+			"to": [7.99074, 16.92327, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.85161, 15.81023, 8.0696],
+			"to": [7.99074, 16.92327, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.85161, 17.89723, 7.9304],
+			"to": [7.99074, 18.73201, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.99071, 2.59293, 7.7913],
+			"to": [8.26897, 2.73206, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.99071, 2.87113, 7.7913],
+			"to": [8.26897, 3.01026, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.99071, 6.21023, 7.7913],
+			"to": [8.26897, 6.34936, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [7.99071, 6.48853, 7.7913],
+			"to": [8.26897, 6.62766, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.12981, 2.73203, 7.7913],
+			"to": [8.26894, 2.87116, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.12981, 6.34943, 7.7913],
+			"to": [8.26894, 6.48856, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.12981, 7.18423, 7.7913],
+			"to": [8.68633, 7.46249, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.12981, 7.32333, 7.6522],
+			"to": [9.10372, 7.46246, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.12981, 7.32333, 8.2087],
+			"to": [9.10372, 7.46246, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.12981, 8.15813, 7.6522],
+			"to": [9.24285, 8.29726, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.12981, 8.15813, 7.7913],
+			"to": [8.5472, 8.29726, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.12981, 8.15813, 8.2087],
+			"to": [9.24285, 8.29726, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.12981, 8.43633, 7.7913],
+			"to": [8.5472, 8.57546, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.12981, 8.43633, 8.0696],
+			"to": [8.5472, 8.57546, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.12981, 8.57553, 7.7913],
+			"to": [8.82546, 8.71466, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.12981, 8.57553, 8.0696],
+			"to": [8.82546, 8.71466, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.26901, 1.75813, 7.6522],
+			"to": [8.40814, 1.89726, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.26901, 1.75813, 7.7913],
+			"to": [8.40814, 1.89726, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.26901, 1.75813, 8.2087],
+			"to": [8.40814, 1.89726, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.26901, 7.46243, 7.6522],
+			"to": [9.38205, 7.60156, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.26901, 7.46243, 7.7913],
+			"to": [9.38205, 7.60156, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.26901, 7.46243, 8.2087],
+			"to": [9.38205, 7.60156, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.26901, 8.01893, 7.6522],
+			"to": [9.38205, 8.15806, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.26901, 8.01893, 7.7913],
+			"to": [8.54727, 8.15806, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.26901, 8.01893, 8.2087],
+			"to": [9.38205, 8.15806, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.26901, 8.29723, 7.7913],
+			"to": [8.6864, 8.43636, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.26901, 8.29723, 8.0696],
+			"to": [8.6864, 8.43636, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.40811, 7.60163, 7.6522],
+			"to": [9.52115, 8.01902, 7.79133],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.40811, 7.60163, 7.7913],
+			"to": [8.96463, 7.74076, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.40811, 7.60163, 8.2087],
+			"to": [9.52115, 8.01902, 8.34783],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.40811, 7.74073, 7.7913],
+			"to": [8.8255, 8.01899, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.54721, 8.01893, 7.7913],
+			"to": [8.68634, 8.29719, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.54721, 8.01893, 7.9304],
+			"to": [9.38199, 8.15806, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-232122",
+			"from": [8.54721, 8.01893, 8.0696],
+			"to": [8.68634, 8.29719, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.54721, 8.15813, 7.9304],
+			"to": [9.24286, 8.29726, 8.06953],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.54721, 8.43633, 7.7913],
+			"to": [8.82547, 8.57546, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.54721, 8.43633, 8.0696],
+			"to": [8.82547, 8.57546, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.68631, 7.32333, 7.7913],
+			"to": [9.1037, 7.46246, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.68631, 8.01893, 7.7913],
+			"to": [9.38196, 8.15806, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.68631, 8.01893, 8.0696],
+			"to": [9.38196, 8.15806, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.68631, 8.15813, 7.7913],
+			"to": [9.24283, 8.29726, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.68631, 8.15813, 8.0696],
+			"to": [9.24283, 8.29726, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.68631, 8.29723, 7.7913],
+			"to": [8.96457, 8.43636, 7.93043],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.68631, 8.29723, 8.0696],
+			"to": [8.96457, 8.43636, 8.20873],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [8.82551, 7.74073, 7.513],
+			"to": [9.2429, 7.87986, 7.65213],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [8.82551, 7.74073, 7.7913],
+			"to": [9.2429, 7.87986, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [8.82551, 7.74073, 8.3478],
+			"to": [9.2429, 7.87986, 8.48693],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [8.82551, 7.87983, 7.7913],
+			"to": [8.96464, 8.01896, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [8.96461, 7.60163, 7.513],
+			"to": [9.10374, 7.74076, 7.65213],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [8.96461, 7.60163, 8.3478],
+			"to": [9.10374, 7.74076, 8.48693],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [8.96461, 7.87983, 7.513],
+			"to": [9.10374, 8.01896, 7.65213],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"north": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [8.96461, 7.87983, 7.7913],
+			"to": [9.10374, 8.01896, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-9D9D9D",
+			"from": [8.96461, 7.87983, 8.3478],
+			"to": [9.10374, 8.01896, 8.48693],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"south": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"west": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [9.10371, 7.60163, 7.7913],
+			"to": [9.5211, 7.74076, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [9.10371, 7.87983, 7.7913],
+			"to": [9.5211, 8.01896, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Voxels-D3D2CE",
+			"from": [9.24291, 7.74073, 7.7913],
+			"to": [9.52117, 7.87986, 8.20869],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.77331, 6.90593, -3.6174]},
+			"faces": {
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mesh_palette", "cullface": "west"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-0.25, 1.3913, 0.3912]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-0.25, 1.3913, 0.6412]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [1.75, 1.3913, 0.3912]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [1.75, 1.3913, 0.3912]
+		},
+		"ground": {
+			"rotation": [90, 0, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"translation": [-1.5, -1.25, 0],
+			"scale": [1.15, 1.15, 1.15]
+		},
+		"head": {
+			"rotation": [0, 0, -132],
+			"translation": [-1, -13.75, 3.75]
+		},
+		"fixed": {
+			"scale": [2, 2, 2]
+		}
+	}
+}

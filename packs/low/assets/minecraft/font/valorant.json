@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:valorant.ttf",
+            "shift": [0, 10],
+            "size": 20,
+            "oversample": 4
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/hornet/ult/2_1"
+			},
+			{
+				"type": "model",
+				"model": "item/hornet/ult/2_2"
+			},
+			{
+				"type": "model",
+				"model": "item/hornet/ult/2_3"
+			}
+		]
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/stellar/corona",
+		"particle": "item/stellar/bubble"
+	},
+	"elements": [
+		{
+			"from": [-13.5, -13.5, 8],
+			"to": [29.5, 29.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [2, 0, 2, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#1"},
+				"down": {"uv": [0, 2, 16, 2], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 70],
+			"translation": [0.5, 2.5, 0],
+			"scale": [0.35, 0.35, 0.1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, 70],
+			"translation": [0.5, 2.5, 0],
+			"scale": [0.35, 0.35, 0.1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-32.93, -34.11, -93.91],
+			"translation": [0.5, 5.75, -1],
+			"scale": [0.4, 0.4, 0.1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-32.93, -34.11, -93.91],
+			"translation": [0.5, 5.75, -1],
+			"scale": [0.4, 0.4, 0.1]
+		},
+		"gui": {
+			"scale": [0.95, 0.95, 0.95]
+		}
+	}
+}

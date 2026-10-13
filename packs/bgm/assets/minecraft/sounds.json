@@ -1,0 +1,1218 @@
+{
+        "bgm.ending1": {
+        "sounds": [
+            "bgm/ending1"
+        ]
+    },
+        "bgm.ending2": {
+        "sounds": [
+            "bgm/ending2"
+        ]
+    },
+                "bgm.map_infinitycastle": {
+        "sounds": [
+            "bgm/map_infinitycastle"
+        ]
+    },
+            "bgm.kpop_1": {
+        "sounds": [
+            "bgm/kpop_3"
+        ]
+    },
+        "bgm.kpop_2": {
+        "sounds": [
+            "bgm/kpop_3"
+        ]
+    },
+                "bgm.kpop_3": {
+        "sounds": [
+            "bgm/kpop_3"
+        ]
+    },
+        "bgm.saja": {
+        "sounds": [
+            "bgm/saja"
+        ]
+    },
+        "bgm.sodapop": {
+        "sounds": [
+            "bgm/sodapop"
+        ]
+    },
+        "bgm.starguardian": {
+        "sounds": [
+            "bgm/starguardian"
+        ]
+    },
+        "bgm.class55_3": {
+        "sounds": [
+            "bgm/class55_3"
+        ]
+    },
+        "bgm.class81_2": {
+        "sounds": [
+            "bgm/class25_2"
+        ]
+    },
+        "bgm.class80_2": {
+        "sounds": [
+            "bgm/class80_2"
+        ]
+    },
+            "bgm.class116": {
+        "sounds": [
+            "bgm/class116"
+        ]
+    },
+            "bgm.class13_2": {
+        "sounds": [
+            "bgm/class13_2"
+        ]
+    },
+        "bgm.class63_2": {
+        "sounds": [
+            "bgm/class63_2"
+        ]
+    },
+        "bgm.enemy": {
+        "sounds": [
+            "bgm/enemy"
+        ]
+    },
+        "bgm.calmdown": {
+        "sounds": [
+            "bgm/calmdown"
+        ]
+    },
+        "bgm.map_reputation": {
+        "sounds": [
+            "bgm/map_reputation"
+        ]
+    },
+        "bgm.map_waterfall": {
+        "sounds": [
+            "bgm/map_waterfall"
+        ]
+    },
+        "bgm.map_newyork": {
+        "sounds": [
+            "bgm/map_newyork"
+        ]
+    },
+        "bgm.map_lover": {
+        "sounds": [
+            "bgm/map_lover"
+        ]
+    },
+        "bgm.map_midnights": {
+        "sounds": [
+            "bgm/map_midnights"
+        ]
+    },
+        "bgm.map_outofthewoods": {
+        "sounds": [
+            "bgm/map_outofthewoods"
+        ]
+    },
+        "bgm.map_emeraldcity": {
+        "sounds": [
+            "bgm/map_emeraldcity"
+        ]
+    },
+        "bgm.halloween": {
+        "sounds": [
+            "bgm/halloween_bgm"
+        ]
+    },
+        "bgm.map_ttpd": {
+        "sounds": [
+            "bgm/map_ttpd"
+        ]
+    },
+        "bgm.class1": {
+        "sounds": [
+            "bgm/class1"
+        ]
+    },
+        "bgm.class2": {
+        "sounds": [
+            "bgm/class2"
+        ]
+    },
+        "bgm.class3": {
+        "sounds": [
+            "bgm/class3"
+        ]
+    },
+        "bgm.class4": {
+        "sounds": [
+            "bgm/class4"
+        ]
+    },
+        "bgm.class5": {
+        "sounds": [
+            "bgm/class5"
+        ]
+    },
+        "bgm.class6": {
+        "sounds": [
+            "bgm/class6"
+        ]
+    },
+        "bgm.class7": {
+        "sounds": [
+            "bgm/class7"
+        ]
+    },
+        "bgm.class8": {
+        "sounds": [
+            "bgm/class8"
+        ]
+    },
+        "bgm.class9": {
+        "sounds": [
+            "bgm/class9"
+        ]
+    },
+        "bgm.class10": {
+        "sounds": [
+            "bgm/class10"
+        ]
+    },
+        "bgm.class11": {
+        "sounds": [
+            "bgm/class11"
+        ]
+    },
+        "bgm.class12": {
+        "sounds": [
+            "bgm/class12"
+        ]
+    },
+        "bgm.class13": {
+        "sounds": [
+            "bgm/class13"
+        ]
+    },
+        "bgm.class14": {
+        "sounds": [
+            "bgm/class14"
+        ]
+    },
+        "bgm.class15": {
+        "sounds": [
+            "bgm/class15"
+        ]
+    },
+        "bgm.class16": {
+        "sounds": [
+            "bgm/class16"
+        ]
+    },
+        "bgm.class17": {
+        "sounds": [
+            "bgm/class17"
+        ]
+    },
+        "bgm.class18": {
+        "sounds": [
+            "bgm/class18"
+        ]
+    },
+        "bgm.class19": {
+        "sounds": [
+            "bgm/class19"
+        ]
+    },
+        "bgm.class20": {
+        "sounds": [
+            "bgm/class20"
+        ]
+    },
+        "bgm.class21": {
+        "sounds": [
+            "bgm/class21"
+        ]
+    },
+        "bgm.class22": {
+        "sounds": [
+            "bgm/class22"
+        ]
+    },
+        "bgm.class22_2": {
+        "sounds": [
+            "bgm/class22_2"
+        ]
+    },
+        "bgm.class23": {
+        "sounds": [
+            "bgm/class23"
+        ]
+    },
+        "bgm.class24": {
+        "sounds": [
+            "bgm/class24"
+        ]
+    },
+        "bgm.class25": {
+        "sounds": [
+            "bgm/class25"
+        ]
+    },
+        "bgm.class26": {
+        "sounds": [
+            "bgm/class26"
+        ]
+    },
+        "bgm.class27": {
+        "sounds": [
+            "bgm/class27"
+        ]
+    },
+        "bgm.class28": {
+        "sounds": [
+            "bgm/class28"
+        ]
+    },
+        "bgm.class29": {
+        "sounds": [
+            "bgm/class29"
+        ]
+    },
+        "bgm.class30": {
+        "sounds": [
+            "bgm/class30"
+        ]
+    },
+        "bgm.class31": {
+        "sounds": [
+            "bgm/class31"
+        ]
+    },
+        "bgm.class32": {
+        "sounds": [
+            "bgm/class32"
+        ]
+    },
+        "bgm.class33": {
+        "sounds": [
+            "bgm/class33"
+        ]
+    },
+        "bgm.class34": {
+        "sounds": [
+            "bgm/class34"
+        ]
+    },
+        "bgm.class35": {
+        "sounds": [
+            "bgm/class35"
+        ]
+    },
+        "bgm.class36": {
+        "sounds": [
+            "bgm/class36"
+        ]
+    },
+        "bgm.class37": {
+        "sounds": [
+            "bgm/class37"
+        ]
+    },
+        "bgm.class38": {
+        "sounds": [
+            "bgm/class38"
+        ]
+    },
+        "bgm.class39": {
+        "sounds": [
+            "bgm/class39"
+        ]
+    },
+        "bgm.class40": {
+        "sounds": [
+            "bgm/class40"
+        ]
+    },
+        "bgm.class41": {
+        "sounds": [
+            "bgm/class41"
+        ]
+    },
+        "bgm.class42": {
+        "sounds": [
+            "bgm/class42"
+        ]
+    },
+        "bgm.class43": {
+        "sounds": [
+            "bgm/class43"
+        ]
+    },
+        "bgm.class44": {
+        "sounds": [
+            "bgm/class44"
+        ]
+    },
+        "bgm.class45": {
+        "sounds": [
+            "bgm/class45"
+        ]
+    },
+        "bgm.class46": {
+        "sounds": [
+            "bgm/class46"
+        ]
+    },
+        "bgm.class47": {
+        "sounds": [
+            "bgm/class47"
+        ]
+    },
+        "bgm.class48": {
+        "sounds": [
+            "bgm/class48"
+        ]
+    },
+        "bgm.class49": {
+        "sounds": [
+            "bgm/class49"
+        ]
+    },
+        "bgm.class50": {
+        "sounds": [
+            "bgm/class50"
+        ]
+    },
+        "bgm.class51": {
+        "sounds": [
+            "bgm/class51"
+        ]
+    },
+        "bgm.class52": {
+        "sounds": [
+            "bgm/class52"
+        ]
+    },
+        "bgm.class53": {
+        "sounds": [
+            "bgm/class53"
+        ]
+    },
+        "bgm.class54": {
+        "sounds": [
+            "bgm/class54"
+        ]
+    },
+        "bgm.class55": {
+        "sounds": [
+            "bgm/class55"
+        ]
+    },
+        "bgm.class56": {
+        "sounds": [
+            "bgm/class56"
+        ]
+    },
+        "bgm.class57": {
+        "sounds": [
+            "bgm/class57"
+        ]
+    },
+        "bgm.class58": {
+        "sounds": [
+            "bgm/class58"
+        ]
+    },
+        "bgm.class59": {
+        "sounds": [
+            "bgm/class59"
+        ]
+    },
+            "bgm.class59_2": {
+        "sounds": [
+            "bgm/class59_2"
+        ]
+    },
+        "bgm.class60": {
+        "sounds": [
+            "bgm/class60"
+        ]
+    },
+        "bgm.class61": {
+        "sounds": [
+            "bgm/class61"
+        ]
+    },
+        "bgm.class62": {
+        "sounds": [
+            "bgm/class62"
+        ]
+    },
+        "bgm.class63": {
+        "sounds": [
+            "bgm/class63"
+        ]
+    },
+        "bgm.class64": {
+        "sounds": [
+            "bgm/class64"
+        ]
+    },
+        "bgm.class65": {
+        "sounds": [
+            "bgm/class65"
+        ]
+    },
+        "bgm.class66": {
+        "sounds": [
+            "bgm/class66"
+        ]
+    },
+        "bgm.class67": {
+        "sounds": [
+            "bgm/class67"
+        ]
+    },
+        "bgm.class68": {
+        "sounds": [
+            "bgm/class68"
+        ]
+    },
+        "bgm.class69": {
+        "sounds": [
+            "bgm/class69"
+        ]
+    },
+        "bgm.class70": {
+        "sounds": [
+            "bgm/class70"
+        ]
+    },
+        "bgm.class71": {
+        "sounds": [
+            "bgm/class71"
+        ]
+    },
+        "bgm.class72": {
+        "sounds": [
+            "bgm/class72"
+        ]
+    },
+        "bgm.class73": {
+        "sounds": [
+            "bgm/class73"
+        ]
+    },
+        "bgm.class74": {
+        "sounds": [
+            "bgm/class74"
+        ]
+    },
+        "bgm.class75": {
+        "sounds": [
+            "bgm/class75"
+        ]
+    },
+        "bgm.class76": {
+        "sounds": [
+            "bgm/class76"
+        ]
+    },
+        "bgm.class77": {
+        "sounds": [
+            "bgm/class77"
+        ]
+    },
+        "bgm.class78": {
+        "sounds": [
+            "bgm/class78"
+        ]
+    },
+        "bgm.class79": {
+        "sounds": [
+            "bgm/class79"
+        ]
+    },
+        "bgm.class80": {
+        "sounds": [
+            "bgm/class80"
+        ]
+    },
+        "bgm.class81": {
+        "sounds": [
+            "bgm/class81"
+        ]
+    },
+        "bgm.class82": {
+        "sounds": [
+            "bgm/class82"
+        ]
+    },
+        "bgm.class2_1": {
+        "sounds": [
+            "bgm/class2_1"
+        ]
+    },
+        "bgm.class2_2": {
+        "sounds": [
+            "bgm/class2_2"
+        ]
+    },
+            "bgm.class2_1_2": {
+        "sounds": [
+            "bgm/class2_1"
+        ]
+    },
+        "bgm.class2_2_2": {
+        "sounds": [
+            "bgm/class2_2"
+        ]
+    },
+        "bgm.class20_2": {
+        "sounds": [
+            "bgm/class20_2"
+        ]
+    },
+        "bgm.class27_2": {
+        "sounds": [
+            "bgm/class27_2"
+        ]
+    },
+        "bgm.class29_2": {
+        "sounds": [
+            "bgm/class29_2"
+        ]
+    },
+        "bgm.class29_3": {
+        "sounds": [
+            "bgm/class29_3"
+        ]
+    },
+        "bgm.class30_2": {
+        "sounds": [
+            "bgm/class30_2"
+        ]
+    },
+        "bgm.class49_2": {
+        "sounds": [
+            "bgm/class49_2"
+        ]
+    },
+        "bgm.class33_2": {
+        "sounds": [
+            "bgm/class33_2"
+        ]
+    },
+        "bgm.class33_3": {
+        "sounds": [
+            "bgm/class33_3"
+        ]
+    },
+        "bgm.class38_2": {
+        "sounds": [
+            "bgm/class38_2"
+        ]
+    },
+        "bgm.class39_2": {
+        "sounds": [
+            "bgm/class39_2"
+        ]
+    },
+        "bgm.class78_2": {
+        "sounds": [
+            "bgm/class78_2"
+        ]
+    },
+        "bgm.class77_2": {
+        "sounds": [
+            "bgm/class77_2"
+        ]
+    },
+        "bgm.class45_2": {
+        "sounds": [
+            "bgm/class45_2"
+        ]
+    },
+        "bgm.class48_2": {
+        "sounds": [
+            "bgm/class48_2"
+        ]
+    },
+        "bgm.class51_2": {
+        "sounds": [
+            "bgm/class51_2"
+        ]
+    },
+        "bgm.class55_2": {
+        "sounds": [
+            "bgm/class55_2"
+        ]
+    },
+        "bgm.class82_2": {
+        "sounds": [
+            "bgm/class82_2"
+        ]
+    },
+        "bgm.class82_3": {
+        "sounds": [
+            "bgm/class82_3"
+        ]
+    },
+        "bgm.class82_4": {
+        "sounds": [
+            "bgm/class82_4"
+        ]
+    },
+        "bgm.class82_1": {
+        "sounds": [
+            "bgm/class82_1"
+        ]
+    },
+        "bgm.class82_5": {
+        "sounds": [
+            "bgm/class82_5"
+        ]
+    },
+        "bgm.class82_6": {
+        "sounds": [
+            "bgm/class82_6"
+        ]
+    },
+        "bgm.class82_7": {
+        "sounds": [
+            "bgm/class82_7"
+        ]
+    },
+        "bgm.class82_8": {
+        "sounds": [
+            "bgm/class82_8"
+        ]
+    },
+        "bgm.class82_9": {
+        "sounds": [
+            "bgm/class82_9"
+        ]
+    },
+        "bgm.class68_2": {
+        "sounds": [
+            "bgm/class68_2"
+        ]
+    },
+        "bgm.class45_3": {
+        "sounds": [
+            "bgm/class45_3"
+        ]
+    },
+        "bgm.class54_2": {
+        "sounds": [
+            "bgm/class54_2"
+        ]
+    },
+        "bgm.class43_2": {
+        "sounds": [
+            "bgm/class43_2"
+        ]
+    },
+        "bgm.class15_2": {
+        "sounds": [
+            "bgm/class15_2"
+        ]
+    },
+        "bgm.class1_2": {
+        "sounds": [
+            "bgm/class1_2"
+        ]
+    },
+        "bgm.class64_2": {
+        "sounds": [
+            "bgm/class64_2"
+        ]
+    },
+        "bgm.class65_2": {
+        "sounds": [
+            "bgm/class65_2"
+        ]
+    },
+        "bgm.class40_2": {
+        "sounds": [
+            "bgm/class40_2"
+        ]
+    },
+        "bgm.class68_3": {
+        "sounds": [
+            "bgm/class68_3"
+        ]
+    },
+        "bgm.class68_6": {
+        "sounds": [
+            "bgm/class68_6"
+        ]
+    },
+            "bgm.class68_7": {
+        "sounds": [
+            "bgm/class68_7"
+        ]
+    },
+        "bgm.class68_5": {
+        "sounds": [
+            "bgm/class68_5"
+        ]
+    },
+        "bgm.class68_4": {
+        "sounds": [
+            "bgm/class68_4"
+        ]
+    },
+        "bgm.class83": {
+        "sounds": [
+            "bgm/class83"
+        ]
+    },
+        "bgm.class84": {
+        "sounds": [
+            "bgm/class84"
+        ]
+    },
+        "bgm.queen": {
+        "sounds": [
+            "bgm/queen"
+        ]
+    },
+        "bgm.queen2": {
+        "sounds": [
+            "bgm/queen2"
+        ]
+    },
+        "bgm.class85": {
+        "sounds": [
+            "bgm/class85"
+        ]
+    },
+        "bgm.class86": {
+        "sounds": [
+            "bgm/class86"
+        ]
+    },
+        "bgm.class87": {
+        "sounds": [
+            "bgm/class87"
+        ]
+    },
+        "bgm.class88": {
+        "sounds": [
+            "bgm/class88"
+        ]
+    },
+        "bgm.class88_2": {
+        "sounds": [
+            "bgm/class88_2"
+        ]
+    },
+        "bgm.class89": {
+        "sounds": [
+            "bgm/class89"
+        ]
+    },
+        "bgm.class90": {
+        "sounds": [
+            "bgm/class90"
+        ]
+    },
+        "bgm.class91": {
+        "sounds": [
+            "bgm/class91"
+        ]
+    },
+        "bgm.class95_2": {
+        "sounds": [
+            "bgm/class95_2"
+        ]
+    },
+        "bgm.class95_3": {
+        "sounds": [
+            "bgm/class95_3"
+        ]
+    },
+        "bgm.class92": {
+        "sounds": [
+            "bgm/class92"
+        ]
+    },
+        "bgm.class93": {
+        "sounds": [
+            "bgm/class93"
+        ]
+    },
+        "bgm.class94": {
+        "sounds": [
+            "bgm/class94"
+        ]
+    },
+        "bgm.class95": {
+        "sounds": [
+            "bgm/class95"
+        ]
+    },
+        "bgm.class96": {
+        "sounds": [
+            "bgm/class96"
+        ]
+    },
+        "bgm.class1096": {
+        "sounds": [
+            "bgm/class1096"
+        ]
+    },
+        "bgm.class97": {
+        "sounds": [
+            "bgm/class97"
+        ]
+    },
+        "bgm.lancer": {
+        "sounds": [
+            "bgm/lancer"
+        ]
+    },
+        "bgm.class98": {
+        "sounds": [
+            "bgm/class98"
+        ]
+    },
+        "bgm.class99": {
+        "sounds": [
+            "bgm/class99"
+        ]
+    },
+        "bgm.class99_2": {
+        "sounds": [
+            "bgm/class99_2"
+        ]
+    },
+        "bgm.class100": {
+        "sounds": [
+            "bgm/class100"
+        ]
+    },
+        "bgm.class101": {
+        "sounds": [
+            "bgm/class101"
+        ]
+    },
+        "bgm.class102": {
+        "sounds": [
+            "bgm/class102"
+        ]
+    },
+        "bgm.class103": {
+        "sounds": [
+            "bgm/class103"
+        ]
+    },
+        "bgm.class104": {
+        "sounds": [
+            "bgm/class104"
+        ]
+    },
+            "bgm.class104_2": {
+        "sounds": [
+            "bgm/class27"
+        ]
+    },
+        "bgm.class105": {
+        "sounds": [
+            "bgm/class105"
+        ]
+    },
+        "bgm.class106": {
+        "sounds": [
+            "bgm/class106"
+        ]
+    },
+        "bgm.class107": {
+        "sounds": [
+            "bgm/class107"
+        ]
+    },
+            "bgm.class80_3": {
+        "sounds": [
+            "bgm/class80"
+        ]
+    },
+        "bgm.class108": {
+        "sounds": [
+            "bgm/class108"
+        ]
+    },
+            "bgm.class109": {
+        "sounds": [
+            "bgm/class109"
+        ]
+    },
+            "bgm.class110": {
+        "sounds": [
+            "bgm/class110"
+        ]
+    },
+                "bgm.class110_2": {
+        "sounds": [
+            "bgm/class110"
+        ]
+    },
+            "bgm.class111": {
+        "sounds": [
+            "bgm/class111"
+        ]
+    },
+                "bgm.class114": {
+        "sounds": [
+            "bgm/class17"
+        ]
+    },
+                "bgm.class115": {
+        "sounds": [
+            "bgm/class8"
+        ]
+    },
+                "bgm.class70_2": {
+        "sounds": [
+            "bgm/class70"
+        ]
+    },
+                    "bgm.class71_2": {
+        "sounds": [
+            "bgm/class71"
+        ]
+    },
+                "bgm.class97_2": {
+        "sounds": [
+            "bgm/class97"
+        ]
+    },
+                    "bgm.class117": {
+        "sounds": [
+            "bgm/class117"
+        ]
+    },
+                        "bgm.class118": {
+        "sounds": [
+            "bgm/class118"
+        ]
+    },
+                        "bgm.class119": {
+        "sounds": [
+            "bgm/class119"
+        ]
+    },
+                            "bgm.class126": {
+        "sounds": [
+            "bgm/class126"
+        ]
+    },
+                                "bgm.class127": {
+        "sounds": [
+            "bgm/class127"
+        ]
+    },
+            "bgm.class29_4": {
+        "sounds": [
+            "bgm/class29"
+        ]
+    },
+            "bgm.class29_5": {
+        "sounds": [
+            "bgm/class29"
+        ]
+    },
+                "bgm.class37_2": {
+        "sounds": [
+            "bgm/class37"
+        ]
+    },
+            "bgm.class105_2": {
+        "sounds": [
+            "bgm/class105_2"
+        ]
+    },
+                "bgm.class120": {
+        "sounds": [
+            "bgm/class120"
+        ]
+    },
+                    "bgm.class128": {
+        "sounds": [
+            "bgm/class128"
+        ]
+    },
+                        "bgm.class129": {
+        "sounds": [
+            "bgm/class129"
+        ]
+    },
+                            "bgm.class131": {
+        "sounds": [
+            "bgm/class131"
+        ]
+    },
+                            "bgm.class132": {
+        "sounds": [
+            "bgm/class132"
+        ]
+    },
+                            "bgm.class133": {
+        "sounds": [
+            "bgm/class133"
+        ]
+    },
+                    "bgm.class73_2": {
+        "sounds": [
+            "bgm/class73"
+        ]
+    },
+                        "bgm.class117_2": {
+        "sounds": [
+            "bgm/class117"
+        ]
+    },
+                        "bgm.class93_2": {
+        "sounds": [
+            "bgm/class93"
+        ]
+    },
+                        "bgm.class25_2": {
+        "sounds": [
+            "bgm/class25"
+        ]
+    },
+                        "bgm.class98_2": {
+        "sounds": [
+            "bgm/class98"
+        ]
+    },
+                        "bgm.class74_2": {
+        "sounds": [
+            "bgm/class74"
+        ]
+    },
+                            "bgm.class67_2": {
+        "sounds": [
+            "bgm/class67"
+        ]
+    },
+                            "bgm.class1_3": {
+        "sounds": [
+            "bgm/class1"
+        ]
+    },
+                                "bgm.class1_4": {
+        "sounds": [
+            "bgm/class1"
+        ]
+    },
+                                "bgm.class104_3": {
+        "sounds": [
+            "bgm/class91"
+        ]
+    },
+                                    "bgm.class107_3": {
+        "sounds": [
+            "bgm/class107_2"
+        ]
+    },
+                                        "bgm.class107_2": {
+        "sounds": [
+            "bgm/class107_2"
+        ]
+    },
+                                            "bgm.class3_2": {
+        "sounds": [
+            "bgm/class3"
+        ]
+    },
+                                                "bgm.class96_2": {
+        "sounds": [
+            "bgm/class96"
+        ]
+    },
+                                                "bgm.class1096_2": {
+        "sounds": [
+            "bgm/class1096"
+        ]
+    },
+                            "bgm.class130": {
+        "sounds": [
+            "bgm/class130"
+        ]
+    },
+                                "bgm.class134": {
+        "sounds": [
+            "bgm/class134"
+        ]
+    },
+                                    "bgm.class134_2": {
+        "sounds": [
+            "bgm/class134"
+        ]
+    },
+                                    "bgm.class134_3": {
+        "sounds": [
+            "bgm/class134"
+        ]
+    },
+                                    "bgm.class134_4": {
+        "sounds": [
+            "bgm/class134"
+        ]
+    },
+    
+            "bgm.witchtrial": {
+        "sounds": [
+            "bgm/witchtrial"
+        ]
+    },
+        "bgm.map_showgirl": {
+        "sounds": [
+            "bgm/map_showgirl"
+        ]
+    },
+            "bgm.map_apocalypse": {
+        "sounds": [
+            "bgm/map_apocalypse"
+        ]
+    },
+                "bgm.map_wicked": {
+        "sounds": [
+            "bgm/map_wicked"
+        ]
+    },
+                    "bgm.map_kaguya": {
+        "sounds": [
+            "bgm/map_kaguya"
+        ]
+    },
+                        "bgm.kaguya": {
+        "sounds": [
+            "bgm/kaguya"
+        ]
+    },
+                            "bgm.kaguya2": {
+        "sounds": [
+            "bgm/kaguya"
+        ]
+    },
+                            "bgm.kaguya3": {
+        "sounds": [
+            "bgm/kaguya"
+        ]
+    },
+                            "bgm.kaguya4": {
+        "sounds": [
+            "bgm/kaguya"
+        ]
+    },
+                                "bgm.jusul": {
+        "sounds": [
+            "bgm/jusul"
+        ]
+    }
+}

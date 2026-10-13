@@ -1,0 +1,31 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/agent/treeblade"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [1, 90, 45],
+			"translation": [0, 5, 1],
+			"scale": [1.1, 1.1, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [114, 50, -141],
+			"translation": [-7.5, 3.25, -6.5],
+			"scale": [1, 1, 0.8]
+		},
+		"gui": {
+			"scale": [0.88, 0.88, 1]
+		}
+	},
+	"groups": [
+		{
+			"name": "sword_kungs",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/takopi/camera",
+		"1": "item/adehandle",
+		"particle": "item/takopi/camera"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"north": {"uv": [3.25, 4.75, 4.25, 5.25], "texture": "#0"},
+				"east": {"uv": [3.25, 4.75, 4.25, 5.25], "texture": "#0"},
+				"south": {"uv": [3.25, 4.75, 4.25, 5.25], "texture": "#0"},
+				"west": {"uv": [3.25, 4.75, 4.25, 5.25], "texture": "#0"},
+				"up": {"uv": [3.25, 4.75, 4.25, 5.25], "texture": "#0"},
+				"down": {"uv": [3.25, 4.75, 4.25, 5.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0.5, 1, 0.5],
+			"to": [15.5, 16, 15.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, 1, 0.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"translation": [1.75, 1.75, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [29, 45, 0],
+			"scale": [0.55, 0.55, 0.55]
+		}
+	}
+}

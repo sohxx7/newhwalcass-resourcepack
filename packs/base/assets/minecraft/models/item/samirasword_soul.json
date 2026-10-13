@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/samira/samirasword_soul"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, -92],
+			"translation": [0, 5.25, 1.75],
+			"scale": [3, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [102, -90, 0],
+			"translation": [5.5, 2, -2.75],
+			"scale": [2.22, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 0, -135],
+			"translation": [0.5, 0, 0],
+			"scale": [1.7, 0.5, 1]
+		},
+		"head": {
+			"rotation": [0, 0, 53],
+			"translation": [-0.75, -10, 5.5],
+			"scale": [3.4, 1, 1]
+		}
+	}
+}

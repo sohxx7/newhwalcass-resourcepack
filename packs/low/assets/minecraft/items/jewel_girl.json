@@ -1,0 +1,47 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/jewel_girl/1"
+			},
+			{
+				"type": "model",
+				"model": "item/jewel_girl/2"
+			},
+			{
+				"type": "model",
+				"model": "item/jewel_girl/3"
+			},
+			{
+				"type": "model",
+				"model": "item/jewel_girl/4"
+			},
+			{
+				"type": "model",
+				"model": "item/jewel_girl/5"
+			},
+			{
+				"type": "model",
+				"model": "item/jewel_girl/6"
+			},
+			{
+				"type": "model",
+				"model": "item/jewel_girl/7"
+			},
+			{
+				"type": "model",
+				"model": "item/jewel_girl/8"
+			},
+			{
+				"type": "model",
+				"model": "item/jewel_girl/9"
+			},
+			{
+				"type": "model",
+				"model": "item/jewel_girl/10"
+			}
+		]
+	}
+}

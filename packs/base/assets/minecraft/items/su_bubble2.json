@@ -1,0 +1,23 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/su/bubble1_2"
+			},
+			{
+				"type": "model",
+				"model": "item/su/bubble2_2"
+			},
+						{
+				"type": "model",
+				"model": "item/su/bubble3_2"
+			},
+			{
+				"type": "model",
+				"model": "item/su/bubble4_2"
+			}
+		]
+	}
+}

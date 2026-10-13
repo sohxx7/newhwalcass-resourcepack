@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/katap_battle"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-37, 90, 45],
+			"translation": [0, 6, 2],
+			"scale": [0.8, 1.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [7, 95, 0],
+			"translation": [2.75, 7.5, 0],
+			"scale": [0.8, 1.6, 0.4]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"scale": [0.8, 1.5, 1]
+		},
+		"head": {
+			"rotation": [90, 0, 90],
+			"translation": [0.25, -21, 0],
+			"scale": [2, 4, 1]
+		}
+	}
+}

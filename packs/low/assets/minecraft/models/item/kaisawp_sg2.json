@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/kaisawp_sg"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, -133],
+			"translation": [0, 2.75, -2.25],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [6, -82, 0],
+			"translation": [1.5, 3.25, -2.5],
+			"scale": [1.4, 0.8, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"scale": [1.2, 0.8, 1]
+		}
+	},
+	"groups": [
+		{
+			"name": "kaisawp_sg",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		}
+	]
+}

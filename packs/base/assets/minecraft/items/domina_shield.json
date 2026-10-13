@@ -1,0 +1,47 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/domina/shield/1"
+			},
+			{
+				"type": "model",
+				"model": "item/domina/shield/2"
+			},
+			{
+				"type": "model",
+				"model": "item/domina/shield/3"
+			},
+			{
+				"type": "model",
+				"model": "item/domina/shield/4"
+			},
+			{
+				"type": "model",
+				"model": "item/domina/shield/5"
+			},
+			{
+				"type": "model",
+				"model": "item/domina/shield/6"
+			},
+			{
+				"type": "model",
+				"model": "item/domina/shield/7"
+			},
+			{
+				"type": "model",
+				"model": "item/domina/shield/8"
+			},
+			{
+				"type": "model",
+				"model": "item/domina/shield/9"
+			},
+			{
+				"type": "model",
+				"model": "item/domina/shield/10"
+			}
+		]
+	}
+}

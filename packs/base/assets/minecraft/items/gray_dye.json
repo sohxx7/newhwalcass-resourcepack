@@ -1,0 +1,916 @@
+{
+    "oversized_in_gui" : true,
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type":"model",
+            "model": "item/gray_dye"
+    },
+    "cases": [
+        {
+            "when": "1",
+            "model": {
+                "type": "model",
+                "model": "item/album/album1"
+            }
+        },
+        {
+            "when": "2",
+            "model": {
+                "type": "model",
+                "model": "item/album/album2"
+            }
+        },
+        {
+            "when": "3",
+            "model": {
+                "type": "model",
+                "model": "item/album/album3"
+            }
+        },
+        {
+            "when": "4",
+            "model": {
+                "type": "model",
+                "model": "item/album/album4"
+            }
+        },
+        {
+            "when": "5",
+            "model": {
+                "type": "model",
+                "model": "item/album/album5"
+            }
+        },
+        {
+            "when": "6",
+            "model": {
+                "type": "model",
+                "model": "item/album/album6"
+            }
+        },
+        {
+            "when": "7",
+            "model": {
+                "type": "model",
+                "model": "item/album/album7"
+            }
+        },
+        {
+            "when": "8",
+            "model": {
+                "type": "model",
+                "model": "item/album/album8"
+            }
+        },
+        {
+            "when": "9",
+            "model": {
+                "type": "model",
+                "model": "item/album/album9"
+            }
+        },
+        {
+            "when": "10",
+            "model": {
+                "type": "model",
+                "model": "item/album/album10"
+            }
+        },
+        {
+            "when": "11",
+            "model": {
+                "type": "model",
+                "model": "item/album/album11"
+            }
+        },
+        {
+            "when": "12",
+            "model": {
+                "type": "model",
+                "model": "item/album/album12"
+            }
+        },
+        {
+            "when": "13",
+            "model": {
+                "type": "model",
+                "model": "item/album/album13"
+            }
+        },
+        {
+            "when": "14",
+            "model": {
+                "type": "model",
+                "model": "item/album/album14"
+            }
+        },
+        {
+            "when": "15",
+            "model": {
+                "type": "model",
+                "model": "item/album/album15"
+            }
+        },
+        {
+            "when": "16",
+            "model": {
+                "type": "model",
+                "model": "item/album/album16"
+            }
+        },
+        {
+            "when": "17",
+            "model": {
+                "type": "model",
+                "model": "item/album/album17"
+            }
+        },
+        {
+            "when": "18",
+            "model": {
+                "type": "model",
+                "model": "item/album/album18"
+            }
+        },
+        {
+            "when": "100",
+            "model": {
+                "type": "model",
+                "model": "item/spikearrow"
+            }
+        },
+        {
+            "when": "101",
+            "model": {
+                "type": "model",
+                "model": "item/karma_graffiti"
+            }
+        },
+        {
+            "when": "102",
+            "model": {
+                "type": "model",
+                "model": "item/reputation_graffiti"
+            }
+        },
+        {
+            "when": "103",
+            "model": {
+                "type": "model",
+                "model": "item/readyforit"
+            }
+        },
+        {
+            "when": "104",
+            "model": {
+                "type": "model",
+                "model": "item/dress_graffiti"
+            }
+        },
+        {
+            "when": "105",
+            "model": {
+                "type": "model",
+                "model": "item/idsb_graffiti"
+            }
+        },
+        {
+            "when": "106",
+            "model": {
+                "type": "model",
+                "model": "item/roland_screen"
+            }
+        },
+        {
+            "when": "107",
+            "model": {
+                "type": "model",
+                "model": "item/ninbuk_screen"
+            }
+        },
+        {
+            "when": "108",
+            "model": {
+                "type": "model",
+                "model": "item/komh_graffiti"
+            }
+        },
+        {
+            "when": "109",
+            "model": {
+                "type": "model",
+                "model": "item/sanabi_screen"
+            }
+        },
+        {
+            "when": "110",
+            "model": {
+                "type": "model",
+                "model": "item/hwalcass_graffiti"
+            }
+        },
+        {
+            "when": "200",
+            "model": {
+                "type": "model",
+                "model": "item/halloween_magic"
+            }
+        },
+        {
+            "when": "201",
+            "model": {
+                "type": "model",
+                "model": "item/revivecircle"
+            }
+        },
+        {
+            "when": "202",
+            "model": {
+                "type": "model",
+                "model": "item/candycorn"
+            }
+        },
+        {
+            "when": "203",
+            "model": {
+                "type": "model",
+                "model": "item/arena_ring"
+            }
+        },
+        {
+            "when": "204",
+            "model": {
+                "type": "model",
+                "model": "item/arena_revive"
+            }
+        },
+        {
+            "when": "222",
+            "model": {
+                "type": "model",
+                "model": "item/platform"
+            }
+        },
+        {
+            "when": "223",
+            "model": {
+                "type": "model",
+                "model": "item/oz/rose"
+            }
+        },
+        {
+            "when": "310",
+            "model": {
+                "type": "model",
+                "model": "item/ttpd_book"
+            }
+        },
+        {
+            "when": "311",
+            "model": {
+                "type": "model",
+                "model": "item/ttpd_book2"
+            }
+        },
+        {
+            "when": "312",
+            "model": {
+                "type": "model",
+                "model": "item/spray/ttpd"
+            }
+        },
+        {
+            "when": "313",
+            "model": {
+                "type": "model",
+                "model": "item/ttpd_paper"
+            }
+        },
+        {
+            "when": "314",
+            "model": {
+                "type": "model",
+                "model": "item/ttpd_paper2"
+            }
+        },
+        {
+            "when": "315",
+            "model": {
+                "type": "model",
+                "model": "item/ttpd_jukebox"
+            }
+        },
+        {
+            "when": "316",
+            "model": {
+                "type": "model",
+                "model": "item/ttpd_jukebox2"
+            }
+        },
+        {
+            "when": "317",
+            "model": {
+                "type": "model",
+                "model": "item/ttpd_record"
+            }
+        },
+        {
+            "when": "318",
+            "model": {
+                "type": "model",
+                "model": "item/ttpd_glass"
+            }
+        },
+        {
+            "when": "319",
+            "model": {
+                "type": "model",
+                "model": "item/ttpd_book3"
+            }
+        },
+        {
+            "when": "418",
+            "model": {
+                "type": "model",
+                "model": "item/ninbukping"
+            }
+        },
+        {
+            "when": "419",
+            "model": {
+                "type": "model",
+                "model": "item/ninbukping2"
+            }
+        },
+                {
+            "when": "420",
+            "model": {
+                "type": "model",
+                "model": "item/ninbukping3"
+            }
+        },
+        {
+            "when": "500",
+            "model": {
+                "type": "model",
+                "model": "item/door1"
+            }
+        },
+        {
+            "when": "501",
+            "model": {
+                "type": "model",
+                "model": "item/door2"
+            }
+        },
+        {
+            "when": "600",
+            "model": {
+                "type": "model",
+                "model": "item/newyork/loco"
+            }
+        },
+        {
+            "when": "601",
+            "model": {
+                "type": "model",
+                "model": "item/newyork/passcar"
+            }
+        },
+        {
+            "when": "602",
+            "model": {
+                "type": "model",
+                "model": "item/newyork/board1"
+            }
+        },
+        {
+            "when": "603",
+            "model": {
+                "type": "model",
+                "model": "item/newyork/board2"
+            }
+        },
+        {
+            "when": "604",
+            "model": {
+                "type": "model",
+                "model": "item/newyork/board3"
+            }
+        },
+        {
+            "when": "605",
+            "model": {
+                "type": "model",
+                "model": "item/newyork/board4"
+            }
+        },
+        {
+            "when": "606",
+            "model": {
+                "type": "model",
+                "model": "item/newyork/board5"
+            }
+        },
+        {
+            "when": "607",
+            "model": {
+                "type": "model",
+                "model": "item/newyork/board6"
+            }
+        },
+                {
+            "when": "800",
+            "model": {
+                "type": "model",
+                "model": "item/minecart/car1"
+            }
+        },
+        {
+            "when": "801",
+            "model": {
+                "type": "model",
+                "model": "item/minecart/car2"
+            }
+        },
+        {
+            "when": "802",
+            "model": {
+                "type": "model",
+                "model": "item/minecart/car3"
+            }
+        },
+        {
+            "when": "803",
+            "model": {
+                "type": "model",
+                "model": "item/minecart/car4"
+            }
+        },
+        {
+            "when": "804",
+            "model": {
+                "type": "model",
+                "model": "item/minecart/car5"
+            }
+        },
+        {
+            "when": "805",
+            "model": {
+                "type": "model",
+                "model": "item/minecart/car6"
+            }
+        },
+        {
+            "when": "806",
+            "model": {
+                "type": "model",
+                "model": "item/minecart/car7"
+            }
+        },
+        {
+            "when": "807",
+            "model": {
+                "type": "model",
+                "model": "item/minecart/car8"
+            }
+        },
+        {
+            "when": "608",
+            "model": {
+                "type": "model",
+                "model": "item/newyork/vending"
+            }
+        },
+                {
+            "when": "700",
+            "model": {
+                "type": "model",
+                "model": "item/takopi/takopi"
+            }
+        },
+        {
+            "when": "6800",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card1"
+            }
+        },
+        {
+            "when": "6801",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card2"
+            }
+        },
+        {
+            "when": "6802",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card3"
+            }
+        },
+        {
+            "when": "6803",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card4"
+            }
+        },
+        {
+            "when": "6804",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card5"
+            }
+        },
+        {
+            "when": "6805",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card6"
+            }
+        },
+        {
+            "when": "6806",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card7"
+            }
+        },
+        {
+            "when": "6807",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card8"
+            }
+        },
+        {
+            "when": "6808",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card9"
+            }
+        },
+        {
+            "when": "6809",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/card10"
+            }
+        },
+                {
+            "when": "6820",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card1"
+            }
+        },
+        {
+            "when": "6821",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card2"
+            }
+        },
+        {
+            "when": "6822",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card3"
+            }
+        },
+        {
+            "when": "6823",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card4"
+            }
+        },
+        {
+            "when": "6824",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card5"
+            }
+        },
+        {
+            "when": "6825",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card6"
+            }
+        },
+        {
+            "when": "6826",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card7"
+            }
+        },
+        {
+            "when": "6827",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card8"
+            }
+        },
+        {
+            "when": "6828",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card9"
+            }
+        },
+        {
+            "when": "6829",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card2/card10"
+            }
+        },
+        {
+            "when": "6810",
+            "model": {
+                "type": "model",
+                "model": "item/roland_card/nocard"
+            }
+        },
+        {
+            "when": "6900",
+            "model": {
+                "type": "model",
+                "model": "item/cloud"
+            }
+        },
+        {
+            "when": "6901",
+            "model": {
+                "type": "model",
+                "model": "item/cloud2"
+            }
+        },
+        {
+            "when": "6902",
+            "model": {
+                "type": "model",
+                "model": "item/cloud3"
+            }
+        },
+        {
+            "when": "6903",
+            "model": {
+                "type": "model",
+                "model": "item/cloud4"
+            }
+        },
+        {
+            "when": "6904",
+            "model": {
+                "type": "model",
+                "model": "item/cloud5"
+            }
+        },
+        {
+            "when": "6905",
+            "model": {
+                "type": "model",
+                "model": "item/cloud6"
+            }
+        },
+        {
+            "when": "6906",
+            "model": {
+                "type": "model",
+                "model": "item/cloud7"
+            }
+        },
+        {
+            "when": "6907",
+            "model": {
+                "type": "model",
+                "model": "item/cloud8"
+            }
+        },
+        {
+            "when": "6908",
+            "model": {
+                "type": "model",
+                "model": "item/cloud9"
+            }
+        },
+        {
+            "when": "6911",
+            "model": {
+                "type": "model",
+                "model": "item/healpack"
+            }
+        },
+        {
+            "when": "6912",
+            "model": {
+                "type": "model",
+                "model": "item/healpack2"
+            }
+        },
+        {
+            "when": "6913",
+            "model": {
+                "type": "model",
+                "model": "item/ggez"
+            }
+        },
+        {
+            "when": "6914",
+            "model": {
+                "type": "model",
+                "model": "item/lotus_flower1"
+            }
+        },
+        {
+            "when": "6915",
+            "model": {
+                "type": "model",
+                "model": "item/empyrean"
+            }
+        },
+        {
+            "when": "6916",
+            "model": {
+                "type": "model",
+                "model": "item/spikeshield"
+            }
+        },
+        {
+            "when": "6917",
+            "model": {
+                "type": "model",
+                "model": "item/spikebox"
+            }
+        },
+        {
+            "when": "6918",
+            "model": {
+                "type": "model",
+                "model": "item/salvation_effect"
+            }
+        },
+        {
+            "when": "6919",
+            "model": {
+                "type": "model",
+                "model": "item/golden"
+            }
+        },
+        {
+            "when": "6920",
+            "model": {
+                "type": "model",
+                "model": "item/singularity"
+            }
+        },
+        {
+            "when": "6921",
+            "model": {
+                "type": "model",
+                "model": "item/singularity_ring"
+            }
+        },
+        {
+            "when": "6922",
+            "model": {
+                "type": "model",
+                "model": "item/singularity_star"
+            }
+        },
+        {
+            "when": "6923",
+            "model": {
+                "type": "model",
+                "model": "item/hell_portal"
+            }
+        },
+        {
+            "when": "6924",
+            "model": {
+                "type": "model",
+                "model": "item/hell_chain"
+            }
+        },
+                {
+            "when": "6925",
+            "model": {
+                "type": "model",
+                "model": "item/longlive_castle"
+            }
+        },
+        {
+            "when": "6926",
+            "model": {
+                "type": "model",
+                "model": "item/longlive_panorama"
+            }
+        },
+        {
+            "when": "6927",
+            "model": {
+                "type": "model",
+                "model": "item/takopi/flake_zero"
+            }
+        },
+                {
+            "when": "6931",
+            "model": {
+                "type": "model",
+                "model": "item/witchtrial/bfly"
+            }
+        },
+        {
+            "when": "6932",
+            "model": {
+                "type": "model",
+                "model": "item/witchtrial/pole"
+            }
+        },
+        {
+            "when": "6933",
+            "model": {
+                "type": "model",
+                "model": "item/witchtrial/collar"
+            }
+        },
+        {
+            "when": "6934",
+            "model": {
+                "type": "model",
+                "model": "item/witchtrial/target"
+            }
+        },
+                {
+            "when": "6935",
+            "model": {
+                "type": "model",
+                "model": "item/witchtrial/arrow"
+            }
+        },
+        {
+            "when": "6936",
+            "model": {
+                "type": "model",
+                "model": "item/witchtrial/chair"
+            }
+        },
+        {
+            "when": "6937",
+            "model": {
+                "type": "model",
+                "model": "item/witchtrial/gun"
+            }
+        },
+                {
+            "when": "6940",
+            "model": {
+                "type": "model",
+                "model": "item/su/sword"
+            }
+        },
+        {
+            "when": "6941",
+            "model": {
+                "type": "model",
+                "model": "item/su/diamond"
+            }
+        },
+                {
+            "when": "6942",
+            "model": {
+                "type": "model",
+                "model": "item/su/par"
+            }
+        },
+                        {
+            "when": "6943",
+            "model": {
+                "type": "model",
+                "model": "item/su/sign"
+            }
+        },
+                        {
+            "when": "6944",
+            "model": {
+                "type": "model",
+                "model": "item/su/sign2"
+            }
+        },
+                        {
+            "when": "6945",
+            "model": {
+                "type": "model",
+                "model": "item/su/skybox"
+            }
+        }
+    ]
+}
+}

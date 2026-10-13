@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/lucidgo",
+		"particle": "item/lucidgo"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 7],
+			"to": [16, 16, 7],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [52, 0, 0],
+			"translation": [0.75, 0.75, 3.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 7, 0],
+			"translation": [3.75, 2.5, 0.75],
+			"scale": [1.2, 1.2, 1]
+		},
+		"gui": {
+			"translation": [0.75, 0, 0],
+			"scale": [1.5, 1.5, 1]
+		}
+	}
+}

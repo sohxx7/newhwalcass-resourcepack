@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/holy_leaf",
+		"particle": "item/holy_leaf"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"up": {"uv": [2.81667, 12.56667, 12.56667, 2.76667], "texture": "#0"},
+				"down": {"uv": [2.81667, 2.76667, 12.56667, 12.56667], "texture": "#0"}
+			}
+		}
+	]
+}

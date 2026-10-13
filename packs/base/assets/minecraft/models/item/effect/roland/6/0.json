@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/effect/roland/6/0",
+		"particle": "item/effect/roland/6/0"
+	},
+	"elements": [
+		{
+			"from": [3.4, -15, -16],
+			"to": [3.4, 32, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.7, 10.3, 8]},
+			"faces": {
+				"east": {"uv": [16, 16, 0, 0], "texture": "#1"},
+				"west": {"uv": [0, 16, 16, 0], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-16, 9.6, -16],
+			"to": [25.4, 9.6, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.7, 7.3, 8]},
+			"faces": {
+				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [16, 16, 0, 0], "rotation": 90, "texture": "#1"}
+			}
+		}
+	]
+}
