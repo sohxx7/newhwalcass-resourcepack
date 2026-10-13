@@ -1,0 +1,68 @@
+{
+  "release": "v2026.10.13-roigod-emote41.1",
+  "id": 41,
+  "name": "ㄹㅇㄱ",
+  "price": 200,
+  "custom_model_data": "4100",
+  "source_files": [
+    "외쳐 ㄹㅇㄱ.png",
+    "외쳐 로이갓.ogg"
+  ],
+  "renamed_files": [
+    "roigod.png",
+    "roigod.ogg"
+  ],
+  "source_png_sha256": "0bd138baf216f669d95624bdd6fbbc16bc18b9ecab2b2a19464086b1a19f39b0",
+  "source_ogg_sha256": "a4b35e722bd0246fa9f6fe55e7556f76699844fabda9a3de88a08379eaef1d68",
+  "output_ogg_sha256": "78f707025651c0fc9dac6a57594e7ee77dd15d99673cd8e5fc8475b76515f3c8",
+  "gain_db": 6,
+  "before": {
+    "codec_name": "vorbis",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration_ts": 92004,
+    "duration": "1.916750"
+  },
+  "after": {
+    "codec_name": "vorbis",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration_ts": 92004,
+    "duration": "1.916750"
+  },
+  "levels_before": {
+    "samples_per_channel": 92004,
+    "peak": 1.0856029987335205,
+    "rms_db": -11.988608146563164
+  },
+  "levels_after": {
+    "samples_per_channel": 92004,
+    "peak": 0.9268279671669006,
+    "rms_db": -9.091602773673962
+  },
+  "image_dimensions": [
+    550,
+    309
+  ],
+  "gui_size": [
+    15.129449838187702,
+    8.5
+  ],
+  "changed": [
+    "assets/minecraft/items/green_dye.json",
+    "assets/minecraft/sounds.json"
+  ],
+  "added": [
+    "assets/minecraft/models/item/emote/roigod.json",
+    "assets/minecraft/sounds/emote/roigod.ogg",
+    "assets/minecraft/textures/item/emote/roigod.png"
+  ],
+  "removed": [
+    "assets/minecraft/models/item/emote/emote41.json",
+    "assets/minecraft/sounds/emote/emote41.ogg",
+    "assets/minecraft/textures/item/emote/emote41.png"
+  ],
+  "unrelated_files_preserved": 1467,
+  "pack_bytes": 90312630,
+  "pack_sha256": "bb2e3d8d9c4239f1f199650fc8c2a06594f455200d04c05b0a946f08cbc0db45"
+}
