@@ -1468,7 +1468,10 @@
   },
   "emote.emote41": {
     "sounds": [
-      "emote/roigod"
+      {
+        "name": "emote/roigod",
+        "volume": 0.7943282347242815
+      }
     ]
   },
   "emote.emote42": {

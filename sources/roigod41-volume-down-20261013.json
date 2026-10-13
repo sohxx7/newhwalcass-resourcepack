@@ -1,0 +1,19 @@
+{
+  "release": "v2026.10.13-roigod41-volume-down.1",
+  "id": 41,
+  "name": "ㄹㅇㄱ",
+  "volume_before": 1,
+  "volume_after": 0.7943282347242815,
+  "gain_change_db": -2,
+  "changed": [
+    "assets/minecraft/sounds.json"
+  ],
+  "other_entries_preserved": 1471,
+  "audio_unchanged": true,
+  "roigod_audio_sha256": "78f707025651c0fc9dac6a57594e7ee77dd15d99673cd8e5fc8475b76515f3c8",
+  "whooing_audio_sha256": "8dbc06bbed188c944b7c399b2f257378e7e3fab366854e6c369e69077955ef4d",
+  "base_url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-whooing42-volume.1/Newhwalcass.zip",
+  "base_sha256": "ea0a52cff44db06837533a400ac3d89ec0882d4737ef676705edb8af6da49ae5",
+  "pack_bytes": 90312859,
+  "pack_sha256": "5eda290abd75f8cdd7abe35c1ae30877f12336c6bcead589366b7a3ae0efc944"
+}
