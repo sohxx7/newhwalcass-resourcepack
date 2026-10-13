@@ -1,0 +1,21 @@
+{
+  "release": "v2026.10.13-roigod41-volume-down.3",
+  "id": 41,
+  "name": "ㄹㅇㄱ",
+  "volume_before": 0.5623413251903491,
+  "volume_after": 0.3981071705534972,
+  "gain_change_db": -3,
+  "total_gain_change_db": -8,
+  "replace_lower_priority_sound_event": true,
+  "changed": [
+    "assets/minecraft/sounds.json"
+  ],
+  "other_entries_preserved": 1471,
+  "audio_unchanged": true,
+  "roigod_audio_sha256": "78f707025651c0fc9dac6a57594e7ee77dd15d99673cd8e5fc8475b76515f3c8",
+  "whooing_audio_sha256": "8dbc06bbed188c944b7c399b2f257378e7e3fab366854e6c369e69077955ef4d",
+  "base_url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-roigod41-volume-down.2/Newhwalcass.zip",
+  "base_sha256": "4531fd78dcaaf19e82a60665915e9e7583e4debab2a356e6355059879302e092",
+  "pack_bytes": 90312860,
+  "pack_sha256": "d4a43c28f67695e0a701c39ce1335f45545ee3a34f0aff767d0f0426678d487c"
+}
