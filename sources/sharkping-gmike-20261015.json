@@ -1,0 +1,15 @@
+{
+  "feature": "상어핑 chat identity for /gmike",
+  "release_tag": "v2026.10.15-sharkping-gmike.1",
+  "base_release": "v2026.10.15-roigod41-volume-down.1",
+  "base_commit": "4e510720d0acfced29ffce3cbbac1309c7088699",
+  "base_zip_sha256": "88d65cfffd9126fcf6520670f30daa34f38a9867c2d926f3501104738cf76262",
+  "image_sha256": "bd1de4449e36b8f7c5060fe46c353a7cbdb01de0dd9b363baf6edf308a552629",
+  "image_preserved_byte_for_byte": true,
+  "glyph": "U+E057",
+  "font_height": 28,
+  "name": "상어핑",
+  "name_color": "#8CD2F4",
+  "permission": "op",
+  "toggle_behavior": "/gmike toggles on/off; /nmike and /gmike are exclusive per player"
+}
