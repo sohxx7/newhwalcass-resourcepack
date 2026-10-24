@@ -4,18 +4,18 @@
     97,
     1
   ],
-  "release_tag": "v2026.10.13-minecraft26.3.1",
+  "release_tag": "v2026.10.24-minecraft26.3.1",
   "branch": "codex/minecraft-26.3",
-  "model_revision": 13,
+  "model_revision": 14,
   "files": [
     {
       "file": "new-26.3.zip",
       "source_directory": "pack",
-      "bytes": 90371937,
-      "sha1": "8681e0c2f6583727c08e16c8972e2c84b6f213b3",
-      "sha256": "43f8e5cdc328c31aad4752d9c2c675d5f18a78b1314e77c49466e6841edda83c",
-      "files": 1477,
-      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/new-26.3.zip"
+      "bytes": 92219116,
+      "sha1": "b6ea0a6aa04c6ab29b8bef7d96bbc9e8e50826fc",
+      "sha256": "4e5f5dec9d6ac6f82e55fdb8cc15c9eee34798f2785d6b2d5d167d18becfb528",
+      "files": 1482,
+      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.24-minecraft26.3.1/new-26.3.zip"
     },
     {
       "file": "base-26.3.zip",
@@ -46,10 +46,11 @@
     }
   ],
   "hq_bgm": "Existing manual file and URL unchanged; excluded from this release",
-  "validation": "Archive CRC, metadata, source-byte equivalence, SHA-1/SHA-256 and secret-pattern scan",
+  "validation": "ZIP CRC and JSON; strict focused models, sounds, font and emote routes (zero warnings); preservation of 1474 existing entries; no client test",
   "known_limitations": [
     "No new client test in this publication",
     "Inherited new-pack reference findings: 4 errors / 29 warnings in previous full-pack check",
     "Existing manual HQ pack lacks bgm.class153 and bgm.class153_2"
-  ]
+  ],
+  "content_updated": "2026-10-24"
 }

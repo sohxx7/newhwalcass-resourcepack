@@ -1,52 +1,32 @@
 {
-  "char.33_2": {
+  "bgm.class147.5": {
+    "replace": true,
     "sounds": [
-      "char/33_2"
+      {
+        "name": "bgm/class147.5",
+        "stream": true
+      }
     ]
   },
-  "skill.lucid_skin1_s1_throw": {
+  "bgm.ending.babylon": {
     "sounds": [
-      "skill/lucid_skin1/s1_throw"
+      {
+        "name": "minecraft:bgm/ending/babylon",
+        "stream": true
+      }
     ]
   },
-  "skill.lucid_skin1_s1_activate": {
+  "bgm.ending.pink_clouding": {
     "sounds": [
-      "skill/lucid_skin1/s1_activate"
+      {
+        "name": "minecraft:bgm/ending/pink_clouding",
+        "stream": true
+      }
     ]
   },
-  "skill.lucid_skin1_s2_cast": {
+  "char.100_2": {
     "sounds": [
-      "skill/lucid_skin1/s2_cast"
-    ]
-  },
-  "skill.lucid_skin1_s2_shoot": {
-    "sounds": [
-      "skill/lucid_skin1/s2_shoot"
-    ]
-  },
-  "skill.lucid_skin1_ult_cast": {
-    "sounds": [
-      "skill/lucid_skin1/ult_cast"
-    ]
-  },
-  "skill.lucid_skin1_ult_fire": {
-    "sounds": [
-      "skill/lucid_skin1/ult_fire"
-    ]
-  },
-  "skill.lucid_skin1_ult_shoot1": {
-    "sounds": [
-      "skill/lucid_skin1/ult_shoot1"
-    ]
-  },
-  "skill.lucid_skin1_ult_shoot2": {
-    "sounds": [
-      "skill/lucid_skin1/ult_shoot2"
-    ]
-  },
-  "char.84_5": {
-    "sounds": [
-      "char/84_5"
+      "char/100_2"
     ]
   },
   "char.101_4": {
@@ -70,19 +50,273 @@
       "char/137_2"
     ]
   },
-  "skill.ahri_r_cast": {
+  "char.138": {
     "sounds": [
-      "skill/ahri/r_cast"
+      "char/138",
+      "char/138_2"
     ]
   },
-  "skill.ahri_r_hit": {
+  "char.138_134": {
     "sounds": [
-      "skill/ahri/r_hit"
+      "skill/flowery/138_134"
     ]
   },
-  "skill.ahri_r_return": {
+  "char.139": {
     "sounds": [
-      "skill/ahri/r_return"
+      "char/139"
+    ]
+  },
+  "char.139_ult": {
+    "sounds": [
+      "char/139_ult"
+    ]
+  },
+  "char.140": {
+    "replace": true,
+    "sounds": [
+      "char/140"
+    ]
+  },
+  "char.141": {
+    "sounds": [
+      "char/141"
+    ]
+  },
+  "char.142": {
+    "sounds": [
+      "char/142"
+    ]
+  },
+  "char.143": {
+    "sounds": [
+      "char/143"
+    ]
+  },
+  "char.144": {
+    "sounds": [
+      "char/144"
+    ]
+  },
+  "char.145": {
+    "sounds": [
+      "char/145"
+    ]
+  },
+  "char.146": {
+    "sounds": [
+      "char/146"
+    ]
+  },
+  "char.148": {
+    "sounds": [
+      "char/148"
+    ]
+  },
+  "char.148_149": {
+    "sounds": [
+      "char/148_149"
+    ]
+  },
+  "char.149": {
+    "sounds": [
+      "char/149"
+    ]
+  },
+  "char.149_148": {
+    "sounds": [
+      "char/149_148"
+    ]
+  },
+  "char.150": {
+    "sounds": [
+      "char/150"
+    ]
+  },
+  "char.151": {
+    "sounds": [
+      {
+        "name": "char/151",
+        "stream": false
+      }
+    ]
+  },
+  "char.153": {
+    "sounds": [
+      {
+        "name": "char/153",
+        "stream": false
+      }
+    ]
+  },
+  "char.33_2": {
+    "sounds": [
+      "char/33_2"
+    ]
+  },
+  "char.47_2": {
+    "sounds": [
+      "char/47_2"
+    ]
+  },
+  "char.52_3": {
+    "sounds": [
+      "char/52_3"
+    ]
+  },
+  "char.683": {
+    "sounds": [
+      "char/683"
+    ]
+  },
+  "char.68_23": {
+    "sounds": [
+      "char/68_23"
+    ]
+  },
+  "char.68_2_23": {
+    "sounds": [
+      "char/68_2_23"
+    ]
+  },
+  "char.68_cut_3": {
+    "sounds": [
+      "char/68_cut_3"
+    ]
+  },
+  "char.68_sp_3": {
+    "sounds": [
+      "char/68_sp_3"
+    ]
+  },
+  "char.68_start2_3": {
+    "sounds": [
+      "char/68_start2_3"
+    ]
+  },
+  "char.68_start_3": {
+    "sounds": [
+      "char/68_start_3"
+    ]
+  },
+  "char.72_2": {
+    "sounds": [
+      "char/72_2"
+    ]
+  },
+  "char.822": {
+    "sounds": [
+      "char/822"
+    ]
+  },
+  "char.83_ryoshu_1": {
+    "sounds": [
+      "char/83_ryoshu_1"
+    ]
+  },
+  "char.83_ryoshu_2": {
+    "sounds": [
+      "char/83_ryoshu_2"
+    ]
+  },
+  "char.83_ryoshu_ruien": {
+    "sounds": [
+      "char/83_ryoshu_ruien"
+    ]
+  },
+  "char.84_5": {
+    "sounds": [
+      "char/84_5"
+    ]
+  },
+  "char.85_6": {
+    "sounds": [
+      "char/85_6"
+    ]
+  },
+  "char.88_2": {
+    "sounds": [
+      "char/88_2"
+    ]
+  },
+  "char152.hit": {
+    "sounds": [
+      {
+        "name": "char/archer/hit",
+        "stream": false
+      }
+    ]
+  },
+  "char152.lc": {
+    "sounds": [
+      {
+        "name": "char/archer/attack",
+        "stream": false
+      }
+    ]
+  },
+  "char152.q": {
+    "sounds": [
+      {
+        "name": "char/archer/q",
+        "stream": false
+      }
+    ]
+  },
+  "char152.right": {
+    "sounds": [
+      {
+        "name": "char/archer/right",
+        "stream": false
+      }
+    ]
+  },
+  "emote.emote38": {
+    "sounds": [
+      "emote/emote38"
+    ]
+  },
+  "emote.emote39": {
+    "sounds": [
+      "emote/emote39"
+    ]
+  },
+  "emote.emote41": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "emote/roigod",
+        "volume": 0.1
+      }
+    ]
+  },
+  "emote.emote42": {
+    "sounds": [
+      "emote/emote42"
+    ]
+  },
+  "emote.emote43": {
+    "sounds": [
+      "emote/emote43"
+    ]
+  },
+  "emote.emote44": {
+    "sounds": [
+      "emote/emote44"
+    ]
+  },
+  "emote.krmale1": {
+    "sounds": [
+      "emote/krmale1"
+    ]
+  },
+  "emote.krmale2": {
+    "sounds": [
+      "emote/krmale2"
+    ]
+  },
+  "emote.krmale3": {
+    "sounds": [
+      "emote/krmale3"
     ]
   },
   "skill.ahri_f_cast": {
@@ -93,11 +327,6 @@
   "skill.ahri_f_hit": {
     "sounds": [
       "skill/ahri/f_hit"
-    ]
-  },
-  "skill.ahri_q_cast": {
-    "sounds": [
-      "skill/ahri/q_cast"
     ]
   },
   "skill.ahri_g_cast": {
@@ -125,9 +354,105 @@
       "skill/ahri/l_hit"
     ]
   },
+  "skill.ahri_q_cast": {
+    "sounds": [
+      "skill/ahri/q_cast"
+    ]
+  },
+  "skill.ahri_r_cast": {
+    "sounds": [
+      "skill/ahri/r_cast"
+    ]
+  },
+  "skill.ahri_r_hit": {
+    "sounds": [
+      "skill/ahri/r_hit"
+    ]
+  },
+  "skill.ahri_r_return": {
+    "sounds": [
+      "skill/ahri/r_return"
+    ]
+  },
+  "skill.arche_aa": {
+    "sounds": [
+      "skill/arche/aa",
+      "skill/arche/aa2"
+    ]
+  },
+  "skill.arche_aacharge": {
+    "sounds": [
+      "skill/arche/aacharge"
+    ]
+  },
+  "skill.arche_dig": {
+    "sounds": [
+      "skill/arche/dig"
+    ]
+  },
+  "skill.arche_dig2": {
+    "sounds": [
+      "skill/arche/dig2"
+    ]
+  },
+  "skill.arche_drill": {
+    "sounds": [
+      "skill/arche/drill"
+    ]
+  },
+  "skill.arche_explode": {
+    "sounds": [
+      "skill/arche/explode"
+    ]
+  },
+  "skill.arche_ground": {
+    "sounds": [
+      "skill/arche/ground"
+    ]
+  },
+  "skill.arche_jump": {
+    "sounds": [
+      "skill/arche/jump"
+    ]
+  },
+  "skill.arche_load": {
+    "sounds": [
+      "skill/arche/load"
+    ]
+  },
+  "skill.arche_relic3": {
+    "sounds": [
+      "skill/arche/relic3"
+    ]
+  },
+  "skill.arche_ultset": {
+    "sounds": [
+      "skill/arche/ultset"
+    ]
+  },
+  "skill.arche_ultthrow": {
+    "sounds": [
+      "skill/arche/ultthrow"
+    ]
+  },
+  "skill.beemo_s2": {
+    "sounds": [
+      "skill/beemo/s2"
+    ]
+  },
+  "skill.caine_f_cast": {
+    "sounds": [
+      "skill/caine/q_out3"
+    ]
+  },
   "skill.caine_f_hit": {
     "sounds": [
       "skill/caine/f_hit"
+    ]
+  },
+  "skill.caine_g_cast": {
+    "sounds": [
+      "skill/caine/g_cast"
     ]
   },
   "skill.caine_q_hit": {
@@ -141,14 +466,210 @@
       "skill/caine/q_out2"
     ]
   },
-  "skill.caine_f_cast": {
+  "skill.craver_basic": {
     "sounds": [
-      "skill/caine/q_out3"
+      "skill/craver/basic"
     ]
   },
-  "skill.caine_g_cast": {
+  "skill.craver_f": {
     "sounds": [
-      "skill/caine/g_cast"
+      "skill/craver/f"
+    ]
+  },
+  "skill.craver_f_enhanced": {
+    "sounds": [
+      "skill/craver/f_enhanced"
+    ]
+  },
+  "skill.craver_q": {
+    "sounds": [
+      "skill/craver/q"
+    ]
+  },
+  "skill.craver_q_enhanced": {
+    "sounds": [
+      "skill/craver/q_enhanced"
+    ]
+  },
+  "skill.craver_reload": {
+    "sounds": [
+      "skill/craver/reload"
+    ]
+  },
+  "skill.craver_right": {
+    "sounds": [
+      "skill/craver/right"
+    ]
+  },
+  "skill.craver_right_enhanced": {
+    "sounds": [
+      "skill/craver/right_enhanced"
+    ]
+  },
+  "skill.craver_ult": {
+    "sounds": [
+      "skill/craver/ult"
+    ]
+  },
+  "skill.craver_ult_voice": {
+    "sounds": [
+      "skill/craver/ult_voice"
+    ]
+  },
+  "skill.death_f": {
+    "sounds": [
+      "skill/death/f"
+    ]
+  },
+  "skill.death_f_counter": {
+    "sounds": [
+      "skill/death/f_counter"
+    ]
+  },
+  "skill.death_gadget": {
+    "sounds": [
+      "skill/death/gadget"
+    ]
+  },
+  "skill.death_p": {
+    "sounds": [
+      "skill/death/p"
+    ]
+  },
+  "skill.death_p_mark": {
+    "sounds": [
+      "skill/death/p_mark"
+    ]
+  },
+  "skill.death_q": {
+    "sounds": [
+      "skill/death/q"
+    ]
+  },
+  "skill.death_q_escape": {
+    "sounds": [
+      "skill/death/q_escape"
+    ]
+  },
+  "skill.death_right": {
+    "sounds": [
+      "skill/death/right"
+    ]
+  },
+  "skill.death_right2": {
+    "sounds": [
+      "skill/death/right2"
+    ]
+  },
+  "skill.death_right2_hit": {
+    "sounds": [
+      "skill/death/right2_hit"
+    ]
+  },
+  "skill.death_right_enhanced": {
+    "sounds": [
+      "skill/death/right_enhanced"
+    ]
+  },
+  "skill.flowery_138_combine": {
+    "sounds": [
+      "skill/flowery/138_combine"
+    ]
+  },
+  "skill.flowery_138_gadget": {
+    "sounds": [
+      "skill/flowery/138_gadget"
+    ]
+  },
+  "skill.flowery_138_omega": {
+    "sounds": [
+      "skill/flowery/138_omega"
+    ]
+  },
+  "skill.flowery_138_power": {
+    "sounds": [
+      "skill/flowery/138_power"
+    ]
+  },
+  "skill.flowery_138_punch": {
+    "sounds": [
+      "skill/flowery/138_punch"
+    ]
+  },
+  "skill.flowery_138_wind": {
+    "sounds": [
+      "skill/flowery/138_wind"
+    ]
+  },
+  "skill.flowery_flower": {
+    "sounds": [
+      "skill/flowery/flower"
+    ]
+  },
+  "skill.flowery_jarona": {
+    "sounds": [
+      "skill/flowery/jarona",
+      "skill/flowery/jarona2",
+      "skill/flowery/jarona3",
+      "skill/flowery/jarona4"
+    ]
+  },
+  "skill.flowery_punch": {
+    "sounds": [
+      "skill/flowery/punch"
+    ]
+  },
+  "skill.flowery_punchhit": {
+    "sounds": [
+      "skill/flowery/punchhit"
+    ]
+  },
+  "skill.flowery_shoot": {
+    "sounds": [
+      "skill/flowery/shoot"
+    ]
+  },
+  "skill.flowery_target": {
+    "sounds": [
+      "skill/flowery/target"
+    ]
+  },
+  "skill.flowery_ult": {
+    "sounds": [
+      "skill/flowery/ult"
+    ]
+  },
+  "skill.flowery_ult2": {
+    "sounds": [
+      "skill/flowery/ult2"
+    ]
+  },
+  "skill.flowery_wind": {
+    "sounds": [
+      "skill/flowery/wind"
+    ]
+  },
+  "skill.huashan_nocombat": {
+    "sounds": [
+      "skill/huashan/nocombat"
+    ]
+  },
+  "skill.huashan_swing": {
+    "sounds": [
+      "skill/huashan/sword/swing_1",
+      "skill/huashan/sword/swing_2",
+      "skill/huashan/sword/swing_3",
+      "skill/huashan/sword/swing_4",
+      "skill/huashan/sword/swing_5",
+      "skill/huashan/sword/swing_6"
+    ]
+  },
+  "skill.huashan_thrust": {
+    "sounds": [
+      "skill/huashan/sword/thrust_1",
+      "skill/huashan/sword/thrust_2",
+      "skill/huashan/sword/thrust_3",
+      "skill/huashan/sword/thrust_4"
     ]
   },
   "skill.jevil_137_gadget": {
@@ -219,171 +740,6 @@
       "skill/jevil/ult"
     ]
   },
-  "skill.soldier_ult": {
-    "sounds": [
-      "skill/soldier/ult"
-    ]
-  },
-  "char.138": {
-    "sounds": [
-      "char/138",
-      "char/138_2"
-    ]
-  },
-  "char.139": {
-    "sounds": [
-      "char/139"
-    ]
-  },
-  "char.138_134": {
-    "sounds": [
-      "skill/flowery/138_134"
-    ]
-  },
-  "char.139_ult": {
-    "sounds": [
-      "char/139_ult"
-    ]
-  },
-  "skill.flowery_138_punch": {
-    "sounds": [
-      "skill/flowery/138_punch"
-    ]
-  },
-  "skill.flowery_ult": {
-    "sounds": [
-      "skill/flowery/ult"
-    ]
-  },
-  "skill.flowery_138_combine": {
-    "sounds": [
-      "skill/flowery/138_combine"
-    ]
-  },
-  "skill.flowery_ult2": {
-    "sounds": [
-      "skill/flowery/ult2"
-    ]
-  },
-  "skill.flowery_138_gadget": {
-    "sounds": [
-      "skill/flowery/138_gadget"
-    ]
-  },
-  "skill.flowery_punch": {
-    "sounds": [
-      "skill/flowery/punch"
-    ]
-  },
-  "skill.flowery_punchhit": {
-    "sounds": [
-      "skill/flowery/punchhit"
-    ]
-  },
-  "skill.flowery_138_power": {
-    "sounds": [
-      "skill/flowery/138_power"
-    ]
-  },
-  "skill.flowery_wind": {
-    "sounds": [
-      "skill/flowery/wind"
-    ]
-  },
-  "skill.flowery_flower": {
-    "sounds": [
-      "skill/flowery/flower"
-    ]
-  },
-  "skill.flowery_138_omega": {
-    "sounds": [
-      "skill/flowery/138_omega"
-    ]
-  },
-  "skill.flowery_target": {
-    "sounds": [
-      "skill/flowery/target"
-    ]
-  },
-  "skill.flowery_138_wind": {
-    "sounds": [
-      "skill/flowery/138_wind"
-    ]
-  },
-  "skill.flowery_shoot": {
-    "sounds": [
-      "skill/flowery/shoot"
-    ]
-  },
-  "skill.flowery_jarona": {
-    "sounds": [
-      "skill/flowery/jarona",
-      "skill/flowery/jarona2",
-      "skill/flowery/jarona3",
-      "skill/flowery/jarona4"
-    ]
-  },
-  "skill.arche_aa": {
-    "sounds": [
-      "skill/arche/aa",
-      "skill/arche/aa2"
-    ]
-  },
-  "skill.arche_aacharge": {
-    "sounds": [
-      "skill/arche/aacharge"
-    ]
-  },
-  "skill.arche_dig": {
-    "sounds": [
-      "skill/arche/dig"
-    ]
-  },
-  "skill.arche_ground": {
-    "sounds": [
-      "skill/arche/ground"
-    ]
-  },
-  "skill.arche_dig2": {
-    "sounds": [
-      "skill/arche/dig2"
-    ]
-  },
-  "skill.arche_jump": {
-    "sounds": [
-      "skill/arche/jump"
-    ]
-  },
-  "skill.arche_explode": {
-    "sounds": [
-      "skill/arche/explode"
-    ]
-  },
-  "skill.arche_drill": {
-    "sounds": [
-      "skill/arche/drill"
-    ]
-  },
-  "skill.arche_load": {
-    "sounds": [
-      "skill/arche/load"
-    ]
-  },
-  "skill.arche_ultthrow": {
-    "sounds": [
-      "skill/arche/ultthrow"
-    ]
-  },
-  "skill.arche_relic3": {
-    "sounds": [
-      "skill/arche/relic3"
-    ]
-  },
-  "skill.arche_ultset": {
-    "sounds": [
-      "skill/arche/ultset"
-    ]
-  },
   "skill.killua_skill1": {
     "sounds": [
       "skill/killua/skill1"
@@ -394,9 +750,399 @@
       "skill/killua/skill2"
     ]
   },
-  "char.52_3": {
+  "skill.lucid_skin1_s1_activate": {
     "sounds": [
-      "char/52_3"
+      "skill/lucid_skin1/s1_activate"
+    ]
+  },
+  "skill.lucid_skin1_s1_throw": {
+    "sounds": [
+      "skill/lucid_skin1/s1_throw"
+    ]
+  },
+  "skill.lucid_skin1_s2_cast": {
+    "sounds": [
+      "skill/lucid_skin1/s2_cast"
+    ]
+  },
+  "skill.lucid_skin1_s2_shoot": {
+    "sounds": [
+      "skill/lucid_skin1/s2_shoot"
+    ]
+  },
+  "skill.lucid_skin1_ult_cast": {
+    "sounds": [
+      "skill/lucid_skin1/ult_cast"
+    ]
+  },
+  "skill.lucid_skin1_ult_fire": {
+    "sounds": [
+      "skill/lucid_skin1/ult_fire"
+    ]
+  },
+  "skill.lucid_skin1_ult_shoot1": {
+    "sounds": [
+      "skill/lucid_skin1/ult_shoot1"
+    ]
+  },
+  "skill.lucid_skin1_ult_shoot2": {
+    "sounds": [
+      "skill/lucid_skin1/ult_shoot2"
+    ]
+  },
+  "skill.lulu_e1": {
+    "sounds": [
+      "skill/lulu/e1"
+    ]
+  },
+  "skill.lulu_e2": {
+    "sounds": [
+      "skill/lulu/e2"
+    ]
+  },
+  "skill.lulu_p1": {
+    "sounds": [
+      "skill/lulu/p1"
+    ]
+  },
+  "skill.lulu_p2": {
+    "sounds": [
+      "skill/lulu/p2"
+    ]
+  },
+  "skill.lulu_q": {
+    "sounds": [
+      "skill/lulu/q"
+    ]
+  },
+  "skill.lulu_r": {
+    "sounds": [
+      "skill/lulu/class146r"
+    ]
+  },
+  "skill.lulu_r1": {
+    "sounds": [
+      "skill/lulu/r1"
+    ]
+  },
+  "skill.lulu_w1end": {
+    "sounds": [
+      "skill/lulu/w1end"
+    ]
+  },
+  "skill.lulu_w1start": {
+    "sounds": [
+      "skill/lulu/w1start"
+    ]
+  },
+  "skill.lulu_w2": {
+    "sounds": [
+      "skill/lulu/w2"
+    ]
+  },
+  "skill.mj_e": {
+    "sounds": [
+      "skill/mj/e"
+    ]
+  },
+  "skill.mj_e2": {
+    "sounds": [
+      "skill/mj/e2"
+    ]
+  },
+  "skill.mj_g": {
+    "sounds": [
+      "skill/mj/g"
+    ]
+  },
+  "skill.mj_g2": {
+    "sounds": [
+      "skill/mj/g2"
+    ]
+  },
+  "skill.mj_q": {
+    "sounds": [
+      "skill/mj/q"
+    ]
+  },
+  "skill.mj_q2": {
+    "sounds": [
+      "skill/mj/q2"
+    ]
+  },
+  "skill.mj_qhit": {
+    "sounds": [
+      "skill/mj/qhit"
+    ]
+  },
+  "skill.mj_qhit2": {
+    "sounds": [
+      "skill/mj/qhit2"
+    ]
+  },
+  "skill.mj_qhit3": {
+    "sounds": [
+      "skill/mj/qhit3"
+    ]
+  },
+  "skill.mj_r": {
+    "sounds": [
+      "skill/mj/r"
+    ]
+  },
+  "skill.mj_rbgm": {
+    "sounds": [
+      "skill/mj/rbgm"
+    ]
+  },
+  "skill.mj_rhit": {
+    "sounds": [
+      "skill/mj/rhit"
+    ]
+  },
+  "skill.mj_voice1": {
+    "sounds": [
+      "skill/mj/voice1"
+    ]
+  },
+  "skill.mj_voice10": {
+    "sounds": [
+      "skill/mj/voice10"
+    ]
+  },
+  "skill.mj_voice11": {
+    "sounds": [
+      "skill/mj/voice11"
+    ]
+  },
+  "skill.mj_voice12": {
+    "sounds": [
+      "skill/mj/voice12"
+    ]
+  },
+  "skill.mj_voice2": {
+    "sounds": [
+      "skill/mj/voice2"
+    ]
+  },
+  "skill.mj_voice3": {
+    "sounds": [
+      "skill/mj/voice3"
+    ]
+  },
+  "skill.mj_voice4": {
+    "sounds": [
+      "skill/mj/voice4"
+    ]
+  },
+  "skill.mj_voice5": {
+    "sounds": [
+      "skill/mj/voice5"
+    ]
+  },
+  "skill.mj_voice6": {
+    "sounds": [
+      "skill/mj/voice6"
+    ]
+  },
+  "skill.mj_voice7": {
+    "sounds": [
+      "skill/mj/voice7"
+    ]
+  },
+  "skill.mj_voice8": {
+    "sounds": [
+      "skill/mj/voice8"
+    ]
+  },
+  "skill.mj_voice9": {
+    "sounds": [
+      "skill/mj/voice9"
+    ]
+  },
+  "skill.mj_w": {
+    "sounds": [
+      "skill/mj/w"
+    ]
+  },
+  "skill.mj_whit": {
+    "sounds": [
+      "skill/mj/whit"
+    ]
+  },
+  "skill.poppy_e1": {
+    "sounds": [
+      "skill/poppy/e1"
+    ]
+  },
+  "skill.poppy_e2": {
+    "sounds": [
+      "skill/poppy/e2"
+    ]
+  },
+  "skill.poppy_hidden": {
+    "sounds": [
+      "skill/poppy/hidden"
+    ]
+  },
+  "skill.poppy_p1": {
+    "sounds": [
+      "skill/poppy/p1"
+    ]
+  },
+  "skill.poppy_p2": {
+    "sounds": [
+      "skill/poppy/p2"
+    ]
+  },
+  "skill.poppy_q1": {
+    "sounds": [
+      "skill/poppy/q1"
+    ]
+  },
+  "skill.poppy_q2": {
+    "sounds": [
+      "skill/poppy/q2"
+    ]
+  },
+  "skill.poppy_r1": {
+    "sounds": [
+      "skill/poppy/r1"
+    ]
+  },
+  "skill.poppy_r2": {
+    "sounds": [
+      "skill/poppy/r2"
+    ]
+  },
+  "skill.poppy_w1": {
+    "sounds": [
+      "skill/poppy/w1"
+    ]
+  },
+  "skill.puss_f": {
+    "sounds": [
+      "skill/puss/f"
+    ]
+  },
+  "skill.puss_gadget": {
+    "sounds": [
+      "skill/puss/gadget"
+    ]
+  },
+  "skill.puss_gadget_return": {
+    "sounds": [
+      "skill/puss/gadget_return"
+    ]
+  },
+  "skill.puss_p_dodge": {
+    "sounds": [
+      "skill/puss/p_dodge"
+    ]
+  },
+  "skill.puss_p_mark": {
+    "sounds": [
+      "skill/puss/p_mark"
+    ]
+  },
+  "skill.puss_p_touche": {
+    "sounds": [
+      "skill/puss/p_touche"
+    ]
+  },
+  "skill.puss_q": {
+    "sounds": [
+      "skill/puss/q"
+    ]
+  },
+  "skill.puss_right": {
+    "sounds": [
+      "skill/puss/right"
+    ]
+  },
+  "skill.puss_right_hit": {
+    "sounds": [
+      "skill/puss/right_hit"
+    ]
+  },
+  "skill.rien_axe": {
+    "sounds": [
+      "skill/rien/axe"
+    ]
+  },
+  "skill.rien_card": {
+    "sounds": [
+      "skill/rien/card"
+    ]
+  },
+  "skill.rien_crystal": {
+    "sounds": [
+      "skill/rien/crystal"
+    ]
+  },
+  "skill.rien_dagger": {
+    "sounds": [
+      "skill/rien/dagger"
+    ]
+  },
+  "skill.rien_durandal": {
+    "sounds": [
+      "skill/rien/durandal"
+    ]
+  },
+  "skill.rien_end": {
+    "sounds": [
+      "skill/rien/end"
+    ]
+  },
+  "skill.rien_finish": {
+    "sounds": [
+      "skill/rien/finish"
+    ]
+  },
+  "skill.rien_flip": {
+    "sounds": [
+      "skill/rien/flip"
+    ]
+  },
+  "skill.rien_hammer": {
+    "sounds": [
+      "skill/rien/hammer"
+    ]
+  },
+  "skill.rien_lance": {
+    "sounds": [
+      "skill/rien/lance"
+    ]
+  },
+  "skill.rien_mace": {
+    "sounds": [
+      "skill/rien/mace"
+    ]
+  },
+  "skill.rien_mook": {
+    "sounds": [
+      "skill/rien/mook"
+    ]
+  },
+  "skill.rien_pistol": {
+    "sounds": [
+      "skill/rien/pistol"
+    ]
+  },
+  "skill.rien_shotgun": {
+    "sounds": [
+      "skill/rien/shotgun"
+    ]
+  },
+  "skill.rien_wheels": {
+    "sounds": [
+      "skill/rien/wheels"
+    ]
+  },
+  "skill.rien_wheels_cast": {
+    "sounds": [
+      "skill/rien/wheels_cast"
     ]
   },
   "skill.ryoshu_basic_1": {
@@ -524,134 +1270,14 @@
       "skill/ryoshu/special_9"
     ]
   },
-  "char.83_ryoshu_1": {
+  "skill.satgat_skin1_ego": {
     "sounds": [
-      "char/83_ryoshu_1"
+      "skill/satgat_skin1/ego"
     ]
   },
-  "char.83_ryoshu_2": {
+  "skill.satgat_skin1_goldan": {
     "sounds": [
-      "char/83_ryoshu_2"
-    ]
-  },
-  "char.83_ryoshu_ruien": {
-    "sounds": [
-      "char/83_ryoshu_ruien"
-    ]
-  },
-  "skill.rien_axe": {
-    "sounds": [
-      "skill/rien/axe"
-    ]
-  },
-  "skill.rien_card": {
-    "sounds": [
-      "skill/rien/card"
-    ]
-  },
-  "skill.rien_crystal": {
-    "sounds": [
-      "skill/rien/crystal"
-    ]
-  },
-  "skill.rien_dagger": {
-    "sounds": [
-      "skill/rien/dagger"
-    ]
-  },
-  "skill.rien_durandal": {
-    "sounds": [
-      "skill/rien/durandal"
-    ]
-  },
-  "skill.rien_end": {
-    "sounds": [
-      "skill/rien/end"
-    ]
-  },
-  "skill.rien_finish": {
-    "sounds": [
-      "skill/rien/finish"
-    ]
-  },
-  "skill.rien_flip": {
-    "sounds": [
-      "skill/rien/flip"
-    ]
-  },
-  "skill.rien_hammer": {
-    "sounds": [
-      "skill/rien/hammer"
-    ]
-  },
-  "skill.rien_lance": {
-    "sounds": [
-      "skill/rien/lance"
-    ]
-  },
-  "skill.rien_mace": {
-    "sounds": [
-      "skill/rien/mace"
-    ]
-  },
-  "skill.rien_mook": {
-    "sounds": [
-      "skill/rien/mook"
-    ]
-  },
-  "skill.rien_pistol": {
-    "sounds": [
-      "skill/rien/pistol"
-    ]
-  },
-  "skill.rien_shotgun": {
-    "sounds": [
-      "skill/rien/shotgun"
-    ]
-  },
-  "skill.rien_wheels": {
-    "sounds": [
-      "skill/rien/wheels"
-    ]
-  },
-  "skill.rien_wheels_cast": {
-    "sounds": [
-      "skill/rien/wheels_cast"
-    ]
-  },
-  "char.683": {
-    "sounds": [
-      "char/683"
-    ]
-  },
-  "char.68_23": {
-    "sounds": [
-      "char/68_23"
-    ]
-  },
-  "char.68_2_23": {
-    "sounds": [
-      "char/68_2_23"
-    ]
-  },
-  "char.68_cut_3": {
-    "sounds": [
-      "char/68_cut_3"
-    ]
-  },
-  "char.68_sp_3": {
-    "sounds": [
-      "char/68_sp_3"
-    ]
-  },
-  "char.68_start_3": {
-    "sounds": [
-      "char/68_start_3"
-    ]
-  },
-  "char.68_start2_3": {
-    "sounds": [
-      "char/68_start2_3"
+      "skill/satgat_skin1/goldan"
     ]
   },
   "skill.satgat_skin1_s1_1": {
@@ -714,6 +1340,11 @@
       "skill/satgat_skin1/sp_1"
     ]
   },
+  "skill.satgat_skin1_sp_10": {
+    "sounds": [
+      "skill/satgat_skin1/sp_10"
+    ]
+  },
   "skill.satgat_skin1_sp_2": {
     "sounds": [
       "skill/satgat_skin1/sp_2"
@@ -754,132 +1385,64 @@
       "skill/satgat_skin1/sp_9"
     ]
   },
-  "skill.satgat_skin1_sp_10": {
-    "sounds": [
-      "skill/satgat_skin1/sp_10"
-    ]
-  },
-  "skill.satgat_skin1_goldan": {
-    "sounds": [
-      "skill/satgat_skin1/goldan"
-    ]
-  },
   "skill.satgat_skin1_yukcham": {
     "sounds": [
       "skill/satgat_skin1/yukcham"
     ]
   },
-  "skill.satgat_skin1_ego": {
+  "skill.soldier_ult": {
     "sounds": [
-      "skill/satgat_skin1/ego"
+      "skill/soldier/ult"
     ]
   },
-  "char.72_2": {
+  "skill.spear_4end": {
     "sounds": [
-      "char/72_2"
+      "skill/spear/4end"
     ]
   },
-  "emote.emote38": {
+  "skill.spear_4start": {
     "sounds": [
-      "emote/emote38"
+      "skill/spear/4start"
     ]
   },
-  "char.142": {
+  "skill.spear_fhit": {
     "sounds": [
-      "char/142"
+      "skill/spear/fhit"
     ]
   },
-  "emote.emote39": {
+  "skill.spear_fstart": {
     "sounds": [
-      "emote/emote39"
+      "skill/spear/fstart"
     ]
   },
-  "skill.poppy_e1": {
+  "skill.spear_gadgetend": {
     "sounds": [
-      "skill/poppy/e1"
+      "skill/spear/gadgetend"
     ]
   },
-  "skill.poppy_e2": {
+  "skill.spear_gadgetstart": {
     "sounds": [
-      "skill/poppy/e2"
+      "skill/spear/gadgetstart"
     ]
   },
-  "skill.poppy_hidden": {
+  "skill.spear_longrightend": {
     "sounds": [
-      "skill/poppy/hidden"
+      "skill/spear/longrightend"
     ]
   },
-  "skill.poppy_p1": {
+  "skill.spear_longrightstart": {
     "sounds": [
-      "skill/poppy/p1"
+      "skill/spear/longrightstart"
     ]
   },
-  "skill.poppy_p2": {
+  "skill.spear_shortright": {
     "sounds": [
-      "skill/poppy/p2"
-    ]
-  },
-  "skill.poppy_q1": {
-    "sounds": [
-      "skill/poppy/q1"
-    ]
-  },
-  "skill.poppy_q2": {
-    "sounds": [
-      "skill/poppy/q2"
-    ]
-  },
-  "skill.poppy_r1": {
-    "sounds": [
-      "skill/poppy/r1"
-    ]
-  },
-  "skill.poppy_r2": {
-    "sounds": [
-      "skill/poppy/r2"
-    ]
-  },
-  "skill.poppy_w1": {
-    "sounds": [
-      "skill/poppy/w1"
-    ]
-  },
-  "skill.huashan_swing": {
-    "sounds": [
-      "skill/huashan/sword/swing_1",
-      "skill/huashan/sword/swing_2",
-      "skill/huashan/sword/swing_3",
-      "skill/huashan/sword/swing_4",
-      "skill/huashan/sword/swing_5",
-      "skill/huashan/sword/swing_6"
-    ]
-  },
-  "skill.huashan_thrust": {
-    "sounds": [
-      "skill/huashan/sword/thrust_1",
-      "skill/huashan/sword/thrust_2",
-      "skill/huashan/sword/thrust_3",
-      "skill/huashan/sword/thrust_4"
-    ]
-  },
-  "skill.huashan_nocombat": {
-    "sounds": [
-      "skill/huashan/nocombat"
-    ]
-  },
-  "skill.teacher_right": {
-    "sounds": [
-      "skill/teacher/right"
+      "skill/spear/shortright"
     ]
   },
   "skill.teacher_f": {
     "sounds": [
       "skill/teacher/f"
-    ]
-  },
-  "skill.teacher_q": {
-    "sounds": [
-      "skill/teacher/q"
     ]
   },
   "skill.teacher_gadget": {
@@ -892,470 +1455,19 @@
       "skill/teacher/hidden1"
     ]
   },
+  "skill.teacher_q": {
+    "sounds": [
+      "skill/teacher/q"
+    ]
+  },
   "skill.teacher_realhidden": {
     "sounds": [
       "skill/teacher/realhidden"
     ]
   },
-  "skill.craver_basic": {
+  "skill.teacher_right": {
     "sounds": [
-      "skill/craver/basic"
-    ]
-  },
-  "skill.craver_right": {
-    "sounds": [
-      "skill/craver/right"
-    ]
-  },
-  "skill.craver_right_enhanced": {
-    "sounds": [
-      "skill/craver/right_enhanced"
-    ]
-  },
-  "skill.craver_f": {
-    "sounds": [
-      "skill/craver/f"
-    ]
-  },
-  "skill.craver_f_enhanced": {
-    "sounds": [
-      "skill/craver/f_enhanced"
-    ]
-  },
-  "skill.craver_q": {
-    "sounds": [
-      "skill/craver/q"
-    ]
-  },
-  "skill.craver_q_enhanced": {
-    "sounds": [
-      "skill/craver/q_enhanced"
-    ]
-  },
-  "skill.craver_reload": {
-    "sounds": [
-      "skill/craver/reload"
-    ]
-  },
-  "skill.craver_ult": {
-    "sounds": [
-      "skill/craver/ult"
-    ]
-  },
-  "skill.craver_ult_voice": {
-    "sounds": [
-      "skill/craver/ult_voice"
-    ]
-  },
-  "char.141": {
-    "sounds": [
-      "char/141"
-    ]
-  },
-  "char.143": {
-    "sounds": [
-      "char/143"
-    ]
-  },
-  "char.144": {
-    "sounds": [
-      "char/144"
-    ]
-  },
-  "char.47_2": {
-    "sounds": [
-      "char/47_2"
-    ]
-  },
-  "skill.beemo_s2": {
-    "sounds": [
-      "skill/beemo/s2"
-    ]
-  },
-  "skill.mj_q": {
-    "sounds": [
-      "skill/mj/q"
-    ]
-  },
-  "skill.mj_qhit": {
-    "sounds": [
-      "skill/mj/qhit"
-    ]
-  },
-  "skill.mj_qhit2": {
-    "sounds": [
-      "skill/mj/qhit2"
-    ]
-  },
-  "skill.mj_qhit3": {
-    "sounds": [
-      "skill/mj/qhit3"
-    ]
-  },
-  "skill.mj_q2": {
-    "sounds": [
-      "skill/mj/q2"
-    ]
-  },
-  "skill.mj_w": {
-    "sounds": [
-      "skill/mj/w"
-    ]
-  },
-  "skill.mj_e": {
-    "sounds": [
-      "skill/mj/e"
-    ]
-  },
-  "skill.mj_whit": {
-    "sounds": [
-      "skill/mj/whit"
-    ]
-  },
-  "skill.mj_r": {
-    "sounds": [
-      "skill/mj/r"
-    ]
-  },
-  "skill.mj_rhit": {
-    "sounds": [
-      "skill/mj/rhit"
-    ]
-  },
-  "skill.mj_e2": {
-    "sounds": [
-      "skill/mj/e2"
-    ]
-  },
-  "skill.mj_rbgm": {
-    "sounds": [
-      "skill/mj/rbgm"
-    ]
-  },
-  "skill.mj_g": {
-    "sounds": [
-      "skill/mj/g"
-    ]
-  },
-  "skill.mj_g2": {
-    "sounds": [
-      "skill/mj/g2"
-    ]
-  },
-  "char.100_2": {
-    "sounds": [
-      "char/100_2"
-    ]
-  },
-  "skill.spear_shortright": {
-    "sounds": [
-      "skill/spear/shortright"
-    ]
-  },
-  "skill.spear_longrightstart": {
-    "sounds": [
-      "skill/spear/longrightstart"
-    ]
-  },
-  "skill.spear_longrightend": {
-    "sounds": [
-      "skill/spear/longrightend"
-    ]
-  },
-  "skill.spear_fstart": {
-    "sounds": [
-      "skill/spear/fstart"
-    ]
-  },
-  "skill.spear_fhit": {
-    "sounds": [
-      "skill/spear/fhit"
-    ]
-  },
-  "skill.spear_4start": {
-    "sounds": [
-      "skill/spear/4start"
-    ]
-  },
-  "skill.spear_4end": {
-    "sounds": [
-      "skill/spear/4end"
-    ]
-  },
-  "skill.spear_gadgetstart": {
-    "sounds": [
-      "skill/spear/gadgetstart"
-    ]
-  },
-  "skill.spear_gadgetend": {
-    "sounds": [
-      "skill/spear/gadgetend"
-    ]
-  },
-  "char.145": {
-    "sounds": [
-      "char/145"
-    ]
-  },
-  "skill.lulu_p1": {
-    "sounds": [
-      "skill/lulu/p1"
-    ]
-  },
-  "skill.lulu_p2": {
-    "sounds": [
-      "skill/lulu/p2"
-    ]
-  },
-  "skill.lulu_q": {
-    "sounds": [
-      "skill/lulu/q"
-    ]
-  },
-  "skill.lulu_w1start": {
-    "sounds": [
-      "skill/lulu/w1start"
-    ]
-  },
-  "skill.lulu_w1end": {
-    "sounds": [
-      "skill/lulu/w1end"
-    ]
-  },
-  "skill.lulu_w2": {
-    "sounds": [
-      "skill/lulu/w2"
-    ]
-  },
-  "skill.lulu_r": {
-    "sounds": [
-      "skill/lulu/class146r"
-    ]
-  },
-  "char.146": {
-    "sounds": [
-      "char/146"
-    ]
-  },
-  "skill.lulu_e1": {
-    "sounds": [
-      "skill/lulu/e1"
-    ]
-  },
-  "skill.lulu_e2": {
-    "sounds": [
-      "skill/lulu/e2"
-    ]
-  },
-  "skill.lulu_r1": {
-    "sounds": [
-      "skill/lulu/r1"
-    ]
-  },
-  "skill.mj_voice1": {
-    "sounds": [
-      "skill/mj/voice1"
-    ]
-  },
-  "skill.mj_voice2": {
-    "sounds": [
-      "skill/mj/voice2"
-    ]
-  },
-  "skill.mj_voice3": {
-    "sounds": [
-      "skill/mj/voice3"
-    ]
-  },
-  "skill.mj_voice4": {
-    "sounds": [
-      "skill/mj/voice4"
-    ]
-  },
-  "skill.mj_voice5": {
-    "sounds": [
-      "skill/mj/voice5"
-    ]
-  },
-  "skill.mj_voice6": {
-    "sounds": [
-      "skill/mj/voice6"
-    ]
-  },
-  "skill.mj_voice7": {
-    "sounds": [
-      "skill/mj/voice7"
-    ]
-  },
-  "skill.mj_voice8": {
-    "sounds": [
-      "skill/mj/voice8"
-    ]
-  },
-  "skill.mj_voice9": {
-    "sounds": [
-      "skill/mj/voice9"
-    ]
-  },
-  "skill.mj_voice10": {
-    "sounds": [
-      "skill/mj/voice10"
-    ]
-  },
-  "skill.mj_voice11": {
-    "sounds": [
-      "skill/mj/voice11"
-    ]
-  },
-  "skill.mj_voice12": {
-    "sounds": [
-      "skill/mj/voice12"
-    ]
-  },
-  "char.85_6": {
-    "sounds": [
-      "char/85_6"
-    ]
-  },
-  "char.149": {
-    "sounds": [
-      "char/149"
-    ]
-  },
-  "char.149_148": {
-    "sounds": [
-      "char/149_148"
-    ]
-  },
-  "skill.death_p": {
-    "sounds": [
-      "skill/death/p"
-    ]
-  },
-  "skill.death_p_mark": {
-    "sounds": [
-      "skill/death/p_mark"
-    ]
-  },
-  "skill.death_right": {
-    "sounds": [
-      "skill/death/right"
-    ]
-  },
-  "skill.death_right2": {
-    "sounds": [
-      "skill/death/right2"
-    ]
-  },
-  "skill.death_right2_hit": {
-    "sounds": [
-      "skill/death/right2_hit"
-    ]
-  },
-  "skill.death_right_enhanced": {
-    "sounds": [
-      "skill/death/right_enhanced"
-    ]
-  },
-  "skill.death_f": {
-    "sounds": [
-      "skill/death/f"
-    ]
-  },
-  "skill.death_f_counter": {
-    "sounds": [
-      "skill/death/f_counter"
-    ]
-  },
-  "skill.death_q": {
-    "sounds": [
-      "skill/death/q"
-    ]
-  },
-  "skill.death_q_escape": {
-    "sounds": [
-      "skill/death/q_escape"
-    ]
-  },
-  "skill.death_gadget": {
-    "sounds": [
-      "skill/death/gadget"
-    ]
-  },
-  "skill.puss_right": {
-    "sounds": [
-      "skill/puss/right"
-    ]
-  },
-  "skill.puss_right_hit": {
-    "sounds": [
-      "skill/puss/right_hit"
-    ]
-  },
-  "skill.puss_f": {
-    "sounds": [
-      "skill/puss/f"
-    ]
-  },
-  "skill.puss_p_dodge": {
-    "sounds": [
-      "skill/puss/p_dodge"
-    ]
-  },
-  "skill.puss_p_mark": {
-    "sounds": [
-      "skill/puss/p_mark"
-    ]
-  },
-  "skill.puss_p_touche": {
-    "sounds": [
-      "skill/puss/p_touche"
-    ]
-  },
-  "skill.puss_q": {
-    "sounds": [
-      "skill/puss/q"
-    ]
-  },
-  "skill.puss_gadget": {
-    "sounds": [
-      "skill/puss/gadget"
-    ]
-  },
-  "skill.puss_gadget_return": {
-    "sounds": [
-      "skill/puss/gadget_return"
-    ]
-  },
-  "char.148": {
-    "sounds": [
-      "char/148"
-    ]
-  },
-  "char.148_149": {
-    "sounds": [
-      "char/148_149"
-    ]
-  },
-  "char.150": {
-    "sounds": [
-      "char/150"
-    ]
-  },
-  "char.140": {
-    "replace": true,
-    "sounds": [
-      "char/140"
-    ]
-  },
-  "char.88_2": {
-    "sounds": [
-      "char/88_2"
-    ]
-  },
-  "skill.watcher_right": {
-    "sounds": [
-      "skill/watcher/right"
+      "skill/teacher/right"
     ]
   },
   "skill.watcher_f": {
@@ -1363,122 +1475,19 @@
       "skill/watcher/f"
     ]
   },
-  "skill.watcher_q": {
-    "sounds": [
-      "skill/watcher/q"
-    ]
-  },
   "skill.watcher_f_boom": {
     "sounds": [
       "skill/watcher/f_boom"
     ]
   },
-  "char.822": {
+  "skill.watcher_q": {
     "sounds": [
-      "char/822"
+      "skill/watcher/q"
     ]
   },
-  "bgm.class147.5": {
-    "replace": true,
+  "skill.watcher_right": {
     "sounds": [
-      {
-        "name": "bgm/class147.5",
-        "stream": true
-      }
-    ]
-  },
-  "emote.krmale1": {
-    "sounds": [
-      "emote/krmale1"
-    ]
-  },
-  "emote.krmale2": {
-    "sounds": [
-      "emote/krmale2"
-    ]
-  },
-  "emote.krmale3": {
-    "sounds": [
-      "emote/krmale3"
-    ]
-  },
-  "bgm.ending.pink_clouding": {
-    "sounds": [
-      {
-        "name": "minecraft:bgm/ending/pink_clouding",
-        "stream": true
-      }
-    ]
-  },
-  "bgm.ending.babylon": {
-    "sounds": [
-      {
-        "name": "minecraft:bgm/ending/babylon",
-        "stream": true
-      }
-    ]
-  },
-  "char152.lc": {
-    "sounds": [
-      {
-        "name": "char/archer/attack",
-        "stream": false
-      }
-    ]
-  },
-  "char152.q": {
-    "sounds": [
-      {
-        "name": "char/archer/q",
-        "stream": false
-      }
-    ]
-  },
-  "char152.hit": {
-    "sounds": [
-      {
-        "name": "char/archer/hit",
-        "stream": false
-      }
-    ]
-  },
-  "char152.right": {
-    "sounds": [
-      {
-        "name": "char/archer/right",
-        "stream": false
-      }
-    ]
-  },
-  "char.151": {
-    "sounds": [
-      {
-        "name": "char/151",
-        "stream": false
-      }
-    ]
-  },
-  "char.153": {
-    "sounds": [
-      {
-        "name": "char/153",
-        "stream": false
-      }
-    ]
-  },
-  "emote.emote41": {
-    "sounds": [
-      "emote/emote41"
-    ]
-  },
-  "emote.emote42": {
-    "sounds": [
-      "emote/emote42"
-    ]
-  },
-  "emote.emote43": {
-    "sounds": [
-      "emote/emote43"
+      "skill/watcher/right"
     ]
   }
 }

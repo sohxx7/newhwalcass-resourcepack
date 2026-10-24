@@ -1,103 +1,112 @@
 {
   "providers": [
     {
-            "type": "bitmap",
-            "file": "minecraft:font/ryoshu.png",
-            "chars": [
-                "\uE056"
-            ],
-            "ascent": 8,
-            "height": 12
-        },
+      "type": "bitmap",
+      "file": "minecraft:font/sharkping.png",
+      "chars": [
+        ""
+      ],
+      "ascent": 28,
+      "height": 28
+    },
     {
-            "type": "bitmap",
-            "file": "minecraft:font/card3/card1.png",
-            "chars": [
-                "\u6913"
-            ],
-            "ascent": 15,
-            "height": 25
-        },
+      "type": "bitmap",
+      "file": "minecraft:font/ryoshu.png",
+      "chars": [
+        ""
+      ],
+      "ascent": 8,
+      "height": 12
+    },
     {
-            "type": "bitmap",
-            "file": "minecraft:font/card3/card2.png",
-            "chars": [
-                "\u6914"
-            ],
-            "ascent": 15,
-            "height": 25
-        },
+      "type": "bitmap",
+      "file": "minecraft:font/card3/card1.png",
+      "chars": [
+        "椓"
+      ],
+      "ascent": 15,
+      "height": 25
+    },
     {
-            "type": "bitmap",
-            "file": "minecraft:font/card3/card3.png",
-            "chars": [
-                "\u6915"
-            ],
-            "ascent": 15,
-            "height": 25
-        },
+      "type": "bitmap",
+      "file": "minecraft:font/card3/card2.png",
+      "chars": [
+        "椔"
+      ],
+      "ascent": 15,
+      "height": 25
+    },
     {
-            "type": "bitmap",
-            "file": "minecraft:font/card3/card4.png",
-            "chars": [
-                "\u6916"
-            ],
-            "ascent": 15,
-            "height": 25
-        },
+      "type": "bitmap",
+      "file": "minecraft:font/card3/card3.png",
+      "chars": [
+        "椕"
+      ],
+      "ascent": 15,
+      "height": 25
+    },
     {
-            "type": "bitmap",
-            "file": "minecraft:font/card3/card5.png",
-            "chars": [
-                "\u6917"
-            ],
-            "ascent": 15,
-            "height": 25
-        },
+      "type": "bitmap",
+      "file": "minecraft:font/card3/card4.png",
+      "chars": [
+        "椖"
+      ],
+      "ascent": 15,
+      "height": 25
+    },
     {
-            "type": "bitmap",
-            "file": "minecraft:font/card3/card6.png",
-            "chars": [
-                "\u6918"
-            ],
-            "ascent": 15,
-            "height": 25
-        },
+      "type": "bitmap",
+      "file": "minecraft:font/card3/card5.png",
+      "chars": [
+        "椗"
+      ],
+      "ascent": 15,
+      "height": 25
+    },
     {
-            "type": "bitmap",
-            "file": "minecraft:font/card3/card7.png",
-            "chars": [
-                "\u6919"
-            ],
-            "ascent": 15,
-            "height": 25
-        },
+      "type": "bitmap",
+      "file": "minecraft:font/card3/card6.png",
+      "chars": [
+        "椘"
+      ],
+      "ascent": 15,
+      "height": 25
+    },
     {
-            "type": "bitmap",
-            "file": "minecraft:font/card3/card8.png",
-            "chars": [
-                "\u6920"
-            ],
-            "ascent": 15,
-            "height": 25
-        },
+      "type": "bitmap",
+      "file": "minecraft:font/card3/card7.png",
+      "chars": [
+        "椙"
+      ],
+      "ascent": 15,
+      "height": 25
+    },
     {
-            "type": "bitmap",
-            "file": "minecraft:font/card3/card9.png",
-            "chars": [
-                "\u6921"
-            ],
-            "ascent": 15,
-            "height": 25
-        },
+      "type": "bitmap",
+      "file": "minecraft:font/card3/card8.png",
+      "chars": [
+        "椠"
+      ],
+      "ascent": 15,
+      "height": 25
+    },
     {
-            "type": "bitmap",
-            "file": "minecraft:font/card3/card10.png",
-            "chars": [
-                "\u6922"
-            ],
-            "ascent": 15,
-            "height": 25
-        }
-    ]
+      "type": "bitmap",
+      "file": "minecraft:font/card3/card9.png",
+      "chars": [
+        "椡"
+      ],
+      "ascent": 15,
+      "height": 25
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/card3/card10.png",
+      "chars": [
+        "椢"
+      ],
+      "ascent": 15,
+      "height": 25
+    }
+  ]
 }

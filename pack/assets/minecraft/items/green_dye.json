@@ -1,335 +1,342 @@
 {
-  "oversized_in_gui": true,
   "model": {
-    "type": "select",
-    "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "item/green_dye"
-    },
     "cases": [
       {
-        "when": "100",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote1"
-        }
+          "model": "item/emote/emote1",
+          "type": "model"
+        },
+        "when": "100"
       },
       {
-        "when": "200",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote2"
-        }
+          "model": "item/emote/emote2",
+          "type": "model"
+        },
+        "when": "200"
       },
       {
-        "when": "300",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote3"
-        }
+          "model": "item/emote/emote3",
+          "type": "model"
+        },
+        "when": "300"
       },
       {
-        "when": "400",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote4"
-        }
+          "model": "item/emote/emote4",
+          "type": "model"
+        },
+        "when": "400"
       },
       {
-        "when": "500",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote5"
-        }
+          "model": "item/emote/emote5",
+          "type": "model"
+        },
+        "when": "500"
       },
       {
-        "when": "600",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote6"
-        }
+          "model": "item/emote/emote6",
+          "type": "model"
+        },
+        "when": "600"
       },
       {
-        "when": "700",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote7"
-        }
+          "model": "item/emote/emote7",
+          "type": "model"
+        },
+        "when": "700"
       },
       {
-        "when": "800",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote8"
-        }
+          "model": "item/emote/emote8",
+          "type": "model"
+        },
+        "when": "800"
       },
       {
-        "when": "900",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote9"
-        }
+          "model": "item/emote/emote9",
+          "type": "model"
+        },
+        "when": "900"
       },
       {
-        "when": "1000",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote10"
-        }
+          "model": "item/emote/emote10",
+          "type": "model"
+        },
+        "when": "1000"
       },
       {
-        "when": "1100",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote11"
-        }
+          "model": "item/emote/emote11",
+          "type": "model"
+        },
+        "when": "1100"
       },
       {
-        "when": "1200",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote12"
-        }
+          "model": "item/emote/emote12",
+          "type": "model"
+        },
+        "when": "1200"
       },
       {
-        "when": "1300",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote13"
-        }
+          "model": "item/emote/emote13",
+          "type": "model"
+        },
+        "when": "1300"
       },
       {
-        "when": "1400",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote14"
-        }
+          "model": "item/emote/emote14",
+          "type": "model"
+        },
+        "when": "1400"
       },
       {
-        "when": "1500",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote15"
-        }
+          "model": "item/emote/emote15",
+          "type": "model"
+        },
+        "when": "1500"
       },
       {
-        "when": "1600",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote16"
-        }
+          "model": "item/emote/emote16",
+          "type": "model"
+        },
+        "when": "1600"
       },
       {
-        "when": "1700",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote17"
-        }
+          "model": "item/emote/emote17",
+          "type": "model"
+        },
+        "when": "1700"
       },
       {
-        "when": "1800",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote18"
-        }
+          "model": "item/emote/emote18",
+          "type": "model"
+        },
+        "when": "1800"
       },
       {
-        "when": "1900",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote19"
-        }
+          "model": "item/emote/emote19",
+          "type": "model"
+        },
+        "when": "1900"
       },
       {
-        "when": "2000",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote20"
-        }
+          "model": "item/emote/emote20",
+          "type": "model"
+        },
+        "when": "2000"
       },
       {
-        "when": "2100",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote21"
-        }
+          "model": "item/emote/emote21",
+          "type": "model"
+        },
+        "when": "2100"
       },
       {
-        "when": "2200",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote22"
-        }
+          "model": "item/emote/emote22",
+          "type": "model"
+        },
+        "when": "2200"
       },
       {
-        "when": "2300",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote23"
-        }
+          "model": "item/emote/emote23",
+          "type": "model"
+        },
+        "when": "2300"
       },
       {
-        "when": "2400",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote24"
-        }
+          "model": "item/emote/emote24",
+          "type": "model"
+        },
+        "when": "2400"
       },
       {
-        "when": "2500",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote25"
-        }
+          "model": "item/emote/emote25",
+          "type": "model"
+        },
+        "when": "2500"
       },
       {
-        "when": "2600",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote26"
-        }
+          "model": "item/emote/emote26",
+          "type": "model"
+        },
+        "when": "2600"
       },
       {
-        "when": "2700",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote27"
-        }
+          "model": "item/emote/emote27",
+          "type": "model"
+        },
+        "when": "2700"
       },
       {
-        "when": "2800",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote28"
-        }
+          "model": "item/emote/emote28",
+          "type": "model"
+        },
+        "when": "2800"
       },
       {
-        "when": "2900",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote29"
-        }
+          "model": "item/emote/emote29",
+          "type": "model"
+        },
+        "when": "2900"
       },
       {
-        "when": "3000",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote30"
-        }
+          "model": "item/emote/emote30",
+          "type": "model"
+        },
+        "when": "3000"
       },
       {
-        "when": "3100",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote31"
-        }
+          "model": "item/emote/emote31",
+          "type": "model"
+        },
+        "when": "3100"
       },
       {
-        "when": "3200",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote32"
-        }
+          "model": "item/emote/emote32",
+          "type": "model"
+        },
+        "when": "3200"
       },
       {
-        "when": "3300",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote33"
-        }
+          "model": "item/emote/emote33",
+          "type": "model"
+        },
+        "when": "3300"
       },
       {
-        "when": "3400",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote34"
-        }
+          "model": "item/emote/emote34",
+          "type": "model"
+        },
+        "when": "3400"
       },
       {
-        "when": "3500",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote35"
-        }
+          "model": "item/emote/emote35",
+          "type": "model"
+        },
+        "when": "3500"
       },
       {
-        "when": "3600",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote36"
-        }
+          "model": "item/emote/emote36",
+          "type": "model"
+        },
+        "when": "3600"
       },
       {
-        "when": "3700",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote37"
-        }
+          "model": "item/emote/emote37",
+          "type": "model"
+        },
+        "when": "3700"
       },
       {
-        "when": "3800",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote38"
-        }
+          "model": "item/emote/emote38",
+          "type": "model"
+        },
+        "when": "3800"
       },
       {
-        "when": "3900",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote39"
-        }
+          "model": "item/emote/emote39",
+          "type": "model"
+        },
+        "when": "3900"
       },
       {
-        "when": "4001",
         "model": {
-          "type": "model",
-          "model": "item/emote/krmale1"
-        }
+          "model": "item/emote/krmale1",
+          "type": "model"
+        },
+        "when": "4001"
       },
       {
-        "when": "4002",
         "model": {
-          "type": "model",
-          "model": "item/emote/krmale2"
-        }
+          "model": "item/emote/krmale2",
+          "type": "model"
+        },
+        "when": "4002"
       },
       {
-        "when": "4003",
         "model": {
-          "type": "model",
-          "model": "item/emote/krmale3"
-        }
+          "model": "item/emote/krmale3",
+          "type": "model"
+        },
+        "when": "4003"
       },
       {
-        "when": "4000",
         "model": {
-          "type": "model",
-          "model": "item/emote/krmale1"
-        }
+          "model": "item/emote/krmale1",
+          "type": "model"
+        },
+        "when": "4000"
       },
       {
-        "when": "4100",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote41"
-        }
+          "model": "item/emote/roigod",
+          "type": "model"
+        },
+        "when": "4100"
       },
       {
-        "when": "4200",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote42"
-        }
+          "model": "item/emote/emote42",
+          "type": "model"
+        },
+        "when": "4200"
       },
       {
-        "when": "4300",
         "model": {
-          "type": "model",
-          "model": "item/emote/emote43"
-        }
+          "model": "item/emote/emote43",
+          "type": "model"
+        },
+        "when": "4300"
+      },
+      {
+        "model": {
+          "model": "item/emote/emote44",
+          "type": "model"
+        },
+        "when": "4400"
       }
-    ]
-  }
+    ],
+    "fallback": {
+      "model": "item/green_dye",
+      "type": "model"
+    },
+    "property": "custom_model_data",
+    "type": "select"
+  },
+  "oversized_in_gui": true
 }
