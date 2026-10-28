@@ -1,0 +1,169 @@
+{
+  "targets": {
+    "energy": {},
+    "glow_x": {},
+    "glow": {},
+    "swap": {}
+  },
+  "passes": [
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "hwalcass:post/kasimo",
+      "inputs": [],
+      "output": "energy",
+      "uniforms": {
+        "ElectroConfig": [
+          {
+            "name": "Intensity",
+            "type": "float",
+            "value": 1.18
+          },
+          {
+            "name": "EdgeHeight",
+            "type": "float",
+            "value": 0.24
+          },
+          {
+            "name": "Speed",
+            "type": "float",
+            "value": 1.0
+          },
+          {
+            "name": "Distortion",
+            "type": "float",
+            "value": 0.18
+          }
+        ]
+      }
+    },
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "hwalcass:post/electro_bloom",
+      "inputs": [
+        {
+          "sampler_name": "In",
+          "target": "energy",
+          "bilinear": true
+        }
+      ],
+      "output": "glow_x",
+      "uniforms": {
+        "BloomConfig": [
+          {
+            "name": "Direction",
+            "type": "vec2",
+            "value": [
+              1.0,
+              0.0
+            ]
+          },
+          {
+            "name": "Radius",
+            "type": "float",
+            "value": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "hwalcass:post/electro_bloom",
+      "inputs": [
+        {
+          "sampler_name": "In",
+          "target": "glow_x",
+          "bilinear": true
+        }
+      ],
+      "output": "glow",
+      "uniforms": {
+        "BloomConfig": [
+          {
+            "name": "Direction",
+            "type": "vec2",
+            "value": [
+              0.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Radius",
+            "type": "float",
+            "value": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "hwalcass:post/kasimo_composite",
+      "inputs": [
+        {
+          "sampler_name": "In",
+          "target": "minecraft:main",
+          "bilinear": true
+        },
+        {
+          "sampler_name": "Energy",
+          "target": "energy",
+          "bilinear": true
+        },
+        {
+          "sampler_name": "Bloom",
+          "target": "glow",
+          "bilinear": true
+        }
+      ],
+      "output": "swap",
+      "uniforms": {
+        "ElectroConfig": [
+          {
+            "name": "Intensity",
+            "type": "float",
+            "value": 1.18
+          },
+          {
+            "name": "EdgeHeight",
+            "type": "float",
+            "value": 0.24
+          },
+          {
+            "name": "Speed",
+            "type": "float",
+            "value": 1.0
+          },
+          {
+            "name": "Distortion",
+            "type": "float",
+            "value": 0.18
+          }
+        ]
+      }
+    },
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "minecraft:post/blit",
+      "inputs": [
+        {
+          "sampler_name": "In",
+          "target": "swap"
+        }
+      ],
+      "output": "minecraft:main",
+      "uniforms": {
+        "BlitConfig": [
+          {
+            "name": "ColorModulate",
+            "type": "vec4",
+            "value": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

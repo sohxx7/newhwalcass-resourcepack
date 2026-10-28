@@ -1,0 +1,71 @@
+{
+  "targets": {
+    "swap": {}
+  },
+  "passes": [
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "hwalcass:post/kasimo2",
+      "inputs": [
+        {
+          "sampler_name": "In",
+          "target": "minecraft:main"
+        },
+        {
+          "sampler_name": "Original",
+          "location": "hwalcass:kasimo2",
+          "width": 1546,
+          "height": 868,
+          "bilinear": true
+        },
+        {
+          "sampler_name": "Drops",
+          "location": "hwalcass:kasimo2_drops",
+          "width": 1024,
+          "height": 1024,
+          "bilinear": true
+        }
+      ],
+      "output": "swap",
+      "uniforms": {
+        "DropConfig": [
+          {
+            "name": "Motion",
+            "type": "float",
+            "value": 1.0
+          },
+          {
+            "name": "Speed",
+            "type": "float",
+            "value": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "minecraft:post/blit",
+      "inputs": [
+        {
+          "sampler_name": "In",
+          "target": "swap"
+        }
+      ],
+      "uniforms": {
+        "BlitConfig": [
+          {
+            "name": "ColorModulate",
+            "type": "vec4",
+            "value": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        ]
+      },
+      "output": "minecraft:main"
+    }
+  ]
+}

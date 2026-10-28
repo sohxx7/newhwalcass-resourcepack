@@ -1,0 +1,319 @@
+{
+  "source_archive": "음성 (1) (2).zip",
+  "archive_sha256": "c106ae0e474bd1296cf4742551bc7db2039ca217838794eb238a31c7837a8d09",
+  "conversion": "mono, 48000Hz, libvorbis q5; no trimming or pitch changes",
+  "files": [
+    {
+      "input": "10초남았습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\time_10.ogg",
+      "seconds": 1.609021,
+      "sha256": "f85c1d6432b8c9173cc645ba26456a225c4192280f1a66c817b227b67e8ba44e"
+    },
+    {
+      "input": "10킬남았습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\kills_10.ogg",
+      "seconds": 1.666583,
+      "sha256": "169d0e037ed9f26eb5e748875eb7a639a701dfea9de115d82c8cd27b5eb30f38"
+    },
+    {
+      "input": "1분남았습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\time_60.ogg",
+      "seconds": 1.469229,
+      "sha256": "8186c82d558e1534df77e7b07473f0d86327fb7f2681ce07f9a565498abff0b4"
+    },
+    {
+      "input": "1킬남았습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\kills_1.ogg",
+      "seconds": 1.524042,
+      "sha256": "bd1582f454821f248bb700cbd374b860746690db419784e6573fce039c5a21c9"
+    },
+    {
+      "input": "30초남았습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\time_30.ogg",
+      "seconds": 1.318458,
+      "sha256": "f4f39c4a955133789825d222e5f16310153c0738c7753ba1768b7f3439d115d3"
+    },
+    {
+      "input": "5킬남았습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\kills_5.ogg",
+      "seconds": 1.565167,
+      "sha256": "9d88a2a2f4a336e742185460d8328273d2f131b7b426e19ca916687ee257a4d1"
+    },
+    {
+      "input": "게임을찾았습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\match_found.ogg",
+      "seconds": 1.836521,
+      "sha256": "e485ab936d881471a07886cd657914b2bd7e0e886708796efcf53ba0e82eb689"
+    },
+    {
+      "input": "공격팀승리.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\attack_win_1.ogg",
+      "seconds": 1.768,
+      "sha256": "4fb0b9490387e03b5f196e9bd8ec1164e6c18183c0811b923f152c9e42753f5c"
+    },
+    {
+      "input": "공격팀승리2.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\attack_win_2.ogg",
+      "seconds": 1.513104,
+      "sha256": "36ffd1dc7080408e1160120b383f9e17d02c47baf304a2f9b17e230c7904657d"
+    },
+    {
+      "input": "공수교대.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\swap.ogg",
+      "seconds": 1.932479,
+      "sha256": "05a6f64ca85110e5a0d28fa96b529d1d3fcdbb077ca0563228859f2bcdd24e40"
+    },
+    {
+      "input": "공수교대전.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\before_swap.ogg",
+      "seconds": 1.181417,
+      "sha256": "916969e60d7c5d034e90d33ac22b19770ef1b21f23a4dd577c7b920814fd558f"
+    },
+    {
+      "input": "단판승부전.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\sudden_death.ogg",
+      "seconds": 1.192375,
+      "sha256": "3028cd754fad9bd8e4d116110708606b7b8abe21c30935d04c32562249d312aa"
+    },
+    {
+      "input": "데스매치입니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\deathmatch.ogg",
+      "seconds": 1.129333,
+      "sha256": "61f9d26f67f7b6a1d89d8d755b9f10f5d8b6e2904878d591dcaac28ec00ce56a"
+    },
+    {
+      "input": "매치포인트.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\match_point.ogg",
+      "seconds": 1.5405,
+      "sha256": "e555cfe84feaed48ddadfdf9ec4f4b6cd311486bbdacd0113d470a53af707f27"
+    },
+    {
+      "input": "무결점플레이.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\flawless_1.ogg",
+      "seconds": 1.31025,
+      "sha256": "d5acd9935f86f157670ff94a62edeb2d511c13505df0e03e1cbfbfcbfbb612f7"
+    },
+    {
+      "input": "무결점플레이2.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\flawless_2.ogg",
+      "seconds": 1.247208,
+      "sha256": "bd3e7158e504518ed3dc3c402d6b7bd16a90471655bccd0f5b0dc45688471b01"
+    },
+    {
+      "input": "미쳐날뛰고있습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\rampage.ogg",
+      "seconds": 1.61175,
+      "sha256": "5e8af63d2b683561457c68a93d7d84d4b5d68b1d536e08e1bf8972cc548253cf"
+    },
+    {
+      "input": "수비팀승리.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\defend_win_1.ogg",
+      "seconds": 1.595313,
+      "sha256": "842a73fb5da140119031550d65ab755a5c570901c5567ed722971439f1167a02"
+    },
+    {
+      "input": "수비팀승리2.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\defend_win_2.ogg",
+      "seconds": 1.595313,
+      "sha256": "04ce141d32f88f3d70adbd62382cf0ae074d2205cc17b3accc0f00f8ba49b4ab"
+    },
+    {
+      "input": "스파이크가A지점에떨어졌습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\spike_a.ogg",
+      "seconds": 2.371021,
+      "sha256": "b822a6bc4dea1f1587f49b0c88c0eca07fd05e53dd9d00f97ee89426d165bf13"
+    },
+    {
+      "input": "스파이크가B지점에떨어졌습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\spike_b.ogg",
+      "seconds": 2.332667,
+      "sha256": "4cf29645b97f84948cbba8da9530e7ecef3647318c70e2afdb1ed949b3011959"
+    },
+    {
+      "input": "스파이크가C지점에떨어졌습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\spike_c.ogg",
+      "seconds": 2.395708,
+      "sha256": "f56e7a1f26c12d8030d538de36e2891f8a65089d11aa9bf61d698f4562fba735"
+    },
+    {
+      "input": "스파이크가공격팀시작지점에떨어졌습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\spike_attack_spawn.ogg",
+      "seconds": 3.146771,
+      "sha256": "f4b3fd7c4b64bc5fcc8e1492d0e01b6d8f9c585c0ba4d11af97759601b2c79fe"
+    },
+    {
+      "input": "스파이크가설치되었습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\spike_planted_1.ogg",
+      "seconds": 1.918771,
+      "sha256": "770e76309c6ac3f2215480bafa1f90426a605ce66715ca15ce61a8d891a87d25"
+    },
+    {
+      "input": "스파이크설치.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\spike_planted_2.ogg",
+      "seconds": 1.299292,
+      "sha256": "e0917de5602161b61ac9589b077b0012db1afdb2ff63d4bf8bbc50dd7f330322"
+    },
+    {
+      "input": "스파이크가수비팀시작지점에떨어졌습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\spike_defend_spawn.ogg",
+      "seconds": 3.07,
+      "sha256": "72895d935f3c210694a5bd9303575c9699d48ce0b2c862fa33250c35974a8a5f"
+    },
+    {
+      "input": "스파이크가중앙에떨어졌습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\spike_mid.ogg",
+      "seconds": 2.206583,
+      "sha256": "4d32f4e32b5a46ff6ceeb815f5519308fa1da08f453156386fb062dbd3720e07"
+    },
+    {
+      "input": "스파이크돌격.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\spike_rush.ogg",
+      "seconds": 1.288313,
+      "sha256": "235a77b3b42827f92fbb4aaf158ccdf101d276f04854137b7b4b00203ddf7477"
+    },
+    {
+      "input": "스파이크운반자처치.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\carrier_killed.ogg",
+      "seconds": 2.102417,
+      "sha256": "c39da130f2f797472993406538c2826da30a19c0c81e29c62543be55c78ab18c"
+    },
+    {
+      "input": "아군이한명남았습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\ally_one.ogg",
+      "seconds": 1.987292,
+      "sha256": "4c7e60a4af3793eb9298bfc90d815fddc7044cac6d8f0c90ce303242df2c9ab5"
+    },
+    {
+      "input": "에이스1.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\ace_1.ogg",
+      "seconds": 0.899083,
+      "sha256": "1f1a1e04eb0a6ff96c5af0541ba0b1e987c7655c1b3474a4b6b9269355412953"
+    },
+    {
+      "input": "에이스2.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\ace_2.ogg",
+      "seconds": 1.074521,
+      "sha256": "1de9ed8def243e365c19a899b26f64494d654a678649b0949c25f30ecfb9cc48"
+    },
+    {
+      "input": "요원을고르십시오.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\select_agent_1.ogg",
+      "seconds": 1.666563,
+      "sha256": "52bbd425dcaaa4fc17955eaabdd927ba83ba0de45ca65076106871179f27b2af"
+    },
+    {
+      "input": "요원을선택하십시오.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\select_agent_2.ogg",
+      "seconds": 1.866708,
+      "sha256": "a4a015d4e818138bfb3191d5d3eae0d76b52b26a13fb789eb218b662d18e5b3a"
+    },
+    {
+      "input": "적군이한명남았습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\enemy_one.ogg",
+      "seconds": 1.713188,
+      "sha256": "a39d9d59c293bea59555d8be2ae97bc3b8fee0970539f1bd609cfb32459ace06"
+    },
+    {
+      "input": "전반전최종라운드.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\last_half.ogg",
+      "seconds": 1.842,
+      "sha256": "20d1605867a0ad1e940526e42a18a36bbd997632e26cbca022aa931e6472f578"
+    },
+    {
+      "input": "전장을지배하고있습니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\dominating.ogg",
+      "seconds": 1.592563,
+      "sha256": "32b1fdd8186d36c1f7644b413691cde980e53d7f7b6220b734798f4aa6cb9d48"
+    },
+    {
+      "input": "전투를시작하세요.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\fight.ogg",
+      "seconds": 1.482917,
+      "sha256": "7ca440ad027f620e9db95f57fee39e30324b822cbb7efac5dc75b814729c409f"
+    },
+    {
+      "input": "절약왕.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\thrifty_1.ogg",
+      "seconds": 0.805875,
+      "sha256": "292d4637e91bd05d014fe6d1951b21ed98f942728c663cb8f10e2de3543b97b2"
+    },
+    {
+      "input": "절약왕달성.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\thrifty_2.ogg",
+      "seconds": 1.485688,
+      "sha256": "d0ddab3f9af532e8d240d1afb437a4e7258d3270bd1684c0773c70ac4b08b449"
+    },
+    {
+      "input": "준비하세요.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\prepare.ogg",
+      "seconds": 0.778458,
+      "sha256": "e723efb2bf2a237350e850499624c91b2b0759f21d525e647c4fcf903a6828ce"
+    },
+    {
+      "input": "최종라운드.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\final_round.ogg",
+      "seconds": 1.277354,
+      "sha256": "21a9b705bca37c2ca62f818edd8c3ef72c8a5cc79e09dad8b5911f0cfe67b42a"
+    },
+    {
+      "input": "추가시간이적용됩니다.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\overtime.ogg",
+      "seconds": 1.789917,
+      "sha256": "cc709757238cce8ed6e8bb0fe93f414faefc3d24085634ae93560d08b81c2896"
+    },
+    {
+      "input": "쿼드라킬.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\quadra_1.ogg",
+      "seconds": 1.266375,
+      "sha256": "4c511289fadbd08abc680a7a148e5d046500949515b822192b6770ebe9cb974e"
+    },
+    {
+      "input": "쿼드라킬2.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\quadra_2.ogg",
+      "seconds": 1.491167,
+      "sha256": "7510b4d151111395195eb6b0cd5acf5aa6787652b68cc4ffb42695f6fca34923"
+    },
+    {
+      "input": "클러치.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\clutch_1.ogg",
+      "seconds": 0.756542,
+      "sha256": "a467843915dde53978fea634f1d14631ff1e1e6fde0760f81493923a9a4d4478"
+    },
+    {
+      "input": "클러치2.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\clutch_2.ogg",
+      "seconds": 0.904563,
+      "sha256": "49df52b79a2cef3acc1df623982829a7e6f13e65d0ffeedb5a4fb104d9af45ad"
+    },
+    {
+      "input": "트리플킬.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\triple_1.ogg",
+      "seconds": 1.408917,
+      "sha256": "49627ceba9520d6206a99484ffec0f1d00623481c31c59ad22c43a8fef8afd7f"
+    },
+    {
+      "input": "트리플킬2.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\triple_2.ogg",
+      "seconds": 1.036125,
+      "sha256": "34389a584db8f427730c64ac1506ea387d7df5aee9bd8f17b50a6d89fd4b647d"
+    },
+    {
+      "input": "팀에이스.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\team_ace.ogg",
+      "seconds": 1.748813,
+      "sha256": "2a135010239d39add9527c455ecc1afb03d53684a8fa866c479714384e67bfb9"
+    },
+    {
+      "input": "펜타킬.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\penta_1.ogg",
+      "seconds": 1.685771,
+      "sha256": "225979270a36b6a236c4ca2d8bf2f9565742588a36484bf807d90dd3288d0c96"
+    },
+    {
+      "input": "펜타킬2.wav",
+      "output": "pack\\assets\\dor\\sounds\\narration\\default\\penta_2.ogg",
+      "seconds": 1.504854,
+      "sha256": "614a45370e13457e79c474cb1b31f7651e188f235af239c2dfdeac067845cdae"
+    }
+  ]
+}

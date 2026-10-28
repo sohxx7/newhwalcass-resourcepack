@@ -1,0 +1,374 @@
+{
+  "narration.default.time_10": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/time_10",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.kills_10": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/kills_10",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.time_60": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/time_60",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.kills_1": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/kills_1",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.time_30": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/time_30",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.kills_5": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/kills_5",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.match_found": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/match_found",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.attack_win": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/attack_win_1",
+        "stream": false
+      },
+      {
+        "name": "dor:narration/default/attack_win_2",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.swap": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/swap",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.before_swap": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/before_swap",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.sudden_death": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/sudden_death",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.deathmatch": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/deathmatch",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.match_point": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/match_point",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.flawless": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/flawless_1",
+        "stream": false
+      },
+      {
+        "name": "dor:narration/default/flawless_2",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.rampage": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/rampage",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.defend_win": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/defend_win_1",
+        "stream": false
+      },
+      {
+        "name": "dor:narration/default/defend_win_2",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.spike_a": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/spike_a",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.spike_b": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/spike_b",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.spike_c": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/spike_c",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.spike_attack_spawn": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/spike_attack_spawn",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.spike_planted": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/spike_planted_1",
+        "stream": false
+      },
+      {
+        "name": "dor:narration/default/spike_planted_2",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.spike_defend_spawn": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/spike_defend_spawn",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.spike_mid": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/spike_mid",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.spike_rush": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/spike_rush",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.carrier_killed": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/carrier_killed",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.ally_one": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/ally_one",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.ace": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/ace_1",
+        "stream": false
+      },
+      {
+        "name": "dor:narration/default/ace_2",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.select_agent": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/select_agent_1",
+        "stream": false
+      },
+      {
+        "name": "dor:narration/default/select_agent_2",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.enemy_one": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/enemy_one",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.last_half": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/last_half",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.dominating": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/dominating",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.fight": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/fight",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.thrifty": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/thrifty_1",
+        "stream": false
+      },
+      {
+        "name": "dor:narration/default/thrifty_2",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.prepare": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/prepare",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.final_round": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/final_round",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.overtime": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/overtime",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.quadra": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/quadra_1",
+        "stream": false
+      },
+      {
+        "name": "dor:narration/default/quadra_2",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.clutch": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/clutch_1",
+        "stream": false
+      },
+      {
+        "name": "dor:narration/default/clutch_2",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.triple": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/triple_1",
+        "stream": false
+      },
+      {
+        "name": "dor:narration/default/triple_2",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.team_ace": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/team_ace",
+        "stream": false
+      }
+    ]
+  },
+  "narration.default.penta": {
+    "sounds": [
+      {
+        "name": "dor:narration/default/penta_1",
+        "stream": false
+      },
+      {
+        "name": "dor:narration/default/penta_2",
+        "stream": false
+      }
+    ]
+  }
+}

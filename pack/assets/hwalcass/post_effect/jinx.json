@@ -1,0 +1,78 @@
+{
+  "targets": {
+    "swap": {}
+  },
+  "passes": [
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "hwalcass:post/jinx",
+      "inputs": [
+        {
+          "sampler_name": "In",
+          "target": "minecraft:main"
+        },
+        {
+          "sampler_name": "Original",
+          "location": "hwalcass:jinx",
+          "width": 667,
+          "height": 400,
+          "bilinear": true
+        },
+        {
+          "sampler_name": "Sides",
+          "location": "hwalcass:jinx_sides",
+          "width": 667,
+          "height": 400,
+          "bilinear": true
+        },
+        {
+          "sampler_name": "Rays",
+          "location": "hwalcass:jinx_rays",
+          "width": 667,
+          "height": 400,
+          "bilinear": true
+        }
+      ],
+      "output": "swap",
+      "uniforms": {
+        "JinxConfig": [
+          {
+            "name": "Motion",
+            "type": "float",
+            "value": 1.0
+          },
+          {
+            "name": "Speed",
+            "type": "float",
+            "value": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "minecraft:post/blit",
+      "inputs": [
+        {
+          "sampler_name": "In",
+          "target": "swap"
+        }
+      ],
+      "uniforms": {
+        "BlitConfig": [
+          {
+            "name": "ColorModulate",
+            "type": "vec4",
+            "value": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        ]
+      },
+      "output": "minecraft:main"
+    }
+  ]
+}

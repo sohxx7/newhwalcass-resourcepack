@@ -6,12 +6,20 @@
 
 | 팩 | 다운로드 | 브랜치 소스 |
 | --- | --- | --- |
-| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.24-minecraft26.3.1/new-26.3.zip) | `pack/` |
+| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.28-minecraft26.3-postfx.1/new-26.3.zip) | `pack/` |
 | 기본 | [base-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/base-26.3.zip) | `packs/base/` |
 | 저사양 | [low-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/low-26.3.zip) | `packs/low/` |
 | 일반 BGM | [bgm-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/bgm-26.3.zip) | `packs/bgm/` |
 
 기본 또는 저사양 하나와 일반 BGM, 신규팩을 함께 사용하고 신규팩을 가장 위에 놓습니다. ZIP을 풀지 않습니다. GitHub의 자동 생성 Source code 압축파일은 게임 설치용이 아닙니다. 고음질 BGM은 기존 수동 설치 파일과 주소를 유지합니다.
+
+## 2026-10-28 포스트이펙트
+
+- 14종 포스트이펙트와 서버의 기존 오버레이 11종 대체를 배포합니다.
+- 김치포식자는 화면 반전 없는 어두운 적갈색/초록색, 레인걸은 흑백 필름과 약한 비입니다.
+- Superstar의 격자는 화면 좌표에 고정됩니다. Shinobu 두 색은 2프레임 속도선입니다.
+- 기존 로컬 나레이션 음원과 flowery_wind 이벤트 보정도 포함해 배포 ZIP과 작업 팩의 내용이 일치합니다.
+- 서버 연결 및 검증은 [포스트이펙트 적용 안내](docs/post-effects-26.3.md)를 참고하세요.
 
 ## 2026-10-24 반영 내용
 
