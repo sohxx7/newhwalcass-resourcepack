@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-30",
+  "effect": "hwalcass:jett",
+  "reference": "https://playvalorant.com/en-us/agents/jett/",
+  "game_compiler": "26.3 actual PostChainConfig codec / resource lookup / include loader / GLSL-to-SPIR-V; both depth settings passed",
+  "gpu": "OpenGL two-pass offscreen render on NVIDIA RTX 5070",
+  "frames": 240,
+  "fps": 30,
+  "loop_seconds": 8,
+  "loop_max_rgb_error": 0,
+  "motion_zero_original_max_rgb_error": 1,
+  "sizes": [
+    [
+      800,
+      450
+    ],
+    [
+      1280,
+      720
+    ],
+    [
+      1920,
+      1080
+    ],
+    [
+      2560,
+      1080
+    ]
+  ],
+  "center_preserved": true,
+  "scene_alpha_preserved": true,
+  "backgrounds": [
+    "dark grid",
+    "bright block scene"
+  ],
+  "upward_flow_displacements_px": [
+    21,
+    21,
+    20,
+    21,
+    23,
+    24,
+    20,
+    20
+  ],
+  "live_client_visual_test": false,
+  "gif": "C:\\단타\\0활카스\\posteffect\\jett.gif",
+  "shader_sha256": "e5a3ebafc0d762e4f16eb757ba603a48ebbe0729432e67c5f9ca3f580e4d5ef1"
+}

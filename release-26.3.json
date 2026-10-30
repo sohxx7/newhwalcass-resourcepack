@@ -4,18 +4,18 @@
     97,
     1
   ],
-  "release_tag": "v2026.10.28-minecraft26.3-postfx.1",
+  "release_tag": "v2026.10.30-minecraft26.3-jett.1",
   "branch": "codex/minecraft-26.3",
   "model_revision": 14,
   "files": [
     {
       "file": "new-26.3.zip",
       "source_directory": "pack",
-      "bytes": 95131976,
-      "sha1": "a1654000bc67f8275e44e8e2072817193ca829c0",
-      "sha256": "0527ac6970d30ca28f5c830b003428936080fcfd4bfa6fff40897fdc2afc288d",
+      "bytes": 95132504,
+      "sha1": "a6a9b6a112048712334dba6f4bb8bc028120b42a",
+      "sha256": "6834aee83bea4a436553e4357f5982bacb4c3b55698455ec1a04007cb2c5fb16",
       "files": 1581,
-      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.28-minecraft26.3-postfx.1/new-26.3.zip"
+      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.30-minecraft26.3-jett.1/new-26.3.zip"
     },
     {
       "file": "base-26.3.zip",
@@ -52,5 +52,5 @@
     "Inherited new-pack reference findings: 4 errors / 29 warnings in previous full-pack check",
     "Existing manual HQ pack lacks bgm.class153 and bgm.class153_2"
   ],
-  "content_updated": "2026-10-28"
+  "content_updated": "2026-10-30"
 }
