@@ -1,0 +1,31 @@
+# Fire border (26.3)
+
+효과 ID: `hwalcass:fire_border`.
+
+사용자가 준 [불꽃 테두리 영상](https://youtu.be/3lNnFt18zzs)을 형태·색·움직임의 참고로 삼아
+GLSL로 새로 제작했다. 네 가장자리에서 노랑·주황 불길이 안쪽으로 타오르고, 작은 불길의
+끝과 접힌 열무늬가 계속 말려 움직인다. 중앙 장면과 장면 알파는 보존한다.
+영상·PNG 텍스처를 팩에 넣지 않고 두 단계의 좌표 왜곡과 다중 크기 노이즈로 불길을 생성한다.
+가로·세로 비율이 달라도 화면 높이를 기준으로 두께를 맞추고, 모서리에서는 두 불길을 겹친다.
+8초 주기로 끊김 없이 반복한다.
+
+새 효과의 수동 적용:
+
+```mcfunction
+posteffect add @s hwalcass:fire_border
+posteffect remove @s hwalcass:fire_border
+```
+
+이 효과는 별도 테스트용이며 기존 스킬에 자동 연결하지 않았다.
+
+`FireConfig` 기본값은 Strength=1.0, Speed=1.0, Width=1.0이다.
+Strength는 불투명도, Speed는 속도, Width는 테두리 두께를 조절한다.
+Strength=0은 원래 장면을 픽셀 단위로 보존한다.
+
+GIF: `C:\단타\0활카스\posteffect\fire_border.gif` (GPU 렌더링, 800×450/240프레임/30fps/8초).
+
+- 실제 26.3 포스트 체인 코덱·include 로더·게임 GLSL 컴파일러의 두 depth 설정 통과.
+- GPU 두 패스 렌더링에서 4개 해상도와 장시간, 밝고 어두운 배경, 중앙·장면 알파 보존 확인.
+- 8초 반복 시작/끝 RGB 오차 0. Strength=0에서 모든 픽셀 동일.
+- RTX 5070의 1920×1080 두 패스 GPU 시간은 워밍업 후 최솟값 약 1.96ms. 기기마다 다를 수 있다.
+- 실제 게임 클라이언트 화면은 확인하지 않았다.

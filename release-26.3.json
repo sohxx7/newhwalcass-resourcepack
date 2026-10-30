@@ -4,18 +4,18 @@
     97,
     1
   ],
-  "release_tag": "v2026.10.30-minecraft26.3-jett.2",
+  "release_tag": "v2026.10.30-minecraft26.3-fire.1",
   "branch": "codex/minecraft-26.3",
   "model_revision": 14,
   "files": [
     {
       "file": "new-26.3.zip",
       "source_directory": "pack",
-      "bytes": 95132767,
-      "sha1": "a2bb40d33a356ba0e18abb72cbe0b62163a340ff",
-      "sha256": "ff43d541f26ed65d5be8645695b052d63dec18cebc4aef336e2feb30e7946a2f",
-      "files": 1581,
-      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.30-minecraft26.3-jett.2/new-26.3.zip"
+      "bytes": 95134861,
+      "sha1": "572df0d9cb26106a2d6cf4e7ef81445bfe8d422b",
+      "sha256": "06ef14f873792153597570deeb37825ea703fb4b86e9a52681bc95aa4ba83c92",
+      "files": 1583,
+      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.30-minecraft26.3-fire.1/new-26.3.zip"
     },
     {
       "file": "base-26.3.zip",
@@ -46,7 +46,7 @@
     }
   ],
   "hq_bgm": "Existing manual file and URL unchanged; excluded from this release",
-  "validation": "14 post-effect chains compiled by the actual 26.3 game loader/compiler; isolated server skill/lifecycle tests; GPU previews; ZIP CRC and all files matched to committed pack; no live client visual test",
+  "validation": "15 post-effect chains compiled by the actual 26.3 game loader/compiler; existing 14 skill/lifecycle integrations retained; standalone fire-border GPU preview, loop/center/alpha checks; ZIP CRC and complete source byte comparison; no live client visual test",
   "known_limitations": [
     "No new client test in this publication",
     "Inherited new-pack reference findings: 4 errors / 29 warnings in previous full-pack check",
