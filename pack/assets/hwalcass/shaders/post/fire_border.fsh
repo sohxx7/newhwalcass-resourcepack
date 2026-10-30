@@ -34,10 +34,10 @@ vec3 fireColor(float heat) {
     vec3 red=vec3(1.0,.11,.002);
     vec3 orange=vec3(1.0,.40,.008);
     vec3 yellow=vec3(1.0,.86,.10);
-    vec3 core=vec3(1.0,.99,.66);
+    vec3 core=vec3(1.0,.97,.43);
     vec3 color=mix(red,orange,smoothstep(.04,.34,heat));
     color=mix(color,yellow,smoothstep(.28,.68,heat));
-    return mix(color,core,smoothstep(.64,1.0,heat));
+    return mix(color,core,smoothstep(.74,1.08,heat));
 }
 
 vec4 flame(float along,float distance,float phase,float seed,float width) {
@@ -50,7 +50,9 @@ vec4 flame(float along,float distance,float phase,float seed,float width) {
     vec2 p=vec2(along*18.0+seed+sway,d*23.0-drift)+warp*3.8;
     float billow=fbm(p);
     float detail=fbm(p*2.0+vec2(11.9,3.7));
-    float field=1.10-d*10.5+(billow-.5)*2.2+(detail-.5)*.32;
+    // A thinner fuel bed leaves open gaps between individual curled tongues.
+    // Turbulence changes the silhouette, rather than filling a broad solid strip.
+    float field=.70-d*11.5+(billow-.5)*3.2+(detail-.5)*.60;
     float shape=smoothstep(-.035,.14,field);
     // Holes and folded hot sheets keep the fire from becoming a solid band.
     float folds=1.0-abs(detail*2.0-1.0);

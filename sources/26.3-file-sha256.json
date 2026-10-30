@@ -1129,7 +1129,7 @@
     "assets/hwalcass/shaders/post/electro_bloom.fsh": "46cbd8bc8408dbf22c4c051167f123557c6efd3e1108640b2ed9f5c4033e0db5",
     "assets/hwalcass/shaders/post/electro_composite.fsh": "1f75dfd73fdf0595001c3678bb4509fc9e2cd9a09af8202b39a628ef25f7a8cc",
     "assets/hwalcass/shaders/post/electro_pool.fsh": "f46fa11c14bb7975693de9cea076bc1cbc232e8a85770b55b9c3fa36cbfe17aa",
-    "assets/hwalcass/shaders/post/fire_border.fsh": "12012b879a93e3758d0c5b983e3de23e528134645395dc83d38b9297baa5c615",
+    "assets/hwalcass/shaders/post/fire_border.fsh": "f861e99d0b04d0ef662c4353431ec2f43a0dbc3ecae5ac8fb476e44e7eddad8e",
     "assets/hwalcass/shaders/post/hack.fsh": "2bdf3b95e6104ba5244e3f3b190c53db88cc68bb4119fef1d4708e081e581101",
     "assets/hwalcass/shaders/post/jett.fsh": "3a57785342458012558fe712c8263090673ae8088615fda6f52293e876952979",
     "assets/hwalcass/shaders/post/jinx.fsh": "c21f09788d9036dac8ca3daf1baae1b57f2f63209e4be8622ae408579d8cd00a",

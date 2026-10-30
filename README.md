@@ -6,7 +6,7 @@
 
 | 팩 | 다운로드 | 브랜치 소스 |
 | --- | --- | --- |
-| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.30-minecraft26.3-fire.1/new-26.3.zip) | `pack/` |
+| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.30-minecraft26.3-fire.2/new-26.3.zip) | `pack/` |
 | 기본 | [base-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/base-26.3.zip) | `packs/base/` |
 | 저사양 | [low-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/low-26.3.zip) | `packs/low/` |
 | 일반 BGM | [bgm-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/bgm-26.3.zip) | `packs/bgm/` |
@@ -15,7 +15,7 @@
 
 ## 2026-10-30 불꽃 테두리
 
-- 독립 테스트용 `hwalcass:fire_border`를 추가했습니다. 네 변의 노랑·주황 불길을 PNG 없이 셰이더로 생성합니다.
+- 독립 테스트용 `hwalcass:fire_border`를 추가했습니다. 네 변의 노랑·주황 불길을 PNG 없이 셰이더로 생성합니다. 후속 조정으로 두께와 밝은 속불을 줄이고 불길 사이의 빈틈을 늘렸습니다.
 - [적용 명령과 검증](docs/fire-border-post-effect.md), GIF는 `C:\단타\0활카스\posteffect\fire_border.gif`입니다.
 
 ## 2026-10-30 Jett 상승기류

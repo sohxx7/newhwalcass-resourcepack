@@ -12,7 +12,7 @@
   "loop_seconds": 8,
   "loop_max_rgb_error": 0,
   "strength_zero_max_rgba_error": 0,
-  "animated_pixels_after_two_frames": 118570,
+  "animated_pixels_after_two_frames": 78077,
   "sizes": [
     [
       800,
@@ -41,11 +41,30 @@
     600,
     1199.95
   ],
-  "warm_gpu_ms_1920x1080_min": 1.959136,
+  "warm_gpu_ms_1920x1080_min": 2.004896,
   "live_client_visual_test": false,
   "gif": "C:\\단타\\0활카스\\posteffect\\fire_border.gif",
   "asset_sha256": {
-    "assets/hwalcass/shaders/post/fire_border.fsh": "12012b879a93e3758d0c5b983e3de23e528134645395dc83d38b9297baa5c615",
+    "assets/hwalcass/shaders/post/fire_border.fsh": "f861e99d0b04d0ef662c4353431ec2f43a0dbc3ecae5ac8fb476e44e7eddad8e",
     "assets/hwalcass/post_effect/fire_border.json": "4b157ed8113e8d378f6d6f7ed216622ff146df000884f57a45d9ae96958f3082"
-  }
+  },
+  "revision": 2,
+  "coverage_comparison": {
+    "previous": {
+      "fire_fraction_mean": 0.30038333333333334,
+      "fire_fraction_min": 0.29493888888888886,
+      "fire_fraction_max": 0.30585,
+      "bright_core_fraction_mean": 0.045355069444444444
+    },
+    "revised": {
+      "fire_fraction_mean": 0.17983479166666666,
+      "fire_fraction_min": 0.17585833333333334,
+      "fire_fraction_max": 0.18363888888888888,
+      "bright_core_fraction_mean": 0.0021447916666666664
+    },
+    "reference_frame": {
+      "fire_fraction": 0.19967664930555556
+    }
+  },
+  "coverage_measurement": "40 dark-grid frames; rendered fire uses R>60. Reference single frame uses R>60 and R>0.75G; approximate visible area, not opacity."
 }

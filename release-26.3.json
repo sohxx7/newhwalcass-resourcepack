@@ -4,18 +4,18 @@
     97,
     1
   ],
-  "release_tag": "v2026.10.30-minecraft26.3-fire.1",
+  "release_tag": "v2026.10.30-minecraft26.3-fire.2",
   "branch": "codex/minecraft-26.3",
   "model_revision": 14,
   "files": [
     {
       "file": "new-26.3.zip",
       "source_directory": "pack",
-      "bytes": 95134861,
-      "sha1": "572df0d9cb26106a2d6cf4e7ef81445bfe8d422b",
-      "sha256": "06ef14f873792153597570deeb37825ea703fb4b86e9a52681bc95aa4ba83c92",
+      "bytes": 95134953,
+      "sha1": "b7da2f9c2b49eef0a555c8160de83fc2fab921ef",
+      "sha256": "7cc2e2c91d079ae807db447f8f06f5c6a88d86be0a3faef1ec660e6c7cf7dd11",
       "files": 1583,
-      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.30-minecraft26.3-fire.1/new-26.3.zip"
+      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.30-minecraft26.3-fire.2/new-26.3.zip"
     },
     {
       "file": "base-26.3.zip",
