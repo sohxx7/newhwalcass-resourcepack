@@ -6,7 +6,7 @@
 
 | 팩 | 다운로드 | 브랜치 소스 |
 | --- | --- | --- |
-| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.30-minecraft26.3-jett.1/new-26.3.zip) | `pack/` |
+| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.30-minecraft26.3-jett.2/new-26.3.zip) | `pack/` |
 | 기본 | [base-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/base-26.3.zip) | `packs/base/` |
 | 저사양 | [low-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/low-26.3.zip) | `packs/low/` |
 | 일반 BGM | [bgm-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/bgm-26.3.zip) | `packs/bgm/` |
@@ -15,7 +15,7 @@
 
 ## 2026-10-30 Jett 상승기류
 
-- 제트의 양옆 바람을 길게 휘어지는 바람 띠와 가는 결이 빠르게 위로 흐르도록 다시 만들었습니다.
+- 제트의 양옆에 넓은 바람 면·여러 굵기의 긴 결·빠른 바람줄기를 겹쳐, 여러 겹이 동시에 위로 흐르도록 다시 만들었습니다.
 - [동작과 검증](docs/jett-post-effect.md), GIF는 `C:\단타\0활카스\posteffect\jett.gif`입니다.
 
 ## 2026-10-28 포스트이펙트

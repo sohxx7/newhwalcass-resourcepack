@@ -4,18 +4,18 @@
     97,
     1
   ],
-  "release_tag": "v2026.10.30-minecraft26.3-jett.1",
+  "release_tag": "v2026.10.30-minecraft26.3-jett.2",
   "branch": "codex/minecraft-26.3",
   "model_revision": 14,
   "files": [
     {
       "file": "new-26.3.zip",
       "source_directory": "pack",
-      "bytes": 95132504,
-      "sha1": "a6a9b6a112048712334dba6f4bb8bc028120b42a",
-      "sha256": "6834aee83bea4a436553e4357f5982bacb4c3b55698455ec1a04007cb2c5fb16",
+      "bytes": 95132767,
+      "sha1": "a2bb40d33a356ba0e18abb72cbe0b62163a340ff",
+      "sha256": "ff43d541f26ed65d5be8645695b052d63dec18cebc4aef336e2feb30e7946a2f",
       "files": 1581,
-      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.30-minecraft26.3-jett.1/new-26.3.zip"
+      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.30-minecraft26.3-jett.2/new-26.3.zip"
     },
     {
       "file": "base-26.3.zip",

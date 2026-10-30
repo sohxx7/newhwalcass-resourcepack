@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-30",
+  "effect": "hwalcass:jett",
+  "reference": "https://playvalorant.com/en-us/agents/jett/",
+  "game_compiler": "26.3 actual PostChainConfig codec / resource lookup / include loader / GLSL-to-SPIR-V; both depth settings passed",
+  "gpu": "OpenGL two-pass offscreen render on NVIDIA RTX 5070",
+  "frames": 240,
+  "fps": 30,
+  "loop_seconds": 8,
+  "loop_max_rgb_error": 0,
+  "motion_zero_original_max_rgb_error": 1,
+  "sizes": [
+    [
+      800,
+      450
+    ],
+    [
+      1280,
+      720
+    ],
+    [
+      1920,
+      1080
+    ],
+    [
+      2560,
+      1080
+    ]
+  ],
+  "center_preserved": true,
+  "scene_alpha_preserved": true,
+  "backgrounds": [
+    "dark grid",
+    "bright block scene"
+  ],
+  "upward_flow_displacements_px": [
+    24,
+    15,
+    18,
+    20,
+    19,
+    17,
+    19,
+    21
+  ],
+  "live_client_visual_test": false,
+  "gif": "C:\\단타\\0활카스\\posteffect\\jett.gif",
+  "shader_sha256": "3a57785342458012558fe712c8263090673ae8088615fda6f52293e876952979",
+  "revision": 2,
+  "comparison": [
+    {
+      "directory": "jett-updraft-20261030",
+      "visible_edge_fraction": 0.3073826388888889,
+      "minimum_visible_edge_fraction": 0.21428333333333333,
+      "average_edge_brightness": 12.06614949074074
+    },
+    {
+      "directory": "jett-layered-20261030",
+      "visible_edge_fraction": 0.477985138888889,
+      "minimum_visible_edge_fraction": 0.32527222222222224,
+      "average_edge_brightness": 17.942499675925927
+    }
+  ],
+  "layers_per_side": {
+    "broad_gust_banks": 7,
+    "filaments_per_bank": 4,
+    "faster_wisps": 7
+  }
+}
