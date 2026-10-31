@@ -4,18 +4,18 @@
     97,
     1
   ],
-  "release_tag": "v2026.10.30-minecraft26.3-fire.2",
+  "release_tag": "v2026.10.31-minecraft26.3-gwheel.1",
   "branch": "codex/minecraft-26.3",
   "model_revision": 14,
   "files": [
     {
       "file": "new-26.3.zip",
       "source_directory": "pack",
-      "bytes": 95134953,
-      "sha1": "b7da2f9c2b49eef0a555c8160de83fc2fab921ef",
-      "sha256": "7cc2e2c91d079ae807db447f8f06f5c6a88d86be0a3faef1ec660e6c7cf7dd11",
-      "files": 1583,
-      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.30-minecraft26.3-fire.2/new-26.3.zip"
+      "bytes": 95180839,
+      "sha1": "998be019d2fe70eb44b0c72ed8b1042dc0268abd",
+      "sha256": "e772c17aeab0d6d3b7480da4b205ffd38f84266639f099ce161c91b0c591b5bc",
+      "files": 1594,
+      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.31-minecraft26.3-gwheel.1/new-26.3.zip"
     },
     {
       "file": "base-26.3.zip",
