@@ -1,5 +1,6 @@
 #version 330
 #extension GL_ARB_separate_shader_objects : require
+#include <hwalcass:status_hud.glsl>
 #include <minecraft:globals.glsl>
 uniform sampler2D InSampler;
 layout(std140) uniform FireConfig { float Strength; float Speed; float Width; };
@@ -63,6 +64,8 @@ vec4 flame(float along,float distance,float phase,float seed,float width) {
 }
 
 void main() {
+    // 상태이상 HUD 카드는 이 효과에 물들지 않게 원래 색 그대로 (include/status_hud.glsl)
+    if (statusHudKeep(InSampler, texCoord, fragColor)) return;
     vec4 scene=texture(InSampler,texCoord);
     float strength=clamp(Strength,0.0,1.0);
     float width=clamp(Width,.35,1.5);

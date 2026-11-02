@@ -1,5 +1,6 @@
 #version 330
 #extension GL_ARB_separate_shader_objects : require
+#include <hwalcass:status_hud.glsl>
 #include <minecraft:globals.glsl>
 
 uniform sampler2D InSampler;
@@ -66,6 +67,8 @@ vec3 barGradient(float depth, bool bottom) {
 }
 
 void main() {
+    // 상태이상 HUD 카드는 이 효과에 물들지 않게 원래 색 그대로 (include/status_hud.glsl)
+    if (statusHudKeep(InSampler, texCoord, fragColor)) return;
     vec4 scene = texture(InSampler, texCoord);
     vec2 uv = vec2(texCoord.x, 1.0 - texCoord.y);
     bool bottom = uv.y > 0.5;

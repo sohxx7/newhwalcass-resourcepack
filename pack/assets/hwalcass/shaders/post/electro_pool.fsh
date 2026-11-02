@@ -1,5 +1,6 @@
 #version 330
 #extension GL_ARB_separate_shader_objects : require
+#include <hwalcass:status_hud.glsl>
 #include <minecraft:globals.glsl>
 #include <hwalcass:pool_waves.glsl>
 uniform sampler2D InSampler;
@@ -21,6 +22,8 @@ float waveHeight(int index,float x,float time) {
     return height;
 }
 void main() {
+    // 상태이상 HUD 카드는 이 효과에 물들지 않게 원래 색 그대로 (include/status_hud.glsl)
+    if (statusHudKeep(InSampler, texCoord, fragColor)) return;
     vec4 scene=texture(InSampler,texCoord);
     float edge=min(texCoord.y,1.0-texCoord.y)*720.0;
     if(edge>155.0) {fragColor=scene;return;}

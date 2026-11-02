@@ -1,5 +1,6 @@
 #version 330
 #extension GL_ARB_separate_shader_objects : require
+#include <hwalcass:status_hud.glsl>
 #include <minecraft:globals.glsl>
 uniform sampler2D InSampler;
 uniform sampler2D EnergySampler;
@@ -8,6 +9,8 @@ layout(std140) uniform ElectroConfig { float Intensity; float EdgeHeight; float 
 layout(location=0) in vec2 texCoord;
 layout(location=0) out vec4 fragColor;
 void main() {
+    // 상태이상 HUD 카드는 이 효과에 물들지 않게 원래 색 그대로 (include/status_hud.glsl)
+    if (statusHudKeep(InSampler, texCoord, fragColor)) return;
     vec4 original=texture(InSampler,texCoord);
     float aspect=ScreenSize.x/max(ScreenSize.y,1.0);
     float edge=min(min(texCoord.x,1.0-texCoord.x)*aspect,min(texCoord.y,1.0-texCoord.y));

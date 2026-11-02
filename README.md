@@ -6,12 +6,17 @@
 
 | 팩 | 다운로드 | 브랜치 소스 |
 | --- | --- | --- |
-| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.31-minecraft26.3-gwheel.1/new-26.3.zip) | `pack/` |
+| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.11.02-minecraft26.3-status.1/new-26.3.zip) | `pack/` |
 | 기본 | [base-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/base-26.3.zip) | `packs/base/` |
 | 저사양 | [low-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/low-26.3.zip) | `packs/low/` |
 | 일반 BGM | [bgm-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/bgm-26.3.zip) | `packs/bgm/` |
 
 기본 또는 저사양 하나와 일반 BGM, 신규팩을 함께 사용하고 신규팩을 가장 위에 놓습니다. ZIP을 풀지 않습니다. GitHub의 자동 생성 Source code 압축파일은 게임 설치용이 아닙니다. 고음질 BGM은 기존 수동 설치 파일과 주소를 유지합니다.
+
+## 2026-11-02 상태이상 HUD
+
+- 오른쪽 위 상태이상 카드 6종(기절·속박·침묵·무장해제·이동기 봉인·치유 감소)을 추가했습니다. 서버는 `posteffect add/remove hwalcass:status/<종류>`만 하면 됩니다. 가장 최근 것이 오른쪽 끝에 오고 기존 카드는 왼쪽으로 밀립니다.
+- 기존 포스트이펙트 14종이 카드 위 픽셀을 바꾸지 않도록 보호를 넣었습니다. [동작과 검증](docs/status-hud.md)
 
 ## 2026-10-31 G 핑 휠
 
