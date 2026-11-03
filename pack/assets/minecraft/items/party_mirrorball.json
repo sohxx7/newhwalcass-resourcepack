@@ -1,0 +1,23 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "item/party/ball1"
+			},
+			{
+				"type": "model",
+				"model": "item/party/ball2"
+			},
+						{
+				"type": "model",
+				"model": "item/party/ball3"
+			},
+			{
+				"type": "model",
+				"model": "item/party/ball4"
+			}
+		]
+	}
+}

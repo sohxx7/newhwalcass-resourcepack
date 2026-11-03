@@ -3277,6 +3277,20 @@
                 "type": "model",
                 "model": "item/arche/gun5_open"
             }
+        },
+                                {
+            "when": "15400",
+            "model": {
+                "type": "model",
+                "model": "item/party/gun"
+            }
+        },
+                                        {
+            "when": "15401",
+            "model": {
+                "type": "model",
+                "model": "item/party/shotgun"
+            }
         }
 
     ]

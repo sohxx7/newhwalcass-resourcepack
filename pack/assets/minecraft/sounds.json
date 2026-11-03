@@ -1489,5 +1489,45 @@
     "sounds": [
       "skill/watcher/right"
     ]
+  },
+    "skill.party_gun": {
+    "sounds": [
+      "skill/party/gun"
+    ]
+  },
+      "skill.party_dash": {
+    "sounds": [
+      "skill/party/dash"
+    ]
+  },
+      "skill.party_shotgun": {
+    "sounds": [
+      "skill/party/shotgun"
+    ]
+  },
+      "skill.party_reload": {
+    "sounds": [
+      "skill/party/reload"
+    ]
+  },
+      "skill.party_ult": {
+    "sounds": [
+      "skill/party/ult"
+    ]
+  },
+      "skill.party_ultuse": {
+    "sounds": [
+      "skill/party/ultuse"
+    ]
+  },
+      "skill.party_mirrorball": {
+    "sounds": [
+      "skill/party/mirrorball"
+    ]
+  },
+      "skill.party_mirrorballset": {
+    "sounds": [
+      "skill/party/mirrorballset"
+    ]
   }
 }

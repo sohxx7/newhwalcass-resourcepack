@@ -6,12 +6,19 @@
 
 | 팩 | 다운로드 | 브랜치 소스 |
 | --- | --- | --- |
-| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.11.02-minecraft26.3-status.1/new-26.3.zip) | `pack/` |
+| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.11.03-minecraft26.3-partygirl.1/new-26.3.zip) | `pack/` |
 | 기본 | [base-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/base-26.3.zip) | `packs/base/` |
 | 저사양 | [low-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/low-26.3.zip) | `packs/low/` |
 | 일반 BGM | [bgm-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/bgm-26.3.zip) | `packs/bgm/` |
 
 기본 또는 저사양 하나와 일반 BGM, 신규팩을 함께 사용하고 신규팩을 가장 위에 놓습니다. ZIP을 풀지 않습니다. GitHub의 자동 생성 Source code 압축파일은 게임 설치용이 아닙니다. 고음질 BGM은 기존 수동 설치 파일과 주소를 유지합니다.
+
+## 2026-11-03 파티걸
+
+- 파티걸(154) 무기 모델(`15400`·`15401`), 미러볼 `party_mirrorball`, 스킬 음원 `skill.party_*` 8종을 추가했습니다.
+- 포스트이펙트 `hwalcass:partygirl`, `partygirl_1`~`3`(아이콘 `partyicon`), `blackwhite`, `blueye`와 `exposed_copper_grate` 텍스처를 추가했습니다.
+- 기존 신규팩 파일 1,608개 중 삭제는 없고, 변경은 `carrot_on_a_stick`·`cyan_dye` 정의, `sounds.json`, `pack.png` 4개입니다.
+- 새 포스트이펙트는 상태이상 HUD 보호(`status_hud.glsl`)를 넣지 않았습니다. `cyan_dye`의 `15401` 분기가 가리키는 `item/party/mirrorball` 모델 파일은 없으며, 현재 서버 함수는 이 분기를 쓰지 않습니다.
 
 ## 2026-11-02 상태이상 HUD
 

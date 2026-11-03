@@ -6786,6 +6786,20 @@
                 "type": "model",
                 "model": "item/arche/artifact_open"
             }
+        },
+                                            {
+            "when": "15400",
+            "model": {
+                "type": "model",
+                "model": "item/party/gun2"
+            }
+        },
+                                                    {
+            "when": "15401",
+            "model": {
+                "type": "model",
+                "model": "item/party/mirrorball"
+            }
         }
     ]
 }

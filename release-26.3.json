@@ -4,18 +4,18 @@
     97,
     1
   ],
-  "release_tag": "v2026.11.02-minecraft26.3-status.1",
+  "release_tag": "v2026.11.03-minecraft26.3-partygirl.1",
   "branch": "codex/minecraft-26.3",
   "model_revision": 14,
   "files": [
     {
       "file": "new-26.3.zip",
       "source_directory": "pack",
-      "bytes": 95215366,
-      "sha1": "5f2236b8679e89c950c22e3eb23fe2f1ccd299a8",
-      "sha256": "b5da4bb11de91fe259698ab99444a0676769dd1343c6d7bd2e27d6f2d196a656",
-      "files": 1608,
-      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.11.02-minecraft26.3-status.1/new-26.3.zip"
+      "bytes": 96784080,
+      "sha1": "c5404b4ee34d9037a3172ffdbcba31f1dc4af737",
+      "sha256": "212844bf0763d3641ac57f57c7a5c1254e7027e3c66f24ad11c22a95c731ef63",
+      "files": 1639,
+      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.11.03-minecraft26.3-partygirl.1/new-26.3.zip"
     },
     {
       "file": "base-26.3.zip",

@@ -1,0 +1,53 @@
+{
+  "targets": {
+    "swap": {}
+  },
+  "passes": [
+    {
+      "vertex_shader": "hwalcass:post/partyicon",
+      "fragment_shader": "hwalcass:post/partyicon",
+      "inputs": [
+        {
+          "sampler_name": "Main",
+          "target": "minecraft:main"
+        },
+        {
+          "sampler_name": "PartyIcon",
+          "location": "hwalcass:partyicon",
+          "width": 64,
+          "height": 64
+        }
+      ],
+      "output": "swap",
+      "uniforms": {
+        "IconConfig": [
+          {
+            "name": "Layout",
+            "type": "vec2",
+            "value": [3.0, 8.0]
+          }
+        ]
+      }
+    },
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "minecraft:post/blit",
+      "inputs": [
+        {
+          "sampler_name": "In",
+          "target": "swap"
+        }
+      ],
+      "output": "minecraft:main",
+      "uniforms": {
+        "BlitConfig": [
+          {
+            "name": "ColorModulate",
+            "type": "vec4",
+            "value": [1.0, 1.0, 1.0, 1.0]
+          }
+        ]
+      }
+    }
+  ]
+}
