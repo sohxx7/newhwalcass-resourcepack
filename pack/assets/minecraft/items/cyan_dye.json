@@ -6856,6 +6856,13 @@
                 "type": "model",
                 "model": "item/gadam/cloud"
             }
+        },
+                                                                    {
+            "when": "15604",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/eyes"
+            }
         }
     ]
 }

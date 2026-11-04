@@ -1,0 +1,42 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/gadam/dragonsabreeffect",
+		"particle": "item/gadam/dragonsabreeffect"
+	},
+	"elements": [
+		{
+			"from": [3, -9, 0],
+			"to": [19, 4, 0],
+			"rotation": {"angle": 42.5, "axis": "z", "origin": [-1, -9, 0]},
+			"faces": {
+				"north": {"uv": [4, 0, 12, 12], "texture": "#0"},
+				"east": {"uv": [2, 0, 2, 13], "texture": "#0"},
+				"south": {"uv": [4, 0, 12, 12], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 13], "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"down": {"uv": [0, 2, 8, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 6.75, 0],
+			"to": [20, 19.75, 0],
+			"rotation": {"angle": -42.5, "axis": "z", "origin": [0, 6.75, 0]},
+			"faces": {
+				"north": {"uv": [4, 0, 12, 12], "texture": "#0"},
+				"east": {"uv": [2, 0, 2, 13], "texture": "#0"},
+				"south": {"uv": [4, 0, 12, 12], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 13], "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"down": {"uv": [0, 2, 8, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 7.75, 3.75],
+			"scale": [1.4, 1.4, 1.4]
+		}
+	}
+}
