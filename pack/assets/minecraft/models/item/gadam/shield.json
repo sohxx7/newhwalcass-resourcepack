@@ -2,9 +2,9 @@
 	"format_version": "26.3",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/exposed_copper_grate",
+		"0": "item/gadam/shield",
 		"1": "item/gadam/lightsword",
-		"particle": "block/exposed_copper_grate"
+		"particle": "item/gadam/shield"
 	},
 	"elements": [
 		{
@@ -60,7 +60,6 @@
 		{
 			"from": [0.1, -0.1, -0.1],
 			"to": [15.9, 0.1, 0.1],
-			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, -15.9]},
 			"faces": {
 				"north": {"uv": [8.25, 0.1, 8.85, 0.7], "texture": "#1"},
 				"east": {"uv": [8.25, 0.1, 8.85, 0.7], "texture": "#1"},
@@ -71,6 +70,15 @@
 			}
 		}
 	],
+	"display": {
+		"ground": {
+			"rotation": [-90, 0, 180]
+		},
+		"head": {
+			"rotation": [-47, 0, 90],
+			"translation": [-8, 0, 0]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",

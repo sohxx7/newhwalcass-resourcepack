@@ -6835,30 +6835,15 @@
                 "type": "model",
                 "model": "item/gadam/shield"
             }
-        },
-                                                    {
+        },                                                  {
             "when": "15601",
-            "model": {
-                "type": "model",
-                "model": "item/gadam/shield2"
-            }
-        },
-                                                    {
-            "when": "15602",
-            "model": {
-                "type": "model",
-                "model": "item/gadam/shield3"
-            }
-        },
-                                                            {
-            "when": "15603",
             "model": {
                 "type": "model",
                 "model": "item/gadam/cloud"
             }
         },
                                                                     {
-            "when": "15604",
+            "when": "15602",
             "model": {
                 "type": "model",
                 "model": "item/gadam/eyes"

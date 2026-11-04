@@ -4,18 +4,18 @@
     97,
     1
   ],
-  "release_tag": "v2026.11.04-minecraft26.3-arsonist.4",
+  "release_tag": "v2026.11.04-minecraft26.3-arsonist.5",
   "branch": "codex/minecraft-26.3",
   "model_revision": 14,
   "files": [
     {
       "file": "new-26.3.zip",
       "source_directory": "pack",
-      "bytes": 103927345,
-      "sha1": "cce09709ffee1a47a575e40118cca705c8f696cb",
-      "sha256": "c66ff38524a8f68584d4d071abc112dc0cd3f4e5fef5e09037bad0b075fee219",
+      "bytes": 103926581,
+      "sha1": "f8c34114e41f37035849db60d30f87f75e6f883e",
+      "sha256": "40951af1d1ab76c1e46583269e242d247bc472242e10145b94350543c00b28c8",
       "files": 1709,
-      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.11.04-minecraft26.3-arsonist.4/new-26.3.zip"
+      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.11.04-minecraft26.3-arsonist.5/new-26.3.zip"
     },
     {
       "file": "base-26.3.zip",
