@@ -6,12 +6,19 @@
 
 | 팩 | 다운로드 | 브랜치 소스 |
 | --- | --- | --- |
-| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.11.03-minecraft26.3-partygirl.1/new-26.3.zip) | `pack/` |
+| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.11.04-minecraft26.3-arsonist.1/new-26.3.zip) | `pack/` |
 | 기본 | [base-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/base-26.3.zip) | `packs/base/` |
 | 저사양 | [low-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/low-26.3.zip) | `packs/low/` |
 | 일반 BGM | [bgm-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/bgm-26.3.zip) | `packs/bgm/` |
 
 기본 또는 저사양 하나와 일반 BGM, 신규팩을 함께 사용하고 신규팩을 가장 위에 놓습니다. ZIP을 풀지 않습니다. GitHub의 자동 생성 Source code 압축파일은 게임 설치용이 아닙니다. 고음질 BGM은 기존 수동 설치 파일과 주소를 유지합니다.
+
+## 2026-11-04 방화광
+
+- 방화광(155) 무기·불꽃·기름통 모델(`cyan_dye` `15500`~`15503`), 스킬 음원 `skill.fire_*`, 음성 `char.155`·`char.155_penta`를 추가했습니다.
+- 156번 캐릭터 에셋(`item/gadam/*`, `warped_fungus`, `warped_fungus_on_a_stick` `15500`, `skill.gadam_*`, `char.156`)과 파티걸 음성 `char.154`를 함께 추가했습니다.
+- 파티걸 `gun`·`ult`·`ultuse` 음원이 교체됐습니다.
+- 전달받은 팩에 빠져 있던 `skill.party_mirrorballset` 정의는 서버 함수가 쓰고 있어 유지했습니다. `skill.gadam_sp`가 가리키는 `skill/gadam/sp.ogg`는 없고, 같은 폴더의 `oilfire.ogg`는 어느 정의도 가리키지 않습니다.
 
 ## 2026-11-03 파티걸
 

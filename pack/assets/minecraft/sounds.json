@@ -1525,9 +1525,80 @@
       "skill/party/mirrorball"
     ]
   },
-      "skill.party_mirrorballset": {
+        "char.154": {
     "sounds": [
-      "skill/party/mirrorballset"
+      "char/154"
+    ]
+  },
+      "skill.party_mirrorballset": {"sounds": ["skill/party/mirrorballset"]},
+      "skill.fire_aa": {
+    "sounds": [
+      "skill/fire/aa","skill/fire/aa2"
+    ]
+  },
+      "skill.fire_dash": {
+    "sounds": [
+      "skill/fire/dash"
+    ]
+  },
+      "skill.fire_ignite": {
+    "sounds": [
+      "skill/fire/ignite"
+    ]
+  },
+      "skill.fire_igniteoil": {
+    "sounds": [
+      "skill/fire/igniteoil"
+    ]
+  },
+      "skill.fire_fire": {
+    "sounds": [
+      "skill/fire/fire"
+    ]
+  },
+      "skill.fire_throw": {
+    "sounds": [
+      "skill/fire/throw"
+    ]
+  },
+        "skill.fire_splatter": {
+    "sounds": [
+      "skill/fire/splatter"
+    ]
+  },
+          "skill.gadam_illusion": {
+    "sounds": [
+      "skill/gadam/illusion"
+    ]
+  },
+            "skill.gadam_ult": {
+    "sounds": [
+      "skill/gadam/ult"
+    ]
+  },
+            "skill.gadam_sp": {
+    "sounds": [
+      "skill/gadam/sp"
+    ]
+  },
+      "skill.fire_oilfire": {
+    "sounds": [
+      "skill/fire/oilfire"
+    ]
+  },
+        "char.155": {
+    "sounds": [
+      "char/155","char/155_2","char/155_3"
+    ]
+  },
+          "char.155_penta": {
+    "sounds": [
+      "char/155_penta"
+    ]
+  },
+            "char.156": {
+    "sounds": [
+      "char/156"
     ]
   }
 }

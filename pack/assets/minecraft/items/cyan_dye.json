@@ -6800,6 +6800,62 @@
                 "type": "model",
                 "model": "item/party/mirrorball"
             }
+        },
+                                                            {
+            "when": "15500",
+            "model": {
+                "type": "model",
+                "model": "item/fire/flamethrower"
+            }
+        },
+                                                    {
+            "when": "15501",
+            "model": {
+                "type": "model",
+                "model": "item/fire/fire1"
+            }
+        },
+                                                    {
+            "when": "15502",
+            "model": {
+                "type": "model",
+                "model": "item/fire/fire2"
+            }
+        },
+                                                            {
+            "when": "15503",
+            "model": {
+                "type": "model",
+                "model": "item/fire/oil"
+            }
+        },
+                                                                    {
+            "when": "15600",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/shield"
+            }
+        },
+                                                    {
+            "when": "15601",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/shield2"
+            }
+        },
+                                                    {
+            "when": "15602",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/shield3"
+            }
+        },
+                                                            {
+            "when": "15603",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/cloud"
+            }
         }
     ]
 }

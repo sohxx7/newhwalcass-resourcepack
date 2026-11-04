@@ -3291,6 +3291,125 @@
                 "type": "model",
                 "model": "item/party/shotgun"
             }
+        },
+                                                {
+            "when": "15500",
+            "model": {
+                "type": "model",
+                "model": "item/fire/flamethrower"
+            }
+        },
+            {
+            "when": "15600",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword"
+            }
+        },
+                    {
+            "when": "15601",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword1"
+            }
+        },
+                    {
+            "when": "15602",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword2"
+            }
+        },
+                    {
+            "when": "15603",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword3"
+            }
+        },
+                    {
+            "when": "15604",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword4"
+            }
+        },
+                    {
+            "when": "15605",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword5"
+            }
+        },
+                    {
+            "when": "15606",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword6"
+            }
+        },
+                    {
+            "when": "15607",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword7"
+            }
+        },
+                    {
+            "when": "15610",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword_invis"
+            }
+        },
+                    {
+            "when": "15611",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword1_invis"
+            }
+        },
+                    {
+            "when": "15612",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword2_invis"
+            }
+        },
+                    {
+            "when": "15613",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword3_invis"
+            }
+        },
+                    {
+            "when": "15614",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword4_invis"
+            }
+        },
+                    {
+            "when": "15615",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword5_invis"
+            }
+        },
+                    {
+            "when": "15616",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword6_invis"
+            }
+        },
+                    {
+            "when": "15617",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword7_invis"
+            }
         }
 
     ]

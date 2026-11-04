@@ -253,6 +253,13 @@
                 "type": "model",
                 "model": "item/arche/relic5"
             }
+        },
+                                        {
+            "when": "15500",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/heal"
+            }
         }
     ]
 }

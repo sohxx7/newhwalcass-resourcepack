@@ -4,18 +4,18 @@
     97,
     1
   ],
-  "release_tag": "v2026.11.03-minecraft26.3-partygirl.1",
+  "release_tag": "v2026.11.04-minecraft26.3-arsonist.1",
   "branch": "codex/minecraft-26.3",
   "model_revision": 14,
   "files": [
     {
       "file": "new-26.3.zip",
       "source_directory": "pack",
-      "bytes": 96784080,
-      "sha1": "c5404b4ee34d9037a3172ffdbcba31f1dc4af737",
-      "sha256": "212844bf0763d3641ac57f57c7a5c1254e7027e3c66f24ad11c22a95c731ef63",
-      "files": 1639,
-      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.11.03-minecraft26.3-partygirl.1/new-26.3.zip"
+      "bytes": 103930247,
+      "sha1": "4389602fe26dac1dbbf634a887baf5f5336196f1",
+      "sha256": "f1e8e40177d973c68daf244d3bf786b6571435438d19d3075c94e3bfd7800cc3",
+      "files": 1706,
+      "url": "https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.11.04-minecraft26.3-arsonist.1/new-26.3.zip"
     },
     {
       "file": "base-26.3.zip",
