@@ -3355,6 +3355,13 @@
                 "model": "item/gadam/sword7"
             }
         },
+                            {
+            "when": "15608",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword8"
+            }
+        },
                     {
             "when": "15610",
             "model": {
@@ -3409,6 +3416,13 @@
             "model": {
                 "type": "model",
                 "model": "item/gadam/sword7_invis"
+            }
+        },
+                            {
+            "when": "15618",
+            "model": {
+                "type": "model",
+                "model": "item/gadam/sword8_invis"
             }
         }
 

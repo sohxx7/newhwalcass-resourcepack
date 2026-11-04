@@ -6,7 +6,7 @@
 
 | 팩 | 다운로드 | 브랜치 소스 |
 | --- | --- | --- |
-| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.11.04-minecraft26.3-arsonist.3/new-26.3.zip) | `pack/` |
+| 신규·업데이트 | [new-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.11.04-minecraft26.3-arsonist.4/new-26.3.zip) | `pack/` |
 | 기본 | [base-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/base-26.3.zip) | `packs/base/` |
 | 저사양 | [low-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/low-26.3.zip) | `packs/low/` |
 | 일반 BGM | [bgm-26.3.zip](https://github.com/sohxx7/newhwalcass-resourcepack/releases/download/v2026.10.13-minecraft26.3.1/bgm-26.3.zip) | `packs/bgm/` |
@@ -19,6 +19,7 @@
 - 156번 캐릭터 에셋(`item/gadam/*`, `warped_fungus`, `warped_fungus_on_a_stick` `15500`, `skill.gadam_*`, `char.156`)과 파티걸 음성 `char.154`를 함께 추가했습니다.
 - 156번 눈 모델(`cyan_dye` `15604`, `item/gadam/eyes`)과 `dragonsabreeffect` 텍스처를 추가했습니다(`arsonist.2`).
 - 156번 `skill/gadam/sp.ogg`를 추가하고 `illusion.ogg`를 교체했으며, 쓰이지 않던 `oilfire.ogg`를 뺐습니다(`arsonist.3`).
+- `carrot_on_a_stick`에 156번 분기 `15608`·`15618`을 추가했습니다(`arsonist.4`).
 - 파티걸 `gun`·`ult`·`ultuse` 음원이 교체됐습니다.
 - 전달받은 팩에 빠져 있던 `skill.party_mirrorballset` 정의는 서버 함수가 쓰고 있어 유지했습니다.
 
